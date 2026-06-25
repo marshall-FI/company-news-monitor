@@ -31,7 +31,8 @@ export type ArticleResponse = {
 };
 
 const MAX_ITEMS_PER_SOURCE = 18;
-const REQUEST_TIMEOUT_MS = 12000;
+const REQUEST_TIMEOUT_MS = 20000;
+const SOURCE_CONCURRENCY = 4;
 
 function decodeEntities(value: string) {
   return value
@@ -272,7 +273,11 @@ function dedupeArticles(articles: Article[]) {
 
 export async function getArticles(category?: SourceCategory): Promise<ArticleResponse> {
   const selectedSources = category ? sources.filter((source) => source.category === category) : sources;
-  const results = await Promise.all(selectedSources.map((source) => fetchSource(source)));
+  const results = [];
+  for (let index = 0; index < selectedSources.length; index += SOURCE_CONCURRENCY) {
+    const batch = selectedSources.slice(index, index + SOURCE_CONCURRENCY);
+    results.push(...(await Promise.all(batch.map((source) => fetchSource(source)))));
+  }
   const articles = dedupeArticles(results.flatMap((result) => result.articles)).slice(0, 240);
 
   return {
