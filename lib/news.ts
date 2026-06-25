@@ -110,7 +110,8 @@ async function fetchText(url: string) {
     const response = await fetch(url, {
       signal: controller.signal,
       headers: {
-        "user-agent": "CompanyNewsMonitor/1.0 (+https://openai.com)",
+        "user-agent": "Mozilla/5.0 (compatible; CompanyNewsMonitor/1.0; +https://openai.com)",
+        "accept-language": "en-US,en;q=0.9",
         accept: "application/rss+xml, application/atom+xml, text/xml, text/html;q=0.9, */*;q=0.8",
       },
       cache: "no-store",
@@ -177,32 +178,31 @@ function linkMatches(source: NewsSource, url: string) {
   return includeOk && excludeOk;
 }
 
-function parseHtml(source: NewsSource, html: string) {
+function parseHtml(source: NewsSource, html: string, baseUrl = source.feedUrl) {
   const matches = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)];
   const seen = new Set<string>();
   const articles: Article[] = [];
 
-  for (const match of matches) {
-    const rawHref = decodeEntities(match[1]);
+  function addArticle(rawHref: string, rawTitle: string) {
     let link: string;
     try {
-      link = new URL(rawHref, source.feedUrl).toString();
+      link = new URL(decodeEntities(rawHref), baseUrl).toString();
     } catch {
-      continue;
+      return;
     }
 
     if (!linkMatches(source, link) || seen.has(normalizeArticleUrl(link))) {
-      continue;
+      return;
     }
 
-    const title = stripTags(match[2]);
+    const title = stripTags(rawTitle);
     const titleKey = title.toLowerCase();
     const navigationTitle =
       /[{};]/.test(title) ||
       /^(news|general news|europe news|other markets|initiatives|press|blog|learn more|read more)$/i.test(titleKey);
 
     if (navigationTitle || title.length < 8 || title.length > 180) {
-      continue;
+      return;
     }
 
     seen.add(normalizeArticleUrl(link));
@@ -210,8 +210,30 @@ function parseHtml(source: NewsSource, html: string) {
     if (article) {
       articles.push(article);
     }
+  }
+
+  for (const match of matches) {
+    addArticle(match[1], match[2]);
     if (articles.length >= MAX_ITEMS_PER_SOURCE) {
       break;
+    }
+  }
+
+  if (articles.length < MAX_ITEMS_PER_SOURCE) {
+    const scriptLinks = [...html.matchAll(/"(?:(?:url)|(?:href)|(?:slug)|(?:path))"\s*:\s*"([^"]+)"/gi)];
+    const titleFields = [...html.matchAll(/"(?:(?:title)|(?:headline)|(?:name))"\s*:\s*"([^"]{8,180})"/gi)].map((match) =>
+      decodeEntities(match[1])
+    );
+
+    let titleIndex = 0;
+    for (const match of scriptLinks) {
+      const fallbackTitle = match[1].split("/").filter(Boolean).pop()?.replace(/[-_]+/g, " ") ?? "";
+      const candidateTitle = titleFields[titleIndex] ?? fallbackTitle;
+      titleIndex += 1;
+      addArticle(match[1].replace(/\\\//g, "/"), candidateTitle);
+      if (articles.length >= MAX_ITEMS_PER_SOURCE) {
+        break;
+      }
     }
   }
 
@@ -238,7 +260,7 @@ async function fetchSource(source: NewsSource) {
     if (source.kind === "google_news") {
       try {
         const fallbackText = await fetchText(source.sourceUrl);
-        const fallbackArticles = parseHtml(source, fallbackText);
+        const fallbackArticles = parseHtml(source, fallbackText, source.sourceUrl);
         if (fallbackArticles.length > 0) {
           return {
             articles: fallbackArticles,
