@@ -235,6 +235,29 @@ async function fetchSource(source: NewsSource) {
       } satisfies SourceStatus,
     };
   } catch (error) {
+    if (source.kind === "google_news") {
+      try {
+        const fallbackText = await fetchText(source.sourceUrl);
+        const fallbackArticles = parseHtml(source, fallbackText);
+        if (fallbackArticles.length > 0) {
+          return {
+            articles: fallbackArticles,
+            status: {
+              sourceId: source.id,
+              sourceName: source.name,
+              category: source.category,
+              kind: source.kind,
+              ok: true,
+              itemCount: fallbackArticles.length,
+              message: "OK via source page fallback",
+            } satisfies SourceStatus,
+          };
+        }
+      } catch {
+        // Keep the original failure below; it is usually more useful.
+      }
+    }
+
     return {
       articles: [],
       status: {

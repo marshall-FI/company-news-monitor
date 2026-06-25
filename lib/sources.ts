@@ -27,6 +27,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://www.sofi.com/press/",
     feedUrl: googleNewsUrl('SoFi Technologies (press OR newsroom OR "press release")'),
+    includePatterns: ["/press/"],
+    excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
   {
     id: "toast-product-news",
@@ -36,6 +38,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://pos.toasttab.com/news?types=product-news",
     feedUrl: googleNewsUrl('Toast POS (product news OR newsroom OR "press release")'),
+    includePatterns: ["/news/", "/blog/"],
+    excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
   {
     id: "marqeta-blog",
@@ -45,6 +49,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://www.marqeta.com/blog",
     feedUrl: googleNewsUrl('Marqeta (blog OR newsroom OR "press release")'),
+    includePatterns: ["/blog/"],
+    excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
   {
     id: "block-investor-news",
@@ -54,6 +60,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://investors.block.xyz/investor-news/default.aspx",
     feedUrl: googleNewsUrl('Block Inc Square (investor news OR newsroom OR "press release")'),
+    includePatterns: ["/investor-news/", "/news/"],
+    excludePatterns: ["?", "#"],
   },
   {
     id: "affirm-news",
@@ -63,6 +71,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://investors.affirm.com/news-events/all-news",
     feedUrl: googleNewsUrl('Affirm Holdings (newsroom OR "press release" OR investor)'),
+    includePatterns: ["/news-events/", "/news/"],
+    excludePatterns: ["?", "#"],
   },
   {
     id: "shift4-news",
@@ -103,6 +113,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://international.nubank.com.br/newsroom/",
     feedUrl: googleNewsUrl('Nubank Nu Holdings (newsroom OR "press release" OR investor)'),
+    includePatterns: ["/newsroom/"],
+    excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
   {
     id: "paypal-newsroom",
@@ -132,6 +144,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://blog.coinbase.com/",
     feedUrl: googleNewsUrl('Coinbase (blog OR newsroom OR "press release")'),
+    includePatterns: ["/blog/"],
+    excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
   {
     id: "upstart-press",
@@ -141,6 +155,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://www.upstart.com/news/press-releases/",
     feedUrl: googleNewsUrl("Upstart (press release OR newsroom OR investor)"),
+    includePatterns: ["/news/", "/press-releases/"],
+    excludePatterns: ["?", "#"],
   },
   {
     id: "wise-newsroom",
@@ -194,6 +210,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://www.chime.com/newsroom/",
     feedUrl: googleNewsUrl('Chime Financial (newsroom OR "press release" OR IPO)'),
+    includePatterns: ["/newsroom/"],
+    excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
   {
     id: "circle-pressroom",
@@ -231,9 +249,9 @@ export const sources: NewsSource[] = [
     name: "Datadog Investor News",
     company: "Datadog",
     category: "Big Tech Blogs",
-    kind: "google_news",
+    kind: "rss",
     sourceUrl: "https://investors.datadoghq.com/news-releases",
-    feedUrl: googleNewsUrl('Datadog (investor news OR newsroom OR "press release")'),
+    feedUrl: "https://investors.datadoghq.com/rss/news-releases.xml",
   },
   {
     id: "tesla-blog",
@@ -243,6 +261,8 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://www.tesla.com/blog",
     feedUrl: googleNewsUrl('Tesla (blog OR newsroom OR "press release")'),
+    includePatterns: ["/blog/"],
+    excludePatterns: ["?", "#"],
   },
   {
     id: "trade-desk-press-room",
@@ -292,5 +312,7 @@ export const sources: NewsSource[] = [
     kind: "google_news",
     sourceUrl: "https://pr.tsmc.com/english/latest-news",
     feedUrl: googleNewsUrl('TSMC Taiwan Semiconductor (latest news OR "press release" OR newsroom)'),
+    includePatterns: ["/english/news/", "/english/latest-news"],
+    excludePatterns: ["?", "#"],
   },
 ];
