@@ -1,5 +1,5 @@
 export type SourceCategory = "Fintech Blogs" | "Big Tech Blogs";
-export type SourceKind = "rss" | "google_news" | "html";
+export type SourceKind = "rss" | "google_news" | "bing_news" | "html";
 
 export type NewsSource = {
   id: string;
@@ -18,15 +18,20 @@ function googleNewsUrl(query: string) {
   return `https://news.google.com/rss/search?q=${encoded}&hl=en-US&gl=US&ceid=US:en`;
 }
 
+function bingNewsUrl(query: string) {
+  const encoded = encodeURIComponent(query);
+  return `https://www.bing.com/news/search?q=${encoded}&format=rss`;
+}
+
 export const sources: NewsSource[] = [
   {
     id: "sofi-press",
     name: "SoFi Press",
     company: "SoFi",
     category: "Fintech Blogs",
-    kind: "google_news",
+    kind: "bing_news",
     sourceUrl: "https://www.sofi.com/press/",
-    feedUrl: googleNewsUrl('SoFi Technologies (press OR newsroom OR "press release")'),
+    feedUrl: bingNewsUrl("SoFi Technologies press release"),
     includePatterns: ["/press/"],
     excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
@@ -35,9 +40,9 @@ export const sources: NewsSource[] = [
     name: "Toast POS Product News",
     company: "Toast",
     category: "Fintech Blogs",
-    kind: "google_news",
+    kind: "bing_news",
     sourceUrl: "https://pos.toasttab.com/news?types=product-news",
-    feedUrl: googleNewsUrl('Toast POS (product news OR newsroom OR "press release")'),
+    feedUrl: bingNewsUrl("Toast POS product news"),
     includePatterns: ["/news/", "/blog/"],
     excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
@@ -46,9 +51,9 @@ export const sources: NewsSource[] = [
     name: "Marqeta Blog",
     company: "Marqeta",
     category: "Fintech Blogs",
-    kind: "google_news",
+    kind: "bing_news",
     sourceUrl: "https://www.marqeta.com/blog",
-    feedUrl: googleNewsUrl('Marqeta (blog OR newsroom OR "press release")'),
+    feedUrl: bingNewsUrl("Marqeta blog"),
     includePatterns: ["/blog/"],
     excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
@@ -110,9 +115,9 @@ export const sources: NewsSource[] = [
     name: "Nubank Newsroom",
     company: "Nubank",
     category: "Fintech Blogs",
-    kind: "google_news",
+    kind: "bing_news",
     sourceUrl: "https://international.nubank.com.br/newsroom/",
-    feedUrl: googleNewsUrl('Nubank Nu Holdings (newsroom OR "press release" OR investor)'),
+    feedUrl: bingNewsUrl("Nubank newsroom"),
     includePatterns: ["/newsroom/"],
     excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
@@ -152,9 +157,9 @@ export const sources: NewsSource[] = [
     name: "Upstart Press Releases",
     company: "Upstart",
     category: "Fintech Blogs",
-    kind: "google_news",
+    kind: "rss",
     sourceUrl: "https://www.upstart.com/news/press-releases/",
-    feedUrl: googleNewsUrl("Upstart (press release OR newsroom OR investor)"),
+    feedUrl: "https://ir.upstart.com/rss/news-releases.xml",
     includePatterns: ["/news/", "/press-releases/"],
     excludePatterns: ["?", "#"],
   },
@@ -207,9 +212,9 @@ export const sources: NewsSource[] = [
     name: "Chime Newsroom",
     company: "Chime",
     category: "Fintech Blogs",
-    kind: "google_news",
+    kind: "bing_news",
     sourceUrl: "https://www.chime.com/newsroom/",
-    feedUrl: googleNewsUrl('Chime Financial (newsroom OR "press release" OR IPO)'),
+    feedUrl: bingNewsUrl("Chime newsroom"),
     includePatterns: ["/newsroom/"],
     excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
@@ -258,9 +263,9 @@ export const sources: NewsSource[] = [
     name: "Tesla Blog",
     company: "Tesla",
     category: "Big Tech Blogs",
-    kind: "google_news",
+    kind: "bing_news",
     sourceUrl: "https://www.tesla.com/blog",
-    feedUrl: googleNewsUrl('Tesla (blog OR newsroom OR "press release")'),
+    feedUrl: bingNewsUrl("Tesla blog"),
     includePatterns: ["/blog/"],
     excludePatterns: ["?", "#"],
   },
@@ -309,9 +314,9 @@ export const sources: NewsSource[] = [
     name: "TSMC Latest News",
     company: "TSMC",
     category: "Big Tech Blogs",
-    kind: "google_news",
+    kind: "bing_news",
     sourceUrl: "https://pr.tsmc.com/english/latest-news",
-    feedUrl: googleNewsUrl('TSMC Taiwan Semiconductor (latest news OR "press release" OR newsroom)'),
+    feedUrl: bingNewsUrl("TSMC latest news"),
     includePatterns: ["/english/news/", "/english/latest-news"],
     excludePatterns: ["?", "#"],
   },

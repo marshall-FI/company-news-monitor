@@ -13,14 +13,14 @@ type Article = {
   sourceName: string;
   company: string;
   category: "Fintech Blogs" | "Big Tech Blogs";
-  sourceKind: "rss" | "google_news" | "html";
+  sourceKind: "rss" | "google_news" | "bing_news" | "html";
 };
 
 type SourceStatus = {
   sourceId: string;
   sourceName: string;
   category: "Fintech Blogs" | "Big Tech Blogs";
-  kind: "rss" | "google_news" | "html";
+  kind: "rss" | "google_news" | "bing_news" | "html";
   ok: boolean;
   itemCount: number;
   message: string;
@@ -47,6 +47,9 @@ function formatTime(value: string) {
 function kindLabel(kind: Article["sourceKind"]) {
   if (kind === "google_news") {
     return "Google";
+  }
+  if (kind === "bing_news") {
+    return "Bing";
   }
   if (kind === "html") {
     return "Generated";
