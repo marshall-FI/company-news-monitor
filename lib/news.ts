@@ -244,6 +244,30 @@ async function fetchSource(source: NewsSource) {
   try {
     const text = await fetchText(source.feedUrl);
     const articles = source.kind === "html" ? parseHtml(source, text) : parseRss(source, text);
+    if (articles.length === 0 && source.alternateFeedUrls?.length) {
+      for (const alternateFeedUrl of source.alternateFeedUrls) {
+        try {
+          const alternateText = await fetchText(alternateFeedUrl);
+          const alternateArticles = parseRss(source, alternateText);
+          if (alternateArticles.length > 0) {
+            return {
+              articles: alternateArticles,
+              status: {
+                sourceId: source.id,
+                sourceName: source.name,
+                category: source.category,
+                kind: source.kind,
+                ok: true,
+                itemCount: alternateArticles.length,
+                message: "OK via alternate RSS",
+              } satisfies SourceStatus,
+            };
+          }
+        } catch {
+          // Try the next alternate before marking the source unhealthy.
+        }
+      }
+    }
     return {
       articles,
       status: {
@@ -257,6 +281,31 @@ async function fetchSource(source: NewsSource) {
       } satisfies SourceStatus,
     };
   } catch (error) {
+    if (source.alternateFeedUrls?.length) {
+      for (const alternateFeedUrl of source.alternateFeedUrls) {
+        try {
+          const alternateText = await fetchText(alternateFeedUrl);
+          const alternateArticles = parseRss(source, alternateText);
+          if (alternateArticles.length > 0) {
+            return {
+              articles: alternateArticles,
+              status: {
+                sourceId: source.id,
+                sourceName: source.name,
+                category: source.category,
+                kind: source.kind,
+                ok: true,
+                itemCount: alternateArticles.length,
+                message: "OK via alternate RSS",
+              } satisfies SourceStatus,
+            };
+          }
+        } catch {
+          // Try the next fallback path.
+        }
+      }
+    }
+
     if (source.kind === "google_news") {
       try {
         const fallbackText = await fetchText(source.sourceUrl);

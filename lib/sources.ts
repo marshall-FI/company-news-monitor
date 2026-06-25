@@ -9,6 +9,7 @@ export type NewsSource = {
   kind: SourceKind;
   sourceUrl: string;
   feedUrl: string;
+  alternateFeedUrls?: string[];
   includePatterns?: string[];
   excludePatterns?: string[];
 };
@@ -43,6 +44,7 @@ export const sources: NewsSource[] = [
     kind: "bing_news",
     sourceUrl: "https://pos.toasttab.com/news?types=product-news",
     feedUrl: bingNewsUrl("Toast POS product news"),
+    alternateFeedUrls: [bingNewsUrl("Toast Inc news"), bingNewsUrl("Toast POS restaurant news")],
     includePatterns: ["/news/", "/blog/"],
     excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
@@ -215,6 +217,7 @@ export const sources: NewsSource[] = [
     kind: "bing_news",
     sourceUrl: "https://www.chime.com/newsroom/",
     feedUrl: bingNewsUrl("Chime newsroom"),
+    alternateFeedUrls: [bingNewsUrl("Chime Financial news"), bingNewsUrl("Chime fintech news")],
     includePatterns: ["/newsroom/"],
     excludePatterns: ["?", "#", "/tag/", "/tags/"],
   },
@@ -266,6 +269,7 @@ export const sources: NewsSource[] = [
     kind: "bing_news",
     sourceUrl: "https://www.tesla.com/blog",
     feedUrl: bingNewsUrl("Tesla blog"),
+    alternateFeedUrls: [bingNewsUrl("Tesla news"), bingNewsUrl("Tesla company news")],
     includePatterns: ["/blog/"],
     excludePatterns: ["?", "#"],
   },
@@ -317,6 +321,7 @@ export const sources: NewsSource[] = [
     kind: "bing_news",
     sourceUrl: "https://pr.tsmc.com/english/latest-news",
     feedUrl: bingNewsUrl("TSMC latest news"),
+    alternateFeedUrls: [bingNewsUrl("Taiwan Semiconductor Manufacturing news"), bingNewsUrl("TSMC press release")],
     includePatterns: ["/english/news/", "/english/latest-news"],
     excludePatterns: ["?", "#"],
   },
