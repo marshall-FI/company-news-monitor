@@ -169,11 +169,25 @@ input {
   margin: 10px 0 0;
 }
 
-.article-source {
+.article-footer {
+  align-items: center;
   color: #6c756f;
+  display: flex;
+  flex-wrap: wrap;
   font-size: 13px;
   font-weight: 700;
+  gap: 10px;
+  justify-content: space-between;
   margin-top: 12px;
+}
+
+.article-footer a {
+  color: #1f514b;
+  text-decoration: none;
+}
+
+.article-footer a:hover {
+  text-decoration: underline;
 }
 
 .side-panel {

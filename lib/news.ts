@@ -33,6 +33,55 @@ export type ArticleResponse = {
 const MAX_ITEMS_PER_SOURCE = 18;
 const REQUEST_TIMEOUT_MS = 20000;
 const SOURCE_CONCURRENCY = 4;
+const MIN_ENGLISH_SIGNAL_WORDS = 1;
+
+const ENGLISH_SIGNAL_WORDS = new Set([
+  "a",
+  "about",
+  "after",
+  "all",
+  "and",
+  "are",
+  "as",
+  "at",
+  "bank",
+  "be",
+  "blog",
+  "by",
+  "company",
+  "customer",
+  "customers",
+  "data",
+  "for",
+  "from",
+  "global",
+  "how",
+  "in",
+  "into",
+  "is",
+  "its",
+  "launches",
+  "market",
+  "new",
+  "news",
+  "of",
+  "on",
+  "payment",
+  "payments",
+  "platform",
+  "press",
+  "product",
+  "release",
+  "report",
+  "says",
+  "service",
+  "shares",
+  "technology",
+  "the",
+  "to",
+  "updates",
+  "with",
+]);
 
 function decodeEntities(value: string) {
   return value
@@ -48,6 +97,10 @@ function decodeEntities(value: string) {
 
 function stripTags(value: string) {
   return decodeEntities(value.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
+}
+
+function cleanWhitespace(value: string) {
+  return value.replace(/\s+/g, " ").trim();
 }
 
 function getTag(block: string, tag: string) {
@@ -94,6 +147,49 @@ function toIsoDate(value: string) {
   return Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString();
 }
 
+function isProbablyEnglish(title: string, summary: string) {
+  const text = cleanWhitespace(`${title} ${summary}`);
+  if (!text) {
+    return false;
+  }
+
+  if (/[\u0400-\u04ff\u0590-\u05ff\u0600-\u06ff\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]/.test(text)) {
+    return false;
+  }
+
+  const letters = text.match(/[A-Za-z]/g)?.length ?? 0;
+  if (letters < 8) {
+    return false;
+  }
+
+  const nonAsciiLetters = text.match(/[^\x00-\x7F]/g)?.length ?? 0;
+  if (nonAsciiLetters / Math.max(text.length, 1) > 0.12) {
+    return false;
+  }
+
+  const words = text.toLowerCase().match(/[a-z]{2,}/g) ?? [];
+  const signalCount = words.filter((word) => ENGLISH_SIGNAL_WORDS.has(word)).length;
+  return signalCount >= MIN_ENGLISH_SIGNAL_WORDS || (letters / Math.max(text.length, 1) > 0.55 && words.length >= 3);
+}
+
+function makeSummary(source: NewsSource, title: string, summary: string) {
+  const cleanedSummary = cleanWhitespace(stripTags(summary))
+    .replace(/\s*Continue reading\.?$/i, "")
+    .replace(/\s*Read more\.?$/i, "")
+    .trim();
+  const cleanedTitle = cleanWhitespace(stripTags(title));
+
+  if (cleanedSummary.length >= 45 && normalizeTitle(cleanedSummary) !== normalizeTitle(cleanedTitle)) {
+    return cleanedSummary.slice(0, 320);
+  }
+
+  if (cleanedTitle) {
+    return `Latest ${source.company} update from ${source.name}: ${cleanedTitle}.`.slice(0, 320);
+  }
+
+  return `Latest update from ${source.name}.`;
+}
+
 function hashId(value: string) {
   let hash = 0;
   for (let index = 0; index < value.length; index += 1) {
@@ -127,7 +223,8 @@ async function fetchText(url: string) {
 
 function articleFromParts(source: NewsSource, title: string, link: string, summary: string, publishedAt: string): Article | null {
   const cleanTitle = stripTags(title);
-  if (!cleanTitle || !link) {
+  const cleanSummary = stripTags(summary);
+  if (!cleanTitle || !link || !isProbablyEnglish(cleanTitle, cleanSummary)) {
     return null;
   }
 
@@ -142,7 +239,7 @@ function articleFromParts(source: NewsSource, title: string, link: string, summa
     id: `${source.id}-${hashId(absoluteLink || cleanTitle)}`,
     title: cleanTitle,
     link: absoluteLink,
-    summary: stripTags(summary).slice(0, 320),
+    summary: makeSummary(source, cleanTitle, cleanSummary),
     publishedAt: toIsoDate(publishedAt),
     sourceId: source.id,
     sourceName: source.name,

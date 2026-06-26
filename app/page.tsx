@@ -124,6 +124,9 @@ export default function Home() {
           <div>
             <p className="text-sm font-semibold uppercase text-[#52746f]">Company News Monitor</p>
             <h1 className="mt-2 text-3xl font-semibold sm:text-4xl">Employer watchlist</h1>
+            <p className="mt-2 max-w-2xl text-sm leading-6 text-[#5b665f]">
+              English-only company updates from the same FreshRSS feed set, with short blurbs and links back to each original article.
+            </p>
           </div>
           <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
             <div className="metric">
@@ -187,7 +190,12 @@ export default function Home() {
                   {article.title}
                 </a>
                 {article.summary ? <p className="article-summary">{article.summary}</p> : null}
-                <div className="article-source">{article.sourceName}</div>
+                <div className="article-footer">
+                  <span>{article.sourceName}</span>
+                  <a href={article.link} rel="noreferrer" target="_blank">
+                    Open article
+                  </a>
+                </div>
               </article>
             ))}
           </div>
