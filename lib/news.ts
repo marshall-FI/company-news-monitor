@@ -118,6 +118,8 @@ const NON_ENGLISH_SIGNAL_WORDS = new Set([
   "viertagige",
 ]);
 
+const STRONG_NON_ENGLISH_SIGNAL_WORDS = new Set(["inicia", "inizia", "lanza", "startet"]);
+
 function decodeEntities(value: string) {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
@@ -203,6 +205,10 @@ function isProbablyEnglish(title: string, summary: string) {
   }
 
   const words = text.toLowerCase().match(/[a-z]{2,}/g) ?? [];
+  if (words.some((word) => STRONG_NON_ENGLISH_SIGNAL_WORDS.has(word))) {
+    return false;
+  }
+
   const nonEnglishSignalCount = words.filter((word) => NON_ENGLISH_SIGNAL_WORDS.has(word)).length;
   if (nonEnglishSignalCount >= 2) {
     return false;
