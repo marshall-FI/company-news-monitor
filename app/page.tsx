@@ -93,7 +93,7 @@ export default function Home() {
       const categoryOk = category === "All" || article.category === category;
       const queryOk =
         normalizedQuery === "" ||
-        `${article.title} ${article.company} ${article.sourceName}`.toLowerCase().includes(normalizedQuery);
+        `${article.title} ${article.summary} ${article.company} ${article.sourceName}`.toLowerCase().includes(normalizedQuery);
       return categoryOk && queryOk;
     });
   }, [category, data, query]);

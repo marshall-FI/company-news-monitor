@@ -445,8 +445,9 @@ function dedupeArticles(articles: Article[]) {
   const seenUrl = new Set<string>();
   const seenTitle = new Set<string>();
   const deduped: Article[] = [];
+  const sortedArticles = [...articles].sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
-  for (const article of articles.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))) {
+  for (const article of sortedArticles) {
     const urlKey = normalizeArticleUrl(article.link);
     const titleKey = normalizeTitle(article.title);
     if (seenUrl.has(urlKey) || (titleKey.length > 18 && seenTitle.has(titleKey))) {
@@ -459,7 +460,15 @@ function dedupeArticles(articles: Article[]) {
     deduped.push(article);
   }
 
-  return deduped;
+  const includedSources = new Set(deduped.map((article) => article.sourceId));
+  for (const article of sortedArticles) {
+    if (!includedSources.has(article.sourceId)) {
+      deduped.push(article);
+      includedSources.add(article.sourceId);
+    }
+  }
+
+  return deduped.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 }
 
 export async function getArticles(category?: SourceCategory): Promise<ArticleResponse> {
