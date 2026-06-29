@@ -84,6 +84,40 @@ const ENGLISH_SIGNAL_WORDS = new Set([
   "with",
 ]);
 
+const NON_ENGLISH_SIGNAL_WORDS = new Set([
+  "acquisti",
+  "angeboten",
+  "asistente",
+  "auf",
+  "clientes",
+  "con",
+  "das",
+  "del",
+  "der",
+  "des",
+  "die",
+  "empresas",
+  "espana",
+  "exklusiv",
+  "faire",
+  "feiert",
+  "fur",
+  "fuer",
+  "heute",
+  "inicia",
+  "inizia",
+  "kunden",
+  "lanza",
+  "mit",
+  "oggi",
+  "para",
+  "per",
+  "risparmiare",
+  "startet",
+  "vier",
+  "viertagige",
+]);
+
 function decodeEntities(value: string) {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
@@ -169,6 +203,11 @@ function isProbablyEnglish(title: string, summary: string) {
   }
 
   const words = text.toLowerCase().match(/[a-z]{2,}/g) ?? [];
+  const nonEnglishSignalCount = words.filter((word) => NON_ENGLISH_SIGNAL_WORDS.has(word)).length;
+  if (nonEnglishSignalCount >= 2) {
+    return false;
+  }
+
   const signalCount = words.filter((word) => ENGLISH_SIGNAL_WORDS.has(word)).length;
   return signalCount >= MIN_ENGLISH_SIGNAL_WORDS || (letters / Math.max(text.length, 1) > 0.55 && words.length >= 3);
 }
