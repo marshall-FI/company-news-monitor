@@ -173,6 +173,65 @@ function isProbablyEnglish(title: string, summary: string) {
   return signalCount >= MIN_ENGLISH_SIGNAL_WORDS || (letters / Math.max(text.length, 1) > 0.55 && words.length >= 3);
 }
 
+function sourceArea(source: NewsSource) {
+  if (/investor|press|release|newsroom/i.test(source.name)) {
+    return "company news, press activity, and investor-facing updates";
+  }
+  if (/blog/i.test(source.name)) {
+    return "product, market, and company blog updates";
+  }
+  if (source.category === "Fintech Blogs") {
+    return "payments, fintech, banking, and product strategy";
+  }
+  return "technology, platform, and corporate news";
+}
+
+function headlineFocus(title: string) {
+  const normalized = title.toLowerCase();
+  if (/\b(earnings|revenue|quarter|results|guidance|forecast|outlook)\b/.test(normalized)) {
+    return "financial performance";
+  }
+  if (/\b(partner|partnership|collaborat|alliance|customer|client)\b/.test(normalized)) {
+    return "partnerships and customer momentum";
+  }
+  if (/\b(launch|introduc|rolls out|unveil|announce|release|product|feature|platform)\b/.test(normalized)) {
+    return "product and platform updates";
+  }
+  if (/\b(acquir|merger|deal|investment|funding|ipo|stock|shares|index|s&p|nasdaq)\b/.test(normalized)) {
+    return "market activity and corporate transactions";
+  }
+  if (/\b(ai|data|cloud|chip|semiconductor|model|developer|security|technology)\b/.test(normalized)) {
+    return "technology and infrastructure developments";
+  }
+  if (/\b(regulat|compliance|lawsuit|court|policy|license)\b/.test(normalized)) {
+    return "regulatory and legal developments";
+  }
+  if (/\b(report|survey|study|research|insight|trend)\b/.test(normalized)) {
+    return "research, trends, and market commentary";
+  }
+  if (/\b(appoint|hire|ceo|cfo|executive|board|leadership)\b/.test(normalized)) {
+    return "leadership and organizational changes";
+  }
+  return "company and market developments";
+}
+
+function topicPhrase(source: NewsSource, title: string) {
+  const companyPattern = new RegExp(`\\b${source.company.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "gi");
+  const topic = cleanWhitespace(
+    title
+      .replace(companyPattern, "")
+      .replace(/\s+[-|]\s+[^-|]+$/g, "")
+      .replace(/\b(press release|newsroom|blog|latest news)\b/gi, "")
+      .replace(/\s+/g, " ")
+  );
+
+  if (topic.length >= 24) {
+    return topic.slice(0, 150);
+  }
+
+  return `${source.company} ${headlineFocus(title)}`;
+}
+
 function makeSummary(source: NewsSource, title: string, summary: string) {
   const cleanedSummary = cleanWhitespace(stripTags(summary))
     .replace(/\s*Continue reading\.?$/i, "")
@@ -180,15 +239,24 @@ function makeSummary(source: NewsSource, title: string, summary: string) {
     .trim();
   const cleanedTitle = cleanWhitespace(stripTags(title));
 
-  if (cleanedSummary.length >= 45 && normalizeTitle(cleanedSummary) !== normalizeTitle(cleanedTitle)) {
+  const summaryKey = normalizeTitle(cleanedSummary);
+  const titleKey = normalizeTitle(cleanedTitle);
+  const summaryRepeatsTitle =
+    summaryKey === titleKey || (summaryKey.length > 0 && titleKey.length > 0 && summaryKey.includes(titleKey));
+
+  if (cleanedSummary.length >= 45 && !summaryRepeatsTitle) {
     return cleanedSummary.slice(0, 320);
   }
 
   if (cleanedTitle) {
-    return `Latest ${source.company} update from ${source.name}: ${cleanedTitle}.`.slice(0, 320);
+    const focus = headlineFocus(cleanedTitle);
+    const topic = topicPhrase(source, cleanedTitle);
+    return `${source.name} flagged this as a ${focus} item for ${source.company}. It appears relevant to ${sourceArea(
+      source
+    )}, with the headline centered on ${topic}.`.slice(0, 320);
   }
 
-  return `Latest update from ${source.name}.`;
+  return `${source.name} published an update relevant to ${sourceArea(source)}. Open the original item for full details.`;
 }
 
 function hashId(value: string) {
