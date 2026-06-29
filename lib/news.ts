@@ -31,6 +31,7 @@ export type ArticleResponse = {
 };
 
 const MAX_ITEMS_PER_SOURCE = 18;
+const MAX_TOTAL_ITEMS = 240;
 const REQUEST_TIMEOUT_MS = 20000;
 const SOURCE_CONCURRENCY = 4;
 const MIN_ENGLISH_SIGNAL_WORDS = 1;
@@ -471,6 +472,33 @@ function dedupeArticles(articles: Article[]) {
   return deduped.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 }
 
+function limitArticlesWithSourceCoverage(articles: Article[], limit: number) {
+  if (articles.length <= limit) {
+    return articles;
+  }
+
+  const sourceRepresentatives = new Map<string, Article>();
+  for (const article of articles) {
+    if (!sourceRepresentatives.has(article.sourceId)) {
+      sourceRepresentatives.set(article.sourceId, article);
+    }
+  }
+
+  const selected = new Map<string, Article>();
+  for (const article of sourceRepresentatives.values()) {
+    selected.set(article.id, article);
+  }
+
+  for (const article of articles) {
+    if (selected.size >= limit) {
+      break;
+    }
+    selected.set(article.id, article);
+  }
+
+  return [...selected.values()].sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+}
+
 export async function getArticles(category?: SourceCategory): Promise<ArticleResponse> {
   const selectedSources = category ? sources.filter((source) => source.category === category) : sources;
   const results = [];
@@ -478,7 +506,7 @@ export async function getArticles(category?: SourceCategory): Promise<ArticleRes
     const batch = selectedSources.slice(index, index + SOURCE_CONCURRENCY);
     results.push(...(await Promise.all(batch.map((source) => fetchSource(source)))));
   }
-  const articles = dedupeArticles(results.flatMap((result) => result.articles)).slice(0, 240);
+  const articles = limitArticlesWithSourceCoverage(dedupeArticles(results.flatMap((result) => result.articles)), MAX_TOTAL_ITEMS);
 
   return {
     generatedAt: new Date().toISOString(),
