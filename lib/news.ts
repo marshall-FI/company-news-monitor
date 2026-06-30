@@ -184,6 +184,21 @@ function toIsoDate(value: string) {
   return Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString();
 }
 
+function unwrapKnownRedirect(url: string) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname.endsWith("bing.com") && parsed.pathname.includes("/news/apiclick")) {
+      const target = parsed.searchParams.get("url");
+      if (target) {
+        return new URL(target).toString();
+      }
+    }
+  } catch {
+    // Keep the original URL when redirect decoding fails.
+  }
+  return url;
+}
+
 function isProbablyEnglish(title: string, summary: string) {
   const text = cleanWhitespace(`${title} ${summary}`);
   if (!text) {
@@ -344,8 +359,12 @@ function articleFromParts(source: NewsSource, title: string, link: string, summa
 
   let absoluteLink = link;
   try {
-    absoluteLink = new URL(link, source.sourceUrl).toString();
+    absoluteLink = unwrapKnownRedirect(new URL(link, source.sourceUrl).toString());
   } catch {
+    return null;
+  }
+
+  if (source.kind !== "bing_news" && source.kind !== "google_news" && !linkMatches(source, absoluteLink)) {
     return null;
   }
 
@@ -459,7 +478,7 @@ async function fetchSource(source: NewsSource) {
       for (const alternateFeedUrl of source.alternateFeedUrls) {
         try {
           const alternateText = await fetchText(alternateFeedUrl);
-          const alternateArticles = parseRss(source, alternateText);
+          const alternateArticles = parseRss({ ...source, kind: "google_news" }, alternateText);
           if (alternateArticles.length > 0) {
             return {
               articles: alternateArticles,
@@ -496,7 +515,7 @@ async function fetchSource(source: NewsSource) {
       for (const alternateFeedUrl of source.alternateFeedUrls) {
         try {
           const alternateText = await fetchText(alternateFeedUrl);
-          const alternateArticles = parseRss(source, alternateText);
+          const alternateArticles = parseRss({ ...source, kind: "google_news" }, alternateText);
           if (alternateArticles.length > 0) {
             return {
               articles: alternateArticles,
