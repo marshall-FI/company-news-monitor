@@ -62,6 +62,8 @@ const ENGLISH_SIGNAL_WORDS = new Set([
   "is",
   "its",
   "launches",
+  "announces",
+  "announcement",
   "market",
   "new",
   "news",
@@ -72,7 +74,10 @@ const ENGLISH_SIGNAL_WORDS = new Set([
   "platform",
   "press",
   "product",
+  "quarter",
   "release",
+  "releases",
+  "results",
   "report",
   "says",
   "service",
@@ -89,6 +94,10 @@ const NON_ENGLISH_SIGNAL_WORDS = new Set([
   "angeboten",
   "asistente",
   "auf",
+  "avec",
+  "banco",
+  "bancos",
+  "blir",
   "clientes",
   "con",
   "das",
@@ -96,29 +105,72 @@ const NON_ENGLISH_SIGNAL_WORDS = new Set([
   "der",
   "des",
   "die",
+  "el",
   "empresas",
   "espana",
+  "est",
   "exklusiv",
   "faire",
   "feiert",
   "fur",
   "fuer",
+  "gli",
+  "genom",
+  "handlare",
   "heute",
   "inicia",
   "inizia",
+  "les",
+  "los",
   "kunden",
+  "la",
   "lanza",
+  "las",
+  "mais",
   "mit",
+  "nach",
+  "nei",
+  "nella",
+  "norden",
+  "nueva",
+  "nuevo",
   "oggi",
   "para",
   "per",
+  "pour",
   "risparmiare",
+  "sulla",
+  "sur",
   "startet",
+  "tillgaengligt",
+  "tillgangligt",
+  "tusentals",
+  "una",
+  "und",
   "vier",
   "viertagige",
 ]);
 
-const STRONG_NON_ENGLISH_SIGNAL_WORDS = new Set(["inicia", "inizia", "lanza", "startet"]);
+const STRONG_NON_ENGLISH_SIGNAL_WORDS = new Set([
+  "inicia",
+  "inizia",
+  "lanza",
+  "startet",
+  "angeboten",
+  "exklusiv",
+  "risparmiare",
+]);
+
+const NON_ENGLISH_PHRASES = [
+  /\b(nota de prensa|sala de prensa|comunicado de prensa)\b/i,
+  /\b(communique de presse|salle de presse)\b/i,
+  /\b(comunicato stampa|sala stampa)\b/i,
+  /\b(pressemitteilung|nachrichtenraum)\b/i,
+  /\b(comunicado de imprensa|sala de imprensa)\b/i,
+];
+
+const NON_ENGLISH_LOCALE_SEGMENT =
+  /\/(?:ar|br|cn|de|de-de|es|es-es|es-mx|fr|fr-fr|it|it-it|ja|jp|ko|kr|nl|pl|pt|pt-br|sv|zh|zh-cn|zh-tw)(?:\/|$)/i;
 
 function decodeEntities(value: string) {
   return value
@@ -133,7 +185,8 @@ function decodeEntities(value: string) {
 }
 
 function stripTags(value: string) {
-  return decodeEntities(value.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
+  const decoded = decodeEntities(decodeEntities(value));
+  return decoded.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 }
 
 function cleanWhitespace(value: string) {
@@ -205,6 +258,10 @@ function isProbablyEnglish(title: string, summary: string) {
     return false;
   }
 
+  if (NON_ENGLISH_PHRASES.some((pattern) => pattern.test(text))) {
+    return false;
+  }
+
   if (/[\u0400-\u04ff\u0590-\u05ff\u0600-\u06ff\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]/.test(text)) {
     return false;
   }
@@ -230,7 +287,20 @@ function isProbablyEnglish(title: string, summary: string) {
   }
 
   const signalCount = words.filter((word) => ENGLISH_SIGNAL_WORDS.has(word)).length;
-  return signalCount >= MIN_ENGLISH_SIGNAL_WORDS || (letters / Math.max(text.length, 1) > 0.55 && words.length >= 3);
+  if (signalCount >= MIN_ENGLISH_SIGNAL_WORDS) {
+    return true;
+  }
+
+  return letters / Math.max(text.length, 1) > 0.65 && words.length >= 5 && nonEnglishSignalCount === 0;
+}
+
+function isAllowedLanguageUrl(url: string) {
+  try {
+    const parsed = new URL(url);
+    return !NON_ENGLISH_LOCALE_SEGMENT.test(parsed.pathname);
+  } catch {
+    return true;
+  }
 }
 
 function sourceArea(source: NewsSource) {
@@ -365,6 +435,10 @@ function articleFromParts(source: NewsSource, title: string, link: string, summa
   }
 
   if (source.kind !== "bing_news" && source.kind !== "google_news" && !linkMatches(source, absoluteLink)) {
+    return null;
+  }
+
+  if (!isAllowedLanguageUrl(absoluteLink)) {
     return null;
   }
 
