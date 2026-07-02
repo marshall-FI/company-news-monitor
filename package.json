@@ -11,7 +11,8 @@
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
-    "feeds:generate": "python feed-generator/generate.py"
+    "feeds:generate": "python feed-generator/generate.py",
+    "feeds:pages": "python feed-generator/build_pages.py"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",

@@ -1,0 +1,448 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Company News Monitor</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f6f7f4;
+        --panel: #ffffff;
+        --line: #d9ddd5;
+        --text: #161a1d;
+        --muted: #5b665f;
+        --accent: #52746f;
+        --bad: #b4483f;
+        --good: #35735e;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      main {
+        margin: 0 auto;
+        max-width: 1180px;
+        padding: 24px 20px 40px;
+      }
+
+      header {
+        border-bottom: 1px solid var(--line);
+        display: grid;
+        gap: 18px;
+        grid-template-columns: 1fr;
+        padding-bottom: 22px;
+      }
+
+      h1 {
+        font-size: clamp(30px, 5vw, 44px);
+        letter-spacing: 0;
+        line-height: 1.05;
+        margin: 8px 0;
+      }
+
+      .eyebrow {
+        color: var(--accent);
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 0;
+        margin: 0;
+        text-transform: uppercase;
+      }
+
+      .subhead {
+        color: var(--muted);
+        font-size: 15px;
+        line-height: 1.6;
+        margin: 0;
+        max-width: 760px;
+      }
+
+      .metrics {
+        display: grid;
+        gap: 8px;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .metric {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        min-width: 0;
+        padding: 12px;
+      }
+
+      .metric strong {
+        display: block;
+        font-size: 26px;
+        line-height: 1;
+      }
+
+      .metric span {
+        color: var(--muted);
+        display: block;
+        font-size: 12px;
+        margin-top: 6px;
+      }
+
+      .toolbar {
+        align-items: stretch;
+        display: grid;
+        gap: 12px;
+        grid-template-columns: 1fr;
+        margin: 22px 0;
+      }
+
+      .tabs {
+        background: #e8ebe4;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        padding: 4px;
+      }
+
+      button {
+        appearance: none;
+        background: transparent;
+        border: 0;
+        border-radius: 6px;
+        color: var(--muted);
+        cursor: pointer;
+        font: inherit;
+        min-height: 42px;
+        padding: 8px 10px;
+      }
+
+      button.active {
+        background: var(--panel);
+        color: var(--text);
+        font-weight: 700;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+      }
+
+      .search {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--text);
+        font: inherit;
+        min-height: 50px;
+        padding: 0 14px;
+        width: 100%;
+      }
+
+      .layout {
+        display: grid;
+        gap: 22px;
+        grid-template-columns: 1fr;
+      }
+
+      .article-list {
+        display: grid;
+        gap: 14px;
+      }
+
+      .article {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 18px;
+      }
+
+      .meta {
+        color: var(--accent);
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 12px;
+        font-weight: 700;
+        gap: 8px;
+        margin-bottom: 8px;
+      }
+
+      .title {
+        display: inline-block;
+        font-size: 20px;
+        font-weight: 750;
+        line-height: 1.25;
+        text-decoration: none;
+      }
+
+      .title:hover {
+        text-decoration: underline;
+      }
+
+      .summary {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.55;
+        margin: 10px 0 0;
+      }
+
+      .footer {
+        align-items: center;
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        display: flex;
+        font-size: 13px;
+        justify-content: space-between;
+        margin-top: 14px;
+        padding-top: 12px;
+      }
+
+      aside {
+        align-self: start;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 16px;
+      }
+
+      aside h2 {
+        font-size: 15px;
+        margin: 0 0 10px;
+      }
+
+      .feed-links {
+        display: grid;
+        gap: 8px;
+        margin-bottom: 20px;
+      }
+
+      .feed-links a {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 10px;
+        text-decoration: none;
+      }
+
+      .status-list {
+        display: grid;
+        gap: 10px;
+        max-height: 520px;
+        overflow: auto;
+      }
+
+      .status {
+        display: grid;
+        gap: 3px;
+        grid-template-columns: 10px 1fr;
+      }
+
+      .dot {
+        border-radius: 999px;
+        height: 8px;
+        margin-top: 6px;
+        width: 8px;
+      }
+
+      .ok {
+        background: var(--good);
+      }
+
+      .bad {
+        background: var(--bad);
+      }
+
+      .stale {
+        background: #b78a2e;
+      }
+
+      .status strong {
+        display: block;
+        font-size: 13px;
+      }
+
+      .status span {
+        color: var(--muted);
+        display: block;
+        font-size: 12px;
+      }
+
+      .state {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--muted);
+        padding: 18px;
+      }
+
+      @media (min-width: 820px) {
+        header {
+          align-items: end;
+          grid-template-columns: 1fr 360px;
+        }
+
+        .toolbar {
+          align-items: center;
+          grid-template-columns: 1fr 320px;
+        }
+
+        .layout {
+          grid-template-columns: 1fr 320px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div>
+          <p class="eyebrow">Company News Monitor</p>
+          <h1>Employer watchlist</h1>
+          <p class="subhead">English-only company updates generated on a schedule, with RSS feeds and links back to each original article.</p>
+        </div>
+        <div class="metrics">
+          <div class="metric"><strong id="sourceCount">0</strong><span>Sources</span></div>
+          <div class="metric"><strong id="articleCount">0</strong><span>Articles</span></div>
+          <div class="metric"><strong id="healthyCount">0</strong><span>Healthy</span></div>
+          <div class="metric"><strong id="issueCount">0</strong><span>Issues</span></div>
+        </div>
+      </header>
+
+      <section class="toolbar">
+        <div class="tabs" aria-label="Category filters">
+          <button class="active" data-category="All" type="button">All</button>
+          <button data-category="Fintech Blogs" type="button">Fintech</button>
+          <button data-category="Big Tech Blogs" type="button">Big Tech</button>
+        </div>
+        <input id="search" class="search" type="search" placeholder="Search company, source, headline" aria-label="Search articles" />
+      </section>
+
+      <section class="layout">
+        <div id="articles" class="article-list"><div class="state">Loading generated articles...</div></div>
+        <aside>
+          <h2>Feeds</h2>
+          <div class="feed-links">
+            <a href="generated/feeds/all.xml">All</a>
+            <a href="generated/feeds/fintech.xml">Fintech</a>
+            <a href="generated/feeds/big-tech.xml">Big Tech</a>
+          </div>
+          <h2>Source Health</h2>
+          <div id="statuses" class="status-list"></div>
+        </aside>
+      </section>
+    </main>
+
+    <script>
+      const state = { category: "All", query: "", data: null };
+
+      function formatTime(value) {
+        return new Intl.DateTimeFormat("en-US", {
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit",
+        }).format(new Date(value));
+      }
+
+      function escapeHtml(value) {
+        return String(value || "")
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;");
+      }
+
+      function articleMatches(article) {
+        const categoryOk = state.category === "All" || article.category === state.category;
+        const query = state.query.trim().toLowerCase();
+        const queryOk =
+          !query ||
+          `${article.title} ${article.summary} ${article.company} ${article.sourceName}`.toLowerCase().includes(query);
+        return categoryOk && queryOk;
+      }
+
+      function render() {
+        const data = state.data;
+        if (!data) return;
+
+        const statuses = data.statuses || [];
+        const issues = statuses.filter((status) => !status.ok);
+        document.getElementById("sourceCount").textContent = data.sourceCount || statuses.length;
+        document.getElementById("articleCount").textContent = (data.articles || []).length;
+        document.getElementById("healthyCount").textContent = statuses.length - issues.length;
+        document.getElementById("issueCount").textContent = issues.length;
+
+        const filtered = (data.articles || []).filter(articleMatches);
+        document.getElementById("articles").innerHTML =
+          filtered.length === 0
+            ? '<div class="state">No matching articles.</div>'
+            : filtered
+                .map(
+                  (article) => `
+                    <article class="article">
+                      <div class="meta">
+                        <span>${escapeHtml(article.company)}</span>
+                        <span>${escapeHtml(article.category)}</span>
+                        <span>${escapeHtml(article.sourceKind)}</span>
+                        <time>${formatTime(article.publishedAt)}</time>
+                      </div>
+                      <a class="title" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a>
+                      <p class="summary">${escapeHtml(article.summary)}</p>
+                      <div class="footer">
+                        <span>${escapeHtml(article.sourceName)}</span>
+                        <a href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">Open article</a>
+                      </div>
+                    </article>`
+                )
+                .join("");
+
+        document.getElementById("statuses").innerHTML = statuses
+          .map((status) => {
+            const stale = String(status.message || "").startsWith("STALE:");
+            const dotClass = status.ok ? (stale ? "stale" : "ok") : "bad";
+            const message = status.ok && !stale ? `${status.itemCount} items` : status.message;
+            return `
+              <div class="status">
+                <span class="dot ${dotClass}"></span>
+                <div>
+                  <strong>${escapeHtml(status.sourceName)}</strong>
+                  <span>${escapeHtml(message)}</span>
+                </div>
+              </div>`;
+          })
+          .join("");
+      }
+
+      document.querySelectorAll("[data-category]").forEach((button) => {
+        button.addEventListener("click", () => {
+          document.querySelectorAll("[data-category]").forEach((item) => item.classList.remove("active"));
+          button.classList.add("active");
+          state.category = button.dataset.category;
+          render();
+        });
+      });
+
+      document.getElementById("search").addEventListener("input", (event) => {
+        state.query = event.target.value;
+        render();
+      });
+
+      fetch("generated/articles.json", { cache: "no-store" })
+        .then((response) => {
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          return response.json();
+        })
+        .then((data) => {
+          state.data = data;
+          render();
+        })
+        .catch((error) => {
+          document.getElementById("articles").innerHTML = `<div class="state">Unable to load generated articles: ${escapeHtml(error.message)}</div>`;
+        });
+    </script>
+  </body>
+</html>

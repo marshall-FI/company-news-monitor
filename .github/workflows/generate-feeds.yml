@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: generate-company-feeds
@@ -15,6 +17,9 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Check out repository
@@ -48,3 +53,18 @@ jobs:
         with:
           commit_message: "Update generated company feeds"
           file_pattern: public/generated/*.json public/generated/feeds/*.xml
+
+      - name: Build GitHub Pages artifact
+        run: python feed-generator/build_pages.py
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages-dist
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
