@@ -66,15 +66,23 @@ export default function Home() {
 
   useEffect(() => {
     const controller = new AbortController();
-    fetch("/api/articles", { signal: controller.signal })
+    fetch("/generated/articles.json", { cache: "no-store", signal: controller.signal })
       .then((response) => {
         if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
+          throw new Error(`Generated data unavailable: HTTP ${response.status}`);
         }
         return response.json() as Promise<ArticleResponse>;
       })
-      .then((payload) => {
-        setData(payload);
+      .catch(() => {
+        return fetch("/api/articles", { signal: controller.signal }).then((response) => {
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+          return response.json() as Promise<ArticleResponse>;
+        });
+      })
+      .then((response) => {
+        setData(response);
         setError("");
       })
       .catch((fetchError) => {
@@ -203,9 +211,9 @@ export default function Home() {
           <aside className="side-panel">
             <div className="panel-section">
               <h2>Feeds</h2>
-              <a href="/feeds/all.xml">All</a>
-              <a href="/feeds/fintech.xml">Fintech</a>
-              <a href="/feeds/big-tech.xml">Big Tech</a>
+              <a href="/generated/feeds/all.xml">All</a>
+              <a href="/generated/feeds/fintech.xml">Fintech</a>
+              <a href="/generated/feeds/big-tech.xml">Big Tech</a>
             </div>
             <div className="panel-section">
               <h2>Source Health</h2>

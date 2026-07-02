@@ -1,0 +1,50 @@
+name: Generate company feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-company-feeds
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate JSON and RSS feeds
+        run: python feed-generator/generate.py
+
+      - name: Show source health
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          payload = json.loads(Path("public/generated/articles.json").read_text(encoding="utf-8"))
+          statuses = payload["statuses"]
+          issues = [status for status in statuses if not status["ok"]]
+          stale = [status for status in statuses if status["message"].startswith("STALE:")]
+          print(f"articles={len(payload['articles'])} sources={payload['sourceCount']} healthy={len(statuses) - len(issues)} issues={len(issues)} stale={len(stale)}")
+          for status in issues + stale:
+            print(f"{status['sourceName']}: {status['message']}")
+          PY
+
+      - name: Commit generated feed artifacts
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update generated company feeds"
+          file_pattern: public/generated/*.json public/generated/feeds/*.xml

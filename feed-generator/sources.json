@@ -1,0 +1,338 @@
+{
+  "sources": [
+    {
+      "id": "sofi-press",
+      "name": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "kind": "rss",
+      "source_url": "https://www.sofi.com/press/",
+      "feed_url": "https://investors.sofi.com/rss/news-releases.xml",
+      "alternate_feed_urls": [
+        "https://news.google.com/rss/search?q=site%3Ainvestors.sofi.com%2Fnews%2FPress-Releases%20SoFi&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=site%3Ainvestors.sofi.com%20SoFi%20press%20release&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=site%3Asofi.com%2Fpress%20SoFi&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "include_patterns": ["investors.sofi.com/news/", "investors.sofi.com/rss/", "www.sofi.com/press/"],
+      "exclude_patterns": ["?", "#", "/tag/", "/tags/"]
+    },
+    {
+      "id": "toast-product-news",
+      "name": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://pos.toasttab.com/news?types=product-news",
+      "feed_url": "https://pos.toasttab.com/news?types=product-news",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Apos.toasttab.com%2Fnews%20Toast%20product%20news&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["pos.toasttab.com/news", "pos.toasttab.com/blog"],
+      "exclude_patterns": ["?", "#", "/tag/", "/tags/"]
+    },
+    {
+      "id": "marqeta-blog",
+      "name": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://www.marqeta.com/blog",
+      "feed_url": "https://www.marqeta.com/blog",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Amarqeta.com%2Fblog%20Marqeta&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["marqeta.com/blog"],
+      "exclude_patterns": ["?", "#", "/tag/", "/tags/"]
+    },
+    {
+      "id": "block-investor-news",
+      "name": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://investors.block.xyz/investor-news/default.aspx",
+      "feed_url": "https://investors.block.xyz/investor-news/default.aspx",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Ainvestors.block.xyz%2Finvestor-news%20Block%20investor%20news&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["investors.block.xyz/investor-news", "investors.block.xyz/news"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "affirm-news",
+      "name": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://investors.affirm.com/news-events/all-news",
+      "feed_url": "https://investors.affirm.com/news-events/all-news",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Ainvestors.affirm.com%2Fnews-events%20Affirm&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["investors.affirm.com/news-events", "investors.affirm.com/news"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "shift4-news",
+      "name": "Shift4 News",
+      "company": "Shift4",
+      "category": "Fintech Blogs",
+      "kind": "rss",
+      "source_url": "https://www.shift4.com/news",
+      "feed_url": "https://investors.shift4.com/news-events/press-releases/rss",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Ainvestors.shift4.com%2Fnews-events%2Fpress-releases%20Shift4&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "id": "adyen-newsroom",
+      "name": "Adyen Newsroom",
+      "company": "Adyen",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://www.adyen.com/press-and-media/newsroom",
+      "feed_url": "https://www.adyen.com/press-and-media",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Aadyen.com%2Fpress-and-media%2Fnewsroom%20Adyen&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["/press-and-media/"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "shopify-pressroom",
+      "name": "Shopify Pressroom",
+      "company": "Shopify",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://news.shopify.com/",
+      "feed_url": "https://news.shopify.com/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Anews.shopify.com%20Shopify&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["news.shopify.com/"],
+      "exclude_patterns": ["?", "#", "/tags/", "/search"]
+    },
+    {
+      "id": "nubank-newsroom",
+      "name": "Nubank Newsroom",
+      "company": "Nubank",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://international.nubank.com.br/newsroom/",
+      "feed_url": "https://international.nubank.com.br/newsroom/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Ainternational.nubank.com.br%2Fnewsroom%20Nubank&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["international.nubank.com.br/newsroom"],
+      "exclude_patterns": ["?", "#", "/tag/", "/tags/"]
+    },
+    {
+      "id": "paypal-newsroom",
+      "name": "PayPal Newsroom",
+      "company": "PayPal",
+      "category": "Fintech Blogs",
+      "kind": "rss",
+      "source_url": "https://newsroom.paypal-corp.com/news",
+      "feed_url": "https://newsroom.paypal-corp.com/news?pagetemplate=rss",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Anewsroom.paypal-corp.com%2Fnews%20PayPal&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "id": "robinhood-blog",
+      "name": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://blog.robinhood.com/",
+      "feed_url": "https://blog.robinhood.com/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Ablog.robinhood.com%20Robinhood&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["blog.robinhood.com", "robinhood.com/us/en/newsroom"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "coinbase-blog",
+      "name": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://blog.coinbase.com/",
+      "feed_url": "https://www.coinbase.com/blog",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Acoinbase.com%2Fblog%20Coinbase&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["blog.coinbase.com", "coinbase.com/blog"],
+      "exclude_patterns": ["?", "#", "/tag/", "/tags/"]
+    },
+    {
+      "id": "upstart-press",
+      "name": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "kind": "rss",
+      "source_url": "https://www.upstart.com/news/press-releases/",
+      "feed_url": "https://ir.upstart.com/rss/news-releases.xml",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Aupstart.com%2Fnews%2Fpress-releases%20Upstart&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["/news/", "/press-releases/"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "wise-newsroom",
+      "name": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://newsroom.wise.com/en-NAM/",
+      "feed_url": "https://newsroom.wise.com/en-NAM/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Anewsroom.wise.com%2Fen-NAM%20Wise&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["newsroom.wise.com/en-NAM/"],
+      "exclude_patterns": ["?", "#", "/tags/"]
+    },
+    {
+      "id": "klarna-press",
+      "name": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://www.klarna.com/international/press/",
+      "feed_url": "https://www.klarna.com/international/press/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Aklarna.com%2Finternational%2Fpress%20Klarna&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["/international/press/"],
+      "exclude_patterns": ["?", "#", "/categories/", "/category/", "/tag/", "/tags/"]
+    },
+    {
+      "id": "dave-press",
+      "name": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://dave.com/press",
+      "feed_url": "https://dave.com/press",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Adave.com%2Fpress%20Dave&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["dave.com/press", "dave.com/newsroom"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "galileo-blog",
+      "name": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://www.galileo-ft.com/blog/",
+      "feed_url": "https://www.galileo-ft.com/blog/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Agalileo-ft.com%2Fblog%20Galileo&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["galileo-ft.com/blog", "galileo-ft.com/news"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "chime-newsroom",
+      "name": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://www.chime.com/newsroom/",
+      "feed_url": "https://www.chime.com/newsroom/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Achime.com%2Fnewsroom%20Chime&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["chime.com/newsroom"],
+      "exclude_patterns": ["?", "#", "/tag/", "/tags/"]
+    },
+    {
+      "id": "circle-pressroom",
+      "name": "Circle Pressroom",
+      "company": "Circle",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://www.circle.com/pressroom",
+      "feed_url": "https://www.circle.com/pressroom",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Acircle.com%2Fpressroom%20Circle&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["/pressroom/"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "dlocal-blog",
+      "name": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "kind": "html",
+      "source_url": "https://www.dlocal.com/blog/",
+      "feed_url": "https://www.dlocal.com/blog/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Adlocal.com%2Fblog%20dLocal&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["/blog/"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "nvidia-newsroom",
+      "name": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "kind": "rss",
+      "source_url": "https://nvidianews.nvidia.com/news/latest",
+      "feed_url": "https://nvidianews.nvidia.com/rss.xml",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Anvidianews.nvidia.com%2Fnews%20NVIDIA&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "id": "datadog-investor-news",
+      "name": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "kind": "rss",
+      "source_url": "https://investors.datadoghq.com/news-releases",
+      "feed_url": "https://investors.datadoghq.com/rss/news-releases.xml",
+      "alternate_feed_urls": [
+        "https://news.google.com/rss/search?q=site%3Ainvestors.datadoghq.com%2Fnews-releases%20Datadog&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=site%3Adatadoghq.com%20Datadog%20press%20release&hl=en-US&gl=US&ceid=US:en"
+      ]
+    },
+    {
+      "id": "tesla-blog",
+      "name": "Tesla Blog",
+      "company": "Tesla",
+      "category": "Big Tech Blogs",
+      "kind": "html",
+      "source_url": "https://www.tesla.com/blog",
+      "feed_url": "https://www.tesla.com/blog",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Atesla.com%2Fblog%20Tesla&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["tesla.com/blog"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "trade-desk-press-room",
+      "name": "The Trade Desk Press Room",
+      "company": "The Trade Desk",
+      "category": "Big Tech Blogs",
+      "kind": "html",
+      "source_url": "https://www.thetradedesk.com/us/news/press-room",
+      "feed_url": "https://www.thetradedesk.com/us/news/press-room",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Athetradedesk.com%2Fus%2Fnews%2Fpress-room%20The%20Trade%20Desk&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["/press-room/"],
+      "exclude_patterns": ["?", "#"]
+    },
+    {
+      "id": "amazon-press-archive",
+      "name": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "kind": "html",
+      "source_url": "https://press.aboutamazon.com/press-release-archive",
+      "feed_url": "https://press.aboutamazon.com/press-release-archive",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Apress.aboutamazon.com%2Fpress-release-archive%20Amazon&hl=en-US&gl=US&ceid=US:en"],
+      "include_patterns": ["press.aboutamazon.com/"],
+      "exclude_patterns": ["?", "#", "/press-release-archive", "/press-center-signup", "/images-and-videos", "/contact-us"]
+    },
+    {
+      "id": "google-blog",
+      "name": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "kind": "rss",
+      "source_url": "https://blog.google/",
+      "feed_url": "https://blog.google/rss/",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Ablog.google%20Google&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "id": "about-amazon",
+      "name": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "kind": "rss",
+      "source_url": "https://www.aboutamazon.com/",
+      "feed_url": "https://www.aboutamazon.com/news/rss",
+      "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Aaboutamazon.com%2Fnews%20Amazon&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "id": "tsmc-news",
+      "name": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "kind": "html",
+      "source_url": "https://pr.tsmc.com/english/latest-news",
+      "feed_url": "https://pr.tsmc.com/english/latest-news",
+      "alternate_feed_urls": [
+        "https://news.google.com/rss/search?q=site%3Apr.tsmc.com%2Fenglish%20TSMC&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=site%3Apr.tsmc.com%20TSMC%20English%20latest%20news&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "include_patterns": ["pr.tsmc.com/english/news", "pr.tsmc.com/english/latest-news"],
+      "exclude_patterns": ["?", "#"]
+    }
+  ]
+}
