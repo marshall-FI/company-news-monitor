@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-07-03T21:31:42.084305+00:00",
+  "generatedAt": "2026-07-03T23:20:07.364406+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rss",
       "ok": true,
       "itemCount": 1,
-      "message": "OK via official fallback RSS"
+      "message": "STALE: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 3,
+      "message": "OK"
     },
     {
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 2,
+      "message": "STALE: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 13,
+      "message": "STALE: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "affirm-news",
@@ -77,10 +77,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
-      "ok": true,
-      "itemCount": 4,
-      "message": "OK via official fallback RSS"
+      "kind": "html",
+      "ok": false,
+      "itemCount": 0,
+      "message": "HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "paypal-newsroom",
@@ -113,10 +113,10 @@
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "category": "Fintech Blogs",
-      "kind": "google_news",
-      "ok": true,
-      "itemCount": 1,
-      "message": "OK via official fallback RSS"
+      "kind": "rss",
+      "ok": false,
+      "itemCount": 0,
+      "message": "HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "wise-newsroom",
@@ -134,7 +134,7 @@
       "kind": "html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK"
+      "message": "STALE: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "dave-press",
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 8,
+      "message": "STALE: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "circle-pressroom",
@@ -203,10 +203,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
-      "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "kind": "html",
+      "ok": false,
+      "itemCount": 0,
+      "message": "HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "trade-desk-press-room",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 2,
+      "message": "STALE: HTTP Error 503: Service Unavailable"
     }
   ]
 }
