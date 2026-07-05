@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T00:12:44.621681+00:00",
+  "generatedAt": "2026-07-05T04:20:08.123624+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "circle-pressroom",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ]
 }
