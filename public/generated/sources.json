@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T04:20:08.123624+00:00",
+  "generatedAt": "2026-07-05T08:16:28.607737+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -14,10 +14,10 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 3,
+      "message": "OK"
     },
     {
       "sourceId": "marqeta-blog",
@@ -79,7 +79,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 3,
+      "itemCount": 4,
       "message": "OK via official fallback RSS"
     },
     {
@@ -131,10 +131,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK"
     },
     {
       "sourceId": "dave-press",
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 12,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
