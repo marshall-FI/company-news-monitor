@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T05:06:21.655730+00:00",
+  "generatedAt": "2026-07-07T08:41:39.715681+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -14,10 +14,10 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 3,
+      "message": "OK"
     },
     {
       "sourceId": "marqeta-blog",
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 12,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
