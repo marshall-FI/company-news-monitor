@@ -12,7 +12,6 @@ from urllib.request import Request, urlopen
 import hashlib
 import json
 import re
-import sys
 import time
 import xml.etree.ElementTree as ET
 
@@ -276,6 +275,79 @@ def parse_html(source: dict[str, Any], html: str) -> list[Article]:
     return articles
 
 
+def fetch_rendered_html(source: dict[str, Any]) -> str:
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError as exc:
+        raise RuntimeError("Playwright is not installed; rendered_html is unavailable") from exc
+
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch()
+        page = browser.new_page(
+            extra_http_headers={
+                "Accept-Language": "en-US,en;q=0.9",
+            }
+        )
+        page.goto(source.get("render_url") or source["feed_url"], wait_until="domcontentloaded", timeout=int(source.get("render_timeout_ms", 45000)))
+        try:
+            page.wait_for_load_state("networkidle", timeout=int(source.get("render_idle_timeout_ms", 15000)))
+        except Exception:
+            pass
+
+        for selector in source.get("render_wait_selectors") or []:
+            try:
+                page.wait_for_selector(selector, timeout=int(source.get("render_selector_timeout_ms", 10000)))
+                break
+            except Exception:
+                continue
+
+        html = page.content()
+        browser.close()
+        return html
+
+
+def generator_order(source: dict[str, Any]) -> list[str]:
+    primary = source.get("generator_type") or source["kind"]
+    order = [primary, *(source.get("fallback_generator_types") or [])]
+    if source.get("alternate_feed_urls"):
+        order.append("official_google_news")
+
+    unique: list[str] = []
+    for item in order:
+        if item not in unique:
+            unique.append(item)
+    return unique
+
+
+def fetch_articles_for_strategy(source: dict[str, Any], strategy: str) -> tuple[list[Article], str, str]:
+    if strategy == "rss":
+        text = fetch_text(source["feed_url"], int(source.get("timeout_seconds", 30)))
+        return parse_rss(source, text, "rss", apply_patterns=True), "rss", "OK"
+
+    if strategy == "html":
+        text = fetch_text(source["feed_url"], int(source.get("timeout_seconds", 30)))
+        return parse_html(source, text), "html", "OK"
+
+    if strategy == "rendered_html":
+        html = fetch_rendered_html(source)
+        rendered_source = {**source, "feed_url": source.get("render_url") or source["feed_url"]}
+        return parse_html(rendered_source, html), "rendered_html", "OK via rendered HTML"
+
+    if strategy == "official_google_news":
+        last_error = "No official Google News fallback configured"
+        for url in source.get("alternate_feed_urls") or []:
+            try:
+                text = fetch_text(url, int(source.get("timeout_seconds", 30)))
+                articles = parse_rss(source, text, "google_news", apply_patterns=False)
+                if articles:
+                    return articles, "google_news", "OK via official fallback RSS"
+            except Exception as exc:
+                last_error = str(exc)
+        raise RuntimeError(last_error)
+
+    raise RuntimeError(f"Unknown generator strategy: {strategy}")
+
+
 def load_previous() -> dict[str, list[Article]]:
     if not ARTICLES_PATH.exists():
         return {}
@@ -294,22 +366,16 @@ def load_previous() -> dict[str, list[Article]]:
 
 
 def fetch_source(source: dict[str, Any], previous: dict[str, list[Article]]) -> tuple[list[Article], SourceStatus]:
-    source_urls = [source["feed_url"], *(source.get("alternate_feed_urls") or [])]
     last_error = "No articles found"
-    for index, url in enumerate(source_urls):
+    minimum_items = int(source.get("minimum_items", 1))
+    for strategy in generator_order(source):
         try:
-            text = fetch_text(url, int(source.get("timeout_seconds", 30)))
-            if index == 0 and source["kind"] == "html":
-                articles = parse_html(source, text)
-                kind = "html"
-            else:
-                articles = parse_rss(source, text, "rss" if index == 0 else "google_news", apply_patterns=index == 0)
-                kind = source["kind"] if index == 0 else "google_news"
-            if articles:
-                message = "OK" if index == 0 else "OK via official fallback RSS"
+            articles, kind, message = fetch_articles_for_strategy(source, strategy)
+            if len(articles) >= minimum_items or (strategy == generator_order(source)[-1] and articles):
                 return articles, SourceStatus(source["id"], source["name"], source["category"], kind, True, len(articles), message)
+            last_error = f"{strategy} returned {len(articles)} item(s), below minimum {minimum_items}"
         except Exception as exc:  # noqa: BLE001 - generation should continue per source.
-            last_error = str(exc)
+            last_error = f"{strategy}: {exc}"
         time.sleep(0.25)
 
     fallback = previous.get(source["id"], [])

@@ -42,10 +42,17 @@ The workflow:
 Each source is tried in this order:
 
 1. Official RSS or official page.
-2. Official-domain Google News RSS fallback, scoped with `site:`.
-3. Last-good generated articles already present in `public/generated/articles.json`.
+2. Rendered HTML when a source is JavaScript-heavy or returns too few static items.
+3. Official-domain Google News RSS fallback, scoped with `site:`.
+4. Last-good generated articles already present in `public/generated/articles.json`.
 
 The generator does not use broad company-name news searches or random syndicated fallback sites.
+
+## Rendered Sources
+
+GitHub Actions installs Playwright and Chromium so the generator can render JavaScript-heavy pages before falling back to Google News. This is used for sources such as Q4-style investor relations pages and client-rendered blogs.
+
+Local runs without Playwright still work: rendered sources skip to their next configured fallback.
 
 ## Health Semantics
 

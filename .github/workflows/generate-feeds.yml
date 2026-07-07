@@ -30,6 +30,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install feed generator dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r feed-generator/requirements.txt
+          python -m playwright install --with-deps chromium
+
       - name: Generate JSON and RSS feeds
         run: python feed-generator/generate.py
 
