@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T18:47:28.011912+00:00",
+  "generatedAt": "2026-07-08T20:41:06.216818+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -79,7 +79,7 @@
       "category": "Fintech Blogs",
       "kind": "rendered_html",
       "ok": true,
-      "itemCount": 2,
+      "itemCount": 1,
       "message": "OK via rendered HTML"
     },
     {
@@ -113,10 +113,10 @@
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via rendered HTML"
+      "itemCount": 1,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "wise-newsroom",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ]
 }
