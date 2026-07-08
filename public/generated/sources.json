@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T12:00:50.727264+00:00",
+  "generatedAt": "2026-07-08T14:44:29.260113+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -7,7 +7,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 1,
+      "itemCount": 18,
       "message": "OK via official fallback RSS"
     },
     {
@@ -61,7 +61,7 @@
       "category": "Fintech Blogs",
       "kind": "rendered_html",
       "ok": true,
-      "itemCount": 5,
+      "itemCount": 4,
       "message": "OK via rendered HTML"
     },
     {
@@ -70,7 +70,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 18,
+      "itemCount": 17,
       "message": "OK"
     },
     {
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 12,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 12,
+      "message": "OK"
     }
   ]
 }
