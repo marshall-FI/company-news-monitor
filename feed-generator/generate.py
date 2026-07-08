@@ -174,6 +174,43 @@ NON_ENGLISH_WORDS = {
 }
 
 
+NAVIGATION_TITLES = {
+    "annual meeting proxy statement",
+    "analyst coverage",
+    "blog",
+    "blogs",
+    "committee composition",
+    "contact us",
+    "end of day stock quote",
+    "events presentations",
+    "financials",
+    "forms 8937",
+    "governance documents",
+    "investor contacts",
+    "investor email alerts",
+    "investor faqs",
+    "leadership",
+    "learn more",
+    "main corporate site",
+    "news",
+    "overview",
+    "press",
+    "press releases",
+    "privacy policy",
+    "quarterly reports",
+    "quick links",
+    "read more",
+    "resources",
+    "search query",
+    "sec filings",
+    "site search",
+    "stock chart",
+    "stock information",
+    "stock quote",
+    "unsubscribe",
+}
+
+
 def is_english(title: str, summary: str) -> bool:
     text = clean_text(f"{title} {summary}")
     if not text or re.search(r"[\u0400-\u04ff\u0590-\u05ff\u0600-\u06ff\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]", text):
@@ -194,6 +231,30 @@ def link_matches(source: dict[str, Any], link: str, apply_patterns: bool = True)
     return not any(pattern in link for pattern in exclude_patterns)
 
 
+def source_page_keys(source: dict[str, Any]) -> set[str]:
+    urls = [source.get("source_url"), source.get("feed_url"), source.get("render_url")]
+    return {normalize_url(url) for url in urls if url}
+
+
+def title_allowed(source: dict[str, Any], title: str) -> bool:
+    title_key = normalize_title(title)
+    if title_key in NAVIGATION_TITLES:
+        return False
+    if re.match(r"^(news|press|blog|blogs|learn more|read more)$", title.strip(), re.I):
+        return False
+
+    exclude_title_patterns = source.get("exclude_title_patterns") or []
+    if any(re.search(pattern, title, re.I) for pattern in exclude_title_patterns):
+        return False
+
+    include_title_patterns = source.get("include_title_patterns") or []
+    return not include_title_patterns or any(re.search(pattern, title, re.I) for pattern in include_title_patterns)
+
+
+def article_allowed(source: dict[str, Any], article: Article) -> bool:
+    return title_allowed(source, article.title) and normalize_url(article.link) not in source_page_keys(source)
+
+
 def make_summary(source: dict[str, Any], title: str, summary: str) -> str:
     cleaned = clean_text(summary)
     title_key = normalize_title(title)
@@ -209,9 +270,11 @@ def make_summary(source: dict[str, Any], title: str, summary: str) -> str:
 def article_from_parts(source: dict[str, Any], title: str, link: str, summary: str, published_at: str, source_kind: str, apply_patterns: bool = True) -> Article | None:
     clean_title = clean_text(title)
     clean_summary = clean_text(summary)
-    if not clean_title or not link or not is_english(clean_title, clean_summary):
+    if not clean_title or not link or not title_allowed(source, clean_title) or not is_english(clean_title, clean_summary):
         return None
     absolute_link = unwrap_redirect(urljoin(source["source_url"], link))
+    if normalize_url(absolute_link) in source_page_keys(source):
+        return None
     if not link_matches(source, absolute_link, apply_patterns):
         return None
     return Article(
@@ -265,7 +328,7 @@ def parse_html(source: dict[str, Any], html: str) -> list[Article]:
         if key in seen:
             continue
         seen.add(key)
-        if len(title) < 8 or len(title) > 180 or re.match(r"^(news|press|blog|learn more|read more)$", title, re.I):
+        if len(title) < 8 or len(title) > 180:
             continue
         article = article_from_parts(source, title, link, "", "", "html", True)
         if article:
@@ -378,7 +441,7 @@ def fetch_source(source: dict[str, Any], previous: dict[str, list[Article]]) -> 
             last_error = f"{strategy}: {exc}"
         time.sleep(0.25)
 
-    fallback = previous.get(source["id"], [])
+    fallback = [article for article in previous.get(source["id"], []) if article_allowed(source, article)]
     if fallback:
         return fallback[:MAX_ITEMS_PER_SOURCE], SourceStatus(
             source["id"], source["name"], source["category"], source["kind"], True, len(fallback[:MAX_ITEMS_PER_SOURCE]), f"STALE: {last_error}"

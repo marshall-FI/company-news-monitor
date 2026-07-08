@@ -11,14 +11,19 @@
       "source_url": "https://investors.sofi.com/news/Press-Releases/",
       "feed_url": "https://investors.sofi.com/rss/news-releases.xml",
       "render_url": "https://investors.sofi.com/news/Press-Releases/",
-      "render_wait_selectors": ["a[href*='/news/']"],
+      "render_wait_selectors": [
+        "a[href*='/news/news-details/']",
+        "a[href*='/news/press-release-details/']",
+        "a[href*='/news/Press-Releases/']"
+      ],
       "alternate_feed_urls": [
         "https://news.google.com/rss/search?q=site%3Ainvestors.sofi.com%2Fnews%2FPress-Releases%20SoFi&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site%3Ainvestors.sofi.com%20SoFi%20press%20release&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site%3Asofi.com%2Fpress%20SoFi&hl=en-US&gl=US&ceid=US:en"
       ],
       "include_patterns": ["investors.sofi.com/news/", "investors.sofi.com/rss/", "www.sofi.com/press/"],
-      "exclude_patterns": ["?", "#", "/tag/", "/tags/"]
+      "exclude_patterns": ["?", "#", "/tag/", "/tags/"],
+      "exclude_title_patterns": ["^Press Releases\\s*-\\s*SoFi", "^Press Releases$"]
     },
     {
       "id": "toast-product-news",
