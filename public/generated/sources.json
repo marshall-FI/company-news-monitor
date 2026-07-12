@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T17:21:42.899607+00:00",
+  "generatedAt": "2026-07-12T19:34:09.482595+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 11,
+      "message": "OK"
     }
   ]
 }
