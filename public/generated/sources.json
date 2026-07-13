@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:52:27.524225+00:00",
+  "generatedAt": "2026-07-13T21:16:12.996804+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -70,7 +70,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 16,
+      "itemCount": 17,
       "message": "OK"
     },
     {
@@ -131,10 +131,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK"
     },
     {
       "sourceId": "dave-press",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 12,
+      "message": "OK"
     }
   ]
 }
