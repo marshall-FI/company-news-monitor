@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:12:57.244961+00:00",
+  "generatedAt": "2026-07-13T23:15:47.300330+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -131,10 +131,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 18,
-      "message": "OK"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "dave-press",
