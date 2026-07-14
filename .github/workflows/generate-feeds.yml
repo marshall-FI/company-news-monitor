@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: generate-company-feeds
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -50,8 +50,14 @@ jobs:
           python feed-generator/generate.py
           mkdir -p feed-generator/.sec-cache
           python feed-generator/generate_sec_filings.py --print-snapshot-urls | while IFS=$'\t' read -r filename url; do
-            curl --fail --silent --show-error --location --connect-timeout 10 --max-time 45 --retry 2 --retry-all-errors "$url" --output "feed-generator/.sec-cache/$filename" || true
+            (
+              curl --fail --silent --show-error --location --connect-timeout 8 --max-time 25 --retry 1 --retry-all-errors "$url" --output "feed-generator/.sec-cache/$filename" || true
+            ) &
+            if (( $(jobs -r -p | wc -l) >= 4 )); then
+              wait -n || true
+            fi
           done
+          wait
           python feed-generator/generate_sec_filings.py
 
       - name: Show source health
