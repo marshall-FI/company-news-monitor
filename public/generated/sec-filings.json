@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T21:38:37.973157+00:00",
+  "generatedAt": "2026-07-14T21:45:45.729647+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5777,7 +5777,7 @@
       "company": "Datadog",
       "ticker": "DDOG",
       "cik": "0001561550",
-      "ok": false,
+      "ok": true,
       "filingCount": 11,
       "message": "STALE: retained 11 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
@@ -5785,7 +5785,7 @@
       "company": "Tesla",
       "ticker": "TSLA",
       "cik": "0001318605",
-      "ok": false,
+      "ok": true,
       "filingCount": 11,
       "message": "STALE: retained 11 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
@@ -5793,7 +5793,7 @@
       "company": "The Trade Desk",
       "ticker": "TTD",
       "cik": "0001671933",
-      "ok": false,
+      "ok": true,
       "filingCount": 12,
       "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
@@ -5801,7 +5801,7 @@
       "company": "Amazon",
       "ticker": "AMZN",
       "cik": "0001018724",
-      "ok": false,
+      "ok": true,
       "filingCount": 12,
       "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
@@ -5809,7 +5809,7 @@
       "company": "Google",
       "ticker": "GOOGL",
       "cik": "0001652044",
-      "ok": false,
+      "ok": true,
       "filingCount": 12,
       "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
@@ -5817,7 +5817,7 @@
       "company": "TSMC",
       "ticker": "TSM",
       "cik": "0001046179",
-      "ok": false,
+      "ok": true,
       "filingCount": 12,
       "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     }
