@@ -2,6 +2,11 @@ name: Generate company feeds
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "public/generated/**"
   schedule:
     - cron: "17 * * * *"
 
