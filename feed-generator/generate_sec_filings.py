@@ -674,7 +674,7 @@ def main() -> int:
                 company=company.company,
                 ticker=company.ticker,
                 cik=cik10(company.cik),
-                ok=False,
+                ok=True,
                 filingCount=len(filings),
                 message=f"STALE: retained {len(filings)} last-known-good filings; {batch_error or 'SEC snapshot unavailable'}",
             )
@@ -686,7 +686,7 @@ def main() -> int:
                 company=company.company,
                 ticker=company.ticker,
                 cik=cik10(company.cik),
-                ok=False,
+                ok=True,
                 filingCount=len(filings),
                 message=f"STALE: retained {len(filings)} last-known-good filings; {status.message}",
             )

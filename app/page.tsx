@@ -346,7 +346,7 @@ export default function Home() {
               <div className="status-list compact">
                 {(secData?.statuses ?? []).map((status) => (
                   <div className="status-row" key={`${status.ticker}-${status.cik}`}>
-                    <span className={status.ok ? "dot ok" : "dot bad"} />
+                    <span className={status.message.startsWith("STALE:") ? "dot stale" : status.ok ? "dot ok" : "dot bad"} />
                     <div>
                       <strong>
                         {status.company} ({status.ticker})

@@ -305,6 +305,10 @@ input {
   background: #b95036;
 }
 
+.dot.stale {
+  background: #b78a2e;
+}
+
 .updated,
 .state-line {
   color: #5f6a64;

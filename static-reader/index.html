@@ -474,7 +474,7 @@
 
         document.getElementById("secStatuses").innerHTML = secStatuses
           .map((status) => {
-            const dotClass = status.ok ? "ok" : "bad";
+            const dotClass = String(status.message || "").startsWith("STALE:") ? "stale" : status.ok ? "ok" : "bad";
             const message = status.message;
             return `
               <div class="status">
