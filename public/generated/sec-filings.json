@@ -1,0 +1,224 @@
+{
+  "generatedAt": "2026-07-14T20:00:40.620743+00:00",
+  "companyCount": 27,
+  "filingCount": 0,
+  "filings": [],
+  "statuses": [
+    {
+      "company": "SoFi",
+      "ticker": "SOFI",
+      "cik": "0001818874",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Toast",
+      "ticker": "TOST",
+      "cik": "0001650164",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Marqeta",
+      "ticker": "MQ",
+      "cik": "0001522540",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Block",
+      "ticker": "XYZ",
+      "cik": "0001512673",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Affirm",
+      "ticker": "AFRM",
+      "cik": "0001820953",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Shift4",
+      "ticker": "FOUR",
+      "cik": "0001794669",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Adyen",
+      "ticker": "ADYYF",
+      "cik": "0001788707",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Shopify",
+      "ticker": "SHOP",
+      "cik": "0001594805",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Nubank",
+      "ticker": "NU",
+      "cik": "0001691493",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "PayPal",
+      "ticker": "PYPL",
+      "cik": "0001633917",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Robinhood",
+      "ticker": "HOOD",
+      "cik": "0001783879",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Coinbase",
+      "ticker": "COIN",
+      "cik": "0001679788",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Upstart",
+      "ticker": "UPST",
+      "cik": "0001647639",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Wise",
+      "ticker": "WSE",
+      "cik": "0002099039",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Klarna",
+      "ticker": "KLAR",
+      "cik": "0002003292",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Dave",
+      "ticker": "DAVE",
+      "cik": "0001841408",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Galileo",
+      "ticker": "SOFI",
+      "cik": "0001818874",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Chime",
+      "ticker": "CHYM",
+      "cik": "0001795586",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Circle",
+      "ticker": "CRCL",
+      "cik": "0001876042",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "dLocal",
+      "ticker": "DLO",
+      "cik": "0001846832",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "NVIDIA",
+      "ticker": "NVDA",
+      "cik": "0001045810",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Datadog",
+      "ticker": "DDOG",
+      "cik": "0001561550",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "cik": "0001318605",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "The Trade Desk",
+      "ticker": "TTD",
+      "cik": "0001671933",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "cik": "0001018724",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Google",
+      "ticker": "GOOGL",
+      "cik": "0001652044",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "TSMC",
+      "ticker": "TSM",
+      "cik": "0001046179",
+      "ok": false,
+      "filingCount": 0,
+      "message": "HTTP Error 403: Forbidden"
+    }
+  ]
+}
