@@ -14,6 +14,7 @@
 /coverage
 __pycache__/
 *.pyc
+feed-generator/.sec-cache/
 
 # next.js
 /.next/

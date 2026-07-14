@@ -443,6 +443,7 @@
                         <span>${escapeHtml(filing.company)}</span>
                         <span>${escapeHtml(filing.ticker)}</span>
                         <span>${escapeHtml(filing.form)}</span>
+                        <span>${escapeHtml(filing.dataSource || "SEC EDGAR")}</span>
                         <time>${formatTime(filing.filingDate)}</time>
                       </div>
                       <a class="title" href="${escapeHtml(filing.filingUrl)}" target="_blank" rel="noreferrer">${escapeHtml(filing.title)}</a>
@@ -474,7 +475,7 @@
         document.getElementById("secStatuses").innerHTML = secStatuses
           .map((status) => {
             const dotClass = status.ok ? "ok" : "bad";
-            const message = status.ok ? `${status.filingCount} filings` : status.message;
+            const message = status.message;
             return `
               <div class="status">
                 <span class="dot ${dotClass}"></span>

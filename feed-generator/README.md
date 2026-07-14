@@ -50,14 +50,21 @@ The workflow:
 
 SEC filing targets live in `feed-generator/sec_companies.json`. The generator fetches each company's filing history from SEC EDGAR's submissions API and writes recent tracked forms, such as `10-K`, `10-Q`, `8-K`, `20-F`, `6-K`, `DEF 14A`, and registration/prospectus forms.
 
-The SEC API expects a descriptive user agent. GitHub Actions sets `SEC_USER_AGENT`; local runs can set it too:
+The SEC API expects a descriptive user agent containing an organization and contact email. GitHub Actions reads `SEC_USER_AGENT` and `SEC_CONTACT_EMAIL` repository secrets when present, with a repository-specific fallback:
 
 ```powershell
 $env:SEC_USER_AGENT="CompanyNewsMonitor/1.0 your-email@example.com"
+$env:SEC_CONTACT_EMAIL="your-email@example.com"
 python feed-generator/generate_sec_filings.py
 ```
 
-If local network access is restricted, the SEC generator may report socket errors even though it will run normally in GitHub Actions.
+The workflow downloads small batched snapshots of the official SEC EDGAR full-text-search results through a read-through transport, then Python parses those snapshots locally. Direct SEC submissions JSON and Nasdaq's SEC-filings service, supplied by Quotemedia, remain fallback routes. Each generated item records which route was used. Failed refreshes retain last-known-good filings, and an all-empty run exits before replacing a working deployment.
+
+Run the focused SEC parser tests with:
+
+```powershell
+python -m unittest feed-generator/test_sec_filings.py -v
+```
 
 ## Source Policy
 

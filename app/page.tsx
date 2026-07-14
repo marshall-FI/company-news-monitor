@@ -51,6 +51,7 @@ type SecFiling = {
   filingUrl: string;
   documentUrl: string;
   note: string;
+  dataSource?: string;
 };
 
 type SecStatus = {
@@ -313,6 +314,7 @@ export default function Home() {
                       <span>{filing.company}</span>
                       <span>{filing.ticker}</span>
                       <span>{filing.form}</span>
+                      <span>{filing.dataSource ?? "SEC EDGAR"}</span>
                       <time>{formatTime(filing.filingDate)}</time>
                     </div>
                     <a className="article-title" href={filing.filingUrl} rel="noreferrer" target="_blank">
@@ -349,7 +351,7 @@ export default function Home() {
                       <strong>
                         {status.company} ({status.ticker})
                       </strong>
-                      <p>{status.ok ? `${status.filingCount} filings` : status.message}</p>
+                      <p>{status.message}</p>
                     </div>
                   </div>
                 ))}

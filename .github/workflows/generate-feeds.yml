@@ -18,7 +18,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     env:
-      SEC_USER_AGENT: "CompanyNewsMonitor/1.0 https://github.com/marshall-FI/company-news-monitor"
+      SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT || 'Marshall FI Company News Monitor marshall-FI@users.noreply.github.com' }}
+      SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL || 'marshall-FI@users.noreply.github.com' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -40,7 +41,12 @@ jobs:
 
       - name: Generate JSON and RSS feeds
         run: |
+          python -m unittest feed-generator/test_sec_filings.py -v
           python feed-generator/generate.py
+          mkdir -p feed-generator/.sec-cache
+          python feed-generator/generate_sec_filings.py --print-snapshot-urls | while IFS=$'\t' read -r filename url; do
+            curl --fail --silent --show-error --location --connect-timeout 10 --max-time 45 --retry 2 --retry-all-errors "$url" --output "feed-generator/.sec-cache/$filename" || true
+          done
           python feed-generator/generate_sec_filings.py
 
       - name: Show source health
@@ -60,7 +66,8 @@ jobs:
           sec_payload = json.loads(Path("public/generated/sec-filings.json").read_text(encoding="utf-8"))
           sec_statuses = sec_payload["statuses"]
           sec_issues = [status for status in sec_statuses if not status["ok"]]
-          print(f"sec_filings={sec_payload['filingCount']} sec_companies={sec_payload['companyCount']} sec_healthy={len(sec_statuses) - len(sec_issues)} sec_issues={len(sec_issues)}")
+          sec_stale = [status for status in sec_statuses if status["message"].startswith("STALE:")]
+          print(f"sec_filings={sec_payload['filingCount']} sec_companies={sec_payload['companyCount']} sec_healthy={len(sec_statuses) - len(sec_issues)} sec_issues={len(sec_issues)} sec_stale={len(sec_stale)}")
           for status in sec_issues:
             print(f"SEC {status['company']} ({status['ticker']}): {status['message']}")
           PY
