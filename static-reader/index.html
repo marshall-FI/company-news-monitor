@@ -105,6 +105,15 @@
         margin: 22px 0;
       }
 
+      .view-switch {
+        background: #e8ebe4;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        padding: 4px;
+      }
+
       .tabs {
         background: #e8ebe4;
         border: 1px solid var(--line);
@@ -235,6 +244,11 @@
         overflow: auto;
       }
 
+      .status-list.compact {
+        max-height: 260px;
+        margin-bottom: 20px;
+      }
+
       .status {
         display: grid;
         gap: 3px;
@@ -287,7 +301,7 @@
 
         .toolbar {
           align-items: center;
-          grid-template-columns: 1fr 320px;
+          grid-template-columns: 240px 1fr 320px;
         }
 
         .layout {
@@ -302,17 +316,22 @@
         <div>
           <p class="eyebrow">Company News Monitor</p>
           <h1>Employer watchlist</h1>
-          <p class="subhead">English-only company updates generated on a schedule, with RSS feeds and links back to each original article.</p>
+          <p class="subhead">English-only company updates generated on a schedule, with SEC filings and links back to each original source document.</p>
         </div>
         <div class="metrics">
           <div class="metric"><strong id="sourceCount">0</strong><span>Sources</span></div>
           <div class="metric"><strong id="articleCount">0</strong><span>Articles</span></div>
+          <div class="metric"><strong id="filingCount">0</strong><span>Filings</span></div>
           <div class="metric"><strong id="healthyCount">0</strong><span>Healthy</span></div>
           <div class="metric"><strong id="issueCount">0</strong><span>Issues</span></div>
         </div>
       </header>
 
       <section class="toolbar">
+        <div class="view-switch" aria-label="View mode">
+          <button class="active" data-view="News" type="button">News</button>
+          <button data-view="SEC Filings" type="button">SEC Filings</button>
+        </div>
         <div class="tabs" aria-label="Category filters">
           <button class="active" data-category="All" type="button">All</button>
           <button data-category="Fintech Blogs" type="button">Fintech</button>
@@ -329,7 +348,10 @@
             <a href="generated/feeds/all.xml">All</a>
             <a href="generated/feeds/fintech.xml">Fintech</a>
             <a href="generated/feeds/big-tech.xml">Big Tech</a>
+            <a href="generated/feeds/sec-filings.xml">SEC Filings</a>
           </div>
+          <h2>SEC Coverage</h2>
+          <div id="secStatuses" class="status-list compact"></div>
           <h2>Source Health</h2>
           <div id="statuses" class="status-list"></div>
         </aside>
@@ -337,7 +359,7 @@
     </main>
 
     <script>
-      const state = { category: "All", query: "", data: null };
+      const state = { category: "All", query: "", view: "News", data: null, secData: null };
 
       function formatTime(value) {
         return new Intl.DateTimeFormat("en-US", {
@@ -365,22 +387,36 @@
         return categoryOk && queryOk;
       }
 
+      function filingMatches(filing) {
+        const categoryOk = state.category === "All" || filing.category === state.category;
+        const query = state.query.trim().toLowerCase();
+        const queryOk =
+          !query ||
+          `${filing.title} ${filing.summary} ${filing.company} ${filing.displayName} ${filing.ticker} ${filing.form}`
+            .toLowerCase()
+            .includes(query);
+        return categoryOk && queryOk;
+      }
+
       function render() {
         const data = state.data;
         if (!data) return;
 
         const statuses = data.statuses || [];
         const issues = statuses.filter((status) => !status.ok);
+        const secData = state.secData || { filings: [], statuses: [], filingCount: 0 };
+        const secStatuses = secData.statuses || [];
         document.getElementById("sourceCount").textContent = data.sourceCount || statuses.length;
         document.getElementById("articleCount").textContent = (data.articles || []).length;
+        document.getElementById("filingCount").textContent = secData.filingCount || (secData.filings || []).length;
         document.getElementById("healthyCount").textContent = statuses.length - issues.length;
         document.getElementById("issueCount").textContent = issues.length;
 
-        const filtered = (data.articles || []).filter(articleMatches);
+        const filtered = state.view === "News" ? (data.articles || []).filter(articleMatches) : (secData.filings || []).filter(filingMatches);
         document.getElementById("articles").innerHTML =
           filtered.length === 0
-            ? '<div class="state">No matching articles.</div>'
-            : filtered
+            ? `<div class="state">No matching ${state.view === "News" ? "articles" : "SEC filings"}.</div>`
+            : state.view === "News" ? filtered
                 .map(
                   (article) => `
                     <article class="article">
@@ -395,6 +431,25 @@
                       <div class="footer">
                         <span>${escapeHtml(article.sourceName)}</span>
                         <a href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">Open article</a>
+                      </div>
+                    </article>`
+                )
+                .join("")
+              : filtered
+                .map(
+                  (filing) => `
+                    <article class="article">
+                      <div class="meta">
+                        <span>${escapeHtml(filing.company)}</span>
+                        <span>${escapeHtml(filing.ticker)}</span>
+                        <span>${escapeHtml(filing.form)}</span>
+                        <time>${formatTime(filing.filingDate)}</time>
+                      </div>
+                      <a class="title" href="${escapeHtml(filing.filingUrl)}" target="_blank" rel="noreferrer">${escapeHtml(filing.title)}</a>
+                      <p class="summary">${escapeHtml(filing.summary)}</p>
+                      <div class="footer">
+                        <span>CIK ${escapeHtml(filing.cik)}</span>
+                        <a href="${escapeHtml(filing.documentUrl || filing.filingUrl)}" target="_blank" rel="noreferrer">Open filing</a>
                       </div>
                     </article>`
                 )
@@ -415,7 +470,33 @@
               </div>`;
           })
           .join("");
+
+        document.getElementById("secStatuses").innerHTML = secStatuses
+          .map((status) => {
+            const dotClass = status.ok ? "ok" : "bad";
+            const message = status.ok ? `${status.filingCount} filings` : status.message;
+            return `
+              <div class="status">
+                <span class="dot ${dotClass}"></span>
+                <div>
+                  <strong>${escapeHtml(status.company)} (${escapeHtml(status.ticker)})</strong>
+                  <span>${escapeHtml(message)}</span>
+                </div>
+              </div>`;
+          })
+          .join("");
       }
+
+      document.querySelectorAll("[data-view]").forEach((button) => {
+        button.addEventListener("click", () => {
+          document.querySelectorAll("[data-view]").forEach((item) => item.classList.remove("active"));
+          button.classList.add("active");
+          state.view = button.dataset.view;
+          document.getElementById("search").placeholder =
+            state.view === "News" ? "Search company, source, headline" : "Search company, ticker, form";
+          render();
+        });
+      });
 
       document.querySelectorAll("[data-category]").forEach((button) => {
         button.addEventListener("click", () => {
@@ -431,13 +512,21 @@
         render();
       });
 
-      fetch("generated/articles.json", { cache: "no-store" })
-        .then((response) => {
+      Promise.all([
+        fetch("generated/articles.json", { cache: "no-store" }).then((response) => {
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
           return response.json();
-        })
-        .then((data) => {
-          state.data = data;
+        }),
+        fetch("generated/sec-filings.json", { cache: "no-store" })
+          .then((response) => {
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            return response.json();
+          })
+          .catch(() => ({ filings: [], statuses: [], filingCount: 0 })),
+      ])
+        .then((response) => {
+          state.data = response[0];
+          state.secData = response[1];
           render();
         })
         .catch((error) => {

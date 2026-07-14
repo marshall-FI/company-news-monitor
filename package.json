@@ -12,6 +12,7 @@
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
     "feeds:generate": "python feed-generator/generate.py",
+    "sec:generate": "python feed-generator/generate_sec_filings.py",
     "feeds:pages": "python feed-generator/build_pages.py"
   },
   "dependencies": {

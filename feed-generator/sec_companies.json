@@ -1,0 +1,31 @@
+{
+  "companies": [
+    { "company": "SoFi", "display_name": "SoFi Technologies", "ticker": "SOFI", "cik": "1818874", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Toast", "display_name": "Toast", "ticker": "TOST", "cik": "1650164", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Marqeta", "display_name": "Marqeta", "ticker": "MQ", "cik": "1522540", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Block", "display_name": "Block", "ticker": "XYZ", "cik": "1512673", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Affirm", "display_name": "Affirm Holdings", "ticker": "AFRM", "cik": "1820953", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Shift4", "display_name": "Shift4 Payments", "ticker": "FOUR", "cik": "1794669", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Adyen", "display_name": "Adyen N.V.", "ticker": "ADYYF", "cik": "1788707", "category": "Fintech Blogs", "forms": ["20-F", "6-K", "F-1", "424B"] },
+    { "company": "Shopify", "display_name": "Shopify", "ticker": "SHOP", "cik": "1594805", "category": "Fintech Blogs", "forms": ["20-F", "40-F", "6-K", "F-1", "424B"] },
+    { "company": "Nubank", "display_name": "Nu Holdings", "ticker": "NU", "cik": "1691493", "category": "Fintech Blogs", "forms": ["20-F", "6-K", "F-1", "424B"] },
+    { "company": "PayPal", "display_name": "PayPal Holdings", "ticker": "PYPL", "cik": "1633917", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Robinhood", "display_name": "Robinhood Markets", "ticker": "HOOD", "cik": "1783879", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Coinbase", "display_name": "Coinbase Global", "ticker": "COIN", "cik": "1679788", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Upstart", "display_name": "Upstart Holdings", "ticker": "UPST", "cik": "1647639", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Wise", "display_name": "Wise Group", "ticker": "WSE", "cik": "2099039", "category": "Fintech Blogs", "forms": ["20-F", "6-K", "F-1", "424B"] },
+    { "company": "Klarna", "display_name": "Klarna Group", "ticker": "KLAR", "cik": "2003292", "category": "Fintech Blogs", "forms": ["20-F", "6-K", "F-1", "424B"] },
+    { "company": "Dave", "display_name": "Dave", "ticker": "DAVE", "cik": "1841408", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Galileo", "display_name": "SoFi Technologies", "ticker": "SOFI", "cik": "1818874", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A"], "filing_note": "Galileo is tracked through parent company SoFi Technologies." },
+    { "company": "Chime", "display_name": "Chime Financial", "ticker": "CHYM", "cik": "1795586", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Circle", "display_name": "Circle Internet Group", "ticker": "CRCL", "cik": "1876042", "category": "Fintech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "dLocal", "display_name": "dLocal", "ticker": "DLO", "cik": "1846832", "category": "Fintech Blogs", "forms": ["20-F", "6-K", "F-1", "424B"] },
+    { "company": "NVIDIA", "display_name": "NVIDIA", "ticker": "NVDA", "cik": "1045810", "category": "Big Tech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Datadog", "display_name": "Datadog", "ticker": "DDOG", "cik": "1561550", "category": "Big Tech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Tesla", "display_name": "Tesla", "ticker": "TSLA", "cik": "1318605", "category": "Big Tech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "The Trade Desk", "display_name": "The Trade Desk", "ticker": "TTD", "cik": "1671933", "category": "Big Tech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Amazon", "display_name": "Amazon.com", "ticker": "AMZN", "cik": "1018724", "category": "Big Tech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "Google", "display_name": "Alphabet", "ticker": "GOOGL", "cik": "1652044", "category": "Big Tech Blogs", "forms": ["10-K", "10-Q", "8-K", "DEF 14A", "S-1", "424B"] },
+    { "company": "TSMC", "display_name": "Taiwan Semiconductor Manufacturing", "ticker": "TSM", "cik": "1046179", "category": "Big Tech Blogs", "forms": ["20-F", "6-K", "F-1", "424B"] }
+  ]
+}

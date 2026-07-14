@@ -66,6 +66,32 @@ input {
   gap: 12px;
 }
 
+.view-switch {
+  background: #e8ebe4;
+  border: 1px solid #d5d9d0;
+  border-radius: 8px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  padding: 4px;
+}
+
+.view-button {
+  background: transparent;
+  border: 0;
+  border-radius: 6px;
+  color: #5b665f;
+  cursor: pointer;
+  min-height: 38px;
+  padding: 8px 10px;
+}
+
+.view-button.active {
+  background: #ffffff;
+  color: #14211f;
+  font-weight: 800;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
 .tabs {
   display: grid;
   gap: 8px;
@@ -237,6 +263,10 @@ input {
   padding-right: 4px;
 }
 
+.status-list.compact {
+  max-height: 260px;
+}
+
 .status-row {
   align-items: flex-start;
   display: grid;
@@ -302,6 +332,10 @@ input {
 
   .tabs {
     min-width: 480px;
+  }
+
+  .view-switch {
+    min-width: 240px;
   }
 
   .search {
