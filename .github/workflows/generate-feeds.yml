@@ -51,7 +51,7 @@ jobs:
           mkdir -p feed-generator/.sec-cache
           python feed-generator/generate_sec_filings.py --print-snapshot-urls | while IFS=$'\t' read -r filename url; do
             (
-              curl --fail --silent --show-error --location --connect-timeout 8 --max-time 25 --retry 1 --retry-all-errors "$url" --output "feed-generator/.sec-cache/$filename" || true
+              curl --fail --silent --show-error --location --connect-timeout 6 --max-time 15 "$url" --output "feed-generator/.sec-cache/$filename" || true
             ) &
             if (( $(jobs -r -p | wc -l) >= 4 )); then
               wait -n || true

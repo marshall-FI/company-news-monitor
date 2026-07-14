@@ -665,7 +665,18 @@ def main() -> int:
     batch_error = "; ".join(batch_errors)
 
     for company in companies:
-        filings, status = generate_company(company, batched_filings, batch_error)
+        if not batched_filings.get(company.company) and company.company in previous_filings:
+            filings = previous_filings[company.company]
+            status = SecStatus(
+                company=company.company,
+                ticker=company.ticker,
+                cik=cik10(company.cik),
+                ok=False,
+                filingCount=len(filings),
+                message=f"STALE: retained {len(filings)} last-known-good filings; {batch_error or 'SEC snapshot unavailable'}",
+            )
+        else:
+            filings, status = generate_company(company, batched_filings, batch_error)
         if not filings and company.company in previous_filings:
             filings = previous_filings[company.company]
             status = SecStatus(
