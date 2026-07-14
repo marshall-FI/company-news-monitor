@@ -655,6 +655,9 @@ def main() -> int:
         company_batch = companies[start:start + 7]
         if all(batched_filings.get(company.company) for company in company_batch):
             continue
+        if all(previous_filings.get(company.company) for company in company_batch):
+            batch_errors.append(f"{company_batch[0].company}-{company_batch[-1].company}: snapshot unavailable; using last-known-good filings")
+            continue
         try:
             fetched = fetch_batched_efts(company_batch)
             for company_name, filings in fetched.items():
