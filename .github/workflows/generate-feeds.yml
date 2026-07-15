@@ -49,15 +49,23 @@ jobs:
           python -m unittest feed-generator/test_sec_filings.py -v
           python feed-generator/generate.py
           mkdir -p feed-generator/.sec-cache
-          python feed-generator/generate_sec_filings.py --print-snapshot-urls | while IFS=$'\t' read -r filename url; do
+          while IFS=$'\t' read -r filename url; do
             (
-              curl --fail --silent --show-error --location --connect-timeout 6 --max-time 15 "$url" --output "feed-generator/.sec-cache/$filename" || true
+              target="feed-generator/.sec-cache/$filename"
+              temporary="$target.tmp"
+              if curl --fail --silent --show-error --location --connect-timeout 6 --max-time 15 "$url" --output "$temporary"; then
+                mv "$temporary" "$target"
+              else
+                rm -f "$temporary"
+              fi
             ) &
             if (( $(jobs -r -p | wc -l) >= 4 )); then
               wait -n || true
             fi
-          done
+          done < <(python feed-generator/generate_sec_filings.py --print-snapshot-urls)
           wait
+          snapshot_count=$(find feed-generator/.sec-cache -type f -name 'batch-*.txt' -size +0c | wc -l)
+          echo "SEC snapshots downloaded: $snapshot_count/12"
           python feed-generator/generate_sec_filings.py
 
       - name: Show source health
