@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T00:08:11.228374+00:00",
+  "generatedAt": "2026-07-15T03:37:09.733208+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5779,7 +5779,7 @@
       "cik": "0001561550",
       "ok": true,
       "filingCount": 8,
-      "message": "8 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 8 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Tesla",
@@ -5787,7 +5787,7 @@
       "cik": "0001318605",
       "ok": true,
       "filingCount": 5,
-      "message": "5 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 5 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "The Trade Desk",
@@ -5795,7 +5795,7 @@
       "cik": "0001671933",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Amazon",
@@ -5803,7 +5803,7 @@
       "cik": "0001018724",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Google",
@@ -5811,7 +5811,7 @@
       "cik": "0001652044",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "TSMC",
@@ -5819,7 +5819,7 @@
       "cik": "0001046179",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     }
   ]
 }
