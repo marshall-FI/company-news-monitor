@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T09:25:02.285218+00:00",
+  "generatedAt": "2026-07-15T11:51:22.474823+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5779,23 +5779,23 @@
       "cik": "0001561550",
       "ok": true,
       "filingCount": 6,
-      "message": "6 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 6 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Tesla",
       "ticker": "TSLA",
       "cik": "0001318605",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 11,
+      "message": "STALE: retained 11 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "The Trade Desk",
       "ticker": "TTD",
       "cik": "0001671933",
       "ok": true,
-      "filingCount": 9,
-      "message": "9 filings via SEC EDGAR read-through"
+      "filingCount": 8,
+      "message": "STALE: retained 8 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Amazon",
@@ -5803,7 +5803,7 @@
       "cik": "0001018724",
       "ok": true,
       "filingCount": 9,
-      "message": "9 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 9 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Google",
@@ -5811,7 +5811,7 @@
       "cik": "0001652044",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "TSMC",
@@ -5819,7 +5819,7 @@
       "cik": "0001046179",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     }
   ]
 }
