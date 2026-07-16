@@ -46,6 +46,7 @@ jobs:
 
       - name: Generate JSON and RSS feeds
         run: |
+          python -m unittest feed-generator/test_generate.py -v
           python -m unittest feed-generator/test_sec_filings.py -v
           python feed-generator/generate.py
           mkdir -p feed-generator/.sec-cache

@@ -74,11 +74,13 @@ type SecResponse = {
 const categories: Category[] = ["All", "Fintech Blogs", "Big Tech Blogs"];
 
 function formatTime(value: string) {
+  if (!value || Number.isNaN(new Date(value).getTime())) {
+    return "Date unavailable";
+  }
   return new Intl.DateTimeFormat("en-US", {
+    year: "numeric",
     month: "short",
     day: "numeric",
-    hour: "numeric",
-    minute: "2-digit",
   }).format(new Date(value));
 }
 
@@ -162,7 +164,7 @@ export default function Home() {
         normalizedQuery === "" ||
         `${article.title} ${article.summary} ${article.company} ${article.sourceName}`.toLowerCase().includes(normalizedQuery);
       return categoryOk && queryOk;
-    });
+    }).sort((a, b) => Date.parse(b.publishedAt || "1970-01-01") - Date.parse(a.publishedAt || "1970-01-01"));
   }, [category, data, query]);
 
   const filings = useMemo(() => {

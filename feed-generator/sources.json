@@ -117,8 +117,8 @@
       "source_url": "https://news.shopify.com/",
       "feed_url": "https://news.shopify.com/",
       "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Anews.shopify.com%20Shopify&hl=en-US&gl=US&ceid=US:en"],
-      "include_patterns": ["news.shopify.com/"],
-      "exclude_patterns": ["?", "#", "/tags/", "/search"]
+      "include_patterns": ["shopify.com/news/", "news.shopify.com/"],
+      "exclude_patterns": ["?", "#", "/tags/", "/search", "/news/legal/", "/news/partners/", "/news/tools", "/news/compare", "/news/affiliates", "/news/climate", "/news/editions", "/news/category/"]
     },
     {
       "id": "nubank-newsroom",
@@ -153,9 +153,10 @@
       "kind": "html",
       "source_url": "https://blog.robinhood.com/",
       "feed_url": "https://blog.robinhood.com/",
+      "repair_slug_links": true,
       "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Ablog.robinhood.com%20Robinhood&hl=en-US&gl=US&ceid=US:en"],
       "include_patterns": ["blog.robinhood.com", "robinhood.com/us/en/newsroom"],
-      "exclude_patterns": ["?", "#"]
+      "exclude_patterns": ["?", "#", "/category/"]
     },
     {
       "id": "coinbase-blog",
@@ -277,7 +278,7 @@
       "feed_url": "https://www.dlocal.com/blog/",
       "alternate_feed_urls": ["https://news.google.com/rss/search?q=site%3Adlocal.com%2Fblog%20dLocal&hl=en-US&gl=US&ceid=US:en"],
       "include_patterns": ["/blog/"],
-      "exclude_patterns": ["?", "#"]
+      "exclude_patterns": ["?", "#", "/blog/category/"]
     },
     {
       "id": "nvidia-newsroom",

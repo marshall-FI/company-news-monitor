@@ -362,12 +362,14 @@
       const state = { category: "All", query: "", view: "News", data: null, secData: null };
 
       function formatTime(value) {
+        if (!value) return "Date unavailable";
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return "Date unavailable";
         return new Intl.DateTimeFormat("en-US", {
+          year: "numeric",
           month: "short",
           day: "numeric",
-          hour: "numeric",
-          minute: "2-digit",
-        }).format(new Date(value));
+        }).format(date);
       }
 
       function escapeHtml(value) {
@@ -412,7 +414,8 @@
         document.getElementById("healthyCount").textContent = statuses.length - issues.length;
         document.getElementById("issueCount").textContent = issues.length;
 
-        const filtered = state.view === "News" ? (data.articles || []).filter(articleMatches) : (secData.filings || []).filter(filingMatches);
+        const filtered = (state.view === "News" ? (data.articles || []).filter(articleMatches) : (secData.filings || []).filter(filingMatches))
+          .sort((a, b) => Date.parse(b.publishedAt || b.filingDate || 0) - Date.parse(a.publishedAt || a.filingDate || 0));
         document.getElementById("articles").innerHTML =
           filtered.length === 0
             ? `<div class="state">No matching ${state.view === "News" ? "articles" : "SEC filings"}.</div>`
