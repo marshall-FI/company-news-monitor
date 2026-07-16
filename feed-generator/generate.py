@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, asdict, replace
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
@@ -25,6 +25,7 @@ OUTPUT_DIR = REPO_ROOT / "public" / "generated"
 FEEDS_DIR = OUTPUT_DIR / "feeds"
 ARTICLES_PATH = OUTPUT_DIR / "articles.json"
 SOURCES_PATH = OUTPUT_DIR / "sources.json"
+READER_BASE = "https://r.jina.ai/"
 MAX_ITEMS_PER_SOURCE = 18
 MAX_TOTAL_ITEMS = 240
 STALE_AFTER_HOURS = 72
@@ -172,6 +173,16 @@ def rss_date(value: str) -> str:
     return format_datetime(datetime.fromisoformat(parsed))
 
 
+def publication_date(value: str) -> str:
+    parsed = iso_date(value)
+    if not parsed:
+        return ""
+    published = datetime.fromisoformat(parsed)
+    if published > datetime.now(timezone.utc).replace(microsecond=0) + timedelta(days=1):
+        return ""
+    return parsed
+
+
 def normalize_url(url: str) -> str:
     parsed = urlparse(url)
     return f"{parsed.netloc.removeprefix('www.')}{parsed.path.rstrip('/')}"
@@ -205,10 +216,14 @@ def unwrap_redirect(url: str) -> str:
 
 
 def repair_article_url(source: dict[str, Any], title: str, url: str) -> str:
-    if not source.get("repair_slug_links"):
-        return url
     parsed = urlparse(url)
     parts = [part for part in parsed.path.split("/") if part]
+    host_aliases = {parsed.netloc.lower(), parsed.netloc.lower().removeprefix("www.")}
+    if parts and parts[0].lower() in host_aliases:
+        parts.pop(0)
+        return parsed._replace(path="/" + "/".join(parts), query="", fragment="").geturl()
+    if not source.get("repair_slug_links"):
+        return url
     if len(parts) >= 2 and parts[-1] == parts[-2]:
         parts.pop()
         return parsed._replace(path="/" + "/".join(parts), query="", fragment="").geturl()
@@ -347,6 +362,10 @@ def make_summary(source: dict[str, Any], title: str, summary: str) -> str:
 
 def article_from_parts(source: dict[str, Any], title: str, link: str, summary: str, published_at: str, source_kind: str, apply_patterns: bool = True) -> Article | None:
     clean_title = clean_text(title)
+    if source_kind == "google_news":
+        title_without_publisher = re.sub(r"\s+-\s+[^-]{2,80}$", "", clean_title).strip()
+        if len(title_without_publisher) >= 8:
+            clean_title = title_without_publisher
     clean_summary = clean_text(summary)
     if not clean_title or not link or not title_allowed(source, clean_title) or not is_english(clean_title, clean_summary):
         return None
@@ -360,7 +379,7 @@ def article_from_parts(source: dict[str, Any], title: str, link: str, summary: s
         title=clean_title,
         link=absolute_link,
         summary=make_summary(source, clean_title, clean_summary),
-        publishedAt=iso_date(published_at),
+        publishedAt=publication_date(published_at),
         sourceId=source["id"],
         sourceName=source["name"],
         company=source["company"],
@@ -411,6 +430,14 @@ def find_date(value: str) -> str:
     return ""
 
 
+def find_leading_date(value: str) -> str:
+    for pattern in DATE_PATTERNS:
+        match = pattern.match((value or "").strip())
+        if match and publication_date(match.group(0)):
+            return match.group(0)
+    return ""
+
+
 def strip_leading_date(value: str) -> str:
     cleaned = value.strip()
     for pattern in DATE_PATTERNS:
@@ -445,8 +472,11 @@ def container_metadata(container: HtmlNode, raw_title: str) -> tuple[str, str]:
     time_elements = container.descendants({"time"}, limit=1)
     if time_elements:
         date = time_elements[0].attrs.get("datetime") or time_elements[0].text()
-    if not iso_date(date):
-        date = find_date(container.text()) or find_date(raw_title)
+    if not publication_date(date):
+        container_text = container.text()
+        date = find_date(container_text) if normalize_title(container_text) != normalize_title(raw_title) else ""
+    if not publication_date(date):
+        date = find_leading_date(raw_title)
 
     summary = ""
     title_key = normalize_title(strip_leading_date(raw_title))
@@ -585,24 +615,54 @@ def page_metadata(html: str, page_url: str) -> tuple[str, str, str]:
     return published_at, summary, canonical_url or page_url
 
 
+def reader_metadata(text: str) -> tuple[str, str]:
+    if "Title: Page Unavailable" in text or "Target URL returned error" in text:
+        return "", ""
+    title_block, _, markdown = text.partition("Markdown Content:")
+    published_at = find_date(title_block)
+    paragraphs = re.split(r"\n\s*\n", markdown)
+    summary = ""
+    for paragraph in paragraphs:
+        candidate = clean_text(re.sub(r"!?\[([^\]]*)\]\([^)]*\)", r"\1", paragraph))
+        if 60 <= len(candidate) <= 800 and not candidate.startswith(("Image ", "Warning:")):
+            summary = candidate
+            break
+    if not published_at:
+        published_at = find_date(summary)
+    return publication_date(published_at), summary
+
+
 def enrich_html_articles(source: dict[str, Any], articles: list[Article]) -> list[Article]:
     def enrich(article: Article) -> Article:
         generic_summary = article.summary.startswith(f"{source['name']} published an update") or len(article.summary) < 100
         if article.publishedAt and not generic_summary:
             return article
+        published_at = ""
+        summary = ""
+        resolved_link = article.link
         try:
             html, final_url = fetch_document(article.link, int(source.get("detail_timeout_seconds", 10)))
             published_at, summary, canonical_url = page_metadata(html, final_url)
         except Exception:
-            return article
-        resolved_link = canonical_url if link_matches(source, canonical_url, True) else final_url
+            canonical_url = ""
+            final_url = article.link
+        if canonical_url:
+            resolved_link = canonical_url if link_matches(source, canonical_url, True) else final_url
+        if source.get("read_through_details") and (not publication_date(published_at) or len(clean_text(summary)) < 100):
+            try:
+                reader_text = fetch_text(f"{READER_BASE}{article.link}", int(source.get("reader_timeout_seconds", 20)))
+                reader_date, reader_summary = reader_metadata(reader_text)
+                published_at = reader_date or published_at
+                summary = reader_summary or summary
+            except Exception:
+                pass
         resolved_link = repair_article_url(source, article.title, resolved_link)
         return replace(
             article,
             id=f"{source['id']}-{hash_id(resolved_link)}",
             link=resolved_link,
             summary=make_summary(source, article.title, summary or article.summary),
-            publishedAt=iso_date(published_at) or article.publishedAt,
+            publishedAt=publication_date(published_at) or article.publishedAt,
         )
 
     with ThreadPoolExecutor(max_workers=min(6, max(1, len(articles)))) as executor:
@@ -684,6 +744,17 @@ def fetch_articles_for_strategy(source: dict[str, Any], strategy: str) -> tuple[
     raise RuntimeError(f"Unknown generator strategy: {strategy}")
 
 
+def fetch_supplemental_articles(source: dict[str, Any]) -> list[Article]:
+    articles: list[Article] = []
+    for url in source.get("supplemental_feed_urls") or []:
+        try:
+            text = fetch_text(url, int(source.get("timeout_seconds", 30)))
+            articles.extend(parse_rss(source, text, "rss", apply_patterns=False))
+        except Exception:
+            continue
+    return articles
+
+
 def load_previous() -> dict[str, list[Article]]:
     if not ARTICLES_PATH.exists():
         return {}
@@ -707,6 +778,11 @@ def fetch_source(source: dict[str, Any], previous: dict[str, list[Article]]) -> 
     for strategy in generator_order(source):
         try:
             articles, kind, message = fetch_articles_for_strategy(source, strategy)
+            supplemental = fetch_supplemental_articles(source)
+            if supplemental:
+                articles = [*supplemental, *articles]
+                message = f"{message} + official supplemental RSS"
+            articles = sort_source_articles(articles)
             if len(articles) >= minimum_items or (strategy == generator_order(source)[-1] and articles):
                 return articles, SourceStatus(source["id"], source["name"], source["category"], kind, True, len(articles), message)
             last_error = f"{strategy} returned {len(articles)} item(s), below minimum {minimum_items}"
@@ -720,6 +796,32 @@ def fetch_source(source: dict[str, Any], previous: dict[str, list[Article]]) -> 
             source["id"], source["name"], source["category"], source["kind"], True, len(fallback[:MAX_ITEMS_PER_SOURCE]), f"STALE: {last_error}"
         )
     return [], SourceStatus(source["id"], source["name"], source["category"], source["kind"], False, 0, last_error)
+
+
+def sort_source_articles(articles: list[Article]) -> list[Article]:
+    preferred_by_title: dict[str, Article] = {}
+    ungrouped: list[Article] = []
+    for article in articles:
+        title_key = normalize_title(article.title)
+        if len(title_key) <= 18:
+            ungrouped.append(article)
+            continue
+        current = preferred_by_title.get(title_key)
+        candidate_rank = (article.sourceKind != "google_news", article.publishedAt or "")
+        current_rank = (current.sourceKind != "google_news", current.publishedAt or "") if current else (False, "")
+        if current is None or candidate_rank > current_rank:
+            preferred_by_title[title_key] = article
+
+    selected: list[Article] = []
+    seen_urls: set[str] = set()
+    candidates = [*preferred_by_title.values(), *ungrouped]
+    for article in sorted(candidates, key=lambda item: item.publishedAt or "", reverse=True):
+        url_key = normalize_url(article.link)
+        if url_key in seen_urls:
+            continue
+        seen_urls.add(url_key)
+        selected.append(article)
+    return selected[:MAX_ITEMS_PER_SOURCE]
 
 
 def dedupe_articles(articles: list[Article]) -> list[Article]:
