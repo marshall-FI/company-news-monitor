@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T21:54:17.693775+00:00",
+  "generatedAt": "2026-07-16T22:00:38.267518+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -23,10 +23,10 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK via rendered HTML"
     },
     {
       "sourceId": "block-investor-news",
@@ -59,10 +59,10 @@
       "sourceId": "adyen-newsroom",
       "sourceName": "Adyen Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
-      "itemCount": 1,
-      "message": "OK via official fallback RSS"
+      "itemCount": 5,
+      "message": "OK via rendered HTML"
     },
     {
       "sourceId": "shopify-pressroom",
@@ -77,10 +77,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
-      "itemCount": 3,
-      "message": "OK via official fallback RSS"
+      "itemCount": 2,
+      "message": "OK via rendered HTML"
     },
     {
       "sourceId": "paypal-newsroom",
@@ -131,10 +131,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 18,
-      "message": "OK"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "dave-press",
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS + official supplemental RSS"
+      "itemCount": 10,
+      "message": "OK via rendered HTML + official supplemental RSS"
     },
     {
       "sourceId": "circle-pressroom",
