@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T21:19:05.304125+00:00",
+  "generatedAt": "2026-07-16T21:31:04.019991+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -61,7 +61,7 @@
       "category": "Fintech Blogs",
       "kind": "rendered_html",
       "ok": true,
-      "itemCount": 4,
+      "itemCount": 5,
       "message": "OK via rendered HTML"
     },
     {
@@ -70,7 +70,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 16,
+      "itemCount": 6,
       "message": "OK"
     },
     {
@@ -97,7 +97,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 15,
+      "itemCount": 10,
       "message": "OK"
     },
     {
@@ -158,19 +158,19 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 12,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 7,
+      "message": "OK"
     },
     {
       "sourceId": "dlocal-blog",
