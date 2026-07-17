@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T03:39:52.035565+00:00",
+  "generatedAt": "2026-07-17T06:31:14.878455+00:00",
   "articles": [
     {
       "id": "chime-newsroom-740358f1ae86a1ff1be1",
@@ -182,18 +182,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
       "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
       "link": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
@@ -240,6 +228,18 @@
       "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-2e7be23aa7fb0b16d54d",
+      "title": "Honolulu Cookie Company Utilizes Square to Power Its Expanding Multi-Location Retail Operation",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbEJnNmt3dUlZcTlnMVBNRkJaOVRiZjJoVnpTN01sWDBJd25qR2ZYcEFPQ3hzWFp5Ml9JNjlMck5yTkVocUJtY1owQWpjY0ZOSFBLaC1mdU5aVG5NOERYOWpFdVdlWWU1Z19VYmNWS2J0R19fdU9aQWh0Ri03N2lKMmpuelJjc0tjU1FUdW9nNk40LVJKWkpaY2VRQVhfcGo4dmY3QXRrV0szZ3hQWmltOUFWSnNqR1pxbXMzaUpGVzVhdjB1bEtzcGs5SGtja0pOQ0xiNnhBMlhpVWpVNTRMZzliVGUxTDdXU1FmWllKOWtwV0pRRGJIWnVycw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-15T23:43:52+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-95300e42c15814650a6c",
@@ -542,18 +542,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-5f07fb13c603faa43625",
       "title": "Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando IA a sus funcionalidades",
       "link": "https://press.aboutamazon.com/es/news/amazon-business/2026/7/amazon-business-prime-ia-funcionalidades",
@@ -564,6 +552,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-5be6ad160600f107b941",
@@ -698,18 +698,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "klarna-press-a3232a8674f2bcb98916",
-      "title": "Flix and Klarna expand partnership to give millions of travelers across the U.S. and Europe more ways to pay",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGFEMWljSG5YSzQ1YnVRN1JSdmNvWkhlSkZtS3l2TnlPTnVfU2dwNHI4ekFZclFvQ3hub1ZrTzloMV9zb28zRGZmZm1VbE9HdGdPdHcwd2R6bEhsZG1Fc2thSVJNenhFU0pFN1hPYXMwZDR1WldxWGdIUF9MbW1MYzFyYUV1aGpPRW1kYlJjQ2plaHZyOGhzX0lJWHl2RkhqWjdYbnhUMFBMLVFaTXdjTWVKX01MVTFjSGlQcW9RT29oY2hWcTI4U3RzS2NhMk1tb0RoZmFFdUUyeVN2SG9fVmx0OWgwdw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-08T14:21:59+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "amazon-press-archive-3b369b7979751db028df",
       "title": "Amazon Supports Weekly Humanitarian Relief Flights to Venezuela in First-of-its-Kind Collaboration",
       "link": "https://press.aboutamazon.com/2026/7/amazon-supports-weekly-humanitarian-relief-flights-to-venezuela-in-first-of-its-kind-collaboration",
@@ -746,6 +734,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "klarna-press-a3232a8674f2bcb98916",
+      "title": "Flix and Klarna expand partnership to give millions of travelers across the U.S. and Europe more ways to pay",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGFEMWljSG5YSzQ1YnVRN1JSdmNvWkhlSkZtS3l2TnlPTnVfU2dwNHI4ekFZclFvQ3hub1ZrTzloMV9zb28zRGZmZm1VbE9HdGdPdHcwd2R6bEhsZG1Fc2thSVJNenhFU0pFN1hPYXMwZDR1WldxWGdIUF9MbW1MYzFyYUV1aGpPRW1kYlJjQ2plaHZyOGhzX0lJWHl2RkhqWjdYbnhUMFBMLVFaTXdjTWVKX01MVTFjSGlQcW9RT29oY2hWcTI4U3RzS2NhMk1tb0RoZmFFdUUyeVN2SG9fVmx0OWgwdw?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-08T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "amazon-press-archive-d501904f421b5eea02e7",
       "title": "How AWS Helps Power Fullpower-AI Sleep Intelligence for Smart Beds Globally",
       "link": "https://press.aboutamazon.com/aws/2026/7/how-aws-helps-power-fullpower-ai-sleep-intelligence-for-smart-beds-globally",
@@ -778,18 +778,6 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-287611d804506569a0a7",
-      "title": "SoFi Expands ETF Lineup with the Social 50 Income ETF (SFYI), Seeking Income and Pursuing Growth",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmxQX0kyeHVWR0I5T1BaeS1peFlKd0xSZzljZWZsai01RXhraUxwa1VqNWdrcmV0bzJSRFVVeFRVbDFWdGxZakh0WTk1a1RZWEVuY0h3a0hPeThqZEgtbVZwSzJWMHRZZDVmNnQyNWJWSHpXYkZKcTRON3JPWXRVYzdiSG11RzhBV1pxMnNFQXRoSTZiU0UtclVYVzYxUGFuM2ZyRkZZTno5VVZNV1pneHM4aFZBRDAzWjZETEluQ0tST0tuRTJpSUJaQzhsVUJUcVFGNFhNUzRpY3ZfNUx5c2xudXpyU1dxZEZteg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-07T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1102,18 +1090,6 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "adyen-newsroom-02803d2473f48dc7b19a",
-      "title": "Adyen Closes Talon.One and Orb Acquisitions; Announces Leadership Updates Across Product and Finance Amsterdam · July 1st, 2026",
-      "link": "https://www.adyen.com/press-and-media/adyen-closes-talonone-and-orb-acquisitions-announces-leadership-updates",
-      "summary": "AMSTERDAM, July 1, 2026 – Adyen N.V. (AMS: ADYEN) today announces the successful closing of its previously announced acquisitions of Talon.One, a leading platform for loyalty and incentives, and Orb, an enterprise billing platform.",
-      "publishedAt": "2026-07-01T00:00:00+00:00",
-      "sourceId": "adyen-newsroom",
-      "sourceName": "Adyen Newsroom",
-      "company": "Adyen",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1742,6 +1718,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-bf3f9f54fcbcc79683b7",
+      "title": "2026/05/12 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3311",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-12T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-3aae071e6b75008c3d5d",
       "title": "Affirm works with Google to make AI shopping payments clear and simple",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-works-google-make-ai-shopping-payments-clear-and-simple/",
@@ -1806,6 +1794,18 @@
       "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
       "link": "https://pr.tsmc.com/english/news/3308",
       "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7b041f3b81909f5a8181",
+      "title": "2026/05/08 TSMC April 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3305",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -2006,6 +2006,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-7c24989a81478598c50a",
+      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "link": "https://pr.tsmc.com/english/news/3302",
+      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "publishedAt": "2026-04-23T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-59cd39600e4f0f00bf42",
       "title": "Shift4 Announces Date of First Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/297/shift4-announces-date-of-first-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -2078,6 +2090,30 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-dced848abc1618b53274",
+      "title": "2026/04/16 TSMC Files Annual Report on Form 20-F for 2025",
+      "link": "https://pr.tsmc.com/english/news/3300",
+      "summary": "TSMC Files Annual Report on Form 20-F for 2025",
+      "publishedAt": "2026-04-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-8fe94b096d2d15fb62f8",
+      "title": "2026/04/16 TSMC Reports First Quarter EPS of NT$22.08",
+      "link": "https://pr.tsmc.com/english/news/3297",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-04-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "chime-newsroom-a2baebb27185beeeb35c",
       "title": "Chime to Announce First Quarter 2026 Financial Results on May 6, 2026",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-announce-first-quarter-2026-financial-results-may-6-2026",
@@ -2122,18 +2158,6 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2570,6 +2594,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "toast-product-news-248f88a05db1ebdf9492",
+      "title": "Toast announces 120 new Dublin jobs with 3-year investment",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMDZLMVNuZVotRXZEdG9aY1N0SURMV1FrdXRZa1YwTzJnR2xtMU1ha28wS2R5WE5ER0szQTVlalVQWTREM3FvaFl2bEVKbS1uaDRCaUtZNGtReTFaVHRVb19TR1d6dXNkNHVSOUlLVGJ2dGpMOC15Z3JRWnJaSVpRMGFjN18yYzZaQzdmNElHa0hmZw?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-12-18T08:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "coinbase-blog-723efe929590bb13d10c",
       "title": "State of Crypto Q4 2025: Younger investors are rewriting the investing playbook",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNUTlCRHYwem03dy1DTk0wYmxuNjNjdVNLZnBuMElYOFAyQW82SzZaOUJLamhxdjkzNkpUUVgwTVhRUEx2NWszSjBpYm9rR1VRV3NzbTROdGF6YWlXdVhXRWdRMA?oc=5",
@@ -2844,42 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "galileo-blog-852873d8336b35abef10",
-      "title": "5 Ways CTOs Can Use Virtual Assistants to Drive Innovation",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0pwRElQOE1SdXItVmhZZHh4bVdIVDRRMzRJb2tjOS1ROFE2MnROT3NINW1tVDlqVThpczA2RGI5QVVSbzZJOFJ5eHRhWFdqSkx4U05YOEc1WU1kN3hMbktvSzl6V3VrMHpuems0NVZtaHpOWEVHV05xNl9BNUpXSklkTHk0RXVXVnNVUw?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-02T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
