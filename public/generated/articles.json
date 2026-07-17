@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:15:57.203681+00:00",
+  "generatedAt": "2026-07-17T03:39:52.035565+00:00",
   "articles": [
     {
       "id": "chime-newsroom-740358f1ae86a1ff1be1",
@@ -180,6 +180,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
@@ -528,6 +540,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-5f07fb13c603faa43625",
@@ -1034,18 +1058,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-30683873a6dbcadcb4bd",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q2 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFNDVkJzMjlaTW40NVF6OV83Q01IUkx5YWRwVUtXOVNSZ0FlZ25wWVc2bm9iWDF6UW90SUNvb0tCVUVJZ1dpSkk1RmxZV3ZhUnF2cGpxNUR4YUdRaHdJRldENGszd2UwYkd2Z0RsMFVoZ0MwMU9nWUdERHotemhMTFpoYzI0T3JnRXNUTDNaQVdSVDd5NzRMMzh5eFloczQzMFEwaWRpVTk1dFZUVGJKZVZwWlNsY3J5R0Y2Rg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-01T12:01:03+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "amazon-press-archive-3b2cbc4c7ed515d0fab2",
       "title": "¿Y tú, de quién eres? Gazpacho o Salmorejo",
       "link": "https://press.aboutamazon.com/es/news/company-news/2026/7/y-tu-de-quien-eres-gazpacho-o-salmorejo",
@@ -1056,6 +1068,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-30683873a6dbcadcb4bd",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q2 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFNDVkJzMjlaTW40NVF6OV83Q01IUkx5YWRwVUtXOVNSZ0FlZ25wWVc2bm9iWDF6UW90SUNvb0tCVUVJZ1dpSkk1RmxZV3ZhUnF2cGpxNUR4YUdRaHdJRldENGszd2UwYkd2Z0RsMFVoZ0MwMU9nWUdERHotemhMTFpoYzI0T3JnRXNUTDNaQVdSVDd5NzRMMzh5eFloczQzMFEwaWRpVTk1dFZUVGJKZVZwWlNsY3J5R0Y2Rg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "affirm-news-cbbdd38f6874ee7eed59",
@@ -1406,30 +1430,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "block-investor-news-a0d5606912161961133e",
-      "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGppUklmZmdvaEoyT1hKNVNHd3Blbm05eTB5c1JaWEpCaXdITHN4bkEtRndCUjh6UXdxbEM0b1BLUzlqZFA1UzR0U0FYV0hqSUNNWUNkNU1ZcS04ejNDQTJ6bkZDTUxrVFlLLU5NTzhSalJrMF9OM0JmR3k2bUxNbUp5SzhIYUVtRXVfMXFZVmdmLTlfcEx4S2xmNEJSVy1kd1p6WHJhRFJmLTdCNDEwSks1Tk9vNmlMWGY3WWFRZ3RBOVRBaTVoQUNOUEJ5azFjLS1pY0tvMWFlenJGWWx2SXBZOFVwc0ZCci05ZQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-11T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-7e692247b9b8df346088",
-      "title": "Coinbase Partners with MassPay to Unlock Cross-Border Stablecoin Payouts for Global Enterprises",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlNLMUVxcl8xWjZNelZLUmFrclQ2aUs5NkFZVm9tODBLblM4ZnJVdnRLdWR2TEloSFp5OTFwclJzN09wT0RNTTFpT3EyYlRXYlBrUXVJTkZjcktodkdxaUlUWUdSYktkMHFBYTl6Sk54MFB4MXRVX00xLUZBQ3UzRHJaRHl4Q2RZMV9PbzBBODVDaEgwNVVLYXkzUEN4X0IxY0R2WkRCNG5HSkFpOFNpdGd6NXR4OVZjSHBFUWtqMlpxRzA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-11T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
       "title": "Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy",
@@ -1451,18 +1451,6 @@
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2006,6 +1994,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
+      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
+      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
+      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
+      "publishedAt": "2026-04-27T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-59cd39600e4f0f00bf42",
       "title": "Shift4 Announces Date of First Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/297/shift4-announces-date-of-first-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -2122,6 +2122,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-387ddf28a703d88584eb",
+      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
+      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
+      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
+      "publishedAt": "2026-04-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2558,18 +2570,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "toast-product-news-248f88a05db1ebdf9492",
-      "title": "Toast announces 120 new Dublin jobs with 3-year investment",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMDZLMVNuZVotRXZEdG9aY1N0SURMV1FrdXRZa1YwTzJnR2xtMU1ha28wS2R5WE5ER0szQTVlalVQWTREM3FvaFl2bEVKbS1uaDRCaUtZNGtReTFaVHRVb19TR1d6dXNkNHVSOUlLVGJ2dGpMOC15Z3JRWnJaSVpRMGFjN18yYzZaQzdmNElHa0hmZw?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-12-18T08:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "coinbase-blog-723efe929590bb13d10c",
       "title": "State of Crypto Q4 2025: Younger investors are rewriting the investing playbook",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNUTlCRHYwem03dy1DTk0wYmxuNjNjdVNLZnBuMElYOFAyQW82SzZaOUJLamhxdjkzNkpUUVgwTVhRUEx2NWszSjBpYm9rR1VRV3NzbTROdGF6YWlXdVhXRWdRMA?oc=5",
@@ -2591,18 +2591,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2878,6 +2866,18 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-852873d8336b35abef10",
+      "title": "5 Ways CTOs Can Use Virtual Assistants to Drive Innovation",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0pwRElQOE1SdXItVmhZZHh4bVdIVDRRMzRJb2tjOS1ROFE2MnROT3NINW1tVDlqVThpczA2RGI5QVVSbzZJOFJ5eHRhWFdqSkx4U05YOEc1WU1kN3hMbktvSzl6V3VrMHpuems0NVZtaHpOWEVHV05xNl9BNUpXSklkTHk0RXVXVnNVUw?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-02T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
