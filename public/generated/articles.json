@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T17:17:45.730760+00:00",
+  "generatedAt": "2026-07-18T18:11:25.429134+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-260f280164f729242deb",
@@ -204,18 +204,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
@@ -588,18 +576,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
@@ -1262,6 +1238,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1454,15 +1442,15 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-06bc12a85916a2f45e65",
-      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
-      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
-      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
-      "publishedAt": "2026-06-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2018,18 +2006,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-7c24989a81478598c50a",
-      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "link": "https://pr.tsmc.com/english/news/3302",
-      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "publishedAt": "2026-04-23T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-59cd39600e4f0f00bf42",
       "title": "Shift4 Announces Date of First Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/297/shift4-announces-date-of-first-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -2102,10 +2078,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-dced848abc1618b53274",
-      "title": "2026/04/16 TSMC Files Annual Report on Form 20-F for 2025",
-      "link": "https://pr.tsmc.com/english/news/3300",
-      "summary": "TSMC Files Annual Report on Form 20-F for 2025",
+      "id": "tsmc-news-8fe94b096d2d15fb62f8",
+      "title": "2026/04/16 TSMC Reports First Quarter EPS of NT$22.08",
+      "link": "https://pr.tsmc.com/english/news/3297",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-04-16T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -2246,18 +2222,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
-      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
-      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
-      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-1fc919b6cdd114307e6a",
       "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
       "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
@@ -2282,18 +2246,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2310,18 +2262,6 @@
       "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
       "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
       "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2618,6 +2558,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2880,6 +2832,54 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-0e5051ae773bb20f22c0",
+      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-25T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-852873d8336b35abef10",
+      "title": "5 Ways CTOs Can Use Virtual Assistants to Drive Innovation",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0pwRElQOE1SdXItVmhZZHh4bVdIVDRRMzRJb2tjOS1ROFE2MnROT3NINW1tVDlqVThpczA2RGI5QVVSbzZJOFJ5eHRhWFdqSkx4U05YOEc1WU1kN3hMbktvSzl6V3VrMHpuems0NVZtaHpOWEVHV05xNl9BNUpXSklkTHk0RXVXVnNVUw?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-02T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "affirm-news-e0a9239313baf8131fbc",
+      "title": "How pay-later is powering small business growth: Webinar recap",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/how-pay-later-powering-small-business-growth-webinar-recap/",
+      "summary": "Small businesses are the heartbeat of the economy, and in today's fast-moving digital world, they're constantly looking for tools to grow smarter and serve customers better. That’s exactly what Affirm’s recent Small Business Month webinar set out to explore.",
+      "publishedAt": "2025-05-28T00:00:00+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2959,10 +2959,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 2,
-      "message": "OK via rendered HTML"
+      "itemCount": 3,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "paypal-newsroom",
