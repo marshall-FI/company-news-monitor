@@ -4,7 +4,7 @@
     <title>Company News Monitor - Fintech</title>
     <link>https://company-news-monitor.future-inves-2634.chatgpt-team.site</link>
     <description>Generated fintech company news feed.</description>
-    <lastBuildDate>Sat, 18 Jul 2026 06:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:01:59 +0000</lastBuildDate>
     <item>
       <title>Chime to Announce Second Quarter 2026 Financial Results on August 5, 2026</title>
       <link>https://investors.chime.com/news-releases/news-release-details/chime-announce-second-quarter-2026-financial-results-august-5</link>
@@ -70,14 +70,6 @@
       <source>Coinbase Blog</source>
     </item>
     <item>
-      <title>Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article</title>
-      <link>https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments</link>
-      <guid isPermaLink="false">marqeta-blog-5be6ad160600f107b941</guid>
-      <description>Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
       <title>Small businesses aren't waiting for Washington to catch up</title>
       <link>https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch/</link>
       <guid isPermaLink="false">affirm-news-b0ba800df12ed8a17b5d</guid>
@@ -92,6 +84,14 @@
       <description>Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Thu, 09 Jul 2026 19:55:07 +0000</pubDate>
       <source>Klarna International Newsroom</source>
+    </item>
+    <item>
+      <title>Risk &amp; fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article</title>
+      <link>https://www.marqeta.com/blog/new-research-cardholders-want-security</link>
+      <guid isPermaLink="false">marqeta-blog-7c3d4d976547827c1ea1</guid>
+      <description>New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Upstart Streamlines UMI Reporting</title>
@@ -598,20 +598,28 @@
       <source>Affirm News</source>
     </item>
     <item>
-      <title>Newsroom</title>
-      <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FWTBxeTB6VHhQdFd5eTBvbTlGbVpZZ19RNERMZTBQS09oMHB2eWNfNi1qVUp5OC03M2J3MEtnR2Y3SHpLYzNQcA?oc=5</link>
-      <guid isPermaLink="false">wise-newsroom-4114b94598af81ede894</guid>
-      <description>Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Mon, 11 May 2026 07:00:00 +0000</pubDate>
-      <source>Wise Newsroom</source>
-    </item>
-    <item>
       <title>Affirm survey: 90% of small businesses are confident in growth outlook and turning to flexible payments to compete</title>
       <link>https://investors.affirm.com/news-releases/news-release-details/affirm-survey-90-small-businesses-are-confident-growth-outlook/</link>
       <guid isPermaLink="false">affirm-news-3f6b833bdc81853e2a8c</guid>
       <description>Finds business owners see Buy Now, Pay Later as a growth tool, a trust signal, and a way to level the playing field with bigger businesses SAN FRANCISCO --(BUSINESS WIRE)--May 11, 2026-- Affirm (NASDAQ: AFRM) today released results from its inaugural Small Business Sentiment Survey.</description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <source>Affirm News</source>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>https://newsroom.wise.com/en-NAM/265506-wise-debuts-us-listing-on-nasdaq/</link>
+      <guid isPermaLink="false">wise-newsroom-2ef29c9ab9323a54d566</guid>
+      <description>May 11, 2026 Wise debuts US listing on Nasdaq Wise (Nasdaq:WSE, LSE:WISE), the global technology company building the best way to move and manage the world’s money, today announces its listing on Nasdaq. Read article</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
+    </item>
+    <item>
+      <title>About Get to know us</title>
+      <link>https://newsroom.wise.com/en-NAM/about/</link>
+      <guid isPermaLink="false">wise-newsroom-b5cdab03f81bf5510ab8</guid>
+      <description>Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
     </item>
     <item>
       <title>Circle Reports First Quarter 2026 Results Circle Internet Group, Inc. (NYSE: CRCL) today announced results for the first quarter of fiscal year 2026.</title>
@@ -655,10 +663,10 @@
     </item>
     <item>
       <title>Wise introduces first-of-its-kind multi-currency Interest feature in Canada</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOamJqZmRaRk94V2hkREFMeG5DbnZWb01JRUpybnhTblNreHVvUE9yNG9LNkJuS0JtZnZMSFFZWlVqSWthWEROUDJZcHNsTDlITDRVSWxMTFY4djAyUWFyd25YVWJ6dkZlckpzVTZQdV9SQXJzNEM4STFqWnJaVGJ6QTl2aVB5NVVrdXhkdmZoSFQxTXppbDg0TUtzSm9sQkZMdm1LSktrR2RZSUJfMTFRb2lHelRRMDA?oc=5</link>
-      <guid isPermaLink="false">wise-newsroom-d472d2055edc2a53110f</guid>
-      <description>Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Mon, 04 May 2026 07:00:00 +0000</pubDate>
+      <link>https://newsroom.wise.com/en-NAM/265034-wise-introduces-first-of-its-kind-multi-currency-interest-feature-in-canada/</link>
+      <guid isPermaLink="false">wise-newsroom-bd95ccd0ad36cf50271a</guid>
+      <description>Wise has announced the launch of its new Interest feature for people and businesses in Canada. Wise is the first provider in Canada to enable customers to earn a return on balances held across multiple currencies within one consolidated account.</description>
+      <pubDate>Mon, 04 May 2026 09:00:00 +0000</pubDate>
       <source>Wise Newsroom</source>
     </item>
     <item>
@@ -668,6 +676,14 @@
       <description>SAN FRANCISCO --(BUSINESS WIRE)--May 4, 2026-- Affirm Holdings, Inc. (NASDAQ: AFRM) today announced it will participate in the following investor conferences: On June 3, 2026, Rob O’Hare, Chief Financial Officer, will attend the Evercore TMT Global Conference in San Francisco, CA. Mr.</description>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <source>Affirm News</source>
+    </item>
+    <item>
+      <title>News archive Browse through all our news</title>
+      <link>https://newsroom.wise.com/en-NAM/releases/</link>
+      <guid isPermaLink="false">wise-newsroom-36cfe43c94ba45e5b45f</guid>
+      <description>Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
     </item>
     <item>
       <title>Shift4 Partners with Chicago Cubs to Power Commerce at Iconic Wrigley Field</title>
@@ -782,14 +798,6 @@
       <source>Circle Pressroom</source>
     </item>
     <item>
-      <title>Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article</title>
-      <link>https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator</link>
-      <guid isPermaLink="false">marqeta-blog-387ddf28a703d88584eb</guid>
-      <description>63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.</description>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
       <title>Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock</title>
       <link>https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock</link>
       <guid isPermaLink="false">shift4-news-44808cb3aa4315251f97</guid>
@@ -820,14 +828,6 @@
       <description>SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Thu, 26 Mar 2026 07:00:00 +0000</pubDate>
       <source>SoFi Press</source>
-    </item>
-    <item>
-      <title>Issuing/processing Commercial How tech and entertainment companies are rethinking the payment experience Article</title>
-      <link>https://www.marqeta.com/blog/how-tech-and-entertainment-companies-are-rethinking-the-payment-experience</link>
-      <guid isPermaLink="false">marqeta-blog-db87a1605c0270e94af8</guid>
-      <description>Payment experience is product experience. See how tech and entertainment companies are embedding finance to reduce friction, boost loyalty and drive revenue.</description>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>The Hidden Cost of Checks and Wires: A CFO’s Guide to Modern Disbursements</title>
@@ -868,6 +868,14 @@
       <description>SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Tue, 17 Mar 2026 07:00:00 +0000</pubDate>
       <source>SoFi Press</source>
+    </item>
+    <item>
+      <title>Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article</title>
+      <link>https://www.marqeta.com/blog/the-future-of-payments-is-already-here</link>
+      <guid isPermaLink="false">marqeta-blog-5b9e10e4e72eca9105f0</guid>
+      <description>Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.</description>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Circle Appoints Kirk Koenigsbauer to Board of Directors</title>
@@ -934,12 +942,20 @@
       <source>Chime Newsroom</source>
     </item>
     <item>
-      <title>BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article</title>
-      <link>https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday</link>
-      <guid isPermaLink="false">marqeta-blog-5f8d85b29fe46f36b3c1</guid>
-      <description>Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.</description>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
+      <title>Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada</title>
+      <link>https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/</link>
+      <guid isPermaLink="false">wise-newsroom-6eaeacbecb3ba12e3911</guid>
+      <description>Cette étape marque la poursuite de la croissance de Wise au Canada et l’expansion de son infrastructure mondiale afin de permettre des paiements internationaux plus rapides et plus abordables</description>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
+    </item>
+    <item>
+      <title>Wise strengthens its Canadian market investment with Payments Canada membership</title>
+      <link>https://newsroom.wise.com/en-NAM/260024-wise-strengthens-its-canadian-market-investment-with-payments-canada-membership/</link>
+      <guid isPermaLink="false">wise-newsroom-b29909d6d454fbc97b10</guid>
+      <description>Milestone marks Wise’s continued growth in Canada and the expansion of its global infrastructure to enable faster, more affordable international payments</description>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
     </item>
     <item>
       <title>What Makes a Successful Card Program in 2026: The Complete Guide</title>
@@ -1094,6 +1110,14 @@
       <source>dLocal Blog</source>
     </item>
     <item>
+      <title>Wise Platform partners with Wealthsimple to offer enhanced international payments services for Canadians</title>
+      <link>https://newsroom.wise.com/en-NAM/257478-wise-platform-partners-with-wealthsimple-to-offer-enhanced-international-payments-services-for-canadians/</link>
+      <guid isPermaLink="false">wise-newsroom-bb4d091ac1db0ddac185</guid>
+      <description>Wealthsimple partners with Wise Platform to offer Canadians fast, low-fee international payments to 30 countries in 10+ currencies directly from the Wealthsimple app or website.</description>
+      <pubDate>Wed, 12 Nov 2025 10:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
+    </item>
+    <item>
       <title>Coinbase Business Marks its International Debut by Launching in Singapore</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kbWpQU0FTWFd5bVVCOFluXzJZckNjWV9DWUJqbDR1Y2lJbDhMQXVXNjdjOGxEdVhITzlQTlBja2RMM2ktMXJtYXl0M0psbU1MSFBveGJaS2puUDZxME9JU2tlcWdEd0EzTlNYQ2lfVXNidERZSGdiU1EwNi1kMjhBZ2RIazVsOW5hR3hLMXVLU1dUaWxiLTRPSTBEcHR1Ym1SNnFn?oc=5</link>
       <guid isPermaLink="false">coinbase-blog-66a6995a783cf73767a6</guid>
@@ -1199,10 +1223,10 @@
     </item>
     <item>
       <title>Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFdZMEFNcFREWTNFbUpPVmgtSldndUNQa1hDRXQwOU9Zb0JLaGMwSzlQZ0xiR0RkSVhKTHJGeEdwRzZjalN5TzhGd1hiSDhxamNKNUx0MExNd3A1Mi1Uam9rUHMxYkRmYjc0N1NGWnJOQlk0emozQ1JGemljYmFOckltaFAwQ1FJOGVaWVJKampXSlNoYXlNalJ4bWNYTGNYSkRYNVFFcExPdjg2MkxZTll2a0tMSWYxdTdzWGpjWXBsVmtLbldSdDdZazR6MlZ2VnBTUUxLaFNnSDdlSnJz?oc=5</link>
-      <guid isPermaLink="false">wise-newsroom-4854a81e1c5d4a32c472</guid>
-      <description>Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Wed, 10 Sep 2025 07:00:00 +0000</pubDate>
+      <link>https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/</link>
+      <guid isPermaLink="false">wise-newsroom-b2b26b97399791c9ad1d</guid>
+      <description>Innovative integration will power faster transfers to select South American, APAC and European currencies</description>
+      <pubDate>Wed, 10 Sep 2025 13:00:00 +0000</pubDate>
       <source>Wise Newsroom</source>
     </item>
     <item>
@@ -1215,18 +1239,10 @@
     </item>
     <item>
       <title>Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BJTm5UQlpHWXFtTE4xZFoyOXYtd0YwVjQ2OFplcFlYakN1ajdocmtub1NGYTR3bFRPM252WG1rTFJvaXFZQkpURXZ4U3F0Q2xaQ0pVS3B3ekFjbWZMbEJfenlnSVVILVVZTjVZdXhRMG83OXRfel9pdkZRQTIyU0FZZmM0RWFZQm9aMER2QWNKU1lPempTT2V5XzY1dlpaT0FnTUN1YXp6NG0yMTE2VmhydDBHaE1INEsyNUEwSnViR3dM?oc=5</link>
-      <guid isPermaLink="false">wise-newsroom-3eb1c05282167ed551ac</guid>
-      <description>Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Mon, 08 Sep 2025 07:00:00 +0000</pubDate>
-      <source>Wise Newsroom</source>
-    </item>
-    <item>
-      <title>Media kits: Logos and Brand Assets</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zNFhycWkzZ2xndGJHQlM1YWtYSm5oajV2eXJfWnBpNGZuaVRiSWMxN2VlSF9LQl9Ucjc4ODltOFdWVHBLSEhQbk93MFVETnVyUVk3bFZsLXljeEVRSDF1QXRXaG90am8?oc=5</link>
-      <guid isPermaLink="false">wise-newsroom-3f21a6fc638be1ef1b4d</guid>
-      <description>Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Thu, 28 Aug 2025 07:02:14 +0000</pubDate>
+      <link>https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/</link>
+      <guid isPermaLink="false">wise-newsroom-2343c3607e7c8273a3fb</guid>
+      <description>Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.</description>
+      <pubDate>Mon, 08 Sep 2025 14:00:00 +0000</pubDate>
       <source>Wise Newsroom</source>
     </item>
     <item>
@@ -1270,6 +1286,14 @@
       <source>Affirm News</source>
     </item>
     <item>
+      <title>International Rescue Committee and Wise launch global partnership to support communities in crisis</title>
+      <link>https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/</link>
+      <guid isPermaLink="false">wise-newsroom-8ce62c7331842ca65c71</guid>
+      <description>Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.</description>
+      <pubDate>Wed, 21 May 2025 13:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
+    </item>
+    <item>
       <title>Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending</title>
       <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5</link>
       <guid isPermaLink="false">block-investor-news-2226f61adf7d292adf5a</guid>
@@ -1284,30 +1308,6 @@
       <description>Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Tue, 20 May 2025 07:00:00 +0000</pubDate>
       <source>Block Investor News</source>
-    </item>
-    <item>
-      <title>The Digital Revolution in the Argentine Banking Industry</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2Z1dnNPX2k0bWYtY0dnbEQzdkZMX0lZdXp1bVdYS0hjWHZLYkQ0TEZKNkRiX2JlNHlpTjdUU0labFRuRGt0UDZfWDBraWxYMjFoVlZyY0JoZG92bURuekcyTUdhQlNDMkZyeVpUMVFaekM0WThoNUxKOUVELWJKX3dzUmQ?oc=5</link>
-      <guid isPermaLink="false">galileo-blog-5a99bfd2fa8415975e84</guid>
-      <description>Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Tue, 20 May 2025 07:00:00 +0000</pubDate>
-      <source>Galileo Technologies Blog</source>
-    </item>
-    <item>
-      <title>Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczQ0aUtvR0phU1dId2FmOHN3bkpNUl9NMmdnalJKNENBdWMwWmFhMWJpWlZ1NWduc0d1UGZxcU11MGw0Q1FPeWxFdWs0MFdTN1FpYmc0UDBqWDNvMC1NaUNxVWZfMDN6TmpJS0ZBSXVhZXZDbDV2ZDBhbjNOUDh1al9kT0VoYXVRVWIyX2pWNjU2YlgyVUpUTzkzYzZvcUctbDBCSHAwejM3WGFjbXV1NUFEZDRUb0hEbFhVay1vQnU?oc=5</link>
-      <guid isPermaLink="false">wise-newsroom-8883861db47a55ed7671</guid>
-      <description>Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Mon, 12 May 2025 07:00:00 +0000</pubDate>
-      <source>Wise Newsroom</source>
-    </item>
-    <item>
-      <title>Toast Launches ToastIQ to Superpower the Future of Restaurants</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5</link>
-      <guid isPermaLink="false">toast-product-news-f1edeecf1136f3bc7b45</guid>
-      <description>Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Thu, 01 May 2025 07:00:00 +0000</pubDate>
-      <source>Toast POS Product News</source>
     </item>
   </channel>
 </rss>

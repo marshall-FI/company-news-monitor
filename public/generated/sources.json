@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T06:21:13.698591+00:00",
+  "generatedAt": "2026-07-18T09:01:59.438957+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -122,10 +122,10 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK"
     },
     {
       "sourceId": "klarna-press",

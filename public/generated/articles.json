@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T06:21:13.698591+00:00",
+  "generatedAt": "2026-07-18T09:01:59.438957+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-260f280164f729242deb",
@@ -602,18 +602,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch/",
@@ -660,6 +648,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1754,18 +1754,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-4114b94598af81ede894",
-      "title": "Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FWTBxeTB6VHhQdFd5eTBvbTlGbVpZZ19RNERMZTBQS09oMHB2eWNfNi1qVUp5OC03M2J3MEtnR2Y3SHpLYzNQcA?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-11T07:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "affirm-news-3f6b833bdc81853e2a8c",
       "title": "Affirm survey: 90% of small businesses are confident in growth outlook and turning to flexible payments to compete",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-survey-90-small-businesses-are-confident-growth-outlook/",
@@ -1774,6 +1762,30 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-2ef29c9ab9323a54d566",
+      "title": "Featured",
+      "link": "https://newsroom.wise.com/en-NAM/265506-wise-debuts-us-listing-on-nasdaq/",
+      "summary": "May 11, 2026 Wise debuts US listing on Nasdaq Wise (Nasdaq:WSE, LSE:WISE), the global technology company building the best way to move and manage the world’s money, today announces its listing on Nasdaq. Read article",
+      "publishedAt": "2026-05-11T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b5cdab03f81bf5510ab8",
+      "title": "About Get to know us",
+      "link": "https://newsroom.wise.com/en-NAM/about/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-05-11T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1862,16 +1874,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "wise-newsroom-d472d2055edc2a53110f",
+      "id": "wise-newsroom-bd95ccd0ad36cf50271a",
       "title": "Wise introduces first-of-its-kind multi-currency Interest feature in Canada",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamJqZmRaRk94V2hkREFMeG5DbnZWb01JRUpybnhTblNreHVvUE9yNG9LNkJuS0JtZnZMSFFZWlVqSWthWEROUDJZcHNsTDlITDRVSWxMTFY4djAyUWFyd25YVWJ6dkZlckpzVTZQdV9SQXJzNEM4STFqWnJaVGJ6QTl2aVB5NVVrdXhkdmZoSFQxTXppbDg0TUtzSm9sQkZMdm1LSktrR2RZSUJfMTFRb2lHelRRMDA?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-04T07:00:00+00:00",
+      "link": "https://newsroom.wise.com/en-NAM/265034-wise-introduces-first-of-its-kind-multi-currency-interest-feature-in-canada/",
+      "summary": "Wise has announced the launch of its new Interest feature for people and businesses in Canada. Wise is the first provider in Canada to enable customers to earn a return on balances held across multiple currencies within one consolidated account.",
+      "publishedAt": "2026-05-04T09:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-76102bb8564d6a10b7dc",
@@ -1882,6 +1894,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-36cfe43c94ba45e5b45f",
+      "title": "News archive Browse through all our news",
+      "link": "https://newsroom.wise.com/en-NAM/releases/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-05-01T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2090,18 +2114,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2148,18 +2160,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-db87a1605c0270e94af8",
-      "title": "Issuing/processing Commercial How tech and entertainment companies are rethinking the payment experience Article",
-      "link": "https://www.marqeta.com/blog/how-tech-and-entertainment-companies-are-rethinking-the-payment-experience",
-      "summary": "Payment experience is product experience. See how tech and entertainment companies are embedding finance to reduce friction, boost loyalty and drive revenue.",
-      "publishedAt": "2026-03-26T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "galileo-blog-d9e9dd421562a5949ae0",
@@ -2220,6 +2220,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2318,14 +2330,26 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
-      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
-      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
-      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
-      "publishedAt": "2026-02-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
+      "id": "wise-newsroom-6eaeacbecb3ba12e3911",
+      "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
+      "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
+      "summary": "Cette étape marque la poursuite de la croissance de Wise au Canada et l’expansion de son infrastructure mondiale afin de permettre des paiements internationaux plus rapides et plus abordables",
+      "publishedAt": "2026-01-27T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b29909d6d454fbc97b10",
+      "title": "Wise strengthens its Canadian market investment with Payments Canada membership",
+      "link": "https://newsroom.wise.com/en-NAM/260024-wise-strengthens-its-canadian-market-investment-with-payments-canada-membership/",
+      "summary": "Milestone marks Wise’s continued growth in Canada and the expansion of its global infrastructure to enable faster, more affordable international payments",
+      "publishedAt": "2026-01-27T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2558,6 +2582,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "wise-newsroom-bb4d091ac1db0ddac185",
+      "title": "Wise Platform partners with Wealthsimple to offer enhanced international payments services for Canadians",
+      "link": "https://newsroom.wise.com/en-NAM/257478-wise-platform-partners-with-wealthsimple-to-offer-enhanced-international-payments-services-for-canadians/",
+      "summary": "Wealthsimple partners with Wise Platform to offer Canadians fast, low-fee international payments to 30 countries in 10+ currencies directly from the Wealthsimple app or website.",
+      "publishedAt": "2025-11-12T10:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-66a6995a783cf73767a6",
       "title": "Coinbase Business Marks its International Debut by Launching in Singapore",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kbWpQU0FTWFd5bVVCOFluXzJZckNjWV9DWUJqbDR1Y2lJbDhMQXVXNjdjOGxEdVhITzlQTlBja2RMM2ktMXJtYXl0M0psbU1MSFBveGJaS2puUDZxME9JU2tlcWdEd0EzTlNYQ2lfVXNidERZSGdiU1EwNi1kMjhBZ2RIazVsOW5hR3hLMXVLU1dUaWxiLTRPSTBEcHR1Ym1SNnFn?oc=5",
@@ -2714,16 +2750,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-4854a81e1c5d4a32c472",
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
       "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFdZMEFNcFREWTNFbUpPVmgtSldndUNQa1hDRXQwOU9Zb0JLaGMwSzlQZ0xiR0RkSVhKTHJGeEdwRzZjalN5TzhGd1hiSDhxamNKNUx0MExNd3A1Mi1Uam9rUHMxYkRmYjc0N1NGWnJOQlk0emozQ1JGemljYmFOckltaFAwQ1FJOGVaWVJKampXSlNoYXlNalJ4bWNYTGNYSkRYNVFFcExPdjg2MkxZTll2a0tMSWYxdTdzWGpjWXBsVmtLbldSdDdZazR6MlZ2VnBTUUxLaFNnSDdlSnJz?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-8027488bdcfba2c1ed57",
@@ -2738,28 +2774,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "wise-newsroom-3eb1c05282167ed551ac",
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
       "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BJTm5UQlpHWXFtTE4xZFoyOXYtd0YwVjQ2OFplcFlYakN1ajdocmtub1NGYTR3bFRPM252WG1rTFJvaXFZQkpURXZ4U3F0Q2xaQ0pVS3B3ekFjbWZMbEJfenlnSVVILVVZTjVZdXhRMG83OXRfel9pdkZRQTIyU0FZZmM0RWFZQm9aMER2QWNKU1lPempTT2V5XzY1dlpaT0FnTUN1YXp6NG0yMTE2VmhydDBHaE1INEsyNUEwSnViR3dM?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-08T07:00:00+00:00",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3f21a6fc638be1ef1b4d",
-      "title": "Media kits: Logos and Brand Assets",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zNFhycWkzZ2xndGJHQlM1YWtYSm5oajV2eXJfWnBpNGZuaVRiSWMxN2VlSF9LQl9Ucjc4ODltOFdWVHBLSEhQbk93MFVETnVyUVk3bFZsLXljeEVRSDF1QXRXaG90am8?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-28T07:02:14+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-84e40cb7c0acc4433863",
@@ -2822,6 +2846,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-2226f61adf7d292adf5a",
       "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
@@ -2842,42 +2878,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "galileo-blog-5a99bfd2fa8415975e84",
-      "title": "The Digital Revolution in the Argentine Banking Industry",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2Z1dnNPX2k0bWYtY0dnbEQzdkZMX0lZdXp1bVdYS0hjWHZLYkQ0TEZKNkRiX2JlNHlpTjdUU0labFRuRGt0UDZfWDBraWxYMjFoVlZyY0JoZG92bURuekcyTUdhQlNDMkZyeVpUMVFaekM0WThoNUxKOUVELWJKX3dzUmQ?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8883861db47a55ed7671",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczQ0aUtvR0phU1dId2FmOHN3bkpNUl9NMmdnalJKNENBdWMwWmFhMWJpWlZ1NWduc0d1UGZxcU11MGw0Q1FPeWxFdWs0MFdTN1FpYmc0UDBqWDNvMC1NaUNxVWZfMDN6TmpJS0ZBSXVhZXZDbDV2ZDBhbjNOUDh1al9kT0VoYXVRVWIyX2pWNjU2YlgyVUpUTzkzYzZvcUctbDBCSHAwejM3WGFjbXV1NUFEZDRUb0hEbFhVay1vQnU?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-12T07:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
@@ -3004,10 +3004,10 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK"
     },
     {
       "sourceId": "klarna-press",
