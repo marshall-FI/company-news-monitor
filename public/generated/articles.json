@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T18:13:10.920687+00:00",
+  "generatedAt": "2026-07-19T19:35:26.587909+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-260f280164f729242deb",
@@ -600,6 +600,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
@@ -1466,18 +1478,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-06bc12a85916a2f45e65",
-      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
-      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
-      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
-      "publishedAt": "2026-06-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-47f546177b4153ec6af6",
       "title": "The World Cup is Now Trading on Robinhood and Rothera",
       "link": "https://robinhood.com/us/en/newsroom/the-world-cup-is-now-trading-on-robinhood-and-rothera",
@@ -2138,18 +2138,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2626,6 +2614,18 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-55609d53c6cdbf7cb71b",
+      "title": "What's Driving Colombia's Fintech Revolution in 2025? A Data-Driven Market Analysis",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzN0TVJ1OHFaVlBGTXFIdE83TDRMX3JsWmMwV3JtWEl2d2ZQamdnSXk5SEJaMS1tdmoyZ3VFbUtqUEFiaVRtdEhYQURGWTZURHFxM1FMbExVQ0FhUHJIUDdBellCd2JHbjlyZ0pMX1VPbTdWcEdlRFk2Yzd3MzA5OThxSC1jaUN1QWxWQnF3R2xlUl92ekpwTzBON0J6WE1pN21KcDBwUEdOOGp5aEh0UQ?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-11-26T08:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
