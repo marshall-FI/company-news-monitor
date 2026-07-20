@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T00:15:29.461657+00:00",
+  "generatedAt": "2026-07-20T04:07:03.144248+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-260f280164f729242deb",
@@ -602,6 +602,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch/",
@@ -648,18 +660,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1138,6 +1138,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "adyen-newsroom-02803d2473f48dc7b19a",
+      "title": "Adyen Closes Talon.One and Orb Acquisitions; Announces Leadership Updates Across Product and Finance Amsterdam · July 1st, 2026",
+      "link": "https://www.adyen.com/press-and-media/adyen-closes-talonone-and-orb-acquisitions-announces-leadership-updates",
+      "summary": "AMSTERDAM, July 1, 2026 – Adyen N.V. (AMS: ADYEN) today announces the successful closing of its previously announced acquisitions of Talon.One, a leading platform for loyalty and incentives, and Orb, an enterprise billing platform.",
+      "publishedAt": "2026-07-01T00:00:00+00:00",
+      "sourceId": "adyen-newsroom",
+      "sourceName": "Adyen Newsroom",
+      "company": "Adyen",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2210,18 +2222,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
-      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
-      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
-      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-1fc919b6cdd114307e6a",
       "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
       "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
@@ -2244,18 +2244,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2328,6 +2316,18 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-625d1f3ae6de7fc479e9",
@@ -2412,6 +2412,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "galileo-blog-6ac1e5365e0230fe3d2e",
@@ -2868,18 +2880,6 @@
       "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2986,10 +2986,10 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 7,
-      "message": "STALE: official_google_news: No official Google News fallback configured"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "upstart-press",
