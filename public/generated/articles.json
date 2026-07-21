@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-07-21T14:25:05.476740+00:00",
+  "generatedAt": "2026-07-21T16:44:55.646250+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-e16a6a31aff5e708f335",
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever as",
+      "publishedAt": "2026-07-21T15:36:43+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-0f95fa90b7a83e354101",
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "link": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token gene",
+      "publishedAt": "2026-07-21T15:00:20+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-09b59cb95c871d718795",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "publishedAt": "2026-07-21T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-75ecaa0d32cd9a2718bd",
       "title": "We’re announcing the Alliance for America’s Skilled Trades.",
@@ -290,10 +326,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6a0f44aaf2f61b4cf8e0",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "id": "google-blog-943c5c0f99175c828dc1",
+      "title": "We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/",
+      "summary": "Google partners with the Georgia Public Library Service to provide free Career Certificates and AI training to residents statewide.",
       "publishedAt": "2026-07-16T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -302,10 +338,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-943c5c0f99175c828dc1",
-      "title": "We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/",
-      "summary": "Google partners with the Georgia Public Library Service to provide free Career Certificates and AI training to residents statewide.",
+      "id": "google-blog-6a0f44aaf2f61b4cf8e0",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
       "publishedAt": "2026-07-16T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -602,18 +638,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-d864c12b1675e8b94442",
-      "title": "Reconstructing Pelé’s “lost” goal",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/",
-      "summary": "See how Google DeepMind AI technology reconstructed Pelé’s legendary 1959 lost goal at Rua Javari in our new mini-documentary.",
-      "publishedAt": "2026-07-14T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -696,6 +720,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
@@ -959,30 +995,6 @@
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
       "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-f2e33067866bea505fa3",
-      "title": "How Open Models Are Driving AI Research",
-      "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-      "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 p",
-      "publishedAt": "2026-07-06T16:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-1573c2cb36b94c42da55",
-      "title": "How Nations Are Deploying AI for Strategic Priorities",
-      "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-      "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation",
-      "publishedAt": "2026-07-06T15:00:25+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
     {
@@ -1454,18 +1466,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-06bc12a85916a2f45e65",
-      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
-      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
-      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
-      "publishedAt": "2026-06-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-47f546177b4153ec6af6",
       "title": "The World Cup is Now Trading on Robinhood and Rothera",
       "link": "https://robinhood.com/us/en/newsroom/the-world-cup-is-now-trading-on-robinhood-and-rothera",
@@ -1694,6 +1694,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "galileo-blog-725f93227c1f809815cb",
+      "title": "Travel-Grade Feature Checklist: What Travelers Expect from a Branded Debit Card",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGpSSTFiTDhkcWV1aFhMMkQ2dUlUendOOE9Ba0hKcHI5NU1SM3A2RWxFTG5wRm55dGlULWgwRmk5V2F3RDljVHNCRXZXeXUtdXNQVUgwWGw5WDgzS0EtRjFNaU8tUmR5NTBEV1o2QXNCSFhXaXE2dTRlVXNSSmtpaFl3cDlJNXEtX3c?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-20T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "affirm-news-64f7dce1d0b26386a73a",
       "title": "Royal Caribbean and Affirm to bring flexible and transparent payment options to travellers in UK and Canada",
       "link": "https://investors.affirm.com/news-releases/news-release-details/royal-caribbean-and-affirm-bring-flexible-and-transparent/",
@@ -1703,6 +1715,18 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
+      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "link": "https://pr.tsmc.com/english/news/3314",
+      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "publishedAt": "2026-05-15T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1970,6 +1994,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
+      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
+      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
+      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
+      "publishedAt": "2026-04-27T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2114,18 +2150,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2206,18 +2230,6 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
-      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
-      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
-      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2402,18 +2414,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
-      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
-      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
-      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2436,18 +2436,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "galileo-blog-6ac1e5365e0230fe3d2e",
-      "title": "To Own or Outsource? The Key Decision Behind Payment Program Management",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEFnUURMMWplU21mZ09selo5V1NBNURJSTFtRlFoMERfdEdNVDVXM3FqY09MYXg2THliQmpKZDlDbkY5aTg5ZzJPTUxyOWxyMG8tbzdZSDY2WDRnMnVtbEVqSEdWN0hUcFotS1N3Z1lSNnk4WTJNY0JQNkpaYjZpa3l3?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-19T08:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
@@ -2863,6 +2851,18 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1MyQ1EtY0MzNExyMEszNnlDbmdmRGpSY25lYmE1cGZ5R1BpYkUwWGNOSXdvdjVnMS0wa1Q5RUlqeVRMV1dJRk5qRFlIRlcwaUZ5OW1WMzY3ZkphRWxJNTcyVmxKeHNSX0k3aU90WUV2SnRJSC1qVnBIT05PSzR6V3JkLTZQYXd0dDc0Q1V2dkZFUWEtZzVN?oc=5",
       "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-08-12T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-4be8f3d1731c5989f902",
+      "title": "How Galileo Is Modernizing Loyalty with Co-Branded Debit",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXctYXRFN214Y0liWWFYRE80d3ZyT01OZzA5QUFNZUQ2S1BKR1FaOVd0eEYzaER6NnJHalNkT3Buc1ZwaVNaZ25GZmtTQS1xeTFGZV9ld2JZZGxsY2FacDZQb2ZNZTRKMTJEVXZQVmFUbWlnNVVQdnMycllQaU5UcjBOUjJEMWtheGlYNlE0cU9Gd1k?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-11T07:00:00+00:00",
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "company": "Galileo",
