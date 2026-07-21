@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T03:47:54.882065+00:00",
+  "generatedAt": "2026-07-21T06:45:07.459472+00:00",
   "articles": [
     {
       "id": "google-blog-85a5cc9c947a5efb4afb",
@@ -1178,18 +1178,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "adyen-newsroom-02803d2473f48dc7b19a",
-      "title": "Adyen Closes Talon.One and Orb Acquisitions; Announces Leadership Updates Across Product and Finance Amsterdam · July 1st, 2026",
-      "link": "https://www.adyen.com/press-and-media/adyen-closes-talonone-and-orb-acquisitions-announces-leadership-updates",
-      "summary": "AMSTERDAM, July 1, 2026 – Adyen N.V. (AMS: ADYEN) today announces the successful closing of its previously announced acquisitions of Talon.One, a leading platform for loyalty and incentives, and Orb, an enterprise billing platform.",
-      "publishedAt": "2026-07-01T00:00:00+00:00",
-      "sourceId": "adyen-newsroom",
-      "sourceName": "Adyen Newsroom",
-      "company": "Adyen",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "datadog-investor-news-c5ad4ad1f16366953b61",
       "title": "Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-acquires-adaptive-ml-accelerate-its-investment-ai",
@@ -2138,18 +2126,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2268,6 +2244,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2450,18 +2438,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "galileo-blog-6ac1e5365e0230fe3d2e",
-      "title": "To Own or Outsource? The Key Decision Behind Payment Program Management",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEFnUURMMWplU21mZ09selo5V1NBNURJSTFtRlFoMERfdEdNVDVXM3FqY09MYXg2THliQmpKZDlDbkY5aTg5ZzJPTUxyOWxyMG8tbzdZSDY2WDRnMnVtbEVqSEdWN0hUcFotS1N3Z1lSNnk4WTJNY0JQNkpaYjZpa3l3?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-19T08:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
       "title": "Cash: The resilient bridge to the digital economy in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/cash-the-resilient-bridge-to-the-digital-economy-in-emerging-markets/",
@@ -2474,18 +2450,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-acfdbe1b8449d923e9af",
-      "title": "SoFi to Match $1,000 Federal Contribution to Investment Accounts for Employees’ Children",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZF9HSWxSeGVRbE90V3luN2thRm9vNkVzVUN2Z3lFdFJBejNfZmJtN2Vhbi1Ma0xYWjFmR0kzT2p5WVFxU0VSczhUY3FpQ0JCWExwcXdhUThrN3FueFlNQUdNNzllUG9MSjlNN25oRkVIV3VqWC1KS1NoQ2VhdVZSc3BzckZsWUU2bVZraERuaTZ2Z1NLbnFocGFrcXYzbExrWXBaTERac0VzdzM1UkhYSzgzWXJONVNyWTdBSHJmZUhZTjBZVUJoZ0RUS0VLQl9ldWhBX3pUOGNHbzRUY1pBODN3?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-14T08:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "toast-product-news-9e5e095cb7855f19948c",
       "title": "Toast Delivers Precision Insights, Action, and Efficiency for Retailers",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGZBaENhYjVRTERVTlozN1F3WWZiUFFOdGNvV1FrdEl1YVlUczNxc3FJZU9Tck5Dd25OU0hXNVliRkF2UVE5UXN1Q1lkc2RER0VEOHhUakQtS2ZkSGZXOEFUSUF0UHVpNjVyQ1R2c3Jxd2xLOWhmNVY2d1IzQmEwa2NtVlZ6elBOS1BkWDlObVMycmItbEtzdDFGOTV2cE9h?oc=5",
@@ -2494,6 +2458,18 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-f8d472d694e40618ee52",
+      "title": "Why 2026 Will Define LatAm Banking: Digital Payments, Financial Inclusion, and the Convergence of Fintechs and Banks",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0lvNG5Pd01QM2s0QXNHSTREOXM2SjY3dHVBWTlSQnFMcDYxb1d0RmRic0FSZjM2TmtqQnpaYnBWcnVMdk9kY3V4T3A3N1FNR01wZVFWdzR5X0loTkI4MVoyRTBrV0ZyMV9yNFdqd1pNaW8zeThFazdoWVNLaXFBaGJ1WUhfZVlCdnBTVTRoa0RScm9Q?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-05T08:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2676,6 +2652,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-9a181f28da19afe9017a",
+      "title": "Financial Specialist Vivian Tu, Your Rich BFF, Named SoFi’s First Chief of Financial Empowerment",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDhsY2tCWWR2TnJUbk1wVEFkR0gtN1FXOERCakJiSjQ2N0l2c0JzbWtnM21FZ24tbklIbmZRS2Z3WTh1V1FqZXUwSlNRXzdlLUJLeUFneUlQMUdrN0ZUd0NrenpMcExkLUpmdW5DS3EwU1FyQjMyaC1fVDFDN3hHNmcxTjhEclNWSGpRUGVyWEZ3a0RJc2N6R0MtU2loQlNZTW5rLXBjUGZCVjIxMWt4V1dRSTA4RVJuQWYtS3E1OFp6ZFVwSC1yM1otZnpPdU9XNGx1dmN6N0VUNEJNdldTUWFwZVc4S1pYYllmNg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-11-05T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-85656d296df85e155069",
@@ -2878,6 +2866,18 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-0e5051ae773bb20f22c0",
+      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-25T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
