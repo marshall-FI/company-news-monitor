@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-07-21T12:03:25.636330+00:00",
+  "generatedAt": "2026-07-21T14:25:12.928203+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
+    {
+      "id": "WSE-0001193125-26-309606",
+      "company": "Wise",
+      "displayName": "Wise Group",
+      "ticker": "WSE",
+      "cik": "0002099039",
+      "category": "Fintech Blogs",
+      "form": "6-K",
+      "accessionNumber": "0001193125-26-309606",
+      "filingDate": "2026-07-21",
+      "reportDate": "2026-07-21",
+      "acceptanceDateTime": "2026-07-21",
+      "primaryDocument": "d108520d6k.htm",
+      "title": "Wise 6-K for 2026-07-21",
+      "summary": "Wise Group filed a current report (6-K) on 2026-07-21 for report date 2026-07-21. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000119312526309606/0001193125-26-309606-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000119312526309606/d108520d6k.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
     {
       "id": "NU-0001292814-26-003814",
       "company": "Nubank",
@@ -5582,26 +5602,6 @@
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025046264/a2025proxystatement.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "TSLA-0001628280-25-045968",
-      "company": "Tesla",
-      "displayName": "Tesla",
-      "ticker": "TSLA",
-      "cik": "0001318605",
-      "category": "Big Tech Blogs",
-      "form": "10-Q",
-      "accessionNumber": "0001628280-25-045968",
-      "filingDate": "2025-10-23",
-      "reportDate": "2025-09-30",
-      "acceptanceDateTime": "2025-10-23",
-      "primaryDocument": "tsla-20250930.htm",
-      "title": "Tesla 10-Q for 2025-09-30",
-      "summary": "Tesla filed a quarterly report (10-Q) on 2025-10-23 for report date 2025-09-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
     }
   ],
   "statuses": [
@@ -5714,8 +5714,8 @@
       "ticker": "WSE",
       "cik": "0002099039",
       "ok": true,
-      "filingCount": 6,
-      "message": "6 filings via SEC EDGAR read-through"
+      "filingCount": 7,
+      "message": "7 filings via SEC EDGAR read-through"
     },
     {
       "company": "Klarna",
