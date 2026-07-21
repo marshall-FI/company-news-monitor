@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-21T18:43:58.162231+00:00",
+  "generatedAt": "2026-07-21T20:39:53.542973+00:00",
   "articles": [
+    {
+      "id": "google-blog-20883c2d7e6f78f89185",
+      "title": "13 Google tips for a fun, productive summer off from college",
+      "link": "https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/",
+      "summary": "Discover how college students can use Google AI tools, like Gemini and AI Mode, to prep for grad school, internships and fall courses.",
+      "publishedAt": "2026-07-21T20:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-e16a6a31aff5e708f335",
       "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
@@ -590,18 +602,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-d836dcfc4e0bbcdcacf3",
-      "title": "Celebrating 25 years of visual search innovation",
-      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-      "publishedAt": "2026-07-14T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-a145bb30defc2589b515",
       "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
       "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
@@ -744,18 +744,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
@@ -1478,18 +1466,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
       "title": "Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy",
@@ -1511,6 +1487,18 @@
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2066,18 +2054,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-7c24989a81478598c50a",
-      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "link": "https://pr.tsmc.com/english/news/3302",
-      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "publishedAt": "2026-04-23T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-59cd39600e4f0f00bf42",
       "title": "Shift4 Announces Date of First Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/297/shift4-announces-date-of-first-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -2150,10 +2126,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-8fe94b096d2d15fb62f8",
-      "title": "2026/04/16 TSMC Reports First Quarter EPS of NT$22.08",
-      "link": "https://pr.tsmc.com/english/news/3297",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "id": "tsmc-news-dced848abc1618b53274",
+      "title": "2026/04/16 TSMC Files Annual Report on Form 20-F for 2025",
+      "link": "https://pr.tsmc.com/english/news/3300",
+      "summary": "TSMC Files Annual Report on Form 20-F for 2025",
       "publishedAt": "2026-04-16T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -2231,18 +2207,6 @@
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2364,6 +2328,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2498,6 +2474,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2590,6 +2578,18 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-11563e25e35dfee9fcb0",
+      "title": "Other All Industries Marqeta 2025 wrap-up: A year of momentum, milestones, and memorable moments Article",
+      "link": "https://www.marqeta.com/blog/marqeta-2025-wrap-up",
+      "summary": "Marqeta's 2025 year in review: New CEO Mike Milotich, Klarna's European expansion, TransactPay acquisition, and major fintech industry events.",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
