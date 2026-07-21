@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-21T09:42:54.790617+00:00",
+  "generatedAt": "2026-07-21T12:03:18.076840+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-2371ba20ccf75fccf7ac",
+      "title": "Amazon.pl zostaje Oficjalnym Partnerem Ekstraklasy",
+      "link": "https://press.aboutamazon.com/pl/wiadomosci/amazon-w-polsce/2026/7/amazon-pl-zostaje-oficjalnym-partnerem-ekstraklasy",
+      "summary": "Amazon.pl ogłosił dziś nawiązanie dwuletniej współpracy z Ekstraklasą S.A., na mocy której został Oficjalnym Partnerem rozgrywek Ekstraklasy. Współpraca obowiązuje od lipca 2026 roku do czerwca 2028 roku i obejmuje wszystkie mecze rozgrywane w tym okresie.",
+      "publishedAt": "2026-07-21T11:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "google-blog-85a5cc9c947a5efb4afb",
       "title": "5 ways to build a side hustle with Gemini",
@@ -278,16 +290,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-df18b3c8ff133cf2d9da",
-      "title": "TSMC Reports Second Quarter EPS of NT$27.25|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zcklOeFlyOThxTGM2S1p6UTBOSDl5TG5SLVBGSmpiaHVuT1pZS2gwOWZJZlpJUFpjcTZ0V3NWR0tNT0FUMmJ1S28tOC1qQQ?oc=5",
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-07-16T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
@@ -626,6 +638,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-5f07fb13c603faa43625",
       "title": "Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando IA a sus funcionalidades",
       "link": "https://press.aboutamazon.com/es/news/amazon-business/2026/7/amazon-business-prime-ia-funcionalidades",
@@ -636,18 +660,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-587aff7bf4159253d90f",
-      "title": "TSMC June 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVzNqUmZZcWF1RTZwZEdCdW5IcjdLRU1oRGZnbjRiaW9NOFVTQzNNdW5xQWVabWhFLTZlMGc0bUt1LTI1VFB6RXBuRUtSdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-2e80730fc65202f389b2",
@@ -1190,18 +1202,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-f1d7f309e4d1cf18fd7f",
-      "title": "University of Utah Launches Secure Research Enclave to Accelerate Competitive Research with Amazon Web Services",
-      "link": "https://press.aboutamazon.com/aws/2026/6/university-of-utah-launches-secure-research-enclave-to-accelerate-competitive-research-with-amazon-web-services",
-      "summary": "[MEDIA ALERT]Powered by Amazon Web Services, the University of Utah’s new Secure Research Enclave brings secure, scalable cloud computing to complex research involving sensitive data, AI-enabled analysis and NIST, HIPAA, FISMA and CMMC requirements.",
-      "publishedAt": "2026-06-30T17:01:06.548000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-2431a1c21a66f2c14e49",
       "title": "SoFi Introduces Small Business Loans to Help Members Pursue Their Business Ambitions",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnU4b3J1VGZhcVJ1a0lxYUVJTHF3NHNTT1EyN0Z2cFFtbXZ1eFdqVWp2dDNXZUZZTnVmaXVMZnJfSW9lakJKTDVHVXBjNXB6RFFCQ0ZjWVBVc2w1RERaVEEtN3JMVlpQaDJnRjI3Vnd1clk3bENOak94ZjFHeTMyOVFRaUdvQU50YUdTbWZ4RXdzdzRwakplaWFZaEpBQ1Vrc0k0SUNPZ0drTFZjUldEM2pCTTlOSnF0S1pWazRsZkd5bzQ0QU5WR0N4MnFnWk81eWJHWTFZUDdqRThlbVBYcg?oc=5",
@@ -1430,6 +1430,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
       "title": "Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy",
@@ -1440,6 +1452,30 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-06bc12a85916a2f45e65",
+      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
+      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
+      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
+      "publishedAt": "2026-06-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-47f546177b4153ec6af6",
@@ -1730,6 +1766,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-bf3f9f54fcbcc79683b7",
+      "title": "2026/05/12 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3311",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-12T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-3aae071e6b75008c3d5d",
       "title": "Affirm works with Google to make AI shopping payments clear and simple",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-works-google-make-ai-shopping-payments-clear-and-simple/",
@@ -1790,16 +1838,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-0847a2759412a0ace3c6",
-      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T07:00:00+00:00",
+      "id": "tsmc-news-734c29856225bc355ec5",
+      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "link": "https://pr.tsmc.com/english/news/3308",
+      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-a5454d306bd930dc2141",
@@ -1982,18 +2030,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2114,6 +2150,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-1c954ea37a9178a04211",
+      "title": "2026/04/10 TSMC March 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3294",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-04-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-61cced29889cce21c97f",
       "title": "Circle Launches CPN Managed Payments, a Full-Stack Platform for Seamless Stablecoin Settlement",
       "link": "https://www.circle.com/pressroom/circle-launches-cpn-managed-payments-a-full-stack-platform-for-seamless-stablecoin-settlement",
@@ -2135,6 +2183,18 @@
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-387ddf28a703d88584eb",
+      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
+      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
+      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
+      "publishedAt": "2026-04-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2218,6 +2278,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
+      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
+      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
+      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2330,11 +2402,11 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-2d54e3923eade6fa0096",
-      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
-      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
-      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
-      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
+      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
+      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
+      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
+      "publishedAt": "2026-02-17T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2446,6 +2518,18 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-f8d472d694e40618ee52",
+      "title": "Why 2026 Will Define LatAm Banking: Digital Payments, Financial Inclusion, and the Convergence of Fintechs and Banks",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0lvNG5Pd01QM2s0QXNHSTREOXM2SjY3dHVBWTlSQnFMcDYxb1d0RmRic0FSZjM2TmtqQnpaYnBWcnVMdk9kY3V4T3A3N1FNR01wZVFWdzR5X0loTkI4MVoyRTBrV0ZyMV9yNFdqd1pNaW8zeThFazdoWVNLaXFBaGJ1WUhfZVlCdnBTVTRoa0RScm9Q?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-05T08:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2796,90 +2880,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-84e40cb7c0acc4433863",
-      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
-      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
-      "publishedAt": "2025-08-12T11:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "galileo-blog-c264358b1bd6c0a924d2",
-      "title": "LatAm’s Instant Payment Boom through the Lens of Gustanomics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1MyQ1EtY0MzNExyMEszNnlDbmdmRGpSY25lYmE1cGZ5R1BpYkUwWGNOSXdvdjVnMS0wa1Q5RUlqeVRMV1dJRk5qRFlIRlcwaUZ5OW1WMzY3ZkphRWxJNTcyVmxKeHNSX0k3aU90WUV2SnRJSC1qVnBIT05PSzR6V3JkLTZQYXd0dDc0Q1V2dkZFUWEtZzVN?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-12T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "galileo-blog-852873d8336b35abef10",
-      "title": "5 Ways CTOs Can Use Virtual Assistants to Drive Innovation",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0pwRElQOE1SdXItVmhZZHh4bVdIVDRRMzRJb2tjOS1ROFE2MnROT3NINW1tVDlqVThpczA2RGI5QVVSbzZJOFJ5eHRhWFdqSkx4U05YOEc1WU1kN3hMbktvSzl6V3VrMHpuems0NVZtaHpOWEVHV05xNl9BNUpXSklkTHk0RXVXVnNVUw?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-02T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "affirm-news-e0a9239313baf8131fbc",
-      "title": "How pay-later is powering small business growth: Webinar recap",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/how-pay-later-powering-small-business-growth-webinar-recap/",
-      "summary": "Small businesses are the heartbeat of the economy, and in today's fast-moving digital world, they're constantly looking for tools to grow smarter and serve customers better. That’s exactly what Affirm’s recent Small Business Month webinar set out to explore.",
-      "publishedAt": "2025-05-28T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 13,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
