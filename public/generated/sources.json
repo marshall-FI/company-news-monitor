@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T20:25:19.273797+00:00",
+  "generatedAt": "2026-07-22T22:19:50.244805+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -149,10 +149,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 9,
+      "message": "STALE: official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "chime-newsroom",

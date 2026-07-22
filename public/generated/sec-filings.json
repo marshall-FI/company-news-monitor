@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-07-22T20:25:27.052050+00:00",
+  "generatedAt": "2026-07-22T22:19:57.803280+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
+    {
+      "id": "TSLA-0001628280-26-049213",
+      "company": "Tesla",
+      "displayName": "Tesla",
+      "ticker": "TSLA",
+      "cik": "0001318605",
+      "category": "Big Tech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001628280-26-049213",
+      "filingDate": "2026-07-22",
+      "reportDate": "2026-07-22",
+      "acceptanceDateTime": "2026-07-22",
+      "primaryDocument": "tsla-20260722.htm",
+      "title": "Tesla 8-K for 2026-07-22",
+      "summary": "Tesla filed a current report (8-K) on 2026-07-22 for report date 2026-07-22. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/0001628280-26-049213-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/tsla-20260722.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
     {
       "id": "GOOGL-0001652044-26-000066",
       "company": "Google",
@@ -5580,26 +5600,6 @@
       "summary": "Toast filed a current report (8-K) on 2025-10-27 for report date 2025-10-24. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000119312525250778/0001193125-25-250778-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000119312525250778/d55552d8k.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "AFRM-0001628280-25-046264",
-      "company": "Affirm",
-      "displayName": "Affirm Holdings",
-      "ticker": "AFRM",
-      "cik": "0001820953",
-      "category": "Fintech Blogs",
-      "form": "DEF 14A",
-      "accessionNumber": "0001628280-25-046264",
-      "filingDate": "2025-10-24",
-      "reportDate": "2025-06-30",
-      "acceptanceDateTime": "2025-10-24",
-      "primaryDocument": "a2025proxystatement.htm",
-      "title": "Affirm DEF 14A for 2025-06-30",
-      "summary": "Affirm Holdings filed a proxy statement (DEF 14A) on 2025-10-24 for report date 2025-06-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025046264/0001628280-25-046264-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025046264/a2025proxystatement.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }
