@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T18:25:49.120908+00:00",
+  "generatedAt": "2026-07-22T20:25:19.273797+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-982e0c53dd3a6de625f0",
@@ -24,6 +24,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-f223963852fbaed778bb",
+      "title": "Klarna gets physical with lululemon, launching in-store in the UK & Germany",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNE5aRldHTngtWjY0N2l3UGZqZm5OYXg5SjhIdFNXN1lVMjFQOFM5eDJsNXZObjhjYnNrNnVVM0hQX0JoR0x0TVJyQWN0M0tjaFVKUlRxa0hrM1B4c1BDbmdmNERuV2dSTEc2ZWN1b2hEY1lmU0pFb3ZkWTVUcC03X1RVSDRxdkJxX3ZEUlJOejlGeG1vaXM0UDlTRzlnSzlfSC15cFU2bWJKLTQ3QlZYWFp0cUt3ellBVkhwbg?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-22T13:53:33+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-47d7f4d2b03bdbe591d9",
@@ -336,18 +348,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-17T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "chime-newsroom-740358f1ae86a1ff1be1",
@@ -842,6 +842,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch/",
@@ -876,6 +888,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1250,6 +1274,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1346,18 +1382,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-98c7bac7482f92c4dc63",
-      "title": "Klarna celebrates 5 years of growth, innovation and partnerships in France",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGVvUXRnV2l5dENQUjlOQ1kzdGN3bnc4WjBIZFFCSXRidVRQWFprRjV5aWduQjRFTGJZVVRhRUI5Q0d6X2F4b2JZMEpxc29jQW1SOHdtRy16cmlCSTlRSjlRSngxQmJSLU4zWkRVY3VSX3JBaHYzRmJHMkVPN21Vc1lxb0IxRlhfbjIwSkJtUldPWXZWcmtnQ1RIdXNlRG1LUFFjLXd1ODY5RUJtUUotMDlSUXEyekhV?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-22T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "paypal-newsroom-9c111b94f0eda192b8ea",
       "title": "PayPal Ads Delivers Bottom-Line Growth Advertisers Can Measure",
       "link": "https://newsroom.paypal-corp.com/2026-06-22-PayPal-Ads-Delivers-Bottom-Line-Growth-Advertisers-Can-Measure",
@@ -1452,6 +1476,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-06bc12a85916a2f45e65",
+      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
+      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
+      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
+      "publishedAt": "2026-06-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-47f546177b4153ec6af6",
@@ -1620,6 +1656,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-dedda780f9896cf24a34",
+      "title": "SoFiUSD Becomes the First Stablecoin Issued by a US National Bank to Launch on a Banking Platform",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRVUzeHhJT3ZrSlVHSjFPNjlvZjdZaVcxRldwNVBYbkhVLUVUUkd4TFRfX0l5akZPNkdIMExnZjFQelpRU1phREtzcFhkUkNvVE1DTUpKVkpaWGdPdk5Fd0tVX0pZX1VCV2M2dzBUdmRDZnFXSUUzVGF1N0YwaWJTYkhmTV92dk85RFBLV1dscFlJbWttVGhOY09kMnhZUndOM1N2cFY1V3Uxa0tKZmR3WDhDWDN2dkpOcE1Ga3piOGZEMnFBMnR5R1BBMmtnWTlGWkV6WkRNR29lODFWSmh5U1dzbHNuaTMzN3o0LW9hVk12dw?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-27T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-967f76fdd7f20be21fdf",
@@ -1946,6 +1994,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
+      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
+      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
+      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
+      "publishedAt": "2026-04-27T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2150,6 +2210,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-db87a1605c0270e94af8",
+      "title": "Issuing/processing Commercial How tech and entertainment companies are rethinking the payment experience Article",
+      "link": "https://www.marqeta.com/blog/how-tech-and-entertainment-companies-are-rethinking-the-payment-experience",
+      "summary": "Payment experience is product experience. See how tech and entertainment companies are embedding finance to reduce friction, boost loyalty and drive revenue.",
+      "publishedAt": "2026-03-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "galileo-blog-d9e9dd421562a5949ae0",
       "title": "The Hidden Cost of Checks and Wires: A CFO’s Guide to Modern Disbursements",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEZUUmgwZW1LYlhvbHVxWVBHUFc5Rzl2V2gwSTNacXFWUm5idGpiRjRQeDRob1RZNzhub1NNNnRFaHBnWkZfREhQMzRzdUFUeVcwOVVqaUx1VVNyMEhIV2F0SlNiUzM1RzZlRTBFV0lXWGFac2JkVk9Rb1BSWmFidFBZRXlPODlSMF9sNXBQSTlYZw?oc=5",
@@ -2174,6 +2246,42 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
+      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
+      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
+      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-c2fed06b99d719bdfba8",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-03-17T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2182,6 +2290,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
+      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
+      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
+      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2222,6 +2342,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
+      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
+      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
+      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
+      "publishedAt": "2026-02-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
       "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
       "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
@@ -2258,6 +2390,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2270,6 +2414,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
       "title": "Cash: The resilient bridge to the digital economy in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/cash-the-resilient-bridge-to-the-digital-economy-in-emerging-markets/",
@@ -2280,6 +2436,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-acfdbe1b8449d923e9af",
+      "title": "SoFi to Match $1,000 Federal Contribution to Investment Accounts for Employees’ Children",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZF9HSWxSeGVRbE90V3luN2thRm9vNkVzVUN2Z3lFdFJBejNfZmJtN2Vhbi1Ma0xYWjFmR0kzT2p5WVFxU0VSczhUY3FpQ0JCWExwcXdhUThrN3FueFlNQUdNNzllUG9MSjlNN25oRkVIV3VqWC1KS1NoQ2VhdVZSc3BzckZsWUU2bVZraERuaTZ2Z1NLbnFocGFrcXYzbExrWXBaTERac0VzdzM1UkhYSzgzWXJONVNyWTdBSHJmZUhZTjBZVUJoZ0RUS0VLQl9ldWhBX3pUOGNHbzRUY1pBODN3?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-14T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "toast-product-news-9e5e095cb7855f19948c",
@@ -2352,6 +2520,30 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-11563e25e35dfee9fcb0",
+      "title": "Other All Industries Marqeta 2025 wrap-up: A year of momentum, milestones, and memorable moments Article",
+      "link": "https://www.marqeta.com/blog/marqeta-2025-wrap-up",
+      "summary": "Marqeta's 2025 year in review: New CEO Mike Milotich, Klarna's European expansion, TransactPay acquisition, and major fintech industry events.",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-52552d4e8f0e51afa3e2",
+      "title": "Issuing/processing All Industries Black Friday 2025: What peak performance actually requires Article",
+      "link": "https://www.marqeta.com/blog/black-friday-2025-marqeta-platform-performance",
+      "summary": "Black Friday 2025 set records with 202.9M shoppers. See how Marqeta's platform handled peak volume with 99.999% uptime and sub-200ms response times.",
+      "publishedAt": "2025-12-19T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "toast-product-news-248f88a05db1ebdf9492",
@@ -2570,18 +2762,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-e3324a6f95a3ab0ab3d9",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2025 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2FVMnFISnJzRlNFYmJXSzFnYVVadUpsbU1ldVRrc1RzT2k1TnpZVEd1cmE3M0x3Mm1HUGNRU0RaVTBfaElHd3VGclQ0a1l4eTlXVXNLek1tbEdDOXZrbmZZTVRuQzRpbFVqN0hiZGhlWnNVTi15eVhaNzlRUVVLcWpxWVc2cHBJYWZPYWxXWlpQTmM1bHc0TmQyUW5xX2gxSTdBYzFud2NDa3p5NWFfR3BpQTZ3VjlsWWlPYQ?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-10-01T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dave-press-9ad6aca2c340df637c4b",
       "title": "View announcement",
       "link": "https://staging.dave.com/press/news-releases/news-release-details/dave-reports-third-quarter-2025-financial-results",
@@ -2700,186 +2880,6 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "galileo-blog-4be8f3d1731c5989f902",
-      "title": "How Galileo Is Modernizing Loyalty with Co-Branded Debit",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXctYXRFN214Y0liWWFYRE80d3ZyT01OZzA5QUFNZUQ2S1BKR1FaOVd0eEYzaER6NnJHalNkT3Buc1ZwaVNaZ25GZmtTQS1xeTFGZV9ld2JZZGxsY2FacDZQb2ZNZTRKMTJEVXZQVmFUbWlnNVVQdnMycllQaU5UcjBOUjJEMWtheGlYNlE0cU9Gd1k?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-11T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "galileo-blog-12e7839092d53db83ba2",
-      "title": "Building Intelligent Fraud Controls for the Customer Era",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBUWl4OWxaTlNWbzhROWU3NDZwbHVkX2ZSeDR5TVhuanhMSW51bzlEZGhTcTJ4RE9RLWdMY2gwWXFTWFY2bW5YQlQ5ck5tWGlEbm54RndOLUtZUDkwc1Q2WnV2cl8zVUpSOFBkMlFWTjQ?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-07T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-3ee365bcf3eb441e2f52",
-      "title": "SoFi Technologies, Inc. Announces Public Offering of Common Stock",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVV9ueXpMZ1kxUW55M09mbjktdllDYURWVS1lbUdXZlplYXp5dDBNSVJSSE53MmdvMUdfcXkwLThuanVhQmMwUnFSZnhKaVF6UERJVzVZZERiMUFrOE9zRk12NEtPRXZlMkNhR3dVUmF3WFU4SzhhUGRRSzZHX2puU3dSUk5HVThfeGtwQ1BYZTZlVEh4VDhYS2RneFNYQlZicG1RbDJZekhkM3ZMbmNjVS0yNVRxRmxpeEVLeXJoQ3dVRlB3c0E?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "galileo-blog-852873d8336b35abef10",
-      "title": "5 Ways CTOs Can Use Virtual Assistants to Drive Innovation",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0pwRElQOE1SdXItVmhZZHh4bVdIVDRRMzRJb2tjOS1ROFE2MnROT3NINW1tVDlqVThpczA2RGI5QVVSbzZJOFJ5eHRhWFdqSkx4U05YOEc1WU1kN3hMbktvSzl6V3VrMHpuems0NVZtaHpOWEVHV05xNl9BNUpXSklkTHk0RXVXVnNVUw?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-02T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "affirm-news-e0a9239313baf8131fbc",
-      "title": "How pay-later is powering small business growth: Webinar recap",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/how-pay-later-powering-small-business-growth-webinar-recap/",
-      "summary": "Small businesses are the heartbeat of the economy, and in today's fast-moving digital world, they're constantly looking for tools to grow smarter and serve customers better. That’s exactly what Affirm’s recent Small Business Month webinar set out to explore.",
-      "publishedAt": "2025-05-28T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c22901d5296e709477b9",
-      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-732353b06b981481ab01",
-      "title": "Toast Tees Up New Technology Platform for Topgolf",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemYyY0ZaeHE5anZnWFVpdFhhdnB4YkdlZ3JzZ1ZVbm55M0pGcjY4MjlfNTVCenk2aXZ0VEpHTDN0LXpNdnlxcnJaLTlkcEgyTGphejRLYVBGc3YyMWdKNEE4Y0x2emIxRFNHdHByQVVkU3RyX2xWSVpIZ2FEbVY5WmQ5QTFqdw?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-08T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-edc76b27965c51657da7",
-      "title": "5 ways to boost customer satisfaction with real-time payments",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2hjRFp6N0EtS0g1SnVYY3paMTZQM282U1FNaWtTZ2lfdm1TcDlSUl9FNlFRZnkyR3k1Y3VxQWZ2cHE5NlFRaE5nMUwwbENuOGx6Z195MGZMQ0R2cEsyYTA4bGw4UER3RXFZVHNnSXR0dlhYX0VEbENGTEhncUdWZ1VlRmd2SlBQaHRyak9fc1djX0sxeDZj?oc=5",
-      "summary": "Marqeta Blog published an update for Marqeta relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-29T23:09:16+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-bacdd251daca40559e7e",
-      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-18T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2905,10 +2905,10 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK via rendered HTML"
     },
     {
       "sourceId": "block-investor-news",

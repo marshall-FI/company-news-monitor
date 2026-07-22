@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T18:25:49.120908+00:00",
+  "generatedAt": "2026-07-22T20:25:19.273797+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -23,10 +23,10 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK via rendered HTML"
     },
     {
       "sourceId": "block-investor-news",
