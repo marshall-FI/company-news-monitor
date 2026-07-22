@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-07-22T12:07:22.196101+00:00",
+  "generatedAt": "2026-07-22T14:25:28.291613+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-47d7f4d2b03bdbe591d9",
+      "title": "Amazon Literary Partnership Announces 2026 Grant Recipients",
+      "link": "https://press.aboutamazon.com/books-and-authors/2026/7/amazon-literary-partnership-announces-2026-grant-recipients",
+      "summary": "Since 2009, the program has provided more than $19 million in funding to organizations across the country that empower writers to create, publish, and thrive.",
+      "publishedAt": "2026-07-22T13:33:48.956000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "nvidia-newsroom-8298d0b9a2aa41678d34",
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on schedule. That create",
+      "publishedAt": "2026-07-22T13:00:11+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-106d2d20c4267f400a28",
+      "title": "Switch to Android easily — and bring your data with you.",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-switch-from-iphone-to-android/",
+      "summary": "A new migration experience built directly into Android 17 that lets you transfer more data wirelessly from an iPhone.",
+      "publishedAt": "2026-07-22T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-a9dfe60b87c54070a5b1",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "publishedAt": "2026-07-22T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-27731b718fc76abe8123",
+      "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
+      "link": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video?utm_source=rss",
+      "summary": "The upcoming film will chart the life and work of Lily Allen, from her early years through to 'West End Girl.'",
+      "publishedAt": "2026-07-22T12:55:11+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-c2ba857da4d8fab898c9",
+      "title": "Amazon Business raggiunge 60 miliardi di dollari di vendite lorde su base annua, supportando oltre 11 milioni di organizzazioni nel mondo",
+      "link": "https://press.aboutamazon.com/it/news/amazon-business/2026/7/amazon-business-vendite-nel-mondo",
+      "summary": "Aziende di ogni dimensione si sono affidate ad Amazon Business per i suoi strumenti basati sull’intelligenza artificiale, per l’ampia selezione di prodotti, i prezzi competitivi, le soluzioni di consegna e i vantaggi dell'abbonamento Prime Business.Più di 1,8 milioni di nuove aziende hanno scelto…",
+      "publishedAt": "2026-07-22T09:42:09.015000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "robinhood-blog-c45c5739261a04a03c48",
       "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
@@ -11,6 +83,18 @@
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-0e69e84c5493c3fef917",
+      "title": "Le PMI italiane su Amazon generano oltre 4 miliardi di euro di vendite nel 2025: a trainare le performance è il Sud Italia",
+      "link": "https://press.aboutamazon.com/it/notizie/piccole-e-medie-imprese/2026/7/pmi-italiane-amazon-vendite",
+      "summary": "Milano, 22 luglio 2026 - Le piccole e medie imprese italiane che vendono attraverso Amazon confermano il proprio ruolo di protagoniste dell'economia digitale nazionale. Secondo l’ultimo Report sull’impatto delle PMI, nel 2025 i partner di vendita terzi italiani hanno raggiunto oltre 4 miliardi di…",
+      "publishedAt": "2026-07-22T08:22:16.350000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -410,16 +494,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-df18b3c8ff133cf2d9da",
-      "title": "TSMC Reports Second Quarter EPS of NT$27.25|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zcklOeFlyOThxTGM2S1p6UTBOSDl5TG5SLVBGSmpiaHVuT1pZS2gwOWZJZlpJUFpjcTZ0V3NWR0tNT0FUMmJ1S28tOC1qQQ?oc=5",
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-07-16T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
@@ -590,18 +674,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-b76447458294b9030eaa",
-      "title": "Explore The Met in new ways with generative AI",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-met-ai-initiatives/",
-      "summary": "The Metropolitan Museum of Art unveils two new generative AI initiatives with Google Arts & Culture.",
-      "publishedAt": "2026-07-14T20:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-54201dea3fa26ec61193",
       "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
       "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
@@ -610,18 +682,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-db1ed1c9277f4438d4e2",
-      "title": "Our largest solar and battery storage project ever",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/",
-      "summary": "Google will both invest in and purchase energy and storage from Steel River Energy Center in Mississippi County, Arkansas.",
-      "publishedAt": "2026-07-14T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -722,6 +782,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-5f07fb13c603faa43625",
       "title": "Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando IA a sus funcionalidades",
       "link": "https://press.aboutamazon.com/es/news/amazon-business/2026/7/amazon-business-prime-ia-funcionalidades",
@@ -732,18 +804,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-587aff7bf4159253d90f",
-      "title": "TSMC June 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVzNqUmZZcWF1RTZwZEdCdW5IcjdLRU1oRGZnbjRiaW9NOFVTQzNNdW5xQWVabWhFLTZlMGc0bUt1LTI1VFB6RXBuRUtSdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-2e80730fc65202f389b2",
@@ -792,18 +852,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-9c11e680d21854314f78",
-      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
-      "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
-      "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
-      "publishedAt": "2026-07-09T18:28:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-1b34ab0eb60f0a91787d",
@@ -950,18 +998,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "nvidia-newsroom-6c01ea07a610cdf30aa1",
-      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-      "link": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
-      "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
-      "publishedAt": "2026-07-07T15:00:52+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "klarna-press-b28c5783402c6e931201",
       "title": "Klarna lands Southwest Airlines, bringing flexible payments to millions of US travelers this fall",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUEtzcmlSZmo4eUNPaEtuTHl5UGlGdmtETjJ0ZlZKUHpPc2MzakQyc2M1ZUFac3VHem5XYVEyTnBWUjhQYmc3RW9jeFRUQWhHcUVPRW0tOTVKcS04cXNMOHM0eHgteTZIU0YzVU8xT3FnLXJBVnlFMFk3M2F0SFJGemI2THVXcV92bjB1S0RPVU1pek0yREJCVk0tQVlRdm1tOThfd2pObVp0REl0ZW5XZ3hrWHVXQ0NyMF9MUE9EQkdzMzYyY0JONGg0N0lzSGxfNkxJcE8zMA?oc=5",
@@ -1010,18 +1046,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-d14aae0c5277e4fb0425",
-      "title": "El centro de Amazon Fresh de Madrid celebra su quinto aniversario con más de 150 personas empleadas",
-      "link": "https://press.aboutamazon.com/es/news/company-news/2026/7/centro-amazon-fresh-madrid-quinto-aniversario",
-      "summary": "Amazon Fresh, el servicio de supermercado online de Amazon, opera a través de cinco centros en todo el país para llevar los pedidos a clientes de Madrid, Barcelona, Guadalajara, Valencia, Sevilla y Zaragoza.El centro de operaciones de Madrid gestiona, de media, 1.800 pedidos diarios con más de…",
-      "publishedAt": "2026-07-06T13:52:12.270000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-6debac466261a59e0c9b",
       "title": "Upstart Publishes June 2026 Origination Volume",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-june-2026-origination-volume",
@@ -1032,18 +1056,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-21ac4a21afd32711c264",
-      "title": "Münchner Startup bringt mit Amazons Unterstützung nährstoffreiche Milchalternative aus Biertreber auf den Markt",
-      "link": "https://press.aboutamazon.com/de/2026/7/muenchner-startup-bringt-mit-amazons-unterstuetzung-naehrstoffreiche-milchalternative-aus-biertreber-auf-den-markt",
-      "summary": "Circular grain aus München entwickelt mit Tremi eine pflanzliche Milchalternative aus Biertreber. Der Marktstart im Großraum München ist für September geplant. Das von drei Absolventinnen der Technischen Universität München gegründete Startup hat mehr als zwei Jahre an der Produktentwicklung…",
-      "publishedAt": "2026-07-06T11:36:59.928000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "klarna-press-b013e0a8e571c827620b",
@@ -1128,18 +1140,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-fba738e1753ec8a64b0c",
-      "title": "Amazon Launches Community Fund, Now Accepting Applications for Projects in Frederick County, Maryland",
-      "link": "https://press.aboutamazon.com/community/2026/7/amazon-launches-community-fund-now-accepting-applications-for-projects-in-frederick-county-maryland",
-      "summary": "Individuals and organizations can apply for funds to support projects that positively impact their community. Learn more and apply.",
-      "publishedAt": "2026-07-01T20:27:19.597000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-422052f0adb9172aac1d",
@@ -1814,16 +1814,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-0847a2759412a0ace3c6",
-      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T07:00:00+00:00",
+      "id": "tsmc-news-734c29856225bc355ec5",
+      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "link": "https://pr.tsmc.com/english/news/3308",
+      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-a5454d306bd930dc2141",
@@ -1992,18 +1992,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-cf33a84d239473a10983",
@@ -2426,11 +2414,11 @@
       "sourceKind": "html"
     },
     {
-      "id": "galileo-blog-c91531f6ab6be571014d",
-      "title": "Strategic Fraud Prevention: Maximizing Tight Budgets to Ensure Protection",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUtLTTlJSFdwNnBUcUN6OXliX0gtYkNILTY0dmM5TmttdFFwOG41OWdOb1p5UzFCc2Jra2FPS2dNckc0LXhpWXJYMjJEQ0VEdVkzQmhJandWb21yWm1PQl84NFZyZkJ3TVhsZkphY3YzdHJ3aHlKekhESWlTdTlOcDRlVXFrSVlBRV91aA?oc=5",
+      "id": "galileo-blog-079307691b902d2ce36e",
+      "title": "How Rapid Self-Onboarding Can Drive Technical Inclusion for LatAm Banks",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVFmbVNEVVI0RWV5R09zeS1YQ3Zyb3d4VHNra2RfLS1Vc3J2QmhpWDdXRDNsWHlZUmpWQkZTV1V4anI4ejBSUk5vcVFfRkxBMnlaOEtFak1NX3hIbXZKVmJZWEZLbUh5OGdUMkt6cGlHeHFvbWRteVphOVUwTkc2emc0c0wxUHBGRnlabUFkcw?oc=5",
       "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-23T08:00:00+00:00",
+      "publishedAt": "2026-01-27T08:00:00+00:00",
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "company": "Galileo",
@@ -2558,18 +2546,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "galileo-blog-4fb45ebbf8aef3f93377",
-      "title": "How Uruguay's Oldest Bank Modernized with Digital Wallets: The BROU a Mano Success Story",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQallDSnY2eFc2RGVwWGh2Vk40TGNkeDM0LUdfZ1FQS3o2MkNvLXNKQVNKMkF1Q0FUSWlXY2lWVlNkTS11ZnJuNVJ4WnZycnp0QlBoc1Zjb1BCQ243TFY3eE5qMlNLWHgya2U3TjBaZWdqLUNIWXRoeUh5X196aEtLYWdpcHFMeUxOeURjYmRmTFdrVXlDSW5hczN2SUw4b0FmR1hV?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-12-22T08:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-11563e25e35dfee9fcb0",
       "title": "Other All Industries Marqeta 2025 wrap-up: A year of momentum, milestones, and memorable moments Article",
       "link": "https://www.marqeta.com/blog/marqeta-2025-wrap-up",
@@ -2627,6 +2603,18 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2868,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 13,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
