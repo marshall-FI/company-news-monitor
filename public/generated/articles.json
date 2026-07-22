@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:19:50.244805+00:00",
+  "generatedAt": "2026-07-22T23:20:47.707782+00:00",
   "articles": [
     {
       "id": "google-blog-646dcb0e6c7c90b7a374",
@@ -12,6 +12,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-982e0c53dd3a6de625f0",
+      "title": "WellSpan Completes Comprehensive Migration of Technology Portfolio to AWS",
+      "link": "https://press.aboutamazon.com/aws/2026/7/wellspan-completes-comprehensive-migration-of-technology-portfolio-to-aws",
+      "summary": "WellSpan's transition of more than 300 applications and 7.5 petabytes of clinical data from data centers to the cloud positions the health system to deploy AI at a scale and speed unmatched among community health systems",
+      "publishedAt": "2026-07-22T16:22:55.429000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-b6c036e2206be4c5a0ae",
@@ -36,6 +48,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "amazon-press-archive-47d7f4d2b03bdbe591d9",
+      "title": "Amazon Literary Partnership Announces 2026 Grant Recipients",
+      "link": "https://press.aboutamazon.com/books-and-authors/2026/7/amazon-literary-partnership-announces-2026-grant-recipients",
+      "summary": "Since 2009, the program has provided more than $19 million in funding to organizations across the country that empower writers to create, publish, and thrive.",
+      "publishedAt": "2026-07-22T13:33:48.956000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-8298d0b9a2aa41678d34",
@@ -86,6 +110,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "amazon-press-archive-c2ba857da4d8fab898c9",
+      "title": "Amazon Business raggiunge 60 miliardi di dollari di vendite lorde su base annua, supportando oltre 11 milioni di organizzazioni nel mondo",
+      "link": "https://press.aboutamazon.com/it/news/amazon-business/2026/7/amazon-business-vendite-nel-mondo",
+      "summary": "Aziende di ogni dimensione si sono affidate ad Amazon Business per i suoi strumenti basati sull’intelligenza artificiale, per l’ampia selezione di prodotti, i prezzi competitivi, le soluzioni di consegna e i vantaggi dell'abbonamento Prime Business.Più di 1,8 milioni di nuove aziende hanno scelto…",
+      "publishedAt": "2026-07-22T09:42:09.015000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-c45c5739261a04a03c48",
       "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-platinum-card-rollout",
@@ -95,6 +131,18 @@
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-0e69e84c5493c3fef917",
+      "title": "Le PMI italiane su Amazon generano oltre 4 miliardi di euro di vendite nel 2025: a trainare le performance è il Sud Italia",
+      "link": "https://press.aboutamazon.com/it/notizie/piccole-e-medie-imprese/2026/7/pmi-italiane-amazon-vendite",
+      "summary": "Milano, 22 luglio 2026 - Le piccole e medie imprese italiane che vendono attraverso Amazon confermano il proprio ruolo di protagoniste dell'economia digitale nazionale. Secondo l’ultimo Report sull’impatto delle PMI, nel 2025 i partner di vendita terzi italiani hanno raggiunto oltre 4 miliardi di…",
+      "publishedAt": "2026-07-22T08:22:16.350000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -494,18 +542,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-df18b3c8ff133cf2d9da",
-      "title": "TSMC Reports Second Quarter EPS of NT$27.25|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zcklOeFlyOThxTGM2S1p6UTBOSDl5TG5SLVBGSmpiaHVuT1pZS2gwOWZJZlpJUFpjcTZ0V3NWR0tNT0FUMmJ1S28tOC1qQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
       "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
       "link": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
@@ -770,18 +806,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-587aff7bf4159253d90f",
-      "title": "TSMC June 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVzNqUmZZcWF1RTZwZEdCdW5IcjdLRU1oRGZnbjRiaW9NOFVTQzNNdW5xQWVabWhFLTZlMGc0bUt1LTI1VFB6RXBuRUtSdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "coinbase-blog-2e80730fc65202f389b2",
       "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
@@ -962,18 +986,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-d501904f421b5eea02e7",
-      "title": "How AWS Helps Power Fullpower-AI Sleep Intelligence for Smart Beds Globally",
-      "link": "https://press.aboutamazon.com/aws/2026/7/how-aws-helps-power-fullpower-ai-sleep-intelligence-for-smart-beds-globally",
-      "summary": "Fullpower-AI uses AWS to scale high-fidelity sleep and environmental intelligence across connected smart beds, helping advance the future of healthier sleep.",
-      "publishedAt": "2026-07-07T21:12:32.631000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "klarna-press-b28c5783402c6e931201",
       "title": "Klarna lands Southwest Airlines, bringing flexible payments to millions of US travelers this fall",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUEtzcmlSZmo4eUNPaEtuTHl5UGlGdmtETjJ0ZlZKUHpPc2MzakQyc2M1ZUFac3VHem5XYVEyTnBWUjhQYmc3RW9jeFRUQWhHcUVPRW0tOTVKcS04cXNMOHM0eHgteTZIU0YzVU8xT3FnLXJBVnlFMFk3M2F0SFJGemI2THVXcV92bjB1S0RPVU1pek0yREJCVk0tQVlRdm1tOThfd2pObVp0REl0ZW5XZ3hrWHVXQ0NyMF9MUE9EQkdzMzYyY0JONGg0N0lzSGxfNkxJcE8zMA?oc=5",
@@ -1022,18 +1034,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-d14aae0c5277e4fb0425",
-      "title": "El centro de Amazon Fresh de Madrid celebra su quinto aniversario con más de 150 personas empleadas",
-      "link": "https://press.aboutamazon.com/es/news/company-news/2026/7/centro-amazon-fresh-madrid-quinto-aniversario",
-      "summary": "Amazon Fresh, el servicio de supermercado online de Amazon, opera a través de cinco centros en todo el país para llevar los pedidos a clientes de Madrid, Barcelona, Guadalajara, Valencia, Sevilla y Zaragoza.El centro de operaciones de Madrid gestiona, de media, 1.800 pedidos diarios con más de…",
-      "publishedAt": "2026-07-06T13:52:12.270000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-6debac466261a59e0c9b",
       "title": "Upstart Publishes June 2026 Origination Volume",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-june-2026-origination-volume",
@@ -1044,18 +1044,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-21ac4a21afd32711c264",
-      "title": "Münchner Startup bringt mit Amazons Unterstützung nährstoffreiche Milchalternative aus Biertreber auf den Markt",
-      "link": "https://press.aboutamazon.com/de/2026/7/muenchner-startup-bringt-mit-amazons-unterstuetzung-naehrstoffreiche-milchalternative-aus-biertreber-auf-den-markt",
-      "summary": "Circular grain aus München entwickelt mit Tremi eine pflanzliche Milchalternative aus Biertreber. Der Marktstart im Großraum München ist für September geplant. Das von drei Absolventinnen der Technischen Universität München gegründete Startup hat mehr als zwei Jahre an der Produktentwicklung…",
-      "publishedAt": "2026-07-06T11:36:59.928000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "klarna-press-b013e0a8e571c827620b",
@@ -1140,18 +1128,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-fba738e1753ec8a64b0c",
-      "title": "Amazon Launches Community Fund, Now Accepting Applications for Projects in Frederick County, Maryland",
-      "link": "https://press.aboutamazon.com/community/2026/7/amazon-launches-community-fund-now-accepting-applications-for-projects-in-frederick-county-maryland",
-      "summary": "Individuals and organizations can apply for funds to support projects that positively impact their community. Learn more and apply.",
-      "publishedAt": "2026-07-01T20:27:19.597000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-422052f0adb9172aac1d",
@@ -1464,6 +1440,30 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-06bc12a85916a2f45e65",
+      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
+      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
+      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
+      "publishedAt": "2026-06-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-47f546177b4153ec6af6",
@@ -1790,16 +1790,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-0847a2759412a0ace3c6",
-      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T07:00:00+00:00",
+      "id": "tsmc-news-734c29856225bc355ec5",
+      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "link": "https://pr.tsmc.com/english/news/3308",
+      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-a5454d306bd930dc2141",
@@ -2102,6 +2102,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-1c954ea37a9178a04211",
+      "title": "2026/04/10 TSMC March 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3294",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-04-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-61cced29889cce21c97f",
       "title": "Circle Launches CPN Managed Payments, a Full-Stack Platform for Seamless Stablecoin Settlement",
       "link": "https://www.circle.com/pressroom/circle-launches-cpn-managed-payments-a-full-stack-platform-for-seamless-stablecoin-settlement",
@@ -2123,18 +2135,6 @@
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2198,18 +2198,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-db87a1605c0270e94af8",
-      "title": "Issuing/processing Commercial How tech and entertainment companies are rethinking the payment experience Article",
-      "link": "https://www.marqeta.com/blog/how-tech-and-entertainment-companies-are-rethinking-the-payment-experience",
-      "summary": "Payment experience is product experience. See how tech and entertainment companies are embedding finance to reduce friction, boost loyalty and drive revenue.",
-      "publishedAt": "2026-03-26T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "galileo-blog-d9e9dd421562a5949ae0",
       "title": "The Hidden Cost of Checks and Wires: A CFO’s Guide to Modern Disbursements",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEZUUmgwZW1LYlhvbHVxWVBHUFc5Rzl2V2gwSTNacXFWUm5idGpiRjRQeDRob1RZNzhub1NNNnRFaHBnWkZfREhQMzRzdUFUeVcwOVVqaUx1VVNyMEhIV2F0SlNiUzM1RzZlRTBFV0lXWGFac2JkVk9Rb1BSWmFidFBZRXlPODlSMF9sNXBQSTlYZw?oc=5",
@@ -2230,18 +2218,6 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
-      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
-      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
-      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2306,18 +2282,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-80bc1ee6c0b24a476183",
       "title": "Shift4 Announces Executive Promotions and Leadership Changes",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/295/shift4-announces-executive-promotions-and-leadership-changes",
@@ -2352,18 +2316,6 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-2d54e3923eade6fa0096",
-      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
-      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
-      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
-      "publishedAt": "2026-02-25T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
@@ -2436,6 +2388,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
@@ -2591,6 +2555,18 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2856,30 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "galileo-blog-c264358b1bd6c0a924d2",
+      "title": "LatAm’s Instant Payment Boom through the Lens of Gustanomics",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1MyQ1EtY0MzNExyMEszNnlDbmdmRGpSY25lYmE1cGZ5R1BpYkUwWGNOSXdvdjVnMS0wa1Q5RUlqeVRMV1dJRk5qRFlIRlcwaUZ5OW1WMzY3ZkphRWxJNTcyVmxKeHNSX0k3aU90WUV2SnRJSC1qVnBIT05PSzR6V3JkLTZQYXd0dDc0Q1V2dkZFUWEtZzVN?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-12T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-4be8f3d1731c5989f902",
+      "title": "How Galileo Is Modernizing Loyalty with Co-Branded Debit",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXctYXRFN214Y0liWWFYRE80d3ZyT01OZzA5QUFNZUQ2S1BKR1FaOVd0eEYzaER6NnJHalNkT3Buc1ZwaVNaZ25GZmtTQS1xeTFGZV9ld2JZZGxsY2FacDZQb2ZNZTRKMTJEVXZQVmFUbWlnNVVQdnMycllQaU5UcjBOUjJEMWtheGlYNlE0cU9Gd1k?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-11T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "STALE: official_google_news: No official Google News fallback configured"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "chime-newsroom",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 13,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
