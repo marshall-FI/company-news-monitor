@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T23:20:47.707782+00:00",
+  "generatedAt": "2026-07-23T00:18:34.579582+00:00",
   "articles": [
     {
       "id": "google-blog-646dcb0e6c7c90b7a374",
@@ -540,6 +540,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
@@ -1250,6 +1262,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1428,6 +1452,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
@@ -1802,6 +1838,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-7b041f3b81909f5a8181",
+      "title": "2026/05/08 TSMC April 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3305",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-a5454d306bd930dc2141",
       "title": "Shift4 Announces First Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/300/shift4-announces-first-quarter-2026-results",
@@ -1970,18 +2018,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -1990,6 +2026,18 @@
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7c24989a81478598c50a",
+      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "link": "https://pr.tsmc.com/english/news/3302",
+      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "publishedAt": "2026-04-23T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2138,6 +2186,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-387ddf28a703d88584eb",
+      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
+      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
+      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
+      "publishedAt": "2026-04-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2198,6 +2258,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-db87a1605c0270e94af8",
+      "title": "Issuing/processing Commercial How tech and entertainment companies are rethinking the payment experience Article",
+      "link": "https://www.marqeta.com/blog/how-tech-and-entertainment-companies-are-rethinking-the-payment-experience",
+      "summary": "Payment experience is product experience. See how tech and entertainment companies are embedding finance to reduce friction, boost loyalty and drive revenue.",
+      "publishedAt": "2026-03-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "galileo-blog-d9e9dd421562a5949ae0",
       "title": "The Hidden Cost of Checks and Wires: A CFO’s Guide to Modern Disbursements",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEZUUmgwZW1LYlhvbHVxWVBHUFc5Rzl2V2gwSTNacXFWUm5idGpiRjRQeDRob1RZNzhub1NNNnRFaHBnWkZfREhQMzRzdUFUeVcwOVVqaUx1VVNyMEhIV2F0SlNiUzM1RzZlRTBFV0lXWGFac2JkVk9Rb1BSWmFidFBZRXlPODlSMF9sNXBQSTlYZw?oc=5",
@@ -2222,10 +2294,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-1fc919b6cdd114307e6a",
-      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
-      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
-      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
+      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
+      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
+      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
       "publishedAt": "2026-03-23T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2270,18 +2342,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-80bc1ee6c0b24a476183",
       "title": "Shift4 Announces Executive Promotions and Leadership Changes",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/295/shift4-announces-executive-promotions-and-leadership-changes",
@@ -2316,6 +2376,18 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
@@ -2484,18 +2556,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "galileo-blog-4fb45ebbf8aef3f93377",
-      "title": "How Uruguay's Oldest Bank Modernized with Digital Wallets: The BROU a Mano Success Story",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQallDSnY2eFc2RGVwWGh2Vk40TGNkeDM0LUdfZ1FQS3o2MkNvLXNKQVNKMkF1Q0FUSWlXY2lWVlNkTS11ZnJuNVJ4WnZycnp0QlBoc1Zjb1BCQ243TFY3eE5qMlNLWHgya2U3TjBaZWdqLUNIWXRoeUh5X196aEtLYWdpcHFMeUxOeURjYmRmTFdrVXlDSW5hczN2SUw4b0FmR1hV?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-12-22T08:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-11563e25e35dfee9fcb0",
@@ -2820,66 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-84e40cb7c0acc4433863",
-      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
-      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
-      "publishedAt": "2025-08-12T11:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "galileo-blog-c264358b1bd6c0a924d2",
-      "title": "LatAm’s Instant Payment Boom through the Lens of Gustanomics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1MyQ1EtY0MzNExyMEszNnlDbmdmRGpSY25lYmE1cGZ5R1BpYkUwWGNOSXdvdjVnMS0wa1Q5RUlqeVRMV1dJRk5qRFlIRlcwaUZ5OW1WMzY3ZkphRWxJNTcyVmxKeHNSX0k3aU90WUV2SnRJSC1qVnBIT05PSzR6V3JkLTZQYXd0dDc0Q1V2dkZFUWEtZzVN?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-12T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "galileo-blog-4be8f3d1731c5989f902",
-      "title": "How Galileo Is Modernizing Loyalty with Co-Branded Debit",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXctYXRFN214Y0liWWFYRE80d3ZyT01OZzA5QUFNZUQ2S1BKR1FaOVd0eEYzaER6NnJHalNkT3Buc1ZwaVNaZ25GZmtTQS1xeTFGZV9ld2JZZGxsY2FacDZQb2ZNZTRKMTJEVXZQVmFUbWlnNVVQdnMycllQaU5UcjBOUjJEMWtheGlYNlE0cU9Gd1k?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-11T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
