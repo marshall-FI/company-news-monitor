@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T09:37:38.329300+00:00",
+  "generatedAt": "2026-07-24T11:59:15.427446+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-f34cdff744c937a179c8",
@@ -902,6 +902,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch/",
@@ -924,6 +936,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1130,18 +1154,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-893a94da6ac4d1b6ac5e",
-      "title": "Block to Announce Second Quarter 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkpEbEU2amRQak5fRTJLQlluZmM3S092Ny1Zd2c2dzlmRjkzb2JLdUF6VjI3R192UkdsVUR1Zk11ZnJzMmpHc1dQQ2RaTUxYejBLSnlEcTZlT2pMYjAzR1hDMHFHWXUyWEZ0UzZOTjhHa2h3eHVseG5nSnVnSk9QYURWaFZtZWhvX0UxSVlnalBKd2czTzRkcXZGRHlkSHJmZTVpamREV3RzVjNZbWN6aHVkUWlDTkV1TWc?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-03T00:45:01+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "shift4-news-21c1bec578216cfc66d6",
       "title": "Shift4 Announces Fifth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/303/shift4-announces-fifth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -1164,6 +1176,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "block-investor-news-893a94da6ac4d1b6ac5e",
+      "title": "Block to Announce Second Quarter 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkpEbEU2amRQak5fRTJLQlluZmM3S092Ny1Zd2c2dzlmRjkzb2JLdUF6VjI3R192UkdsVUR1Zk11ZnJzMmpHc1dQQ2RaTUxYejBLSnlEcTZlT2pMYjAzR1hDMHFHWXUyWEZ0UzZOTjhHa2h3eHVseG5nSnVnSk9QYURWaFZtZWhvX0UxSVlnalBKd2czTzRkcXZGRHlkSHJmZTVpamREV3RzVjNZbWN6aHVkUWlDTkV1TWc?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-02T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-422052f0adb9172aac1d",
@@ -1272,18 +1296,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-beb085e673f205e21977",
-      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
-      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
-      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
-      "publishedAt": "2026-06-26T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
@@ -1452,6 +1464,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
@@ -1718,18 +1742,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
-      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "link": "https://pr.tsmc.com/english/news/3314",
-      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "publishedAt": "2026-05-15T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
       "title": "Chime to Participate in William Blair Growth Stock Conference",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-william-blair-growth-stock-conference",
@@ -1818,18 +1830,6 @@
       "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
       "link": "https://pr.tsmc.com/english/news/3308",
       "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-7b041f3b81909f5a8181",
-      "title": "2026/05/08 TSMC April 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3305",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -2006,18 +2006,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2026,6 +2014,18 @@
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7c24989a81478598c50a",
+      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "link": "https://pr.tsmc.com/english/news/3302",
+      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "publishedAt": "2026-04-23T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2102,18 +2102,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-dced848abc1618b53274",
-      "title": "2026/04/16 TSMC Files Annual Report on Form 20-F for 2025",
-      "link": "https://pr.tsmc.com/english/news/3300",
-      "summary": "TSMC Files Annual Report on Form 20-F for 2025",
-      "publishedAt": "2026-04-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "tsmc-news-8fe94b096d2d15fb62f8",
       "title": "2026/04/16 TSMC Reports First Quarter EPS of NT$22.08",
       "link": "https://pr.tsmc.com/english/news/3297",
@@ -2159,18 +2147,6 @@
       "sourceName": "Circle Pressroom",
       "company": "Circle",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-1c954ea37a9178a04211",
-      "title": "2026/04/10 TSMC March 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3294",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2246,18 +2222,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "galileo-blog-a6e17043589ebb2bb4ff",
-      "title": "How Digital Wallets Change Unit Economics for Debit (Not Just CX)",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmZHM0t0VjRTdXlQWGxveFNRSXFsRi11azd0UkNvNFlabDJPSGNHZmR6YTgxSDh2aTdoRjhuczVCWG1BaG9OVjhmMm93RlprR2JtNTVCQXpHd2ZoZW9PZjg4RllfT2VrWUMwNDNXYXlUb1U4SVJ5eFpMMFI2Sk0zb1JEMkVDUQ?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-03-30T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-a4c58ace79c2c7f7471f",
       "title": "SoFi Expands Loan Platform Business with Multiple New Agreements Totaling Over $3.6 Billion",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnZwTF85WDJVY01GOTlXdzVPQkZINXlRdkNfVmdPY2ltbDRxZkQ2RTY1STE3eXdrc0IwcUxDOG1NSF9ubUtSODByZ2dmdjZPb2lkOWg2UmQ2UnBpLXd4dzIzZkNlaDdpb05WNmVub3p0cV9sX20tcDhGSi1FYjQ0N05yWDF2X3k2SW1qckQ5UDF6Sy1IdkZQX0lQUHFJdlZnQmpkYjlXTC1jUmQ5V0k2eFJSTXRjQ1dpU09iMlRLYzhEQWkwR2tHX051ZlZ2YnQxY1BVbHVsV0c3NXRSWm1QWW5VeE5nQU1P?oc=5",
@@ -2268,6 +2232,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-db87a1605c0270e94af8",
+      "title": "Issuing/processing Commercial How tech and entertainment companies are rethinking the payment experience Article",
+      "link": "https://www.marqeta.com/blog/how-tech-and-entertainment-companies-are-rethinking-the-payment-experience",
+      "summary": "Payment experience is product experience. See how tech and entertainment companies are embedding finance to reduce friction, boost loyalty and drive revenue.",
+      "publishedAt": "2026-03-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "galileo-blog-d9e9dd421562a5949ae0",
@@ -2354,6 +2330,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
+      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
+      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
+      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-2bdbcd290b41250e2d39",
       "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
       "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
@@ -2395,6 +2383,18 @@
       "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
       "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
       "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
+      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
+      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
+      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
+      "publishedAt": "2026-02-17T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2603,6 +2603,18 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2866,18 +2878,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }

@@ -4,7 +4,15 @@
     <title>Company News Monitor SEC Filings</title>
     <link>https://www.sec.gov/edgar/search/</link>
     <description>Recent SEC filings for companies tracked by Company News Monitor.</description>
-    <lastBuildDate>Fri, 24 Jul 2026 09:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:59:27 +0000</lastBuildDate>
+
+    <item>
+      <title>TSMC 6-K for 2026-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1046179/000104617926000459/0001046179-26-000459-index.html</link>
+      <guid isPermaLink="false">TSM-0001046179-26-000459</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Taiwan Semiconductor Manufacturing filed a current report (6-K) on 2026-07-24 for report date 2026-06-30. Open the SEC filing for source documents.</description>
+    </item>
 
     <item>
       <title>Coinbase 8-K for 2026-07-22</title>
@@ -84,14 +92,6 @@
       <guid isPermaLink="false">TSM-0001046179-26-000451</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <description>Taiwan Semiconductor Manufacturing filed a current report (6-K) on 2026-07-16 for report date 2026-06-30. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 8-K for 2026-07-08</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466926000040/0001794669-26-000040-index.html</link>
-      <guid isPermaLink="false">FOUR-0001794669-26-000040</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2026-07-13 for report date 2026-07-08. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -231,14 +231,6 @@
     </item>
 
     <item>
-      <title>Marqeta 8-K for 2026-06-30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000048/0001522540-26-000048-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000048</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a current report (8-K) on 2026-07-01 for report date 2026-06-30. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Klarna 6-K for 2026-07-01</title>
       <link>https://www.sec.gov/Archives/edgar/data/2003292/000162828026046370/0001628280-26-046370-index.html</link>
       <guid isPermaLink="false">KLAR-0001628280-26-046370</guid>
@@ -268,14 +260,6 @@
       <guid isPermaLink="false">WSE-0001193125-26-283123</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <description>Wise Group filed a current report (6-K) on 2026-06-26 for report date 2026-06-25. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Affirm 8-K for 2026-06-18</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828026045491/0001628280-26-045491-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-26-045491</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a current report (8-K) on 2026-06-25 for report date 2026-06-18. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -327,22 +311,6 @@
     </item>
 
     <item>
-      <title>SoFi 8-K for 2026-06-17</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000043/0001818874-26-000043-index.html</link>
-      <guid isPermaLink="false">SOFI-0001818874-26-000043</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2026-06-18 for report date 2026-06-17. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 8-K for 2026-06-16</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312526275869/0001193125-26-275869-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-26-275869</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2026-06-18 for report date 2026-06-16. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Coinbase 8-K for 2026-06-16</title>
       <link>https://www.sec.gov/Archives/edgar/data/1679788/000167978826000075/0001679788-26-000075-index.html</link>
       <guid isPermaLink="false">COIN-0001679788-26-000075</guid>
@@ -351,19 +319,19 @@
     </item>
 
     <item>
+      <title>Galileo 8-K for 2026-06-17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000043/0001818874-26-000043-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-26-000043</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a current report (8-K) on 2026-06-18 for report date 2026-06-17. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
+    </item>
+
+    <item>
       <title>NVIDIA 8-K for 2026-06-15</title>
       <link>https://www.sec.gov/Archives/edgar/data/1045810/000119312526275783/0001193125-26-275783-index.html</link>
       <guid isPermaLink="false">NVDA-0001193125-26-275783</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <description>NVIDIA filed a current report (8-K) on 2026-06-18 for report date 2026-06-15. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 8-K for 2026-06-12</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312526273418/0001193125-26-273418-index.html</link>
-      <guid isPermaLink="false">FOUR-0001193125-26-273418</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2026-06-17 for report date 2026-06-12. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -399,14 +367,6 @@
     </item>
 
     <item>
-      <title>Toast 8-K for 2026-06-12</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016426000130/0001650164-26-000130-index.html</link>
-      <guid isPermaLink="false">TOST-0001650164-26-000130</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Toast filed a current report (8-K) on 2026-06-15 for report date 2026-06-12. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>NVIDIA 424B5 for 2026-06-15</title>
       <link>https://www.sec.gov/Archives/edgar/data/1045810/000119312526270302/0001193125-26-270302-index.html</link>
       <guid isPermaLink="false">NVDA-0001193125-26-270302</guid>
@@ -428,14 +388,6 @@
       <guid isPermaLink="false">AMZN-0001104659-26-073562</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Amazon.com filed a current report (8-K) on 2026-06-12 for report date 2026-06-12. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Marqeta 8-K for 2026-06-10</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000043/0001522540-26-000043-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000043</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a current report (8-K) on 2026-06-11 for report date 2026-06-10. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -484,14 +436,6 @@
       <guid isPermaLink="false">AMZN-0001104659-26-071190</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <description>Amazon.com filed a SEC filing (424B5) on 2026-06-08. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 8-K for 2026-06-05</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312526259540/0001193125-26-259540-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-26-259540</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2026-06-05 for report date 2026-06-05. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -839,14 +783,6 @@
     </item>
 
     <item>
-      <title>TSMC 6-K for 2026-05-12</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1046179/000104617926000274/0001046179-26-000274-index.html</link>
-      <guid isPermaLink="false">TSM-0001046179-26-000274</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Taiwan Semiconductor Manufacturing filed a current report (6-K) on 2026-05-12 for report date 2026-05-12. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Wise 6-K for 2026-05-11</title>
       <link>https://www.sec.gov/Archives/edgar/data/2099039/000119312526215606/0001193125-26-215606-index.html</link>
       <guid isPermaLink="false">WSE-0001193125-26-215606</guid>
@@ -868,22 +804,6 @@
       <guid isPermaLink="false">CRCL-0001876042-26-000148</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Circle Internet Group filed a current report (8-K) on 2026-05-11 for report date 2026-05-11. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Toast 10-Q for 2026-03-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016426000114/0001650164-26-000114-index.html</link>
-      <guid isPermaLink="false">TOST-0001650164-26-000114</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Toast filed a quarterly report (10-Q) on 2026-05-08 for report date 2026-03-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Marqeta 8-K for 2026-05-08</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000040/0001522540-26-000040-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000040</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a current report (8-K) on 2026-05-08 for report date 2026-05-08. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -927,70 +847,6 @@
     </item>
 
     <item>
-      <title>SoFi 10-Q for 2026-03-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000037/0001818874-26-000037-index.html</link>
-      <guid isPermaLink="false">SOFI-0001818874-26-000037</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a quarterly report (10-Q) on 2026-05-07 for report date 2026-03-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Toast 8-K for 2026-05-07</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016426000113/0001650164-26-000113-index.html</link>
-      <guid isPermaLink="false">TOST-0001650164-26-000113</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Toast filed a current report (8-K) on 2026-05-07 for report date 2026-05-07. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 10-Q for 2026-03-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000162828026032200/0001628280-26-032200-index.html</link>
-      <guid isPermaLink="false">XYZ-0001628280-26-032200</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a quarterly report (10-Q) on 2026-05-07 for report date 2026-03-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 8-K for 2026-05-07</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312526212032/0001193125-26-212032-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-26-212032</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2026-05-07 for report date 2026-05-07. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Affirm 10-Q for 2026-03-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828026032294/0001628280-26-032294-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-26-032294</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a quarterly report (10-Q) on 2026-05-07 for report date 2026-03-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Affirm 8-K for 2026-05-07</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828026032105/0001628280-26-032105-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-26-032105</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a current report (8-K) on 2026-05-07 for report date 2026-05-07. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 10-Q for 2026-03-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466926000020/0001794669-26-000020-index.html</link>
-      <guid isPermaLink="false">FOUR-0001794669-26-000020</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a quarterly report (10-Q) on 2026-05-07 for report date 2026-03-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 8-K for 2026-05-07</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466926000018/0001794669-26-000018-index.html</link>
-      <guid isPermaLink="false">FOUR-0001794669-26-000018</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2026-05-07 for report date 2026-05-07. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Coinbase 10-Q for 2026-03-31</title>
       <link>https://www.sec.gov/Archives/edgar/data/1679788/000167978826000054/0001679788-26-000054-index.html</link>
       <guid isPermaLink="false">COIN-0001679788-26-000054</guid>
@@ -1004,6 +860,14 @@
       <guid isPermaLink="false">COIN-0001679788-26-000053</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <description>Coinbase Global filed a current report (8-K) on 2026-05-07 for report date 2026-05-07. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Galileo 10-Q for 2026-03-31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000037/0001818874-26-000037-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-26-000037</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a quarterly report (10-Q) on 2026-05-07 for report date 2026-03-31. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
@@ -1052,22 +916,6 @@
       <guid isPermaLink="false">CHYM-0001795586-26-000035</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       <description>Chime Financial filed a current report (8-K) on 2026-05-06 for report date 2026-05-06. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Marqeta 10-Q for 2026-03-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000038/0001522540-26-000038-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000038</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a quarterly report (10-Q) on 2026-05-05 for report date 2026-03-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Marqeta 8-K for 2026-05-05</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000036/0001522540-26-000036-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000036</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a current report (8-K) on 2026-05-05 for report date 2026-05-05. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -1143,35 +991,19 @@
     </item>
 
     <item>
-      <title>Block 8-K for 2026-04-30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312526204101/0001193125-26-204101-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-26-204101</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2026-05-04 for report date 2026-04-30. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>SoFi DEF 14A for 2026-04-30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000032/0001818874-26-000032-index.html</link>
-      <guid isPermaLink="false">SOFI-0001818874-26-000032</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a proxy statement (DEF 14A) on 2026-04-30 for report date 2026-04-30. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 DEF 14A for 2026-06-12</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312526197191/0001193125-26-197191-index.html</link>
-      <guid isPermaLink="false">FOUR-0001193125-26-197191</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a proxy statement (DEF 14A) on 2026-04-30 for report date 2026-06-12. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>PayPal 8-K for 2026-04-24</title>
       <link>https://www.sec.gov/Archives/edgar/data/1633917/000119312526197533/0001193125-26-197533-index.html</link>
       <guid isPermaLink="false">PYPL-0001193125-26-197533</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <description>PayPal Holdings filed a current report (8-K) on 2026-04-30 for report date 2026-04-24. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Galileo DEF 14A for 2026-04-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000032/0001818874-26-000032-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-26-000032</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a proxy statement (DEF 14A) on 2026-04-30 for report date 2026-04-30. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
@@ -1191,14 +1023,6 @@
     </item>
 
     <item>
-      <title>SoFi 8-K for 2026-04-29</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.html</link>
-      <guid isPermaLink="false">SOFI-0001818874-26-000020</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2026-04-29 for report date 2026-04-29. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Shopify 10-K/A for 2025-12-31</title>
       <link>https://www.sec.gov/Archives/edgar/data/1594805/000159480526000011/0001594805-26-000011-index.html</link>
       <guid isPermaLink="false">SHOP-0001594805-26-000011</guid>
@@ -1212,6 +1036,14 @@
       <guid isPermaLink="false">HOOD-0001783879-26-000062</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <description>Robinhood Markets filed a quarterly report (10-Q) on 2026-04-29 for report date 2026-03-31. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Galileo 8-K for 2026-04-29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-26-000020</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a current report (8-K) on 2026-04-29 for report date 2026-04-29. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
@@ -1247,27 +1079,11 @@
     </item>
 
     <item>
-      <title>Block DEF 14A for 2026-04-24</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000162828026027203/0001628280-26-027203-index.html</link>
-      <guid isPermaLink="false">XYZ-0001628280-26-027203</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a proxy statement (DEF 14A) on 2026-04-24 for report date 2026-04-24. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Coinbase DEF 14A for 2026-06-16</title>
       <link>https://www.sec.gov/Archives/edgar/data/1679788/000167978826000045/0001679788-26-000045-index.html</link>
       <guid isPermaLink="false">COIN-0001679788-26-000045</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
       <description>Coinbase Global filed a proxy statement (DEF 14A) on 2026-04-24 for report date 2026-06-16. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Toast DEF 14A for 2026-06-12</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016426000098/0001650164-26-000098-index.html</link>
-      <guid isPermaLink="false">TOST-0001650164-26-000098</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Toast filed a proxy statement (DEF 14A) on 2026-04-23 for report date 2026-06-12. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -1300,14 +1116,6 @@
       <guid isPermaLink="false">TSLA-0001628280-26-026551</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
       <description>Tesla filed a current report (8-K) on 2026-04-22 for report date 2026-04-22. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Marqeta DEF 14A for 2026-04-21</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000030/0001522540-26-000030-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000030</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a proxy statement (DEF 14A) on 2026-04-21 for report date 2026-04-21. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -1495,14 +1303,6 @@
     </item>
 
     <item>
-      <title>Shift4 8-K for 2026-03-03</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312526098532/0001193125-26-098532-index.html</link>
-      <guid isPermaLink="false">FOUR-0001193125-26-098532</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2026-03-09 for report date 2026-03-03. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Dave 8-K for 2026-03-04</title>
       <link>https://www.sec.gov/Archives/edgar/data/1841408/000119312526098802/0001193125-26-098802-index.html</link>
       <guid isPermaLink="false">DAVE-0001193125-26-098802</guid>
@@ -1575,43 +1375,11 @@
     </item>
 
     <item>
-      <title>Shift4 10-K for 2025-12-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/0001794669-26-000010-index.html</link>
-      <guid isPermaLink="false">FOUR-0001794669-26-000010</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a annual report (10-K) on 2026-02-27 for report date 2025-12-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Datadog DEF 14A for 2026-04-21</title>
       <link>https://www.sec.gov/Archives/edgar/data/1561550/000119312526079146/0001193125-26-079146-index.html</link>
       <guid isPermaLink="false">DDOG-0001193125-26-079146</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <description>Datadog filed a proxy statement (DEF 14A) on 2026-02-27 for report date 2026-04-21. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 10-K for 2025-12-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000162828026012254/0001628280-26-012254-index.html</link>
-      <guid isPermaLink="false">XYZ-0001628280-26-012254</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a annual report (10-K) on 2026-02-26 for report date 2025-12-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 8-K for 2026-02-26</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/0001193125-26-076557-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-26-076557</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2026-02-26 for report date 2026-02-26. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 8-K for 2026-02-26</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466926000006/0001794669-26-000006-index.html</link>
-      <guid isPermaLink="false">FOUR-0001794669-26-000006</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2026-02-26 for report date 2026-02-26. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -1647,22 +1415,6 @@
     </item>
 
     <item>
-      <title>Marqeta 10-K for 2025-12-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/0001522540-26-000017-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000017</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a annual report (10-K) on 2026-02-24 for report date 2025-12-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Marqeta 8-K for 2026-02-24</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000015/0001522540-26-000015-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000015</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a current report (8-K) on 2026-02-24 for report date 2026-02-24. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Robinhood 10-K/A for 2025-12-31</title>
       <link>https://www.sec.gov/Archives/edgar/data/1783879/000178387926000029/0001783879-26-000029-index.html</link>
       <guid isPermaLink="false">HOOD-0001783879-26-000029</guid>
@@ -1695,14 +1447,6 @@
     </item>
 
     <item>
-      <title>Toast 10-K for 2025-12-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016426000057/0001650164-26-000057-index.html</link>
-      <guid isPermaLink="false">TOST-0001650164-26-000057</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Toast filed a annual report (10-K) on 2026-02-18 for report date 2025-12-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Datadog 10-K for 2025-12-31</title>
       <link>https://www.sec.gov/Archives/edgar/data/1561550/000162828026008819/0001628280-26-008819-index.html</link>
       <guid isPermaLink="false">DDOG-0001628280-26-008819</guid>
@@ -1711,19 +1455,11 @@
     </item>
 
     <item>
-      <title>SoFi 10-K for 2025-12-31</title>
+      <title>Galileo 10-K for 2025-12-31</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000013/0001818874-26-000013-index.html</link>
       <guid isPermaLink="false">SOFI-0001818874-26-000013</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a annual report (10-K) on 2026-02-17 for report date 2025-12-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Toast 8-K for 2026-02-10</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016426000050/0001650164-26-000050-index.html</link>
-      <guid isPermaLink="false">TOST-0001650164-26-000050</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Toast filed a current report (8-K) on 2026-02-12 for report date 2026-02-10. Open the SEC filing for source documents.</description>
+      <description>SoFi Technologies filed a annual report (10-K) on 2026-02-17 for report date 2025-12-31. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
@@ -1759,14 +1495,6 @@
     </item>
 
     <item>
-      <title>Shift4 8-K for 2026-02-07</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312526043740/0001193125-26-043740-index.html</link>
-      <guid isPermaLink="false">FOUR-0001193125-26-043740</guid>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2026-02-10 for report date 2026-02-07. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Upstart 10-K for 2025-12-31</title>
       <link>https://www.sec.gov/Archives/edgar/data/1647639/000164763926000027/0001647639-26-000027-index.html</link>
       <guid isPermaLink="false">UPST-0001647639-26-000027</guid>
@@ -1799,22 +1527,6 @@
     </item>
 
     <item>
-      <title>Affirm 10-Q for 2025-12-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828026005855/0001628280-26-005855-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-26-005855</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a quarterly report (10-Q) on 2026-02-05 for report date 2025-12-31. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Affirm 8-K for 2026-02-05</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828026005772/0001628280-26-005772-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-26-005772</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a current report (8-K) on 2026-02-05 for report date 2026-02-05. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Dave 8-K for 2026-02-05</title>
       <link>https://www.sec.gov/Archives/edgar/data/1841408/000119312526039438/0001193125-26-039438-index.html</link>
       <guid isPermaLink="false">DAVE-0001193125-26-039438</guid>
@@ -1839,11 +1551,11 @@
     </item>
 
     <item>
-      <title>SoFi 8-K for 2026-01-30</title>
+      <title>Galileo 8-K for 2026-01-30</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000008/0001818874-26-000008-index.html</link>
       <guid isPermaLink="false">SOFI-0001818874-26-000008</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2026-01-30 for report date 2026-01-30. Open the SEC filing for source documents.</description>
+      <description>SoFi Technologies filed a current report (8-K) on 2026-01-30 for report date 2026-01-30. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
@@ -1863,14 +1575,6 @@
     </item>
 
     <item>
-      <title>Block 8-K for 2026-01-21</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312526021035/0001193125-26-021035-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-26-021035</guid>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2026-01-23 for report date 2026-01-21. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
       <title>Dave 8-K for 2026-01-20</title>
       <link>https://www.sec.gov/Archives/edgar/data/1841408/000119312526016910/0001193125-26-016910-index.html</link>
       <guid isPermaLink="false">DAVE-0001193125-26-016910</guid>
@@ -1879,59 +1583,19 @@
     </item>
 
     <item>
-      <title>Affirm 8-K for 2026-01-13</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828026002442/0001628280-26-002442-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-26-002442</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a current report (8-K) on 2026-01-16 for report date 2026-01-13. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Toast 8-K for 2026-01-15</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016426000024/0001650164-26-000024-index.html</link>
-      <guid isPermaLink="false">TOST-0001650164-26-000024</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Toast filed a current report (8-K) on 2026-01-15 for report date 2026-01-15. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 8-K for 2026-01-14</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312526012944/0001193125-26-012944-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-26-012944</guid>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2026-01-14 for report date 2026-01-14. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>SoFi 8-K for 2026-01-05</title>
+      <title>Galileo 8-K for 2026-01-05</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000005/0001818874-26-000005-index.html</link>
       <guid isPermaLink="false">SOFI-0001818874-26-000005</guid>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2026-01-09 for report date 2026-01-05. Open the SEC filing for source documents.</description>
+      <description>SoFi Technologies filed a current report (8-K) on 2026-01-09 for report date 2026-01-05. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
-      <title>Marqeta 8-K for 2026-01-07</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254026000004/0001522540-26-000004-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-26-000004</guid>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a current report (8-K) on 2026-01-07 for report date 2026-01-07. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>SoFi 8-K for 2026-01-02</title>
+      <title>Galileo 8-K for 2026-01-02</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887426000003/0001818874-26-000003-index.html</link>
       <guid isPermaLink="false">SOFI-0001818874-26-000003</guid>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2026-01-05 for report date 2026-01-02. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 8-K for 2026-01-05</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466926000004/0001794669-26-000004-index.html</link>
-      <guid isPermaLink="false">FOUR-0001794669-26-000004</guid>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2026-01-05 for report date 2026-01-05. Open the SEC filing for source documents.</description>
+      <description>SoFi Technologies filed a current report (8-K) on 2026-01-05 for report date 2026-01-02. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
@@ -1948,22 +1612,6 @@
       <guid isPermaLink="false">DLO-0000950103-25-016463</guid>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
       <description>dLocal filed a current report (6-K) on 2025-12-23 for report date 2025-12-23. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Affirm 8-K for 2025-12-15</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828025057930/0001628280-25-057930-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-25-057930</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a current report (8-K) on 2025-12-18 for report date 2025-12-15. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 8-K for 2025-12-17</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312525325098/0001193125-25-325098-index.html</link>
-      <guid isPermaLink="false">FOUR-0001193125-25-325098</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2025-12-18 for report date 2025-12-17. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -1991,51 +1639,27 @@
     </item>
 
     <item>
-      <title>SoFi 8-K for 2025-12-04</title>
+      <title>Galileo 8-K for 2025-12-04</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000232/0001818874-25-000232-index.html</link>
       <guid isPermaLink="false">SOFI-0001818874-25-000232</guid>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2025-12-08 for report date 2025-12-04. Open the SEC filing for source documents.</description>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-12-08 for report date 2025-12-04. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
-      <title>Marqeta 8-K for 2025-12-04</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254025000037/0001522540-25-000037-index.html</link>
-      <guid isPermaLink="false">MQ-0001522540-25-000037</guid>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Marqeta filed a current report (8-K) on 2025-12-08 for report date 2025-12-04. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Shift4 8-K for 2025-12-08</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466925000043/0001794669-25-000043-index.html</link>
-      <guid isPermaLink="false">FOUR-0001794669-25-000043</guid>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Shift4 Payments filed a current report (8-K) on 2025-12-08 for report date 2025-12-08. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>SoFi 424B3 for 2025-12-05</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000229/0001818874-25-000229-index.html</link>
-      <guid isPermaLink="false">SOFI-0001818874-25-000229</guid>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a SEC filing (424B3) on 2025-12-05. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>SoFi 8-K for 2025-12-04</title>
+      <title>Galileo 8-K for 2025-12-04</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000225/0001818874-25-000225-index.html</link>
       <guid isPermaLink="false">SOFI-0001818874-25-000225</guid>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2025-12-05 for report date 2025-12-04. Open the SEC filing for source documents.</description>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-12-05 for report date 2025-12-04. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
-      <title>SoFi 8-K for 2025-12-02</title>
+      <title>Galileo 8-K for 2025-12-02</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000222/0001818874-25-000222-index.html</link>
       <guid isPermaLink="false">SOFI-0001818874-25-000222</guid>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <description>SoFi Technologies filed a current report (8-K) on 2025-12-04 for report date 2025-12-02. Open the SEC filing for source documents.</description>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-12-04 for report date 2025-12-02. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.</description>
     </item>
 
     <item>
@@ -2044,14 +1668,6 @@
       <guid isPermaLink="false">SHOP-0001594805-25-000090</guid>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
       <description>Shopify filed a current report (8-K) on 2025-12-02 for report date 2025-12-02. Open the SEC filing for source documents.</description>
-    </item>
-
-    <item>
-      <title>Block 8-K for 2025-11-19</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312525287114/0001193125-25-287114-index.html</link>
-      <guid isPermaLink="false">XYZ-0001193125-25-287114</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Block filed a current report (8-K) on 2025-11-19 for report date 2025-11-19. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -2135,11 +1751,11 @@
     </item>
 
     <item>
-      <title>Affirm 10-Q for 2025-09-30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828025050295/0001628280-25-050295-index.html</link>
-      <guid isPermaLink="false">AFRM-0001628280-25-050295</guid>
+      <title>Block 8-K for 2025-11-06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312525269715/0001193125-25-269715-index.html</link>
+      <guid isPermaLink="false">XYZ-0001193125-25-269715</guid>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Affirm Holdings filed a quarterly report (10-Q) on 2025-11-06 for report date 2025-09-30. Open the SEC filing for source documents.</description>
+      <description>Block filed a current report (8-K) on 2025-11-06 for report date 2025-11-06. Open the SEC filing for source documents.</description>
     </item>
 
     <item>
@@ -2244,6 +1860,342 @@
       <guid isPermaLink="false">DAVE-0001193125-25-264819</guid>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
       <description>Dave filed a quarterly report (10-Q) on 2025-11-04 for report date 2025-09-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Coinbase 10-Q for 2025-09-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1679788/000167978825000208/0001679788-25-000208-index.html</link>
+      <guid isPermaLink="false">COIN-0001679788-25-000208</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Coinbase Global filed a quarterly report (10-Q) on 2025-10-30 for report date 2025-09-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 8-K for 2025-10-28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000204/0001818874-25-000204-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000204</guid>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-10-28 for report date 2025-10-28. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Toast 8-K for 2025-10-24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1650164/000119312525250778/0001193125-25-250778-index.html</link>
+      <guid isPermaLink="false">TOST-0001193125-25-250778</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Toast filed a current report (8-K) on 2025-10-27 for report date 2025-10-24. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Marqeta 8-K for 2025-10-21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254025000026/0001522540-25-000026-index.html</link>
+      <guid isPermaLink="false">MQ-0001522540-25-000026</guid>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Marqeta filed a current report (8-K) on 2025-10-24 for report date 2025-10-21. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Affirm DEF 14A for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828025046264/0001628280-25-046264-index.html</link>
+      <guid isPermaLink="false">AFRM-0001628280-25-046264</guid>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Affirm Holdings filed a proxy statement (DEF 14A) on 2025-10-24 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Tesla 10-Q for 2025-09-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968-index.html</link>
+      <guid isPermaLink="false">TSLA-0001628280-25-045968</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Tesla filed a quarterly report (10-Q) on 2025-10-23 for report date 2025-09-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Shift4 8-K for 2025-09-26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312525225014/0001193125-25-225014-index.html</link>
+      <guid isPermaLink="false">FOUR-0001193125-25-225014</guid>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Shift4 Payments filed a current report (8-K) on 2025-09-30 for report date 2025-09-26. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Affirm 8-K for 2025-09-18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/000162828025042335/0001628280-25-042335-index.html</link>
+      <guid isPermaLink="false">AFRM-0001628280-25-042335</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Affirm Holdings filed a current report (8-K) on 2025-09-22 for report date 2025-09-18. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Datadog 8-K for 2025-09-11</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1561550/000156155025000272/0001561550-25-000272-index.html</link>
+      <guid isPermaLink="false">DDOG-0001561550-25-000272</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Datadog filed a current report (8-K) on 2025-09-11 for report date 2025-09-11. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Klarna 424B4 for 2025-09-10</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2003292/000200329225000052/0002003292-25-000052-index.html</link>
+      <guid isPermaLink="false">KLAR-0002003292-25-000052</guid>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Klarna Group filed a SEC filing (424B4) on 2025-09-10. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Marqeta 8-K for 2025-09-08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1522540/000121390025085298/0001213900-25-085298-index.html</link>
+      <guid isPermaLink="false">MQ-0001213900-25-085298</guid>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Marqeta filed a current report (8-K) on 2025-09-08 for report date 2025-09-08. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Klarna F-1/A for 2025-09-08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2003292/000200329225000036/0002003292-25-000036-index.html</link>
+      <guid isPermaLink="false">KLAR-0002003292-25-000036</guid>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Klarna Group filed a SEC filing (F-1/A) on 2025-09-08. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>dLocal 6-K for 2025-09-05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846832/000095010325011340/0000950103-25-011340-index.html</link>
+      <guid isPermaLink="false">DLO-0000950103-25-011340</guid>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      <description>dLocal filed a current report (6-K) on 2025-09-05 for report date 2025-09-05. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>dLocal 6-K for 2025-09-04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846832/000095010325011289/0000950103-25-011289-index.html</link>
+      <guid isPermaLink="false">DLO-0000950103-25-011289</guid>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <description>dLocal filed a current report (6-K) on 2025-09-04 for report date 2025-09-04. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>dLocal 424B3 for 2025-09-04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846832/000095010325011286/0000950103-25-011286-index.html</link>
+      <guid isPermaLink="false">DLO-0000950103-25-011286</guid>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <description>dLocal filed a SEC filing (424B3) on 2025-09-04. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>dLocal 6-K for 2025-09-03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846832/000095010325011217/0000950103-25-011217-index.html</link>
+      <guid isPermaLink="false">DLO-0000950103-25-011217</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <description>dLocal filed a current report (6-K) on 2025-09-03 for report date 2025-09-03. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 8-K for 2025-08-28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000195/0001818874-25-000195-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000195</guid>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-08-29 for report date 2025-08-28. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Affirm 10-K for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/000182095325000080/0001820953-25-000080-index.html</link>
+      <guid isPermaLink="false">AFRM-0001820953-25-000080</guid>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Affirm Holdings filed a annual report (10-K) on 2025-08-28 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Affirm 8-K for 2025-08-28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/000182095325000078/0001820953-25-000078-index.html</link>
+      <guid isPermaLink="false">AFRM-0001820953-25-000078</guid>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Affirm Holdings filed a current report (8-K) on 2025-08-28 for report date 2025-08-28. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Block 8-K for 2025-08-18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312525185305/0001193125-25-185305-index.html</link>
+      <guid isPermaLink="false">XYZ-0001193125-25-185305</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Block filed a current report (8-K) on 2025-08-21 for report date 2025-08-18. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Block 8-K for 2025-08-13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312525182661/0001193125-25-182661-index.html</link>
+      <guid isPermaLink="false">XYZ-0001193125-25-182661</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Block filed a current report (8-K) on 2025-08-18 for report date 2025-08-13. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Shift4 8-K for 2025-08-18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312525182293/0001193125-25-182293-index.html</link>
+      <guid isPermaLink="false">FOUR-0001193125-25-182293</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Shift4 Payments filed a current report (8-K) on 2025-08-18 for report date 2025-08-18. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Chime 10-Q for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795586/000179558625000009/0001795586-25-000009-index.html</link>
+      <guid isPermaLink="false">CHYM-0001795586-25-000009</guid>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Chime Financial filed a quarterly report (10-Q) on 2025-08-11 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 10-Q for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000180/0001818874-25-000180-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000180</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a quarterly report (10-Q) on 2025-08-07 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Block 10-Q for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1512673/000162828025038920/0001628280-25-038920-index.html</link>
+      <guid isPermaLink="false">XYZ-0001628280-25-038920</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Block filed a quarterly report (10-Q) on 2025-08-07 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Block 8-K for 2025-08-07</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312525175456/0001193125-25-175456-index.html</link>
+      <guid isPermaLink="false">XYZ-0001193125-25-175456</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Block filed a current report (8-K) on 2025-08-07 for report date 2025-08-07. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Chime 8-K for 2025-08-07</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795586/000179558625000004/0001795586-25-000004-index.html</link>
+      <guid isPermaLink="false">CHYM-0001795586-25-000004</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Chime Financial filed a current report (8-K) on 2025-08-07 for report date 2025-08-07. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Toast 10-Q for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016425000290/0001650164-25-000290-index.html</link>
+      <guid isPermaLink="false">TOST-0001650164-25-000290</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Toast filed a quarterly report (10-Q) on 2025-08-06 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Marqeta 10-Q for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254025000022/0001522540-25-000022-index.html</link>
+      <guid isPermaLink="false">MQ-0001522540-25-000022</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Marqeta filed a quarterly report (10-Q) on 2025-08-06 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Marqeta 8-K for 2025-08-06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1522540/000152254025000020/0001522540-25-000020-index.html</link>
+      <guid isPermaLink="false">MQ-0001522540-25-000020</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Marqeta filed a current report (8-K) on 2025-08-06 for report date 2025-08-06. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Toast 8-K for 2025-08-05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1650164/000165016425000288/0001650164-25-000288-index.html</link>
+      <guid isPermaLink="false">TOST-0001650164-25-000288</guid>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Toast filed a current report (8-K) on 2025-08-05 for report date 2025-08-05. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Shift4 10-Q for 2025-06-30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466925000027/0001794669-25-000027-index.html</link>
+      <guid isPermaLink="false">FOUR-0001794669-25-000027</guid>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Shift4 Payments filed a quarterly report (10-Q) on 2025-08-05 for report date 2025-06-30. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Shift4 8-K/A for 2025-07-03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1794669/000179466925000025/0001794669-25-000025-index.html</link>
+      <guid isPermaLink="false">FOUR-0001794669-25-000025</guid>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Shift4 Payments filed a SEC filing (8-K/A) on 2025-08-05 for report date 2025-07-03. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 8-K for 2025-07-29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000171/0001818874-25-000171-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000171</guid>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-07-31 for report date 2025-07-29. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 424B3 for 2025-07-31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000169/0001818874-25-000169-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000169</guid>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a SEC filing (424B3) on 2025-07-31. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 8-K for 2025-07-29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000160/0001818874-25-000160-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000160</guid>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-07-30 for report date 2025-07-29. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 424B3 for 2025-07-29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000157/0001818874-25-000157-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000157</guid>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a SEC filing (424B3) on 2025-07-29. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>SoFi 8-K for 2025-07-29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818874/000181887425000148/0001818874-25-000148-index.html</link>
+      <guid isPermaLink="false">SOFI-0001818874-25-000148</guid>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <description>SoFi Technologies filed a current report (8-K) on 2025-07-29 for report date 2025-07-29. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Shift4 424B7 for 2025-07-14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312525158724/0001193125-25-158724-index.html</link>
+      <guid isPermaLink="false">FOUR-0001193125-25-158724</guid>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <description>Shift4 Payments filed a SEC filing (424B7) on 2025-07-14. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Shift4 8-K for 2025-07-03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1794669/000119312525155254/0001193125-25-155254-index.html</link>
+      <guid isPermaLink="false">FOUR-0001193125-25-155254</guid>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <description>Shift4 Payments filed a current report (8-K) on 2025-07-03 for report date 2025-07-03. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Affirm 8-K for 2025-06-25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/000182095325000064/0001820953-25-000064-index.html</link>
+      <guid isPermaLink="false">AFRM-0001820953-25-000064</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <description>Affirm Holdings filed a current report (8-K) on 2025-06-26 for report date 2025-06-25. Open the SEC filing for source documents.</description>
+    </item>
+
+    <item>
+      <title>Block 8-K for 2025-06-17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1512673/000119312525143634/0001193125-25-143634-index.html</link>
+      <guid isPermaLink="false">XYZ-0001193125-25-143634</guid>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <description>Block filed a current report (8-K) on 2025-06-20 for report date 2025-06-17. Open the SEC filing for source documents.</description>
     </item>
   </channel>
 </rss>
