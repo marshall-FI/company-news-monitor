@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:25:26.531352+00:00",
+  "generatedAt": "2026-07-24T23:19:26.523680+00:00",
   "articles": [
     {
       "id": "about-amazon-b104628e10a86d687df8",
@@ -878,6 +878,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-2e80730fc65202f389b2",
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "tsmc-news-587aff7bf4159253d90f",
       "title": "TSMC June 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVzNqUmZZcWF1RTZwZEdCdW5IcjdLRU1oRGZnbjRiaW9NOFVTQzNNdW5xQWVabWhFLTZlMGc0bUt1LTI1VFB6RXBuRUtSdw?oc=5",
@@ -924,6 +936,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1274,6 +1298,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1452,18 +1488,6 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-06bc12a85916a2f45e65",
-      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
-      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
-      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
-      "publishedAt": "2026-06-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-47f546177b4153ec6af6",
@@ -1982,18 +2006,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2138,18 +2150,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2184,6 +2184,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "galileo-blog-a6e17043589ebb2bb4ff",
+      "title": "How Digital Wallets Change Unit Economics for Debit (Not Just CX)",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmZHM0t0VjRTdXlQWGxveFNRSXFsRi11azd0UkNvNFlabDJPSGNHZmR6YTgxSDh2aTdoRjhuczVCWG1BaG9OVjhmMm93RlprR2JtNTVCQXpHd2ZoZW9PZjg4RllfT2VrWUMwNDNXYXlUb1U4SVJ5eFpMMFI2Sk0zb1JEMkVDUQ?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-03-30T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "sofi-press-a4c58ace79c2c7f7471f",
@@ -2234,18 +2246,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
-      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
-      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
-      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-1fc919b6cdd114307e6a",
       "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
       "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
@@ -2270,18 +2270,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2290,18 +2278,6 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2364,18 +2340,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "galileo-blog-298b228e610709a2d639",
-      "title": "Sustainable Scaling: Why Modularity Makes Sense for LatAm Banks in 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelV5SWxmc3ExR2ozbWVOX29MYVFlOF8zdS1Ja3hkS0w3MWdrRXQyT0NzM0VCWm9BSG43TURxNEYzTTBLWXJ0eFRoYzFWYVFjNF9tWkJkMFI4WkdEc2xZdDVvanZPenNDTGRkbDBndEl6X0xEMF9fb3VFMjJpSDBfMUhYZFk3SjI5WFZxdzN4M2xDUTNsWWU5ekxERQ?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-03T08:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
@@ -2880,6 +2844,42 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-84e40cb7c0acc4433863",
+      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
+      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
+      "publishedAt": "2025-08-12T11:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "galileo-blog-c264358b1bd6c0a924d2",
+      "title": "LatAm’s Instant Payment Boom through the Lens of Gustanomics",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1MyQ1EtY0MzNExyMEszNnlDbmdmRGpSY25lYmE1cGZ5R1BpYkUwWGNOSXdvdjVnMS0wa1Q5RUlqeVRMV1dJRk5qRFlIRlcwaUZ5OW1WMzY3ZkphRWxJNTcyVmxKeHNSX0k3aU90WUV2SnRJSC1qVnBIT05PSzR6V3JkLTZQYXd0dDc0Q1V2dkZFUWEtZzVN?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-12T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-4be8f3d1731c5989f902",
+      "title": "How Galileo Is Modernizing Loyalty with Co-Branded Debit",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXctYXRFN214Y0liWWFYRE80d3ZyT01OZzA5QUFNZUQ2S1BKR1FaOVd0eEYzaER6NnJHalNkT3Buc1ZwaVNaZ25GZmtTQS1xeTFGZV9ld2JZZGxsY2FacDZQb2ZNZTRKMTJEVXZQVmFUbWlnNVVQdnMycllQaU5UcjBOUjJEMWtheGlYNlE0cU9Gd1k?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-11T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2887,19 +2887,19 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "category": "Fintech Blogs",
-      "kind": "rss",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 11,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 6,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 17,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "marqeta-blog",
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 7,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
@@ -2986,10 +2986,10 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 6,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "upstart-press",
@@ -3013,10 +3013,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "dave-press",
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "chime-newsroom",
@@ -3085,10 +3085,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "html",
-      "ok": false,
-      "itemCount": 0,
-      "message": "official_google_news: HTTP Error 503: Service Unavailable"
+      "kind": "google_news",
+      "ok": true,
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "trade-desk-press-room",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 3,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
