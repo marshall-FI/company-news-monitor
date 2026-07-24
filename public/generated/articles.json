@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-24T03:46:36.103066+00:00",
+  "generatedAt": "2026-07-24T06:43:22.911774+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-f34cdff744c937a179c8",
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions",
+      "publishedAt": "2026-07-24T04:34:27+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "upstart-press-9b031b52818f911fd4f8",
       "title": "Upstart Receives Conditional Approval from the OCC to Establish Upstart Bank",
@@ -386,6 +398,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-b5cdab03f81bf5510ab8",
       "title": "About Get to know us",
       "link": "https://newsroom.wise.com/en-NAM/about/",
@@ -492,18 +516,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-17T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "chime-newsroom-740358f1ae86a1ff1be1",
@@ -626,16 +638,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-df18b3c8ff133cf2d9da",
-      "title": "TSMC Reports Second Quarter EPS of NT$27.25|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zcklOeFlyOThxTGM2S1p6UTBOSDl5TG5SLVBGSmpiaHVuT1pZS2gwOWZJZlpJUFpjcTZ0V3NWR0tNT0FUMmJ1S28tOC1qQQ?oc=5",
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-07-16T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-3f1f3a1353d98dbd7b8d",
@@ -782,18 +794,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "nvidia-newsroom-54201dea3fa26ec61193",
-      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "summary": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.",
-      "publishedAt": "2026-07-14T16:45:13+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "klarna-press-7cb76675f5cbf0cd4ea3",
       "title": "Klarna sinks its teeth into dental care with Curve Dental®, bringing flexible payments to practices nationwide",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkV0WjU5aTBvamVoN3VZTWZzMkRKbE9rYzFaX2x5eHE4bzhoSzM3RUtQckFjZ0k4akoyT29rOHRPSU1Hdm9xSnBackhFS2pfV1JRbGh3S3BBbTlZMGQ4LWRTYzRhV2gtTGsxYnZleXRvNnhxX2pvWTRzcy1ZSU9XTGpjTWdQV1otQWpVa25TVXZwOGhtT0sxQ3NfV2hfMllVQkxWTExIZUg1NzVCdkFtYkVZNFRRNGdnZjdwZzc2eDQ5b3gxX0tOYjY0Y191eDZsaWd4Ui05cER0U1haTlRvalBUTXd3aFhfZlE?oc=5",
@@ -878,6 +878,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-5f07fb13c603faa43625",
       "title": "Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando IA a sus funcionalidades",
       "link": "https://press.aboutamazon.com/es/news/amazon-business/2026/7/amazon-business-prime-ia-funcionalidades",
@@ -890,16 +902,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-587aff7bf4159253d90f",
-      "title": "TSMC June 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVzNqUmZZcWF1RTZwZEdCdW5IcjdLRU1oRGZnbjRiaW9NOFVTQzNNdW5xQWVabWhFLTZlMGc0bUt1LTI1VFB6RXBuRUtSdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
@@ -1730,6 +1742,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
+      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "link": "https://pr.tsmc.com/english/news/3314",
+      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "publishedAt": "2026-05-15T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
       "title": "Chime to Participate in William Blair Growth Stock Conference",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-william-blair-growth-stock-conference",
@@ -1814,16 +1838,28 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-0847a2759412a0ace3c6",
-      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T07:00:00+00:00",
+      "id": "tsmc-news-734c29856225bc355ec5",
+      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "link": "https://pr.tsmc.com/english/news/3308",
+      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7b041f3b81909f5a8181",
+      "title": "2026/05/08 TSMC April 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3305",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-a5454d306bd930dc2141",
@@ -1994,18 +2030,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2123,6 +2147,18 @@
       "sourceName": "Circle Pressroom",
       "company": "Circle",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-1c954ea37a9178a04211",
+      "title": "2026/04/10 TSMC March 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3294",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-04-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2352,18 +2388,6 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-2d54e3923eade6fa0096",
-      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
-      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
-      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
-      "publishedAt": "2026-02-25T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
@@ -2856,30 +2880,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-84e40cb7c0acc4433863",
-      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
-      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
-      "publishedAt": "2025-08-12T11:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 13,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
