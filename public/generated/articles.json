@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-24T15:47:37.877851+00:00",
+  "generatedAt": "2026-07-24T17:55:00.479923+00:00",
   "articles": [
+    {
+      "id": "about-amazon-b104628e10a86d687df8",
+      "title": "Watch the teaser trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25",
+      "link": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video?utm_source=rss",
+      "summary": "The limited series starring Michelle Yeoh and Hunter Schafer is set 50 years after 'Blade Runner 2049'.",
+      "publishedAt": "2026-07-24T17:40:06+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-5f9b54e1255a0c176010",
       "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
@@ -854,18 +866,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-79ea0f3b4f570ede0d52",
-      "title": "3 easy ways Amazon customers can help bring safe water to millions with Get Blue",
-      "link": "https://www.aboutamazon.com/news/sustainability/get-blue-easy-ways-donate-alexa-amazon-music?utm_source=rss",
-      "summary": "With the launch of Get Blue, Amazon customers can turn everyday moments into safe water access—just ask Alexa+, stream a playlist, or shop the new storefront.",
-      "publishedAt": "2026-07-13T13:00:08+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-5f07fb13c603faa43625",
       "title": "Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando IA a sus funcionalidades",
       "link": "https://press.aboutamazon.com/es/news/amazon-business/2026/7/amazon-business-prime-ia-funcionalidades",
@@ -924,6 +924,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1994,18 +2006,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2359,18 +2359,6 @@
       "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
       "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
       "publishedAt": "2026-02-25T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
-      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
-      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
-      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
-      "publishedAt": "2026-02-17T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2878,6 +2866,18 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-84e40cb7c0acc4433863",
+      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
+      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
+      "publishedAt": "2025-08-12T11:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
