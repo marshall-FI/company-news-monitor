@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T17:18:25.263323+00:00",
+  "generatedAt": "2026-07-25T18:11:59.709390+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-6a851c0d9e2beb329ee2",
@@ -1298,6 +1298,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "sofi-press-2d8846797a19c6d21602",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q2 2026 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEh0VDg3ZXNZZWEtdGdSTU9vOWZ3SjlNTUpLMlF3SnA2T3JIZFdMa2UybmlCSFZlS3JtTThYdDlnVUxQRWdqWENUSUN4TGpJRDJDNVBpbXcxY2J1NHpiaDNaWDVnTjRnOHRNYm1xTEM0SnBTeVVfMml1anVsM1NhNnBycFAwd29lMVR6UXZhaU1sVGprNVFuM3pzS0FoMHJoMWloR09vdG1aZ2N3NHNnTVU0aVh6ckpYTkM4RE1B?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "marqeta-blog-beb085e673f205e21977",
       "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
       "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
@@ -1356,18 +1368,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-21d6d601853ec437438f",
-      "title": "Vibrant Planet and WARSI win the Klarna Climate Heroes Award and $50,000 each for their proven impact in protecting forest carbon",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNDVYZ0RvMkR3ak9INDNnZTdZYWFoVWd1dm9TTnE1TGZzcnBTZzN5MFNxekxxaENpcVU3dDh6WGhld1JYVXNoWVlZaEdLNXNDeVpuRjlCTEJDTEh1ZWJKS05zZkZBUTAyZU9nRkh3bm5DMUhIeXU2c2RtRVpkWlp0aFFlRVU0QkJEQlJRQUJKemZDekl0bThuUU4xTUNpSmRndmdPSWZYT242UTd1M1JiZWU4T1NOSU1XX0l4aWZTTVVTSm96dlExMlRjUUJmcmVYUXVBeWVQS1ppbW53c0RpT1ViQzR4SS05bHloRDdNZHBvNy1LRWJiX0pfQVgzY1pxT1E?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-24T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-fe83d1d8f19ef9cb130c",
@@ -1946,18 +1946,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-bb3b04fb99757be81c31",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q1 2026 Earnings Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2FKRTZTdnVnY0NCelZSU2d6OW5FQ2FYNHZDNldJbTFKQ3pUd1hLczcwVnJOT19wbXZJbFo0WU9FR3F4WWhyWWl5UGN1MnlWQ0owdlpTaWx6VUt4Zms4WVRFQnJQRm4ya196MlU3OThOVENRZGlWQnhWaWMxTFkzTHlqQUVKZnhFazR0OV9lU250RnFJNU9RMXU3Z28wMlJ2Z0ozX21wWFBFMTVYeXNhQXhaeUp1djVRV3NFTnZR?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-b7aad5c939878451dc5c",
       "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
@@ -2162,6 +2150,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-387ddf28a703d88584eb",
+      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
+      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
+      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
+      "publishedAt": "2026-04-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2354,18 +2354,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
-      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
-      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
-      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
-      "publishedAt": "2026-02-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "galileo-blog-298b228e610709a2d639",
       "title": "Sustainable Scaling: Why Modularity Makes Sense for LatAm Banks in 2026",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelV5SWxmc3ExR2ozbWVOX29MYVFlOF8zdS1Ja3hkS0w3MWdrRXQyT0NzM0VCWm9BSG43TURxNEYzTTBLWXJ0eFRoYzFWYVFjNF9tWkJkMFI4WkdEc2xZdDVvanZPenNDTGRkbDBndEl6X0xEMF9fb3VFMjJpSDBfMUhYZFk3SjI5WFZxdzN4M2xDUTNsWWU5ekxERQ?oc=5",
@@ -2412,18 +2400,6 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
-      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
-      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
-      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
@@ -2638,18 +2614,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-bb4d091ac1db0ddac185",
-      "title": "Wise Platform partners with Wealthsimple to offer enhanced international payments services for Canadians",
-      "link": "https://newsroom.wise.com/en-NAM/257478-wise-platform-partners-with-wealthsimple-to-offer-enhanced-international-payments-services-for-canadians/",
-      "summary": "Wealthsimple partners with Wise Platform to offer Canadians fast, low-fee international payments to 30 countries in 10+ currencies directly from the Wealthsimple app or website.",
-      "publishedAt": "2025-11-12T10:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2878,6 +2842,42 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-84e40cb7c0acc4433863",
+      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
+      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
+      "publishedAt": "2025-08-12T11:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "galileo-blog-c264358b1bd6c0a924d2",
+      "title": "LatAm’s Instant Payment Boom through the Lens of Gustanomics",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1MyQ1EtY0MzNExyMEszNnlDbmdmRGpSY25lYmE1cGZ5R1BpYkUwWGNOSXdvdjVnMS0wa1Q5RUlqeVRMV1dJRk5qRFlIRlcwaUZ5OW1WMzY3ZkphRWxJNTcyVmxKeHNSX0k3aU90WUV2SnRJSC1qVnBIT05PSzR6V3JkLTZQYXd0dDc0Q1V2dkZFUWEtZzVN?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-12T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
