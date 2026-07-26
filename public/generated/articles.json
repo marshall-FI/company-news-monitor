@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T03:58:54.395832+00:00",
+  "generatedAt": "2026-07-26T06:53:23.100409+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-6a851c0d9e2beb329ee2",
@@ -867,9 +867,9 @@
     },
     {
       "id": "about-amazon-c7039b9d689049fe9ef8",
-      "title": "A first look at Mike Flanagan's ‘Carrie,’ a Stephen King adaptation coming to Prime Video this fall",
+      "title": "Watch the teaser trailer for Mike Flanagan's ‘Carrie,’ a Stephen King adaptation coming to Prime Video October 7",
       "link": "https://www.aboutamazon.com/news/entertainment/carrie-stephen-king-mike-flanagan-prime-video?utm_source=rss",
-      "summary": "Showrunner Mike Flanagan's bold reinvention of Stephen King's classic novel arrives on Prime Video this fall.",
+      "summary": "All eight episodes of showrunner Mike Flanagan's bold reinvention of Stephen King's classic novel arrive on Prime Video October 7.",
       "publishedAt": "2026-07-13T15:30:32+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
@@ -924,18 +924,6 @@
       "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
@@ -1334,18 +1322,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-beb085e673f205e21977",
-      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
-      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
-      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
-      "publishedAt": "2026-06-26T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1512,6 +1488,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-06bc12a85916a2f45e65",
+      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
+      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
+      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
+      "publishedAt": "2026-06-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-47f546177b4153ec6af6",
@@ -2150,18 +2138,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-44808cb3aa4315251f97",
       "title": "Shift4 Announces Fourth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/296/shift4-announces-fourth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -2208,18 +2184,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-db87a1605c0270e94af8",
-      "title": "Issuing/processing Commercial How tech and entertainment companies are rethinking the payment experience Article",
-      "link": "https://www.marqeta.com/blog/how-tech-and-entertainment-companies-are-rethinking-the-payment-experience",
-      "summary": "Payment experience is product experience. See how tech and entertainment companies are embedding finance to reduce friction, boost loyalty and drive revenue.",
-      "publishedAt": "2026-03-26T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-4ff942344e8305decc12",
@@ -2880,6 +2844,42 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-84e40cb7c0acc4433863",
+      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
+      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
+      "publishedAt": "2025-08-12T11:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "affirm-news-e0a9239313baf8131fbc",
+      "title": "How pay-later is powering small business growth: Webinar recap",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/how-pay-later-powering-small-business-growth-webinar-recap/",
+      "summary": "Small businesses are the heartbeat of the economy, and in today's fast-moving digital world, they're constantly looking for tools to grow smarter and serve customers better. That’s exactly what Affirm’s recent Small Business Month webinar set out to explore.",
+      "publishedAt": "2025-05-28T00:00:00+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2887,19 +2887,19 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rss",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 12,
+      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 5,
+      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "marqeta-blog",
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 7,
+      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "affirm-news",
@@ -2986,10 +2986,10 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 8,
+      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "upstart-press",
@@ -3013,10 +3013,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 9,
+      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "dave-press",
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 16,
-      "message": "OK via official fallback RSS"
+      "itemCount": 9,
+      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "chime-newsroom",
@@ -3085,10 +3085,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
-      "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "kind": "html",
+      "ok": false,
+      "itemCount": 0,
+      "message": "official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
       "sourceId": "trade-desk-press-room",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 2,
+      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     }
   ],
   "sourceCount": 28,
