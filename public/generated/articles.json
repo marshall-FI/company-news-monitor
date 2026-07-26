@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:18:35.911977+00:00",
+  "generatedAt": "2026-07-26T18:16:08.125619+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-6a851c0d9e2beb329ee2",
@@ -926,6 +926,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch/",
@@ -1310,18 +1322,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-b940b0825676f3298174",
-      "title": "Coinbase Powers Spiko’s Mutual Fund with Stablecoin Funding",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbk5uay0tWHNCTzNzdDR0cl95MmhNVENSN0JfbFVGcm0ta2c2VnpsY0pfZEgxOFlWaTBPU2tXQXpYMWNSbVlkcXFTZUI5V013Yy1WQVVRTkpUZHpZWXVUN1dITU5oaTdVbnVWaTNhTXR4cjBjUUNxLXFMVjk1UVA3eDlhaXM1RXRoXzFLaG1ZT3M?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-30T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-c8e36e6478477bf5c986",
       "title": "Sherwin-Williams Selects Square as Newest Partner in Digital Alliance Program",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTE16NEVQWkpFcUptWmVDWWF3dGJ3NnB5S3VpVHBjUFJ3VGN4Nlk1ai0wQl9hbHFNSnE5MU1ucHNTc21aRVZ3NEtwcllvUG1YX2RwRmNKa1VFbVdmSE5FSHdrM3pGSnU3SHB6MnEyb0FLWkg1YWlSS2I2dEhDbnFlYzNHcUFVQVRsSXlnUE1IVEEyNFlqX2dDRjNoblBVVThrY0pPa1dQeEVDVk1NSzg3UDg0QWR6Mm5zRlBsWUIzV09NUy1BNGtYOTBTU0RwTm1UcXV2M1RJUk5JLW8tR0NLb3JqNDY?oc=5",
@@ -1332,6 +1332,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
@@ -2006,6 +2018,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
+      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
+      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
+      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
+      "publishedAt": "2026-04-27T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-cf33a84d239473a10983",
       "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
       "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
@@ -2270,6 +2294,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2286,6 +2322,18 @@
       "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
       "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
       "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-2bdbcd290b41250e2d39",
+      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
+      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
+      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2630,6 +2678,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-66a6995a783cf73767a6",
+      "title": "Coinbase Business Marks its International Debut by Launching in Singapore",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kbWpQU0FTWFd5bVVCOFluXzJZckNjWV9DWUJqbDR1Y2lJbDhMQXVXNjdjOGxEdVhITzlQTlBja2RMM2ktMXJtYXl0M0psbU1MSFBveGJaS2puUDZxME9JU2tlcWdEd0EzTlNYQ2lfVXNidERZSGdiU1EwNi1kMjhBZ2RIazVsOW5hR3hLMXVLU1dUaWxiLTRPSTBEcHR1Ym1SNnFn?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-11-12T08:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-0b5deb4b6cc8f6140ce3",
       "title": "El Buen Fin 2025: Mexico’s USD $9B sales weekend",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/el-buen-fin-2025-mexicos-usd-9b-sales-weekend/",
@@ -2820,66 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-84e40cb7c0acc4433863",
-      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
-      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
-      "publishedAt": "2025-08-12T11:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "galileo-blog-c264358b1bd6c0a924d2",
-      "title": "LatAm’s Instant Payment Boom through the Lens of Gustanomics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1MyQ1EtY0MzNExyMEszNnlDbmdmRGpSY25lYmE1cGZ5R1BpYkUwWGNOSXdvdjVnMS0wa1Q5RUlqeVRMV1dJRk5qRFlIRlcwaUZ5OW1WMzY3ZkphRWxJNTcyVmxKeHNSX0k3aU90WUV2SnRJSC1qVnBIT05PSzR6V3JkLTZQYXd0dDc0Q1V2dkZFUWEtZzVN?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-12T07:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
