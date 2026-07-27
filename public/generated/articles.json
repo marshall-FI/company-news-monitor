@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-27T15:16:30.232244+00:00",
+  "generatedAt": "2026-07-27T17:11:17.242266+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-c6abb8fad6d409f451f4",
+      "title": "AWS Announces General Availability of AWS HealthOmics in the Asia Pacific (Tokyo) Region",
+      "link": "https://press.aboutamazon.com/aws/2026/7/aws-announces-general-availability-of-aws-healthomics-in-the-asia-pacific-tokyo-region",
+      "summary": "HIPAA-eligible and ISMAP-compliant bioinformatics workflow service now available from AWS data centers in Japan, supporting data residency requirements and accelerating genomic medicine and drug discovery",
+      "publishedAt": "2026-07-27T15:45:30.745000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "about-amazon-674996c75e34a9de4f2f",
       "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
@@ -770,18 +782,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-2e7be23aa7fb0b16d54d",
-      "title": "Honolulu Cookie Company Utilizes Square to Power Its Expanding Multi-Location Retail Operation",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbEJnNmt3dUlZcTlnMVBNRkJaOVRiZjJoVnpTN01sWDBJd25qR2ZYcEFPQ3hzWFp5Ml9JNjlMck5yTkVocUJtY1owQWpjY0ZOSFBLaC1mdU5aVG5NOERYOWpFdVdlWWU1Z19VYmNWS2J0R19fdU9aQWh0Ri03N2lKMmpuelJjc0tjU1FUdW9nNk40LVJKWkpaY2VRQVhfcGo4dmY3QXRrV0szZ3hQWmltOUFWSnNqR1pxbXMzaUpGVzVhdjB1bEtzcGs5SGtja0pOQ0xiNnhBMlhpVWpVNTRMZzliVGUxTDdXU1FmWllKOWtwV0pRRGJIWnVycw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-15T23:43:52+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-b6513a8b96f759b45ece",
       "title": "Datadog Named a Leader in the 2026 Gartner® Magic Quadrant™ For Observability Platforms For Sixth Consecutive Year",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-named-leader-2026-gartnerr-magic-quadranttm",
@@ -926,18 +926,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-b0ba800df12ed8a17b5d",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch/",
@@ -1039,18 +1027,6 @@
       "link": "https://press.aboutamazon.com/it/news/sustainability/2026/7/amazon-e-partner-donano-600-mila-prodotti-valore-8-milioni-euro",
       "summary": "Attraverso Amazon Dona,Amazon dà una seconda vita ai prodotti, supportando le comunità più fragili e contribuendo a un’economia più circolare.",
       "publishedAt": "2026-07-08T11:57:49.522000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-1747c3753d47926d4c6c",
-      "title": "El centro de Amazon Fresh de Barcelona celebra su quinto aniversario con más de 100 personas empleadas",
-      "link": "https://press.aboutamazon.com/es/news/company-news/2026/7/centro-amazon-fresh-barcelona-quinto-aniversario",
-      "summary": "Amazon Fresh, el servicio de supermercado online de Amazon, opera a través de cinco centros en todo el país para llevar los pedidos a clientes de Barcelona, Madrid, Guadalajara, Valencia, Sevilla y Zaragoza.El centro de operaciones de Barcelona gestiona, de media, 1.500 pedidos diarios con más de…",
-      "publishedAt": "2026-07-08T10:18:03.816000+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
@@ -1334,18 +1310,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-beb085e673f205e21977",
-      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
-      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
-      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
-      "publishedAt": "2026-06-26T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1526,18 +1490,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-06bc12a85916a2f45e65",
-      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
-      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
-      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
-      "publishedAt": "2026-06-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-47f546177b4153ec6af6",
       "title": "The World Cup is Now Trading on Robinhood and Rothera",
       "link": "https://robinhood.com/us/en/newsroom/the-world-cup-is-now-trading-on-robinhood-and-rothera",
@@ -1706,10 +1658,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "upstart-press-967f76fdd7f20be21fdf",
-      "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Morgan Stanley US Financials Conference",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-co-founder-and-ceo-participate-fireside-chat-morgan",
-      "summary": "SAN MATEO, Calif. --(BUSINESS WIRE)--May 21, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that Paul Gu, Co-founder and CEO, will participate in a fireside chat at the Morgan Stanley US Financials Conference on Wednesday,",
+      "id": "upstart-press-c5a84f434d189f9e8588",
+      "title": "Upstart CFO to Participate in Fireside Chat at the Mizuho Technology Conference",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-cfo-participate-fireside-chat-mizuho-technology",
+      "summary": "SAN MATEO, Calif. --(BUSINESS WIRE)--May 21, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that Andrea Blankmeyer, CFO, will participate in a fireside chat at the Mizuho Technology Conference on Tuesday, June 9, at 1:05",
       "publishedAt": "2026-05-21T20:05:00+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
@@ -2234,18 +2186,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-d55fe07c5f6a01cb43d3",
-      "title": "Embedded finance All Industries The Kalifa review five years on: Foundations laid, pace required Article",
-      "link": "https://www.marqeta.com/blog/the-kalifa-review-five-years-on",
-      "summary": "The Kalifa Review set the foundation for UK fintech leadership. Five years later, here's what needs to accelerate—from scaleup capital to open finance.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-1fc919b6cdd114307e6a",
       "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
       "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
@@ -2270,18 +2210,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2298,18 +2226,6 @@
       "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
       "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
       "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2400,6 +2316,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "galileo-blog-c91531f6ab6be571014d",
+      "title": "Strategic Fraud Prevention: Maximizing Tight Budgets to Ensure Protection",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUtLTTlJSFdwNnBUcUN6OXliX0gtYkNILTY0dmM5TmttdFFwOG41OWdOb1p5UzFCc2Jra2FPS2dNckc0LXhpWXJYMjJEQ0VEdVkzQmhJandWb21yWm1PQl84NFZyZkJ3TVhsZkphY3YzdHJ3aHlKekhESWlTdTlOcDRlVXFrSVlBRV91aA?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-23T08:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-fc74e697a71f9d23b7a1",
@@ -2774,6 +2702,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "galileo-blog-31376c2cf69fe1329e53",
+      "title": "Bridging the Financial Literacy Gap with Galileo’s Parent/Teen Program",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLW45azlTQWdyTzQ1QVRuaXhQd1FhNUEwRnFCN3hKUTV1NGdWOUF6SmUyR1NCaDVMNC1MQ01oSWoyeGd6eVFHSVR4djhYd29icGRNaEhodUxkUTAyVVRjbl9IYXZVcll3eE9VTVlfMFJzZWxwQzhkRHYwMHlXX08ySFF1allNa05FNHhWTA?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-25T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-8357fec8a7f961d6724e",
       "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
@@ -2870,6 +2810,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "galileo-blog-7d9a41c76778bb81c36f",
+      "title": "How Banco Nación Transformed its Digital Banking Experience with Galileo",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVIwWW5ianRVUjBEZktpdVBtRzc1Y0hOVjlkbWhBUFVOallHR0hWTm1BMXlfeGcwNEJUY3g1dmo5ck5rLXZ3YWZFYWxMb2pyLWpjNXlmWjRwZ0xYQmNOMHRzWE5McUNONGRlM2pScjFFRFpiTEc5bnNXX3l6ck1hYVh3NmswbWpJakVyWWhESVJiM1VJMldtbUg2QzlXcEgyeXUtcHpEUEs?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-30T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "sofi-press-906d798c5b95f5509932",
       "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
@@ -2880,6 +2832,54 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-0e5051ae773bb20f22c0",
+      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-25T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "galileo-blog-852873d8336b35abef10",
+      "title": "5 Ways CTOs Can Use Virtual Assistants to Drive Innovation",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0pwRElQOE1SdXItVmhZZHh4bVdIVDRRMzRJb2tjOS1ROFE2MnROT3NINW1tVDlqVThpczA2RGI5QVVSbzZJOFJ5eHRhWFdqSkx4U05YOEc1WU1kN3hMbktvSzl6V3VrMHpuems0NVZtaHpOWEVHV05xNl9BNUpXSklkTHk0RXVXVnNVUw?oc=5",
+      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-02T07:00:00+00:00",
+      "sourceId": "galileo-blog",
+      "sourceName": "Galileo Technologies Blog",
+      "company": "Galileo",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "affirm-news-e0a9239313baf8131fbc",
+      "title": "How pay-later is powering small business growth: Webinar recap",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/how-pay-later-powering-small-business-growth-webinar-recap/",
+      "summary": "Small businesses are the heartbeat of the economy, and in today's fast-moving digital world, they're constantly looking for tools to grow smarter and serve customers better. That’s exactly what Affirm’s recent Small Business Month webinar set out to explore.",
+      "publishedAt": "2025-05-28T00:00:00+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3033,7 +3033,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
+      "itemCount": 12,
       "message": "OK via official fallback RSS"
     },
     {
