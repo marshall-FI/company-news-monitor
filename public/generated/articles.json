@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-27T20:46:50.248791+00:00",
+  "generatedAt": "2026-07-27T22:21:48.675253+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-cbb79f19d1219f399816",
+      "title": "Ryanair and AWS Extend Agreement for Another 5 Years",
+      "link": "https://press.aboutamazon.com/aws/2026/7/ryanair-and-aws-extend-agreement-for-another-5-years",
+      "summary": "Ryanair, Europe’s No.1 airline, and Amazon Web Services (AWS) today (Mon, 27 July) announced that they have extended their longstanding collaboration for a further 5 years.",
+      "publishedAt": "2026-07-27T19:57:54.587000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "google-blog-e2ef01d5562bef3ad774",
       "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
@@ -10,6 +22,30 @@
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-c6abb8fad6d409f451f4",
+      "title": "AWS Announces General Availability of AWS HealthOmics in the Asia Pacific (Tokyo) Region",
+      "link": "https://press.aboutamazon.com/aws/2026/7/aws-announces-general-availability-of-aws-healthomics-in-the-asia-pacific-tokyo-region",
+      "summary": "HIPAA-eligible and ISMAP-compliant bioinformatics workflow service now available from AWS data centers in Japan, supporting data residency requirements and accelerating genomic medicine and drug discovery",
+      "publishedAt": "2026-07-27T15:45:30.745000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-674996c75e34a9de4f2f",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "publishedAt": "2026-07-27T13:56:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -26,16 +62,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-5aa6ccbd1987995c21ef",
+      "id": "about-amazon-4195f0369ed8adaafbfe",
       "title": "How Amazon Leo plans to connect mobile devices from space",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajdxUy1zYmtPMHN6ZU5UQVlIc0VZckkwdU4ySVVFakY0QUItTmdCeFRESmxXejVCdzJwbGpKSEtLRGpTQmtmUVNkN19vOVkzcXg2eUY5emNweVg3SWpOZVVIOWo5TDFRcmxTdUZJVWhPSzUycTdOTFdNMjlyRnRGRlVqYzVwd09LRUt1ZWpVZzEzRFJxMENOWVdfNEVRckl6?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-27T12:57:37+00:00",
+      "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-direct-to-device-satellite-service-explained?utm_source=rss",
+      "summary": "Amazon Leo has filed with the FCC to deploy up to 5,105 new satellites designed to use Globalstar’s spectrum to bring voice, data, messaging, and emergency services directly to mobile devices.",
+      "publishedAt": "2026-07-27T12:48:56+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-5a6459c4c276eeaeaff8",
@@ -110,6 +146,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "about-amazon-b104628e10a86d687df8",
+      "title": "Watch the teaser trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25",
+      "link": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video?utm_source=rss",
+      "summary": "The limited series starring Michelle Yeoh and Hunter Schafer is set 50 years after 'Blade Runner 2049'.",
+      "publishedAt": "2026-07-24T17:40:06+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-5f9b54e1255a0c176010",
       "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
       "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/",
@@ -120,18 +168,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-049323833e86a0533359",
-      "title": "Watch the teaser trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZpZmFCckM2MDFac1c5MWlTX0VFX3Z6S04yMFBRUWJVb0VYOWhPdDJYYkdLZzVKbWFYTlhtRGRmZG1GaldjYk5FdDIxdVdpbXYyMGlKZGxZMjRqSmRTZE9mMUNZRmtpekZvSkwxY25YLS1UNFhXcE9nSDBLbFNBdHJR?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-24T09:51:20+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-f34cdff744c937a179c8",
@@ -290,6 +326,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "amazon-press-archive-982e0c53dd3a6de625f0",
+      "title": "WellSpan Completes Comprehensive Migration of Technology Portfolio to AWS",
+      "link": "https://press.aboutamazon.com/aws/2026/7/wellspan-completes-comprehensive-migration-of-technology-portfolio-to-aws",
+      "summary": "WellSpan's transition of more than 300 applications and 7.5 petabytes of clinical data from data centers to the cloud positions the health system to deploy AI at a scale and speed unmatched among community health systems",
+      "publishedAt": "2026-07-22T16:22:55.429000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "google-blog-b6c036e2206be4c5a0ae",
       "title": "Here’s how to ask Gemini Live for help with anything you see.",
       "link": "https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/",
@@ -314,16 +362,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-3d4076a0edde5704e850",
-      "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjJtbE9oVERSbzduNFpReEpoaTF4UnRWX0Q5LXgtTlN3X2RTeDQ1OXhFTEZqVlJBT0tQbm5hOU9TWHZaWXJsTV9DRjZGRXhxSW02SWJ0cFpiRVc4WHgyOG4xNzc5QVdJanZvdXZITEJ5Nl82US1RMXBWYlhUOWl5aWx1em1IeTBp?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-22T13:02:43+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
+      "id": "amazon-press-archive-47d7f4d2b03bdbe591d9",
+      "title": "Amazon Literary Partnership Announces 2026 Grant Recipients",
+      "link": "https://press.aboutamazon.com/books-and-authors/2026/7/amazon-literary-partnership-announces-2026-grant-recipients",
+      "summary": "Since 2009, the program has provided more than $19 million in funding to organizations across the country that empower writers to create, publish, and thrive.",
+      "publishedAt": "2026-07-22T13:33:48.956000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-8298d0b9a2aa41678d34",
@@ -362,6 +410,30 @@
       "sourceKind": "rss"
     },
     {
+      "id": "about-amazon-27731b718fc76abe8123",
+      "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
+      "link": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video?utm_source=rss",
+      "summary": "The upcoming film will chart the life and work of Lily Allen, from her early years through to 'West End Girl.'",
+      "publishedAt": "2026-07-22T12:55:11+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-c2ba857da4d8fab898c9",
+      "title": "Amazon Business raggiunge 60 miliardi di dollari di vendite lorde su base annua, supportando oltre 11 milioni di organizzazioni nel mondo",
+      "link": "https://press.aboutamazon.com/it/news/amazon-business/2026/7/amazon-business-vendite-nel-mondo",
+      "summary": "Aziende di ogni dimensione si sono affidate ad Amazon Business per i suoi strumenti basati sull’intelligenza artificiale, per l’ampia selezione di prodotti, i prezzi competitivi, le soluzioni di consegna e i vantaggi dell'abbonamento Prime Business.Più di 1,8 milioni di nuove aziende hanno scelto…",
+      "publishedAt": "2026-07-22T09:42:09.015000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-c45c5739261a04a03c48",
       "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-platinum-card-rollout",
@@ -386,6 +458,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "amazon-press-archive-0e69e84c5493c3fef917",
+      "title": "Le PMI italiane su Amazon generano oltre 4 miliardi di euro di vendite nel 2025: a trainare le performance è il Sud Italia",
+      "link": "https://press.aboutamazon.com/it/notizie/piccole-e-medie-imprese/2026/7/pmi-italiane-amazon-vendite",
+      "summary": "Milano, 22 luglio 2026 - Le piccole e medie imprese italiane che vendono attraverso Amazon confermano il proprio ruolo di protagoniste dell'economia digitale nazionale. Secondo l’ultimo Report sull’impatto delle PMI, nel 2025 i partner di vendita terzi italiani hanno raggiunto oltre 4 miliardi di…",
+      "publishedAt": "2026-07-22T08:22:16.350000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "klarna-press-32be215e50b6ff0c0208",
       "title": "More choice and familiar convenience: Kleinanzeigen integrates Klarna Pay in full",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkNicU1WQ0RGVURTQnE4cXMxUUlQbEY2UVg2NjVRaEIwMGJwdWtQX1VmMVRxTGJfWWVrYjN0dXFhYUh0N2JvWGctZkZLTVZidkJzbEVHVkxmdVNPakVob0kzOUFKT2p3cjNpcmRQd1NwU3dubXJSNGxIUGZyTFZuS1lxRWpQeHByRjkwU1hWZ2pPeGpWYmZvUm5DbDJjWGZFZFFhRk8zNVBleWJabm1NNlZnU3BuZFB6UnBVbmhsOEpVUQ?oc=5",
@@ -408,18 +492,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-e280f59e616219b7bd6a",
-      "title": "Press Center",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEJraG1jVHd2cXBCN0R3b0hPN0JzZGstMEh6VVVBamtleTV0MXNMdHphMHdtTFhGSklWS1NDc21fZWtzMjM3cUE4a0Vmai04MFJGVGxWSDNySl9vYmltTXFHV3ROcXRPc3MwamlRRDdKMjd2N19ua0VZazlyZjlLVU5laEJsbjVfVm1nMlZIWUxTbjZUYzVjQlN0ZTRsX2t6MU9jTVNiS2Z0eVRYNFd5WkI4WkxUSHNGTUFKMDZFVll4QQ?oc=5",
-      "summary": "Amazon Press Archive published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-21T20:02:53+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-20883c2d7e6f78f89185",
@@ -494,16 +566,28 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-0d97d4ea88c25568d0de",
-      "title": "Amazon launches its slimmest ever streaming device, the Fire TV Stick HD",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHRQZmNZUFRZTExmMkFXc0tTS05RRU9wZmd5TS1nUlZFOUFWX05vS040NXdyazZ3UzhqLVZha0swQ01ZX1o1WWxuRTd2aFIyZmpWdk92ajE2dmFvT09Va1BIc3pCVTZZOTZkN1B3dXJfRHZWUC02bDFfZEF0T1VRNUhBTDJqTUYzdU1sZ3ZFb3htaUpPZUJaOTZoNDFkMjdLdjZGTFZTZGJ4N09vNHo5U241ZWw0eVR5NjRfOWFlWGltQTRUTUQ0?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-21T00:49:09+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
+      "id": "amazon-press-archive-1900f093b8e8168db1e0",
+      "title": "Amazon Business Reaches $60 Billion in Annualized Gross Sales, Serving Over 11 Million Organizations Worldwide",
+      "link": "https://press.aboutamazon.com/2026/7/amazon-business-reaches-60-billion-in-annualized-gross-sales-serving-over-11-million-organizations-worldwide",
+      "summary": "Organizations of all sizes turning to Amazon Business for its AI-powered tools, business-relevant selection, everyday low prices, delivery fleets purpose-built for businesses, and expanded Prime Business membership benefits More than 1.8 million new organizations joined Amazon Business so far this…",
+      "publishedAt": "2026-07-21T13:03:26.924000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-2371ba20ccf75fccf7ac",
+      "title": "Amazon.pl zostaje Oficjalnym Partnerem Ekstraklasy",
+      "link": "https://press.aboutamazon.com/pl/wiadomosci/amazon-w-polsce/2026/7/amazon-pl-zostaje-oficjalnym-partnerem-ekstraklasy",
+      "summary": "Amazon.pl ogłosił dziś nawiązanie dwuletniej współpracy z Ekstraklasą S.A., na mocy której został Oficjalnym Partnerem rozgrywek Ekstraklasy. Współpraca obowiązuje od lipca 2026 roku do czerwca 2028 roku i obejmuje wszystkie mecze rozgrywane w tym okresie.",
+      "publishedAt": "2026-07-21T11:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-b5cdab03f81bf5510ab8",
@@ -552,6 +636,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-609996acd30ee5280c3c",
+      "title": "How Amazon Shows Up for Chicago",
+      "link": "https://press.aboutamazon.com/job-creation-and-investment/2026/7/how-amazon-shows-up-for-chicago",
+      "summary": "From funding computer science education to delivering hundreds of thousands of meals to supporting small business growth, Amazon is investing in Chicago’s communities.",
+      "publishedAt": "2026-07-20T14:27:26.246000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-f78c3369235f8cfd9cee",
@@ -614,6 +710,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "about-amazon-8a9736841407fbe0ce86",
+      "title": "Amazon will share its Q2 2026 earnings on July 30",
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report?utm_source=rss",
+      "summary": "On July 30, Amazon is set to hold a conference call to discuss its Q2 2026 financial results.",
+      "publishedAt": "2026-07-16T20:06:30+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "datadog-investor-news-4c1ef44dc5580a18760b",
       "title": "Datadog Announces Date of Second Quarter Fiscal Year 2026 Earnings Call",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-date-second-quarter-fiscal-year-2026-earnings",
@@ -624,6 +732,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-067b6e3df1a4ad0fb357",
+      "title": "Amazon.com to Webcast Second Quarter 2026 Financial Results Conference Call",
+      "link": "https://press.aboutamazon.com/2026/7/amazon-com-to-webcast-second-quarter-2026-financial-results-conference-call",
+      "summary": "SEATTLE--(BUSINESS WIRE)-- Amazon.com, Inc. (NASDAQ: AMZN) announced today that it will hold a conference call to discuss its second quarter 2026 financial results on Thursday, July 30, 2026, at 2:00 p.m. PT/5:00 p.m. ET.",
+      "publishedAt": "2026-07-16T20:01:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-382a6315777ec39b7291",
@@ -650,16 +770,28 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-51af4828732a073a1b5e",
-      "title": "Amazon.com to Webcast Second Quarter 2026 Financial Results Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYVJTeHpiaVlVZldBVWdJeHd6OWVvY3UzcUthQUxETlhtUDJKckRnUkZiVTluSlg0ZVdWVHNTSm85YmI2SFV2YllGTmYxUXFyQnMtd0g1Q2g3X1pFS1VoOWJwRlpTQjlRcGg1TDI5RTJjSzNkY3JJVE5iZDJubG5UdzB1T1Q5aHpOSnlVSnM3RzBPQUtUMk55TnE5OEFDWWJ4VUJqYzk1dHhDdGtqRDIzazRpem5FdlpDb240TUdtc3U3d2MzUGx6UkItTHk2dHdleHU4QW83djVYVzZqSThJSHNDYlZUN255S3c?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T07:00:00+00:00",
+      "id": "about-amazon-da5c284c0cc30afaec9e",
+      "title": "10 things to know about AWS’s new compute leader Dave Treadwell",
+      "link": "https://www.aboutamazon.com/news/aws/aws-compute-leader-dave-treadwell-things-to-know?utm_source=rss",
+      "summary": "Now the Senior Vice President of Compute and Machine Learning Services, Treadwell joined Amazon almost by accident and was one of the coders behind early Windows.",
+      "publishedAt": "2026-07-16T16:00:11+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-b2d7a08c6927eeb5cdb7",
@@ -686,6 +818,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "about-amazon-4974fc43ab66842374ac",
+      "title": "Dave Treadwell to lead AWS Compute and ML Services as Dave Brown departs",
+      "link": "https://www.aboutamazon.com/news/company-news/aws-dave-treadwell-replaces-dave-brown-compute-ml-services?utm_source=rss",
+      "summary": "Treadwell brings nearly a decade of experience running Amazon’s technology platform to his new role.",
+      "publishedAt": "2026-07-15T16:50:52+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "klarna-press-c7351589ab3914bee83d",
       "title": "Klarna now available on Fragrance.com, bringing flexible payments to one of America's largest online beauty destinations",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMnk4bDI0LUh1MktsTExQdGVvRHUxTm5UOE5PSDRDcmJWUFBNeUY5dE5kLXBZdVRvWG1KbHVzdF9aaEItLVgwcTlaLXpHZHNKd3M2WWRBXzZURkZfbHdDQUI1ZnhQZk1MQTNzZzNqTHliRUx5bzJTZkFFc2ItOE5iNmFITFg4S3Nta3NaWW9KdG52MmJZcDJVVkVUUjJER0JXMXRCZV9jOXpVOE9qM3N3S2ZEbVE0aEo2OGNXZV9LMVpHa0RacGRCYm9Bd0gyWlZmc21FZXlhSTVoQ1Q3Zml5ajdxdDdiWHE1aUxIRGZ1VHBwYzln?oc=5",
@@ -698,16 +842,28 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-2cf58db1de4e8825751b",
-      "title": "Amazon Leo to power satellite internet for South Africa’s largest internet provider",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODhkcm1MSFNweEtoa3V5OVZVcDl1dzdEbjlMT2U2S1ZDMkdEVFRZeGlna2dfaXo4S3piSDhVNXNiRTcyWFQyTk43QU1ZVUZWaFJLWHNObkpWMEpaaVNfcFF4SEJCT240V3hQVm5rS2pMOXZCSTVtMkNqdXgwRWtkVi00UzE0WmM?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-15T07:00:00+00:00",
+      "id": "about-amazon-91406e8484444bf247c3",
+      "title": "Watch the trailer for 'I Play Rocky,' the true story behind ‘Rocky,’ coming to theaters November 2026",
+      "link": "https://www.aboutamazon.com/news/entertainment/i-play-rocky-trailer-cast-release-date-amazon-mgm-studios?utm_source=rss",
+      "summary": "Anthony Ippolito stars as a young Sylvester Stallone in the Amazon MGM Studios film, directed by Academy Award winner Peter Farrelly.",
+      "publishedAt": "2026-07-15T13:00:14+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-a48cefc5b7b663f19125",
+      "title": "Amazon Leo to power satellite internet for South Africa’s largest internet provider",
+      "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-south-africa-herotel-evry?utm_source=rss",
+      "summary": "South Africa's largest fixed internet service provider, Herotel, will use Amazon's satellite network to connect homes and small businesses beyond the reach of fiber and fixed wireless.",
+      "publishedAt": "2026-07-15T08:31:54+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "klarna-press-7cb76675f5cbf0cd4ea3",
@@ -720,6 +876,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "about-amazon-0ed07cd84bf7bcb8c923",
+      "title": "Watch the trailer for 'Novak Djokovic: The Wolf in Winter,' Prime Video's new documentary coming August 20",
+      "link": "https://www.aboutamazon.com/news/entertainment/djokovic-prime-video-documentary?utm_source=rss",
+      "summary": "The new Prime Video feature-length documentary goes behind the scenes with Novak Djokovic, the most accomplished men's tennis player in history.",
+      "publishedAt": "2026-07-14T13:00:08+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "shift4-news-6ba43776302a259c81f8",
@@ -746,6 +914,30 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-5f07fb13c603faa43625",
+      "title": "Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando IA a sus funcionalidades",
+      "link": "https://press.aboutamazon.com/es/news/amazon-business/2026/7/amazon-business-prime-ia-funcionalidades",
+      "summary": "Las herramientas Visibilidad del Gasto y Monitorización de Gastos Irregulares ayudan a los responsables de compras a detectar anomalías y tomar mejores decisiones, ahora enriquecidas con IA.",
+      "publishedAt": "2026-07-13T07:53:10.319000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-2e80730fc65202f389b2",
       "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
@@ -755,18 +947,6 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-15f9f1a5ddb6ee71b034",
-      "title": "Watch the teaser trailer for Mike Flanagan's ‘Carrie,’ a Stephen King adaptation coming to Prime Video October 7",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU5rRnhrRDRUVGZ5Z09YbDB0akRnV0pvTzBkcGRidWRIeERZYXZVZzREaThaM0llYmRBdmhmSmdUYjZCZERTSk0zZzZyb1F3Mkt2d0pfVFpaT1dMQjlGUXdVSkIxMEh4VlkyN2l6bEFYMGlqbUtNbHczVXFrVWUtZzdpZG1UU1RraWRFNWhtT1Z5VUJlYlFv?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -806,6 +986,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -816,6 +1008,54 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-cbe6d528eb6062300b90",
+      "title": "Abrigo launches agentic AI platform",
+      "link": "https://press.aboutamazon.com/aws/2026/7/abrigo-launches-agentic-ai-platform",
+      "summary": "AI agents help financial institutions scale operations with greater speed, consistency, and governance",
+      "publishedAt": "2026-07-08T16:25:41.211000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-dfb6eee796a24d441247",
+      "title": "Warner Bros. Discovery Announces Agentic AI-Powered Advertising Technology Built on AWS, its Preferred Cloud Provider",
+      "link": "https://press.aboutamazon.com/aws/2026/7/warner-bros-discovery-announces-agentic-ai-powered-advertising-technology-built-on-aws-its-preferred-cloud-provider",
+      "summary": "WBD's AI-driven advertising innovation is built with AWS to unify the buying experience across linear and digital, giving advertisers the fluidity of one platform while each channel keeps its own essence – with cloud-scale infrastructure and autonomous, intelligent workflows.",
+      "publishedAt": "2026-07-08T15:53:22.311000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-19c65ed4b02e9e9f3415",
+      "title": "Fox Corporation Names Amazon Web Services its Preferred AI Cloud Provider",
+      "link": "https://press.aboutamazon.com/aws/2026/7/fox-corporation-names-amazon-web-services-its-preferred-ai-cloud-provider",
+      "summary": "New York, NY and Los Angeles, CA – April 16, 2026 – Fox Corporation (Nasdaq: FOXA, FOX; “FOX” or the “Company”) today announced a strategic collaboration with Amazon Web Services (AWS), naming AWS as its preferred AI Cloud provider. The partnership marks a significant step forward in FOX’s ongoing…",
+      "publishedAt": "2026-07-08T15:50:04.944000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-3b369b7979751db028df",
+      "title": "Amazon Supports Weekly Humanitarian Relief Flights to Venezuela in First-of-its-Kind Collaboration",
+      "link": "https://press.aboutamazon.com/2026/7/amazon-supports-weekly-humanitarian-relief-flights-to-venezuela-in-first-of-its-kind-collaboration",
+      "summary": "MIAMI--(BUSINESS WIRE)-- Amazon (NASDAQ: AMZN) today announced it will support a seven-flight humanitarian air delivery operation into Caracas, Venezuela, in response to the devastating twin earthquakes that struck northern Venezuela on June 24, leaving more than 650,000 people in need of aid.",
+      "publishedAt": "2026-07-08T12:30:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "klarna-press-a3232a8674f2bcb98916",
@@ -962,6 +1202,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "block-investor-news-893a94da6ac4d1b6ac5e",
+      "title": "Block to Announce Second Quarter 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkpEbEU2amRQak5fRTJLQlluZmM3S092Ny1Zd2c2dzlmRjkzb2JLdUF6VjI3R192UkdsVUR1Zk11ZnJzMmpHc1dQQ2RaTUxYejBLSnlEcTZlT2pMYjAzR1hDMHFHWXUyWEZ0UzZOTjhHa2h3eHVseG5nSnVnSk9QYURWaFZtZWhvX0UxSVlnalBKd2czTzRkcXZGRHlkSHJmZTVpamREV3RzVjNZbWN6aHVkUWlDTkV1TWc?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-02T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "robinhood-blog-422052f0adb9172aac1d",
       "title": "Robinhood Accelerates Global Expansion with Robinhood Chain Mainnet, Stock Tokens, Agentic Trading and New Suite of DeFi Products",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading",
@@ -1082,18 +1334,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-7a5e9445bf96f3ec1a05",
-      "title": "AWS invests $1 billion to embed AI forward deployed engineers with customers",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGxHaGRiWTh1QVRMMFJoSlpIWFFJUl9nWGNTN0xTWDVlWHZXMlI3Y3VlUW10Smh3VFNCdG5PT1YwNWpnOUZDYmR4OFpjcWZidURlc1hGM3BVM1pwX05IQVA2VkgzbDZLYXpWUUt2MEJuVFNGRFNMWmxXY2thdlZtWmcxNzJIMHM?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-30T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-c8e36e6478477bf5c986",
       "title": "Sherwin-Williams Selects Square as Newest Partner in Digital Alliance Program",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTE16NEVQWkpFcUptWmVDWWF3dGJ3NnB5S3VpVHBjUFJ3VGN4Nlk1ai0wQl9hbHFNSnE5MU1ucHNTc21aRVZ3NEtwcllvUG1YX2RwRmNKa1VFbVdmSE5FSHdrM3pGSnU3SHB6MnEyb0FLWkg1YWlSS2I2dEhDbnFlYzNHcUFVQVRsSXlnUE1IVEEyNFlqX2dDRjNoblBVVThrY0pPa1dQeEVDVk1NSzg3UDg0QWR6Mm5zRlBsWUIzV09NUy1BNGtYOTBTU0RwTm1UcXV2M1RJUk5JLW8tR0NLb3JqNDY?oc=5",
@@ -1104,6 +1344,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
@@ -1152,6 +1404,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-fe83d1d8f19ef9cb130c",
+      "title": "Amdocs Expands Store Genie to PLDT Home, Bringing Agentic AI to Broadband Customer Service Operations",
+      "link": "https://press.aboutamazon.com/aws/2026/6/amdocs-expands-store-genie-to-pldt-home-bringing-agentic-ai-to-broadband-customer-service-operations",
+      "summary": "Store Genie is already delivering strong results at Smart Communications, helping modernize retail and frontline operations. Built on Amdocs aOS with Amazon Bedrock AgentCore, the solution now helps reduce customer resolution time by up to 98% at PLDT Home.",
+      "publishedAt": "2026-06-23T13:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-2f2a05d834f97cbab642",
@@ -1262,6 +1526,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
       "title": "Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy",
@@ -1274,15 +1550,15 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-06bc12a85916a2f45e65",
-      "title": "Credit Financial Services Credit isn't a single product: Why the most successful providers are building portfolios Article",
-      "link": "https://www.marqeta.com/blog/credit-isnt-a-single-product-why-the-most-successful-providers-are-building-portfolios",
-      "summary": "Research across 5,000 consumers and SMBs reveals how multi-product credit behavior is reshaping the market—and what it means for card issuers in 2026.",
-      "publishedAt": "2026-06-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1379,18 +1655,6 @@
       "sourceName": "SoFi Press",
       "company": "SoFi",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-3adad40e2cf2a7473866",
-      "title": "The best early Prime Day 2026 deals to shop now",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Pblh6XzB3d21oZGVfODkwUnd4VVp6em1yY3Y0QXpXUXhmZWt4Qm0yWVViaWRMOHd1dEMzOGdoY2lxRDhxN2N1Uk9YRmlLLXU4RmtLRlVjZk12MDFfd09QYkZQemVMaHJud1VtXzhVVUtwRVBPMnVvQVNBZw?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-02T05:06:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1514,6 +1778,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
+      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "link": "https://pr.tsmc.com/english/news/3314",
+      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "publishedAt": "2026-05-15T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
       "title": "Chime to Participate in William Blair Growth Stock Conference",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-william-blair-growth-stock-conference",
@@ -1562,18 +1838,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-bf3f9f54fcbcc79683b7",
-      "title": "2026/05/12 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3311",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-12T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-3aae071e6b75008c3d5d",
       "title": "Affirm works with Google to make AI shopping payments clear and simple",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-works-google-make-ai-shopping-payments-clear-and-simple/",
@@ -1614,6 +1878,18 @@
       "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
       "link": "https://pr.tsmc.com/english/news/3308",
       "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7b041f3b81909f5a8181",
+      "title": "2026/05/08 TSMC April 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3305",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -1730,18 +2006,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-a83ca3d7bb7924bc12f1",
-      "title": "Amazon’s Prime Day event is back this June",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aN1plRy00UThuaFdrdUJCQ25lMmVCZERMWmt4RkxxX094Y0JkR3UyVlVvU0dMdEFqMHU1SjBVVktVaEQ5UGRwdWRwVU1Sa05DakVpdWFBODJnVlk1bnFzTC1teVFoUnctLXRwdk0tVXJyek0y?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-29T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-b7aad5c939878451dc5c",
       "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
@@ -1788,6 +2052,42 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
+      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
+      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
+      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
+      "publishedAt": "2026-04-27T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-cf33a84d239473a10983",
+      "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+      "link": "https://press.aboutamazon.com/aws/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazons-graviton-chips",
+      "summary": "The deal helps power the agentic workloads behind Meta’s AI efforts.",
+      "publishedAt": "2026-04-24T19:01:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7c24989a81478598c50a",
+      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "link": "https://pr.tsmc.com/english/news/3302",
+      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "publishedAt": "2026-04-23T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-59cd39600e4f0f00bf42",
@@ -1862,6 +2162,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-dced848abc1618b53274",
+      "title": "2026/04/16 TSMC Files Annual Report on Form 20-F for 2025",
+      "link": "https://pr.tsmc.com/english/news/3300",
+      "summary": "TSMC Files Annual Report on Form 20-F for 2025",
+      "publishedAt": "2026-04-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "chime-newsroom-a2baebb27185beeeb35c",
       "title": "Chime to Announce First Quarter 2026 Financial Results on May 6, 2026",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-announce-first-quarter-2026-financial-results-may-6-2026",
@@ -1898,30 +2210,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-1c954ea37a9178a04211",
-      "title": "2026/04/10 TSMC March 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3294",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-8538962bcd45bf16f1cc",
-      "title": "CEO Andy Jassy’s 2025 Letter to Shareholders",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWFDWFp0cEY5ZUFqd01nYmlLVWg0cjBreFFXaFMxZGFOV085T3RNVDdsRTlwcFpPb3E3MnkwbjNjVlRaWjVDNjAtSkUzZGtKSHpiVWJZc1BjVXNsdlR6TEdhd1hKTlM0aVJWUHNKUEppSlh2OHhwYjVFTVhyVC1oZ2RSNnJzVHV1UkRna09wcVBwdlFoSWkwdTBVQQ?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-09T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "circle-pressroom-61cced29889cce21c97f",
       "title": "Circle Launches CPN Managed Payments, a Full-Stack Platform for Seamless Stablecoin Settlement",
       "link": "https://www.circle.com/pressroom/circle-launches-cpn-managed-payments-a-full-stack-platform-for-seamless-stablecoin-settlement",
@@ -1934,76 +2222,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-387ddf28a703d88584eb",
-      "title": "Issuing/processing Financial Services Financial services are entering the era of the financial orchestrator Article",
-      "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
-      "summary": "63% of consumers want unified rewards. 32% want wallets that automate purchases. Marqeta's 2025 State of Payments report reveals what financial services need.",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
+      "id": "amazon-press-archive-68c3462efb5b2cdbbc1a",
+      "title": "Uber scales on AWS to help power millions of daily trips and train its AI models",
+      "link": "https://press.aboutamazon.com/aws/2026/4/uber-scales-on-aws-to-help-power-millions-of-daily-trips-and-train-its-ai-models",
+      "summary": "The ride-sharing giant expands its real-time infrastructure on AWS to speed up service for millions of daily riders and deliveries.",
+      "publishedAt": "2026-04-07T18:57:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-6c81be98cd2055855b11",
-      "title": "Press Center",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91VjdGSmtNR3NuVUJIQmZQWmJBSFpPaFJ3d3ExZFItbDZLVDUyWjg1b1g3eTVFODVVaG5TNkNxZS1vWmhZUnMyS2VONWdyWDllTjg3Ykc1UUJXdktmb1o4UTdLYU9fSEUzRVBTeWZqbXE?oc=5",
-      "summary": "Amazon Press Archive published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-03T22:00:54+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-9c4069f6f5cf842e66cc",
-      "title": "Press Center",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IQVh3UnNGNmtGQmJtYUlqRVFEcUpXRk04cHNtUFA1TjV3RmtaUlI1Z1YtZTF1cUE3bVZwb0FKcGVFaHNac19HYnpGR1NvTDZIQlJEZkZzWGw4RjQ1MkZmeVBaVTV2dnZWdU5HR1BsbmQ?oc=5",
-      "summary": "Amazon Press Archive published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-03T22:00:54+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-16e9aa4f468c31b66ff2",
-      "title": "Press Center",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yOGZaM2dCUmxTRlpaWEpfUElTemlzYWRabWlLeW1nWjNvLWpfbjdOamkzbDN0cVphdDA2bFh0TjFNUmt4NlU4VmF0LV9xOC03QmduaFBhWThvdTZoVlZUSnhJb0ZsU2NjYVkwZ3E4NXE?oc=5",
-      "summary": "Amazon Press Archive published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-03T22:00:54+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-9b5d033aa36f7b42240a",
-      "title": "Press Center",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51QldWdWtKeTd0cnc1RlFqb3o5V2c3c3dkS1p5TS1CQU5lcDhVcGpUa1g1TC0ybGEyVEhia3NXOVZQcXZLRFdzdGxtZDVHZVd2Q1FLSTVzZXBNQi1hRk5TRXVVeGpqVTVlWWNWQ05haUE?oc=5",
-      "summary": "Amazon Press Archive published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-03T22:00:52+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-cf1fe3051937d07da769",
-      "title": "Press Center",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOHJrTVYxaC1OWmgwN2tyd2ZNdzY4eWNjNnhiRFpmQ1dmWjQ4SFRmODgxVkxCX3RtUVVxek51dEVpUXRnTUg4dWZnVDJPblZjcHdrRWxSOGhWZUFLbEVlLXdEOEptN2g0bmZiNkI1TDY?oc=5",
-      "summary": "Amazon Press Archive published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-03T22:00:52+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-44808cb3aa4315251f97",
@@ -2112,6 +2340,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2294,18 +2534,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-970aa624f1a9d5ad2609",
-      "title": "Introducing Alexa.com, a completely new way to interact with Alexa+",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15Zk1tYUN2cGZGYmJiQTRjWFFXWm9LV0RjSGVSYng0U2ZvNE00eDJQcjJOQXdBVHB5Z0ZHQVUyWWhCOUg1cUptQ2JVMXdRRG9SbnY5dmVZc3NmSE1LYTdabFRGTDdrVUtMbUZnTExTQk91SDViaXRz?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-01-05T08:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-65efbd392b4acad7f72f",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q4 2025 & Full Year 2025 Results",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFlsSlRtRFEwVEkyMERyajVfOXRDT0NZM05mRWhnRHZfOU4tYVY0R2hycW9yemRJOWJrVzFza2hzR1YyeTFKaXkxTzZhUlpqYmhOQUppbWIxQ2R6NVc3ZDU2WTVWTzJqUzc3WEM0WDVDX3ZESFhRTVlQcW9HLWZYU3NrdWRfaTMwWXpVUHlGc01EenFqODhzVVdHWHBmdTQ2cmRkcnlRQzlmRDJWMWw1bXh4UnB1REIwZDNiY1g5R1JaTUZlenluSkotM205RElETXc?oc=5",
@@ -2399,18 +2627,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2606,18 +2822,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-6c4bdc0727b70439a9cd",
-      "title": "Amazon's Echo Dot Max and Echo Studio, built for Alexa+, now available",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcndXbDVUakt6aUVZWG9rVFg5R25pYUhFeFVMdHRVV0x4OHFVYV83YWVWVkVVcmFkcEFnZno5Z1RXWXhYdU04cGs3aVRUUl9YalhJOGFPc2g3M2ljMUZkSndzZHZIck5UYkpxVmZSLUtDRFpxSlFERUZRSHp6NUZuaA?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-09-30T15:11:48+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dave-press-9ad6aca2c340df637c4b",
       "title": "View announcement",
       "link": "https://staging.dave.com/press/news-releases/news-release-details/dave-reports-third-quarter-2025-financial-results",
@@ -2676,210 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-84e40cb7c0acc4433863",
-      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
-      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
-      "publishedAt": "2025-08-12T11:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "affirm-news-e0a9239313baf8131fbc",
-      "title": "How pay-later is powering small business growth: Webinar recap",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/how-pay-later-powering-small-business-growth-webinar-recap/",
-      "summary": "Small businesses are the heartbeat of the economy, and in today's fast-moving digital world, they're constantly looking for tools to grow smarter and serve customers better. That’s exactly what Affirm’s recent Small Business Month webinar set out to explore.",
-      "publishedAt": "2025-05-28T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c22901d5296e709477b9",
-      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-cb14def83d56d17b84d2",
-      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-13T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-bacdd251daca40559e7e",
-      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-18T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-4f5f17b464c2bd52c3eb",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q1 2025 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmhPVzl4bGJKcUpaNlU5YjFwT3lKb3Z1NU5HRVc2UnZHWXh0b05yWUEtNUdmLURES3ZBUjhtWHZIRlZ1SGJIbVR2d296aEluaUdSLWY5MnJHQkVvNjhHelp1LXE1ZzVOOUZrbUV2VUw1cGdqbVdBM2VaRVR4bzRUaWZRWFl6eHZCQ3hIRjFKVmtLYXctVjBJcllKaVBRdG1hZXlUOGMxQ3huLV9ySk04dkJWdDZKT2x1V01ITg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-04T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
-      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
-      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
-      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
-      "publishedAt": "2025-03-26T12:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-74a3e89360e2448fd6f4",
-      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-03-17T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3103,10 +3103,10 @@
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 6,
-      "message": "OK via official fallback RSS"
+      "itemCount": 18,
+      "message": "OK"
     },
     {
       "sourceId": "google-blog",
@@ -3121,10 +3121,10 @@
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "rss",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     },
     {
       "sourceId": "tsmc-news",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T20:46:50.248791+00:00",
+  "generatedAt": "2026-07-27T22:21:48.675253+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -221,10 +221,10 @@
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 6,
-      "message": "OK via official fallback RSS"
+      "itemCount": 18,
+      "message": "OK"
     },
     {
       "sourceId": "google-blog",
@@ -239,10 +239,10 @@
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "rss",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     },
     {
       "sourceId": "tsmc-news",
