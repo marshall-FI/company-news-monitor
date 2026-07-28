@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T12:17:11.444752+00:00",
+  "generatedAt": "2026-07-28T14:41:14.585032+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -20,6 +20,26 @@
       "summary": "PayPal Holdings filed a current report (8-K) on 2026-07-28 for report date 2026-07-28. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/0001633917-26-000080-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl-20260728.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "KLAR-0001628280-26-049939",
+      "company": "Klarna",
+      "displayName": "Klarna Group",
+      "ticker": "KLAR",
+      "cik": "0002003292",
+      "category": "Fintech Blogs",
+      "form": "6-K",
+      "accessionNumber": "0001628280-26-049939",
+      "filingDate": "2026-07-28",
+      "reportDate": "2026-07-28",
+      "acceptanceDateTime": "2026-07-28",
+      "primaryDocument": "form6-kxklarnagroupplcappl.htm",
+      "title": "Klarna 6-K for 2026-07-28",
+      "summary": "Klarna Group filed a current report (6-K) on 2026-07-28 for report date 2026-07-28. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026049939/0001628280-26-049939-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026049939/form6-kxklarnagroupplcappl.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -5580,26 +5600,6 @@
       "summary": "Upstart Holdings filed a current report (8-K) on 2025-11-04 for report date 2025-11-04. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763925000133/0001647639-25-000133-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763925000133/upst-20251104.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "DAVE-0001193125-25-264819",
-      "company": "Dave",
-      "displayName": "Dave",
-      "ticker": "DAVE",
-      "cik": "0001841408",
-      "category": "Fintech Blogs",
-      "form": "10-Q",
-      "accessionNumber": "0001193125-25-264819",
-      "filingDate": "2025-11-04",
-      "reportDate": "2025-09-30",
-      "acceptanceDateTime": "2025-11-04",
-      "primaryDocument": "dave-20250930.htm",
-      "title": "Dave 10-Q for 2025-09-30",
-      "summary": "Dave filed a quarterly report (10-Q) on 2025-11-04 for report date 2025-09-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1841408/000119312525264819/0001193125-25-264819-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1841408/000119312525264819/dave-20250930.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }
