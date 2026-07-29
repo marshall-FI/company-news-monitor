@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-07-29T09:52:52.372852+00:00",
+  "generatedAt": "2026-07-29T12:24:00.824672+00:00",
   "articles": [
+    {
+      "id": "sofi-press-2d8846797a19c6d21602",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q2 2026 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEh0VDg3ZXNZZWEtdGdSTU9vOWZ3SjlNTUpLMlF3SnA2T3JIZFdMa2UybmlCSFZlS3JtTThYdDlnVUxQRWdqWENUSUN4TGpJRDJDNVBpbXcxY2J1NHpiaDNaWDVnTjRnOHRNYm1xTEM0SnBTeVVfMml1anVsM1NhNnBycFAwd29lMVR6UXZhaU1sVGprNVFuM3pzS0FoMHJoMWloR09vdG1aZ2N3NHNnTVU0aVh6ckpYTkM4RE1B?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-29T11:37:40+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "affirm-news-079ff9af286bc9ea5119",
+      "title": "When new tires can't wait, confidence at checkout matters",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/when-new-tires-cant-wait-confidence-checkout-matters/",
+      "summary": "_Discount Tire and Tire Rack partnered with Affirm to help customers replace tires with confidence, driving approximately 3x higher conversion and 21% higher average order values on TireRack.com, and 24% year-over-year payment volume growth at Discount Tire_",
+      "publishedAt": "2026-07-29T00:00:00+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "upstart-press-460d734079716b2e21cc",
       "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Bank of America 2026 SMID Cap Conference",
@@ -504,18 +528,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "sofi-press-2d8846797a19c6d21602",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q2 2026 Earnings Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEh0VDg3ZXNZZWEtdGdSTU9vOWZ3SjlNTUpLMlF3SnA2T3JIZFdMa2UybmlCSFZlS3JtTThYdDlnVUxQRWdqWENUSUN4TGpJRDJDNVBpbXcxY2J1NHpiaDNaWDVnTjRnOHRNYm1xTEM0SnBTeVVfMml1anVsM1NhNnBycFAwd29lMVR6UXZhaU1sVGprNVFuM3pzS0FoMHJoMWloR09vdG1aZ2N3NHNnTVU0aVh6ckpYTkM4RE1B?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-23T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-2675ad9f2444d7b4dc0e",
@@ -1094,18 +1106,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -1406,6 +1406,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1572,6 +1584,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
@@ -1862,18 +1886,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-7b041f3b81909f5a8181",
-      "title": "2026/05/08 TSMC April 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3305",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-a5454d306bd930dc2141",
       "title": "Shift4 Announces First Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/300/shift4-announces-first-quarter-2026-results",
@@ -1982,18 +1994,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-bb3b04fb99757be81c31",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q1 2026 Earnings Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2FKRTZTdnVnY0NCelZSU2d6OW5FQ2FYNHZDNldJbTFKQ3pUd1hLczcwVnJOT19wbXZJbFo0WU9FR3F4WWhyWWl5UGN1MnlWQ0owdlpTaWx6VUt4Zms4WVRFQnJQRm4ya196MlU3OThOVENRZGlWQnhWaWMxTFkzTHlqQUVKZnhFazR0OV9lU250RnFJNU9RMXU3Z28wMlJ2Z0ozX21wWFBFMTVYeXNhQXhaeUp1djVRV3NFTnZR?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-b7aad5c939878451dc5c",
       "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
@@ -2040,18 +2040,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-1a4bfa0e72f39d5cd406",
-      "title": "BNPL/POS Lending Financial Services The infrastructure behind BNPL success: Technical requirements for global scale Article",
-      "link": "https://www.marqeta.com/blog/the-infrastructure-behind-bnpl-success-technical-requirements-for-global-scale",
-      "summary": "Learn how modern BNPL providers scale globally with programmable card infrastructure, real-time decisioning, and built-in compliance capabilities.",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-cf33a84d239473a10983",
@@ -2136,6 +2124,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-dced848abc1618b53274",
+      "title": "2026/04/16 TSMC Files Annual Report on Form 20-F for 2025",
+      "link": "https://pr.tsmc.com/english/news/3300",
+      "summary": "TSMC Files Annual Report on Form 20-F for 2025",
+      "publishedAt": "2026-04-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-a2baebb27185beeeb35c",

@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-07-29T09:53:03.441074+00:00",
+  "generatedAt": "2026-07-29T12:24:09.264457+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
+    {
+      "id": "SOFI-0001818874-26-000050",
+      "company": "SoFi",
+      "displayName": "SoFi Technologies",
+      "ticker": "SOFI",
+      "cik": "0001818874",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001818874-26-000050",
+      "filingDate": "2026-07-29",
+      "reportDate": "2026-07-29",
+      "acceptanceDateTime": "2026-07-29",
+      "primaryDocument": "sofi-20260729.htm",
+      "title": "SoFi 8-K for 2026-07-29",
+      "summary": "SoFi Technologies filed a current report (8-K) on 2026-07-29 for report date 2026-07-29. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/0001818874-26-000050-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/sofi-20260729.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
     {
       "id": "PYPL-0001633917-26-000082",
       "company": "PayPal",
@@ -5085,7 +5105,7 @@
     },
     {
       "id": "SOFI-0001818874-25-000222",
-      "company": "SoFi",
+      "company": "Galileo",
       "displayName": "SoFi Technologies",
       "ticker": "SOFI",
       "cik": "0001818874",
@@ -5096,11 +5116,11 @@
       "reportDate": "2025-12-02",
       "acceptanceDateTime": "2025-12-04",
       "primaryDocument": "sofi-20251202.htm",
-      "title": "SoFi 8-K for 2025-12-02",
-      "summary": "SoFi Technologies filed a current report (8-K) on 2025-12-04 for report date 2025-12-02. Open the SEC filing for source documents.",
+      "title": "Galileo 8-K for 2025-12-02",
+      "summary": "SoFi Technologies filed a current report (8-K) on 2025-12-04 for report date 2025-12-02. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000222/0001818874-25-000222-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000222/sofi-20251202.htm",
-      "note": "",
+      "note": "Galileo is tracked through parent company SoFi Technologies.",
       "dataSource": "SEC EDGAR via read-through"
     },
     {
@@ -5181,26 +5201,6 @@
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052803/0001628280-25-052803-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052803/form6-kxklarnagroupplcearn.htm",
       "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "SOFI-0001818874-25-000215",
-      "company": "Galileo",
-      "displayName": "SoFi Technologies",
-      "ticker": "SOFI",
-      "cik": "0001818874",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001818874-25-000215",
-      "filingDate": "2025-11-13",
-      "reportDate": "2025-11-12",
-      "acceptanceDateTime": "2025-11-13",
-      "primaryDocument": "sofi-20251112.htm",
-      "title": "Galileo 8-K for 2025-11-12",
-      "summary": "SoFi Technologies filed a current report (8-K) on 2025-11-13 for report date 2025-11-12. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000215/0001818874-25-000215-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000215/sofi-20251112.htm",
-      "note": "Galileo is tracked through parent company SoFi Technologies.",
       "dataSource": "SEC EDGAR via read-through"
     },
     {
