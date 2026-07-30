@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T16:53:48.906124+00:00",
+  "generatedAt": "2026-07-30T18:48:37.707328+00:00",
   "articles": [
     {
       "id": "google-blog-0bb5162dd11b68c148f5",
@@ -36,6 +36,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "block-investor-news-90b32a615a5f825637fc",
+      "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWE9ZTm1QY3l6alRsSUtlc1pLNnJudGVmNEM1WTZROUdubVlJXy1QRDllNVhLTUNtZVlBVHljU0JGdWRqVDNzS3hKT2lRRDBWNGVlUUVSNU9hTDhWUUM0c0Q1ZVVsTGtkamVpc0p6OHg0UG5IY2lXVkhwQ3M0bXd1ZUFVX1VPUXVJakkxWDR3QlQxbnVyTFRPQ1JoaEhsYXJyQlZjSXJYMEZlTmpUZkIwMnZNbjE0MDQ3LWl0WW8zWDJVSUR5dTM4a0NIdlNfVTJBbElieHE4S3NkRVVZaGNyMURYLWpSVV9zekVhN3REdHA3TlRwT3p6bVNkWmN4LTU5NFg3Z1pLLWpTMXR4TWhUNkxaVnA0bWFGSVE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-30T13:24:18+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-e3fa3dd00a5abb9d3855",
@@ -240,6 +252,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-e01b12db04913b664d4b",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Notre Dame Athletics Launch Landmark Multi-Year Partnership",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXc0elFHcmE4S05UQXdkUy1kOVZYQW5XeVJRVGZrSXRINUtxVHIxeWZOdG9fcFJ3NW1RVm5NQ2FqaHU1d0pfSm02cmZrSFUyMVdCeDdSN3dFVmc3bC00QWU2THNDaTM5WUtqYndPN19HaHZtaXNfclJYZnpoWGpnUEY0LVphUjduMlo0MU44WFJuVE9RREphS2xnZlBGQmxJbGRJTk4tSzJoaEM2TE1TSFpZTGwtZ2tLZFU2dlVybVpyc3FVei0zXzh1UQ?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-28T17:01:57+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-67d07f04e40c9051eb4b",
@@ -1010,18 +1034,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -1152,6 +1164,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-da9126c3a7644c6957bd",
@@ -1802,6 +1826,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
+      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "link": "https://pr.tsmc.com/english/news/3314",
+      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "publishedAt": "2026-05-15T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
       "title": "Chime to Participate in William Blair Growth Stock Conference",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-william-blair-growth-stock-conference",
@@ -1890,6 +1926,18 @@
       "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
       "link": "https://pr.tsmc.com/english/news/3308",
       "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7b041f3b81909f5a8181",
+      "title": "2026/05/08 TSMC April 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3305",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -2066,18 +2114,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-7c24989a81478598c50a",
-      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "link": "https://pr.tsmc.com/english/news/3302",
-      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "publishedAt": "2026-04-23T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-59cd39600e4f0f00bf42",
       "title": "Shift4 Announces Date of First Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/297/shift4-announces-date-of-first-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -2207,18 +2243,6 @@
       "sourceName": "Circle Pressroom",
       "company": "Circle",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-1c954ea37a9178a04211",
-      "title": "2026/04/10 TSMC March 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3294",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2354,18 +2378,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-2bdbcd290b41250e2d39",
       "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
       "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
@@ -2450,6 +2462,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2484,18 +2508,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-acfdbe1b8449d923e9af",
-      "title": "SoFi to Match $1,000 Federal Contribution to Investment Accounts for Employees’ Children",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZF9HSWxSeGVRbE90V3luN2thRm9vNkVzVUN2Z3lFdFJBejNfZmJtN2Vhbi1Ma0xYWjFmR0kzT2p5WVFxU0VSczhUY3FpQ0JCWExwcXdhUThrN3FueFlNQUdNNzllUG9MSjlNN25oRkVIV3VqWC1KS1NoQ2VhdVZSc3BzckZsWUU2bVZraERuaTZ2Z1NLbnFocGFrcXYzbExrWXBaTERac0VzdzM1UkhYSzgzWXJONVNyWTdBSHJmZUhZTjBZVUJoZ0RUS0VLQl9ldWhBX3pUOGNHbzRUY1pBODN3?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-14T08:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "toast-product-news-9e5e095cb7855f19948c",
@@ -2606,18 +2618,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2698,18 +2698,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-2c71c1b75783b9631d72",
-      "title": "Other All Industries Marqeta at Money20/20: Looking back at Las Vegas 2025 Article",
-      "link": "https://www.marqeta.com/blog/money-2020",
-      "summary": "Marqeta's Money20/20 Las Vegas 2025 recap: Wakuda meetings, Boyz II Men panel, CHICA party highlights & how payment innovation meets reliability.",
-      "publishedAt": "2025-11-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2810,18 +2798,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-4fd23c197c976a0b4303",
-      "title": "Issuing/processing Financial Services Card program clearing and settlement: How issuer processors manage the flow of funds after authorization Article",
-      "link": "https://www.marqeta.com/blog/card-program-clearing-and-settlement-how-issuer-processors-manage-fund-flow",
-      "summary": "Master clearing & settlement with Marqeta. Learn the differences, optimize processes, and ensure smooth, compliant transactions for card program issuers.",
-      "publishedAt": "2025-10-01T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dave-press-9ad6aca2c340df637c4b",
       "title": "View announcement",
       "link": "https://staging.dave.com/press/news-releases/news-release-details/dave-reports-third-quarter-2025-financial-results",
@@ -2880,6 +2856,30 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6418a3b40706bf8c2c78",
+      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
+      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
+      "publishedAt": "2025-09-11T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2887,19 +2887,19 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "category": "Fintech Blogs",
-      "kind": "rss",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 13,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 5,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "marqeta-blog",
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 8,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
@@ -2986,10 +2986,10 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 8,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "upstart-press",
@@ -3013,10 +3013,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "dave-press",
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 3,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 4,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "chime-newsroom",
@@ -3085,10 +3085,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "html",
-      "ok": false,
-      "itemCount": 0,
-      "message": "official_google_news: HTTP Error 503: Service Unavailable"
+      "kind": "google_news",
+      "ok": true,
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "trade-desk-press-room",
