@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T20:40:21.708102+00:00",
+  "generatedAt": "2026-07-31T22:19:48.036122+00:00",
   "articles": [
     {
       "id": "about-amazon-ccaedd782979f8ed5894",
@@ -768,6 +768,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "toast-product-news-ca16ed760760faf509b0",
+      "title": "Toast News and Press Releases",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZ3U0TFZobzY2aEJPRld3U2xLeW1mcmJqWlN6NE8wUExYS2poZ1VScExkNXJqbUxJejAyZldLOHJOR0tORnlzaS1QZlZ0X0prMUZyQnQ1dw?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-23T14:08:31+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-14df939f0a033bcc512f",
@@ -2258,18 +2270,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2898,7 +2898,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 18,
+      "itemCount": 17,
       "message": "OK via official fallback RSS"
     },
     {
