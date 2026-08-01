@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T13:57:51.480583+00:00",
+  "generatedAt": "2026-08-01T15:22:29.470302+00:00",
   "articles": [
     {
       "id": "about-amazon-ccaedd782979f8ed5894",
@@ -74,6 +74,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-24d0e1c2b7ecbe195d75",
+      "title": "Coinbase Q2 Earnings: Everything Exchange Drives 3rd Consecutive Quarter of Record Crypto Trading Volume Market Share, Revenue Diversification, and Resilience",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNVzJiMk16ajFsaHhFU2gyV0dFMENGcHA3TGRJLXZtZUhaNzRVUWtYMUJnd3NkR3dKVnB6OC1TenFCTlBvbFdQVkZxRDFOS1VHM1NkRVVQTFkyN3B0Qjd0cnJSSHotamkzdEZhWWVNU3N6VmZKaVpUS3c2d1puU245TFI5M0oxWU41TGQ0bm9jYVZYWkdoS2ZjMTh0U3V1bDIyMnUtQkRjVmVHckdUaVVfenpvVFZ0cVFWQk44SXVCbUtfZm5zLVJXLWplb0xjQ3kxakVzdUF1S3ZlbGRYZDkxaHJSVGF5WnF0bkFDWEVMTVNmSWozaXhOSXI2Y200YVF1dXNQY0lyNnZib0Y0bTNic29Ybw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-31T06:59:59+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "about-amazon-7de2f918ab31eaad0604",
       "title": "Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers",
       "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-aws-revenue-growth-q2-2026-earnings?utm_source=rss",
@@ -120,18 +132,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-24d0e1c2b7ecbe195d75",
-      "title": "Coinbase Q2 Earnings: Everything Exchange Drives 3rd Consecutive Quarter of Record Crypto Trading Volume Market Share, Revenue Diversification, and Resilience",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNVzJiMk16ajFsaHhFU2gyV0dFMENGcHA3TGRJLXZtZUhaNzRVUWtYMUJnd3NkR3dKVnB6OC1TenFCTlBvbFdQVkZxRDFOS1VHM1NkRVVQTFkyN3B0Qjd0cnJSSHotamkzdEZhWWVNU3N6VmZKaVpUS3c2d1puU245TFI5M0oxWU41TGQ0bm9jYVZYWkdoS2ZjMTh0U3V1bDIyMnUtQkRjVmVHckdUaVVfenpvVFZ0cVFWQk44SXVCbUtfZm5zLVJXLWplb0xjQ3kxakVzdUF1S3ZlbGRYZDkxaHJSVGF5WnF0bkFDWEVMTVNmSWozaXhOSXI2Y200YVF1dXNQY0lyNnZib0Y0bTNic29Ybw?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-30T20:17:58+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-5a01c69735c087a19c57",
@@ -1070,6 +1070,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-df18b3c8ff133cf2d9da",
+      "title": "TSMC Reports Second Quarter EPS of NT$27.25|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zcklOeFlyOThxTGM2S1p6UTBOSDl5TG5SLVBGSmpiaHVuT1pZS2gwOWZJZlpJUFpjcTZ0V3NWR0tNT0FUMmJ1S28tOC1qQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -1178,6 +1190,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-587aff7bf4159253d90f",
+      "title": "TSMC June 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVzNqUmZZcWF1RTZwZEdCdW5IcjdLRU1oRGZnbjRiaW9NOFVTQzNNdW5xQWVabWhFLTZlMGc0bUt1LTI1VFB6RXBuRUtSdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "marqeta-blog-5be6ad160600f107b941",
       "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
       "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
@@ -1212,6 +1236,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1850,18 +1886,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-734c29856225bc355ec5",
-      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "link": "https://pr.tsmc.com/english/news/3308",
-      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-a5454d306bd930dc2141",
       "title": "Shift4 Announces First Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/300/shift4-announces-first-quarter-2026-results",
@@ -2150,18 +2174,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-1c954ea37a9178a04211",
-      "title": "2026/04/10 TSMC March 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3294",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-61cced29889cce21c97f",
       "title": "Circle Launches CPN Managed Payments, a Full-Stack Platform for Seamless Stablecoin Settlement",
       "link": "https://www.circle.com/pressroom/circle-launches-cpn-managed-payments-a-full-stack-platform-for-seamless-stablecoin-settlement",
@@ -2234,6 +2246,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2246,6 +2270,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2254,18 +2290,6 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2338,6 +2362,18 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2483,18 +2519,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2678,6 +2702,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-4fd23c197c976a0b4303",
+      "title": "Issuing/processing Financial Services Card program clearing and settlement: How issuer processors manage the flow of funds after authorization Article",
+      "link": "https://www.marqeta.com/blog/card-program-clearing-and-settlement-how-issuer-processors-manage-fund-flow",
+      "summary": "Master clearing & settlement with Marqeta. Learn the differences, optimize processes, and ensure smooth, compliant transactions for card program issuers.",
+      "publishedAt": "2025-10-01T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dave-press-9ad6aca2c340df637c4b",
       "title": "View announcement",
       "link": "https://staging.dave.com/press/news-releases/news-release-details/dave-reports-third-quarter-2025-financial-results",
@@ -2839,42 +2875,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c22901d5296e709477b9",
-      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 13,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
