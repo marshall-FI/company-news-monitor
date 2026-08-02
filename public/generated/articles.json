@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T23:14:19.354952+00:00",
+  "generatedAt": "2026-08-02T00:16:31.346003+00:00",
   "articles": [
     {
       "id": "about-amazon-ccaedd782979f8ed5894",
@@ -1166,6 +1166,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-2e80730fc65202f389b2",
       "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
@@ -1514,18 +1526,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
-      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
-      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
-      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
-      "publishedAt": "2026-06-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-2f2a05d834f97cbab642",
       "title": "Europe's Investment Gap: Why Investors Are Turning to New Technologies to Access Markets",
       "link": "https://robinhood.com/us/en/newsroom/europe-investment-gap-why-investors-are-turning-to-new-technologies-to-access-markets",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
-      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not",
+      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not - galileo-ft.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW5CTklPRHFtTVlIajVQNXNPMmZpRW1lSW5RZXUzYml3dm01Q282X0xWZFdRVlNubGpJU2lSZWNBcDV1ZXlkMFAzOV9JVm5pOHVxOHNSeEVzQl9ERXd3ZU42THAtX2wyYTdUd0k4OVQ2dWVraXpadGNzS01uVjEtMnhIX2dNc1RTTzRna3RzcjQzRFY5azZRcUctSzJ5WV9hRklQaQ?oc=5",
       "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-05-19T07:00:00+00:00",
@@ -1788,18 +1788,6 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
-      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "link": "https://pr.tsmc.com/english/news/3314",
-      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "publishedAt": "2026-05-15T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
@@ -2234,18 +2222,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-1c954ea37a9178a04211",
-      "title": "2026/04/10 TSMC March 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3294",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-61cced29889cce21c97f",
       "title": "Circle Launches CPN Managed Payments, a Full-Stack Platform for Seamless Stablecoin Settlement",
       "link": "https://www.circle.com/pressroom/circle-launches-cpn-managed-payments-a-full-stack-platform-for-seamless-stablecoin-settlement",
@@ -2318,18 +2294,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-1fc919b6cdd114307e6a",
-      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
-      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
-      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2350,6 +2314,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
+      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
+      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
+      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2391,7 +2367,7 @@
     },
     {
       "id": "galileo-blog-298b228e610709a2d639",
-      "title": "Sustainable Scaling: Why Modularity Makes Sense for LatAm Banks in 2026",
+      "title": "Sustainable Scaling: Why Modularity Makes Sense for LatAm Banks in 2026 - galileo-ft.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelV5SWxmc3ExR2ozbWVOX29MYVFlOF8zdS1Ja3hkS0w3MWdrRXQyT0NzM0VCWm9BSG43TURxNEYzTTBLWXJ0eFRoYzFWYVFjNF9tWkJkMFI4WkdEc2xZdDVvanZPenNDTGRkbDBndEl6X0xEMF9fb3VFMjJpSDBfMUhYZFk3SjI5WFZxdzN4M2xDUTNsWWU5ekxERQ?oc=5",
       "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-02-03T08:00:00+00:00",
@@ -2582,6 +2558,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2650,18 +2638,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-2c71c1b75783b9631d72",
-      "title": "Other All Industries Marqeta at Money20/20: Looking back at Las Vegas 2025 Article",
-      "link": "https://www.marqeta.com/blog/money-2020",
-      "summary": "Marqeta's Money20/20 Las Vegas 2025 recap: Wakuda meetings, Boyz II Men panel, CHICA party highlights & how payment innovation meets reliability.",
-      "publishedAt": "2025-11-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2880,6 +2856,30 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-84e40cb7c0acc4433863",
+      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
+      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
+      "publishedAt": "2025-08-12T11:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
