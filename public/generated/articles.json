@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:57:37.130542+00:00",
+  "generatedAt": "2026-08-02T15:22:43.735025+00:00",
   "articles": [
     {
       "id": "about-amazon-ccaedd782979f8ed5894",
@@ -1178,6 +1178,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1476,18 +1488,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
-      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
-      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
-      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
-      "publishedAt": "2026-06-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-2f2a05d834f97cbab642",
@@ -2426,18 +2426,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-52552d4e8f0e51afa3e2",
-      "title": "Issuing/processing All Industries Black Friday 2025: What peak performance actually requires Article",
-      "link": "https://www.marqeta.com/blog/black-friday-2025-marqeta-platform-performance",
-      "summary": "Black Friday 2025 set records with 202.9M shoppers. See how Marqeta's platform handled peak volume with 99.999% uptime and sub-200ms response times.",
-      "publishedAt": "2025-12-19T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-723efe929590bb13d10c",
       "title": "State of Crypto Q4 2025: Younger investors are rewriting the investing playbook",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNUTlCRHYwem03dy1DTk0wYmxuNjNjdVNLZnBuMElYOFAyQW82SzZaOUJLamhxdjkzNkpUUVgwTVhRUEx2NWszSjBpYm9rR1VRV3NzbTROdGF6YWlXdVhXRWdRMA?oc=5",
@@ -2880,6 +2868,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
