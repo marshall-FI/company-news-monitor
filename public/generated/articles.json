@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-03T07:49:21.172083+00:00",
+  "generatedAt": "2026-08-03T11:46:44.714686+00:00",
   "articles": [
+    {
+      "id": "about-amazon-e9ee6ea68a3ce82f7801",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "publishedAt": "2026-08-03T08:16:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-ccaedd782979f8ed5894",
       "title": "How Amazon became one of the world’s top chip companies in a decade",
@@ -610,18 +622,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-4195f0369ed8adaafbfe",
-      "title": "How Amazon Leo plans to connect mobile devices from space",
-      "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-direct-to-device-satellite-service-explained?utm_source=rss",
-      "summary": "Amazon Leo has filed with the FCC to deploy up to 5,105 new satellites designed to use Globalstar’s spectrum to bring voice, data, messaging, and emergency services directly to mobile devices.",
-      "publishedAt": "2026-07-27T12:48:56+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -2198,18 +2198,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-1fc919b6cdd114307e6a",
-      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
-      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
-      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2250,18 +2238,6 @@
       "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
       "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
       "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2338,18 +2314,6 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
-      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
-      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
-      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2878,6 +2842,42 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-cb14def83d56d17b84d2",
+      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-732353b06b981481ab01",
+      "title": "Toast Tees Up New Technology Platform for Topgolf",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemYyY0ZaeHE5anZnWFVpdFhhdnB4YkdlZ3JzZ1ZVbm55M0pGcjY4MjlfNTVCenk2aXZ0VEpHTDN0LXpNdnlxcnJaLTlkcEgyTGphejRLYVBGc3YyMWdKNEE4Y0x2emIxRFNHdHByQVVkU3RyX2xWSVpIZ2FEbVY5WmQ5QTFqdw?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-08T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
