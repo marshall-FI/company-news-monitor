@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T20:43:13.168251+00:00",
+  "generatedAt": "2026-08-05T22:23:33.112581+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-7ae9aa806dedd71377b1",
@@ -50,6 +50,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-a560fcdf1a7b8dc113ba",
+      "title": "Q2 2026 Solana Validator Performance Report",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JZG9RUjQxSE56Q2VlSk0zQkRmZEhVRFFLdDhGMnpBZy1zSk9RVW8xRFJ4NEFMZlFNVnBXYkhMS2htQWYybVVRYVlyOGZ4WVhrNHVZU1pZbVFCUGNPTDRfc0ZPSjI2eERLVFNWWF85b3ZYR1h4SXJvMlJxYWZfdw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-05T16:03:08+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "google-blog-543b898b1d1b7d82a181",
       "title": "The next chapter of our AI momentum",
       "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
@@ -86,18 +98,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-a560fcdf1a7b8dc113ba",
-      "title": "Q2 2026 Solana Validator Performance Report",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JZG9RUjQxSE56Q2VlSk0zQkRmZEhVRFFLdDhGMnpBZy1zSk9RVW8xRFJ4NEFMZlFNVnBXYkhMS2htQWYybVVRYVlyOGZ4WVhrNHVZU1pZbVFCUGNPTDRfc0ZPSjI2eERLVFNWWF85b3ZYR1h4SXJvMlJxYWZfdw?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-05T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "circle-pressroom-682fc0f0a032d29d0c55",
       "title": "Circle Reports Second Quarter 2026 Results Circle Internet Group, Inc. (NYSE: CRCL) today announced results for the second quarter of fiscal year 2026.",
       "link": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
@@ -132,6 +132,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-683c4c816edda41d5aa0",
+      "title": "Consumer Protection Tuesday: How Coinbase Detects and Disrupts Sophisticated Hiring Threats",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFdwbE95eUMtX0NROEdOOG4yZW0zQkdjS2hUMHZKekpKb2x6SFdxVjdNa2Y3cTlUa1BVaFZubFpUaC11aXhUUmswR2NWY1RubHpSWnYwN3ZzN3ZnXzVsN2xqN19rLVE3RW9iQ3JObjZGRm1RNzN1NUFUalU2bGx4WWJjQV9MRHM3MkdzaEhIZ1RjNFJjakdxY0d6WVI3NUs5aGlHZ0FpcEpaYnJZMWtqalZIdmVoRjVHN296OA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-04T16:23:25+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-1ef3c04752a8642d9af5",
@@ -310,18 +322,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-734bfda51cb56285b144",
-      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
-      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
-      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -698,18 +698,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-e01b12db04913b664d4b",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Notre Dame Athletics Launch Landmark Multi-Year Partnership",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXc0elFHcmE4S05UQXdkUy1kOVZYQW5XeVJRVGZrSXRINUtxVHIxeWZOdG9fcFJ3NW1RVm5NQ2FqaHU1d0pfSm02cmZrSFUyMVdCeDdSN3dFVmc3bC00QWU2THNDaTM5WUtqYndPN19HaHZtaXNfclJYZnpoWGpnUEY0LVphUjduMlo0MU44WFJuVE9RREphS2xnZlBGQmxJbGRJTk4tSzJoaEM2TE1TSFpZTGwtZ2tLZFU2dlVybVpyc3FVei0zXzh1UQ?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-28T17:01:57+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "amazon-press-archive-67d07f04e40c9051eb4b",
       "title": "Discover top deals with AI-powered shopping this Great Freedom Sale on Amazon.in starting 7th August 2026",
       "link": "https://press.aboutamazon.com/in/2026/7/discover-top-deals-with-ai-powered-shopping-this-great-freedom-sale-on-amazon-in-starting-7th-august-2026",
@@ -828,6 +816,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-e01b12db04913b664d4b",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Notre Dame Athletics Launch Landmark Multi-Year Partnership",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXc0elFHcmE4S05UQXdkUy1kOVZYQW5XeVJRVGZrSXRINUtxVHIxeWZOdG9fcFJ3NW1RVm5NQ2FqaHU1d0pfSm02cmZrSFUyMVdCeDdSN3dFVmc3bC00QWU2THNDaTM5WUtqYndPN19HaHZtaXNfclJYZnpoWGpnUEY0LVphUjduMlo0MU44WFJuVE9RREphS2xnZlBGQmxJbGRJTk4tSzJoaEM2TE1TSFpZTGwtZ2tLZFU2dlVybVpyc3FVei0zXzh1UQ?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-28T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "klarna-press-ae4d4851388ccd546dbe",
@@ -1056,18 +1056,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-982e0c53dd3a6de625f0",
@@ -1344,6 +1332,18 @@
       "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-da9126c3a7644c6957bd",
@@ -1644,18 +1644,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
-      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
-      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
-      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
-      "publishedAt": "2026-06-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-2f2a05d834f97cbab642",
@@ -2294,18 +2282,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-1fc919b6cdd114307e6a",
-      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
-      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
-      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2346,18 +2322,6 @@
       "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
       "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
       "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2875,6 +2839,42 @@
       "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
       "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
       "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-2226f61adf7d292adf5a",
+      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-21T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-c22901d5296e709477b9",
+      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-20T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
