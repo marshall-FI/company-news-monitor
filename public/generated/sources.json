@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:56:14.151864+00:00",
+  "generatedAt": "2026-08-05T18:54:11.856101+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -239,10 +239,10 @@
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "category": "Big Tech Blogs",
-      "kind": "rss",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 17,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "tsmc-news",
