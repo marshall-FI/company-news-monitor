@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-08-05T18:54:11.856101+00:00",
+  "generatedAt": "2026-08-05T20:43:13.168251+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-7ae9aa806dedd71377b1",
+      "title": "Amazon Celebrates 5-Year Milestone at Its Largest Field Operation",
+      "link": "https://press.aboutamazon.com/2026/8/amazon-celebrates-5-year-milestone-at-its-largest-field-operation",
+      "summary": "Amazon today marked five years of operations at its 600-acre Amazon Air Hub, the company's largest field operation in the world. Since launching on August 5, 2021, the hub has created more than 4,000 local jobs, processed more than 1.5 billion packages, and operated more than three dozen daily…",
+      "publishedAt": "2026-08-05T20:24:59.427000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "chime-newsroom-62345efc8589b0a0f1c1",
+      "title": "Chime Reports Second Quarter 2026 Financial Results",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-reports-second-quarter-2026-financial-results",
+      "summary": "27% year-over-year revenue growth exceeds guidance Chime Prime™ launch fuels accelerating growth in Active Members, Purchase Volume, and ARPAM Achieves second consecutive quarter of GAAP profitability and raises full-year outlook SAN FRANCISCO --(BUSINESS WIRE)--Aug.",
+      "publishedAt": "2026-08-05T20:05:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "datadog-investor-news-9034e34e20624bd514a9",
+      "title": "Datadog to Present at Upcoming Investor Conferences",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-present-upcoming-investor-conferences-18",
+      "summary": "NEW YORK, Aug. 05, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ:DDOG), the leading AI-powered observability and security platform, today announced that management will present at the following investor conferences: Canaccord Genuity’s 46th Annual Growth Conference.",
+      "publishedAt": "2026-08-05T20:05:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-674996c75e34a9de4f2f",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "publishedAt": "2026-08-05T20:00:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-543b898b1d1b7d82a181",
       "title": "The next chapter of our AI momentum",
@@ -122,6 +170,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "about-amazon-3c1cefe3cc447164f589",
+      "title": "How Amazon is helping communities impacted by southwest France wildfires",
+      "link": "https://www.aboutamazon.com/news/community/amazon-europe-wildfires-response?utm_source=rss",
+      "summary": "We are donating and delivering emergency supplies to communities impacted by the Gironde wildfires.",
+      "publishedAt": "2026-08-04T13:18:37+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "nvidia-newsroom-48933e8195256da421c8",
       "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
       "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
@@ -142,6 +202,18 @@
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-d8bd7498542333ea9112",
+      "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
+      "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
+      "summary": "Amazon is working with the American Red Cross, Save the Children, and local nonprofits to support thousands of people in Spokane County who can’t go home.",
+      "publishedAt": "2026-08-03T22:43:40+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -218,6 +290,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "about-amazon-e9ee6ea68a3ce82f7801",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "publishedAt": "2026-08-03T08:16:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "robinhood-blog-4076bf9cb49cffd284ec",
       "title": "Introducing Robinhood Ventures Fund II (RVII)",
       "link": "https://robinhood.com/us/en/newsroom/introducing-rvii",
@@ -242,28 +326,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-73581b11e952819f267c",
+      "id": "about-amazon-ccaedd782979f8ed5894",
       "title": "How Amazon became one of the world’s top chip companies in a decade",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTTMtVXpHbmZ6ZnFKeWhnYUM3eVM2eGtpTmFrU293cGUtV09yNGNPU2RnczYyMXI1c1I4aktfU1pTRURWTGRNVk1CdUQ2RzhFT1NPN21QQWJ5b3lXamE1T09weF94ejAycXN0TzZyLWp2YUpDRUxiYQ?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-31T20:07:13+00:00",
+      "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history?utm_source=rss",
+      "summary": "Amazon’s custom silicon business exceeded a $25 billion annual revenue run rate—here’s what that means for customers and the future of AI.",
+      "publishedAt": "2026-07-31T19:55:28+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-1fd702c2427dc1beec3f",
-      "title": "How Amazon is investing in the US",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOalNtSWV5andKeGlMQy10WDNWeVlLdDdpYk5fV2NMVnNFUk84RDJaMENjV08wX2R5N0JTek1rdG1uZm1WMnlGeHlOMlluNUpWbktGMTZOaDk5MXFVaHR4Vm9OcVE3aUhhZE9XVFJFZUVET1N2b0JoVm9mZGRBR0RjOVRHUUE1ZnNkNUNWaVlETFhhV3VkV0dtRThfb2JwLWtzR1B4QnhrblpELWxtOHZ4UDdsV2UzRFVUaGNTMVdVZFhVT080d19SbFJkb3RvaXFUdk1LWmlfNnNOS0J6UTRQU3d1SWVtVU1iOWZUd1pVTQ?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-31T19:04:23+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
     },
     {
       "id": "google-blog-5566bf3bec361e2fa7ac",
@@ -286,6 +358,18 @@
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-5ec7855cf02b31b18c3b",
+      "title": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports",
+      "link": "https://www.aboutamazon.com/news/entertainment/prime-video-august-movies-shows-music-sports-2026?utm_source=rss",
+      "summary": "Prime Video’s August lineup also features a series with Bear Grylls and a Novak Djokovic documentary.",
+      "publishedAt": "2026-07-31T13:00:17+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -314,52 +398,40 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-fbe179edc5ffc9f38f21",
-      "title": "Q2 Earnings: Andy Jassy on Amazon Stores growth, delivery speed, and AI shopping",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3RkVTZ3QWl3QzZMSGdsdmp2ZGpiX1FjMElOUnViUmVOUXFnbzhYODEzNF94MnZLOGlaeEt5UVVtdE5LSzBrU1pLVEkxUEQxVll4Z1pIcXBhbmNjSDhWWEpZbEczWk9MY3lYSjFjVkJVQVJLaHVkb1laaGJ1cWNTTDZ0a1QwbTdSeGszaURKYmtjbWpYRWVsVjBYdFJsM2theFlEUmFaNE9VUWs2eWY0?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-31T00:42:10+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-c982a54aaac159fc1fe9",
-      "title": "Q2 Earnings: Andy Jassy on what's driving Amazon Ads growth",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHhqUkpST3dWa0hQZk5zRHBJMHJEOFNTYy1HMDN5VFVaa1hiSjFOWVdiajNhcDNBcnpPTU05RlVjdzBaNVotMldFV3FNc3NXcEJMSmNZT2xOQWZVSDhjWXg4UHdEak00Zlk3Nk5oZVJHN1VaVHFiMlNXbzZ6anpMMXFNMF9NM3ZBbml4S2NUMXRPdjBOcGZ3LTdGeG1HX0ljUnlPVA?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-31T00:42:10+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-1cb328c815fca29be46e",
+      "id": "about-amazon-7de2f918ab31eaad0604",
       "title": "Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTVGLThGNktqWXFGVUhUanRuUE1XYTd4bk5DWHludWFyU2RNWnBjd0ZJTlpYd0VOTjVrZnFhWU1xcElQV0ttNnNvTnM2b05Bdk5HWGg5ZmpEM210bEpVbGtiUE5UckxQYUJ0SGRtTUMzcTlweVpHSlB0bUNLVnBSNFFfbGFRQmhXZkxwLXpwX05KSW9rQ01RNXU1VndxWm53LVdXb1Vn?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-31T00:37:12+00:00",
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-aws-revenue-growth-q2-2026-earnings?utm_source=rss",
+      "summary": "AWS revenue growth accelerated to 36.7% year over year—the fastest in 18 quarters—with AI and core services driving each other's growth.",
+      "publishedAt": "2026-07-31T00:22:36+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-80e9c666a413a227ebc9",
-      "title": "Amazon.com Announces Second Quarter Results",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZExYaC1BN1dHSmNVeXVxYjdmTVB1Mk9zQTkta2hBZUJKc2FuTWhmNmdPRngzcFF3MUtNc1U4ODBEc2wxYmVoVWZIemI1c1E1elh5OGs2N2RhUHZzdnN6S3RNUDlsYmZSQWpsdWgtSlVrRm9xWkVsZ2RhQ3pxbjRWeGdqMlJmM1g3WUZacmU5U0xVSkdpQklvRHdyU1JwWkhySEN0NW0xOWdabFZ5eFRn?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-30T20:04:12+00:00",
+      "id": "about-amazon-aa7f95db2992ee97e864",
+      "title": "Q2 Earnings: Andy Jassy on what's driving Amazon Ads growth",
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-amazon-ads-growth-q2-2026-earnings?utm_source=rss",
+      "summary": "Amazon Ads generated $19.8 billion of revenue in Q2, up 26% year over year, powered by AI tools, conversational shopping, and multi-sport streaming strategies.",
+      "publishedAt": "2026-07-31T00:21:07+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-c18722059b2b2350d8ac",
+      "title": "Q2 Earnings: Andy Jassy on Amazon Stores growth, delivery speed, and AI shopping",
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-stores-growth-ai-shopping-q2-2026-earnings?utm_source=rss",
+      "summary": "Amazon CEO Andy Jassy on how the Stores team is expanding selection, delivering at record speeds, growing Grocery and Pharmacy, and using AI to make shopping even easier.",
+      "publishedAt": "2026-07-31T00:20:31+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "google-blog-5a01c69735c087a19c57",
@@ -372,18 +444,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-2bf683165efd92411e0d",
-      "title": "How Kindle helps you stay immersed in every book you read",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDRBMWlDWTktYVBlNlEzbzBEMXZ1dTN0VXRWVlU5UjcwVlR3WWtIMUc3X2RSckJSNVB3T1FKNVRxbUNUVkc1VFFpQVYtVUlkX3gxT0t6cFZmemg1eEg2alJ0X05EVHdNaHRxZm9ua0dVZlN6dGx3QmJnRWpKQzBnRVVNUUZDVGRwNE5FWnl2MXlpT1Z1RkFDNWlMendJYXJKNTVEWXFYcm04Mm1ZejNKRUwtbGUtY1VfSzV1S3FvX1J0aS10QmxhcF9rcU1uTVpOMjBGSXpVb2I?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-30T18:21:47+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-0bb5162dd11b68c148f5",
@@ -406,6 +466,18 @@
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-9c11e680d21854314f78",
+      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+      "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+      "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+      "publishedAt": "2026-07-30T15:00:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -552,18 +624,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-d0bf01cd133a18b6c177",
-      "title": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3UxRnQyQ2RPZmZubFZVSEVZWkNabXlwNUZDbHFObjROMTdkTDc4TGJpV0VvaDE0Vmx3LWNlanlCbHQyOVZ4eVNnbUg3dGxlWHVlbnBNUjlUU2hjQXgxM216dVZPRUZiTlFleWd0Y3FHbWRwZ1Y4YWNTVk9LclhSTVRzdFNoRHRoYWJPZks4MHg3Y1c3NV9RaGc5ZkxQXzhPVFdoaw?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-29T12:50:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-0194b791576ca9bad557",
@@ -770,6 +830,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "klarna-press-ae4d4851388ccd546dbe",
+      "title": "Klarna to power Apple Upgrade, a new hardware leasing program offered by Apple",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlJHSFU0cVAzYXN2ZjVQNzhVNGp2OGNSS0tHMHdSWGMzc1VQWDYtZ2YwUm5lbWJHeTZxQnl2YjRLaEN1SjFIcnNMTFpUclJNQ05VQXNyQ21veGRzY1Zudi1pMjM1ZFJiMk5MZGd3cWZQTnF3NjJWazlKdnhJNDBBeEl1dWZJejZRbFBqYXFJSXZmZEh2SmhIanpRLTVUaUJBalJoZFEtWWRGOC1JRHVZMnZueks0eGxpcnBZd0tB?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-28T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "amazon-press-archive-cbb79f19d1219f399816",
       "title": "Ryanair and AWS Extend Agreement for Another 5 Years",
       "link": "https://press.aboutamazon.com/aws/2026/7/ryanair-and-aws-extend-agreement-for-another-5-years",
@@ -828,30 +900,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-511446f4c06c1ab36a08",
-      "title": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHpfdU1NcWZzcWxQVi1ZMjI5ZVJVSHZETy1ORVVIZ2JESHN2N0dXb1lYbmpySy12RXcyYm9Ydlp5VVBHdzFMWll6VzJna0lXUTAwQ2xHWFdDb3NmemYxWnBhOVgwVWxfb1dZV0hQXzBqMFc3T0FJS1l4d2wtUFUtSzU5anhQcDZTdldNX3hHamdiT1hWMUZHQ0FKLUY?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-27T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-5aa6ccbd1987995c21ef",
-      "title": "How Amazon Leo plans to connect mobile devices from space",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajdxUy1zYmtPMHN6ZU5UQVlIc0VZckkwdU4ySVVFakY0QUItTmdCeFRESmxXejVCdzJwbGpKSEtLRGpTQmtmUVNkN19vOVkzcXg2eUY5emNweVg3SWpOZVVIOWo5TDFRcmxTdUZJVWhPSzUycTdOTFdNMjlyRnRGRlVqYzVwd09LRUt1ZWpVZzEzRFJxMENOWVdfNEVRckl6?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-27T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-6c204c425234342b8e0f",
@@ -1010,6 +1058,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-982e0c53dd3a6de625f0",
       "title": "WellSpan Completes Comprehensive Migration of Technology Portfolio to AWS",
       "link": "https://press.aboutamazon.com/aws/2026/7/wellspan-completes-comprehensive-migration-of-technology-portfolio-to-aws",
@@ -1020,6 +1080,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "klarna-press-f223963852fbaed778bb",
+      "title": "Klarna gets physical with lululemon, launching in-store in the UK & Germany",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNE5aRldHTngtWjY0N2l3UGZqZm5OYXg5SjhIdFNXN1lVMjFQOFM5eDJsNXZObjhjYnNrNnVVM0hQX0JoR0x0TVJyQWN0M0tjaFVKUlRxa0hrM1B4c1BDbmdmNERuV2dSTEc2ZWN1b2hEY1lmU0pFb3ZkWTVUcC03X1RVSDRxdkJxX3ZEUlJOejlGeG1vaXM0UDlTRzlnSzlfSC15cFU2bWJKLTQ3QlZYWFp0cUt3ellBVkhwbg?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-22T13:53:33+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-47d7f4d2b03bdbe591d9",
@@ -1070,16 +1142,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-0e69e84c5493c3fef917",
-      "title": "Le PMI italiane su Amazon generano oltre 4 miliardi di euro di vendite nel 2025: a trainare le performance è il Sud Italia",
-      "link": "https://press.aboutamazon.com/it/notizie/piccole-e-medie-imprese/2026/7/pmi-italiane-amazon-vendite",
-      "summary": "Milano, 22 luglio 2026 - Le piccole e medie imprese italiane che vendono attraverso Amazon confermano il proprio ruolo di protagoniste dell'economia digitale nazionale. Secondo l’ultimo Report sull’impatto delle PMI, nel 2025 i partner di vendita terzi italiani hanno raggiunto oltre 4 miliardi di…",
-      "publishedAt": "2026-07-22T08:22:16.350000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "id": "klarna-press-32be215e50b6ff0c0208",
+      "title": "More choice and familiar convenience: Kleinanzeigen integrates Klarna Pay in full",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkNicU1WQ0RGVURTQnE4cXMxUUlQbEY2UVg2NjVRaEIwMGJwdWtQX1VmMVRxTGJfWWVrYjN0dXFhYUh0N2JvWGctZkZLTVZidkJzbEVHVkxmdVNPakVob0kzOUFKT2p3cjNpcmRQd1NwU3dubXJSNGxIUGZyTFZuS1lxRWpQeHByRjkwU1hWZ2pPeGpWYmZvUm5DbDJjWGZFZFFhRk8zNVBleWJabm1NNlZnU3BuZFB6UnBVbmhsOEpVUQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-22T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
@@ -1142,18 +1214,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-51af4828732a073a1b5e",
-      "title": "Amazon.com to Webcast Second Quarter 2026 Financial Results Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYVJTeHpiaVlVZldBVWdJeHd6OWVvY3UzcUthQUxETlhtUDJKckRnUkZiVTluSlg0ZVdWVHNTSm85YmI2SFV2YllGTmYxUXFyQnMtd0g1Q2g3X1pFS1VoOWJwRlpTQjlRcGg1TDI5RTJjSzNkY3JJVE5iZDJubG5UdzB1T1Q5aHpOSnlVSnM3RzBPQUtUMk55TnE5OEFDWWJ4VUJqYzk1dHhDdGtqRDIzazRpem5FdlpDb240TUdtc3U3d2MzUGx6UkItTHk2dHdleHU4QW83djVYVzZqSThJSHNDYlZUN255S3c?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "tsmc-news-df18b3c8ff133cf2d9da",
       "title": "TSMC Reports Second Quarter EPS of NT$27.25|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zcklOeFlyOThxTGM2S1p6UTBOSDl5TG5SLVBGSmpiaHVuT1pZS2gwOWZJZlpJUFpjcTZ0V3NWR0tNT0FUMmJ1S28tOC1qQQ?oc=5",
@@ -1214,15 +1274,15 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-2cf58db1de4e8825751b",
-      "title": "Amazon Leo to power satellite internet for South Africa’s largest internet provider",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODhkcm1MSFNweEtoa3V5OVZVcDl1dzdEbjlMT2U2S1ZDMkdEVFRZeGlna2dfaXo4S3piSDhVNXNiRTcyWFQyTk43QU1ZVUZWaFJLWHNObkpWMEpaaVNfcFF4SEJCT240V3hQVm5rS2pMOXZCSTVtMkNqdXgwRWtkVi00UzE0WmM?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
+      "id": "klarna-press-b88db558c36e3718a05b",
+      "title": "New regulation set to strengthen consumer trust in BNPL, survey shows",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnZ6MVliemQtX0EwNTJfX0ppZzd2Q2djVDlTS1JQSllDLXVRZGNOUXhPLUJOWHE3djh2STk4a1RhWUp0eFY5WnBrZTRSU2ZyRFVuQ3lmd045UkNXaDJBRHFONUUteHl0WW96S20zbDZoOGk4cFBEdjJFTHJmN0pvOHpCbTQ3b0MxaUhxVDkyZGVGdVBoS3ZkdUdhc2x4ZENxNThIdnVHSi1xN2poQ0ZYUWNB?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-07-15T07:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1236,6 +1296,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-7cb76675f5cbf0cd4ea3",
+      "title": "Klarna sinks its teeth into dental care with Curve Dental®, bringing flexible payments to practices nationwide",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkV0WjU5aTBvamVoN3VZTWZzMkRKbE9rYzFaX2x5eHE4bzhoSzM3RUtQckFjZ0k4akoyT29rOHRPSU1Hdm9xSnBackhFS2pfV1JRbGh3S3BBbTlZMGQ4LWRTYzRhV2gtTGsxYnZleXRvNnhxX2pvWTRzcy1ZSU9XTGpjTWdQV1otQWpVa25TVXZwOGhtT0sxQ3NfV2hfMllVQkxWTExIZUg1NzVCdkFtYkVZNFRRNGdnZjdwZzc2eDQ5b3gxX0tOYjY0Y191eDZsaWd4Ui05cER0U1haTlRvalBUTXd3aFhfZlE?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-14T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "shopify-pressroom-45a99c80b9590ce0281d",
@@ -1286,6 +1358,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "klarna-press-85ff3b70aca600debc01",
+      "title": "Klarna adds Germany to its capital efficiency platform with €900m facility supporting €5bn of German Financing expansion",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT1RJWmI0T2dpRHVzNlVkcmNsVEtKSmxsUHplbFcya1o3N2ZMN1I2ZjR6YUt1VWEwTXJRajAwQ0hfTWlrOVJOZEZDRDFiV3h5X3RXZ1hkUXBEZW9VVVlJNE9DVDR1d3RVTm90TFQ3NXhUb0VQcXRqVnNMd1hxMXVBSm1OUnFoMU1HTnJnc25ZUWFJUDVMZlVfenRHWDlXV0hDcVA0WEk2bmE1TXo2TlFneGg5OER5SlhybDRFaXVoT0R1X2xEMUVVZUZ1YzFuTE1Oa0VqSjgzQnRVVUo3VkZsZGJKdExtbHltZHBOMmJYeFRwa2RXQTkySkQ1cGQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-09T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "marqeta-blog-7c3d4d976547827c1ea1",
       "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
       "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
@@ -1308,6 +1392,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-a3232a8674f2bcb98916",
+      "title": "Flix and Klarna expand partnership to give millions of travelers across the U.S. and Europe more ways to pay",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGFEMWljSG5YSzQ1YnVRN1JSdmNvWkhlSkZtS3l2TnlPTnVfU2dwNHI4ekFZclFvQ3hub1ZrTzloMV9zb28zRGZmZm1VbE9HdGdPdHcwd2R6bEhsZG1Fc2thSVJNenhFU0pFN1hPYXMwZDR1WldxWGdIUF9MbW1MYzFyYUV1aGpPRW1kYlJjQ2plaHZyOGhzX0lJWHl2RkhqWjdYbnhUMFBMLVFaTXdjTWVKX01MVTFjSGlQcW9RT29oY2hWcTI4U3RzS2NhMk1tb0RoZmFFdUUyeVN2SG9fVmx0OWgwdw?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-08T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-8de2a2abf7fdac9593c2",
@@ -1490,6 +1586,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "amazon-press-archive-ddac1eca9a9e8339db28",
+      "title": "Amazon.com Announces Second Quarter Results",
+      "link": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/",
+      "summary": "Net sales increased 20% year-over-year Operating income was $27.5 billion, up 43% year-over-year AWS net sales increased 37%—its fastest growth in 18 quarters—to a $169 billion annualized revenue run rate Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2026. Net s",
+      "publishedAt": "2026-06-30T00:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
@@ -1536,6 +1644,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
+      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
+      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
+      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
+      "publishedAt": "2026-06-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-2f2a05d834f97cbab642",
@@ -1656,18 +1776,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "klarna-press-b91b59eb6d243c834d6b",
-      "title": "Klarna launches in-app inbox to help consumers avoid scams",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmpLOHFZOER5cFB3V2U2SmxNOVFndEx4Vm5XSFI5bzl0eFRYNlJoVkpfaFUtSmJOVm5zaVdhQVItZlZnbWE4SkhkYXhvckdZV3J0czIzaGV3YmhIWThfWXJ2ZVA3MmpMdW5BS0JUcDJBb3hKZ19DZ0Ywc01aNkVwUmRzNXdhMW12bGNqYnNWbEFsUk5pWU16VWlqVFZpeDVKWGJDYQ?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "affirm-news-9b455e77d60416bc2475",
@@ -2090,18 +2198,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "datadog-investor-news-91caf087f42c4781263a",
-      "title": "Datadog Announces Date of First Quarter Fiscal Year 2026 Earnings Call",
-      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-date-first-quarter-fiscal-year-2026-earnings",
-      "summary": "NEW YORK, April 16, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ:DDOG), the AI-powered observability and security platform for cloud applications, today announced that it will report its first quarter fiscal year 2026 financial results before the U.S.",
-      "publishedAt": "2026-04-16T20:05:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "chime-newsroom-a2baebb27185beeeb35c",
       "title": "Chime to Announce First Quarter 2026 Financial Results on May 6, 2026",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-announce-first-quarter-2026-financial-results-may-6-2026",
@@ -2162,18 +2258,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "chime-newsroom-37eb01955b8060655cf6",
-      "title": "America’s #1 Choice for Banking Expands Its Lead with the Launch of Chime Prime",
-      "link": "https://investors.chime.com/news-releases/news-release-details/americas-1-choice-banking-expands-its-lead-launch-chime-prime",
-      "summary": "With 5% Cash Back, 3.75% APY, and Premium Rewards — All at No Cost SAN FRANCISCO --(BUSINESS WIRE)--Apr. 2, 2026-- Chime (NASDAQ: CHYM), America’s #1 Choice for Banking 1, today announced Chime Prime, a new premium membership tier designed to reward members who make Chime their primary checking",
-      "publishedAt": "2026-04-02T20:25:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
       "title": "AI, local payments, and Nigeria’s new compliance playbook",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/ai-local-payments-and-nigerias-new-compliance-playbook/",
@@ -2220,18 +2304,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "klarna-press-ec67c4faecab534d7df4",
-      "title": "Klarna Card reaches 5 million active customers",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUF91ZzJSRlBXV3ZPVHdmZ01ONDdvVnh4aXJUZFFFRG81dFJnRlJMUlVzMHg3Z3Bjc3lYVXlOQTVNLUZ0V3JsWFdENjBKejRxN3dnN25nT0o5X2xYQ215MTROTHYxaWxqNXJzMFFZLWRKb1BkUWZLbUdtSkZJN1VlVll4OWZfd0J6aHEtU1ItOVRNR2Rs?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-03-19T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "sofi-press-c2fed06b99d719bdfba8",
@@ -2282,6 +2354,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-2bdbcd290b41250e2d39",
+      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
+      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
+      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-2d54e3923eade6fa0096",
       "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
       "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
@@ -2304,18 +2388,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-c0d8b867b6a016473e5f",
-      "title": "Amazon.com Announces Fourth Quarter Results",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmYxakdKRnBXaEFvQWgzeW8tYkdOVURHU3JKOW13T0ZsbHpOUW53ZFJWNWNkSzZMbm9NTV9hM1FyT1JFTHNleEY0ME5FQTlyaUxzQnBweGVrRk45ZHZ3WDRRT3ZQeFZ6N1VMZGVNZVJDTHEwQTZPTmJHNlZ5S0xGc1U3dUhDUzBVeFRrV0Y2cTZfdkNUVG53WDVhM2JnYUV2QThEWmI5bFdWR3Iyd09n?oc=5",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-02-05T08:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
@@ -2400,18 +2472,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "klarna-press-f2113950c101241bede8",
-      "title": "Klarna expands digital bank offer with peer-to-peer payments",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2JpNmJ5MUhTOEpEYlQwSE1fSG1GV2dPME5XVnFnUUM5NWZxdnluSVU1U2NwTzBkS2w3VEpkbTV1UUd4SEEtQ19Xb2RmdHZ0bnZJZDBZUXFnNzA1UTB1Wjh5Ukp0R3dvMGtzdFpONV9ILTJjblpjMTVIOXlVU2ZXWTQ5Y05RQnBWY2QzSGRnTXFVWVFCTnBaMmxtZWpwWnZObFp0RF9kaw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-14T08:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "toast-product-news-9e5e095cb7855f19948c",
@@ -2774,18 +2834,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-784d7e9172ea65063726",
-      "title": "Klarna launches debit-first card across Europe for everyday spending",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUZfSExtSlkxaXpmeVRYbHU5dmlFV0hQMEJrZzZmYV9oWmFrMU95V21DSkJDYU52d1Q5MnBoMUI0MjhGU0JWNHJaZklPMzdfTWxzWmduSERiTS1DV3FVTGdKVktEOTVGSDF6Qm9EaFVsQjhaOXRjeXVxWlRGd2piWVUxRU02NndEQXNiOHg2TDBQOWFTTFh1SnZqT0RNSDRmQ0Q2TEZRV2ZTOU5sRkstZ01B?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-02T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-84e40cb7c0acc4433863",
       "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
@@ -2822,59 +2870,11 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "klarna-press-af157ce83a54fb0984e8",
-      "title": "Tap to switch: Klarna expands into mobile phone plans with flexible, no-hassle service for 25M Americans",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHFWNmVoZG9QYTZLWUczYjBUTGROMFM0NDR1WUpjOV8wOExmSEQ2RUswa3Rid0p6UG1ycnZlNGc3Zld5WVhnN1oyeG5pMzFCYnJpdTE2YWxtR3I2cEs1Sm40MzZZTkJfN1pkekktR0FLV0lzXzdwNmU4SXpYNEFNSWZNekhTcF9zX1N5ckkxZW9aaWhyUnJVN19yMTdqSHhJQ1h2bFdfbHYtY3VPUWJsVC0yQnB4QVlLUkdOQQ?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-18T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-8ce62c7331842ca65c71",
       "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
       "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
       "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
       "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c22901d5296e709477b9",
-      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
@@ -3121,10 +3121,10 @@
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "rss",
       "ok": true,
-      "itemCount": 17,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     },
     {
       "sourceId": "tsmc-news",
