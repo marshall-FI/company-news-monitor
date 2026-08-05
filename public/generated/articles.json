@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-05T14:38:24.359738+00:00",
+  "generatedAt": "2026-08-05T16:56:14.151864+00:00",
   "articles": [
+    {
+      "id": "google-blog-543b898b1d1b7d82a181",
+      "title": "The next chapter of our AI momentum",
+      "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "summary": "Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.",
+      "publishedAt": "2026-08-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "amazon-press-archive-bc6eec36975f2ba3af5f",
       "title": "Amazon celebra el primer aniversario de la reapertura de sus tours en España con más de 8.000 visitantes",
@@ -24,6 +36,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-a560fcdf1a7b8dc113ba",
+      "title": "Q2 2026 Solana Validator Performance Report",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JZG9RUjQxSE56Q2VlSk0zQkRmZEhVRFFLdDhGMnpBZy1zSk9RVW8xRFJ4NEFMZlFNVnBXYkhMS2htQWYybVVRYVlyOGZ4WVhrNHVZU1pZbVFCUGNPTDRfc0ZPSjI2eERLVFNWWF85b3ZYR1h4SXJvMlJxYWZfdw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-05T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "circle-pressroom-682fc0f0a032d29d0c55",
@@ -238,6 +262,18 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-734bfda51cb56285b144",
+      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
+      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
+      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
+      "publishedAt": "2026-08-03T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -719,18 +755,6 @@
       "sourceName": "PayPal Newsroom",
       "company": "PayPal",
       "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-41e0168f6a5bfe734897",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "publishedAt": "2026-07-28T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
     {
@@ -1598,6 +1622,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
+      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
+      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
+      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
+      "publishedAt": "2026-06-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-2f2a05d834f97cbab642",
       "title": "Europe's Investment Gap: Why Investors Are Turning to New Technologies to Access Markets",
       "link": "https://robinhood.com/us/en/newsroom/europe-investment-gap-why-investors-are-turning-to-new-technologies-to-access-markets",
@@ -2342,18 +2378,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "galileo-blog-298b228e610709a2d639",
-      "title": "Sustainable Scaling: Why Modularity Makes Sense for LatAm Banks in 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelV5SWxmc3ExR2ozbWVOX29MYVFlOF8zdS1Ja3hkS0w3MWdrRXQyT0NzM0VCWm9BSG43TURxNEYzTTBLWXJ0eFRoYzFWYVFjNF9tWkJkMFI4WkdEc2xZdDVvanZPenNDTGRkbDBndEl6X0xEMF9fb3VFMjJpSDBfMUhYZFk3SjI5WFZxdzN4M2xDUTNsWWU5ekxERQ?oc=5",
-      "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-03T08:00:00+00:00",
-      "sourceId": "galileo-blog",
-      "sourceName": "Galileo Technologies Blog",
-      "company": "Galileo",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
       "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
       "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
@@ -2376,6 +2400,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-547ee7d8199e477ccaa6",
+      "title": "Square Renews Corner Store Lease, Launching New Era of Local Business Support in the Mission District",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWVWRkhOS0c3dk9Kd1FnTlNPUWRvelFWNlM4Qmx6LXhNeFlDdjRkSXhQenpiUmxQWWY0bFFxanEzQjJiYTNtZzJBZEtidXAxNzJja0x2cEhlLVdtMFVPOU04Vk5wQXJVbHBoSW01Sk5UN1Znc0MtaW41SUs1VFA1bEpHeWhNMGcxMmh2ZFNFME1ONXFSUVRzUTNqdDZTTGNvSE80U2h0MTJxZXlaTG12Sno3TndKSXAyeG9nbVhyRjdibGVDR1EzQ0JCc0w0eUxuc0RHU0Q0VE1CSVhWVHlDYXVVUHpsWmZValNMZ0JVNzFDTk8xdDlkODVJdk1KQjItdkRR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-27T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-fc74e697a71f9d23b7a1",
@@ -2844,42 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c22901d5296e709477b9",
-      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-cb14def83d56d17b84d2",
-      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-13T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3033,7 +3033,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 2,
+      "itemCount": 1,
       "message": "OK via official fallback RSS"
     },
     {
