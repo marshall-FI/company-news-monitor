@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:48:32.043539+00:00",
+  "generatedAt": "2026-08-06T09:55:22.943455+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5584,22 +5584,22 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "AFRM-0001628280-25-050295",
-      "company": "Affirm",
-      "displayName": "Affirm Holdings",
-      "ticker": "AFRM",
-      "cik": "0001820953",
-      "category": "Fintech Blogs",
-      "form": "10-Q",
-      "accessionNumber": "0001628280-25-050295",
+      "id": "DDOG-0001561550-25-000310",
+      "company": "Datadog",
+      "displayName": "Datadog",
+      "ticker": "DDOG",
+      "cik": "0001561550",
+      "category": "Big Tech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001561550-25-000310",
       "filingDate": "2025-11-06",
-      "reportDate": "2025-09-30",
+      "reportDate": "2025-11-06",
       "acceptanceDateTime": "2025-11-06",
-      "primaryDocument": "afrm-20250930.htm",
-      "title": "Affirm 10-Q for 2025-09-30",
-      "summary": "Affirm Holdings filed a quarterly report (10-Q) on 2025-11-06 for report date 2025-09-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025050295/0001628280-25-050295-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025050295/afrm-20250930.htm",
+      "primaryDocument": "ddog-20251106.htm",
+      "title": "Datadog 8-K for 2025-11-06",
+      "summary": "Datadog filed a current report (8-K) on 2025-11-06 for report date 2025-11-06. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1561550/000156155025000310/0001561550-25-000310-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1561550/000156155025000310/ddog-20251106.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }
@@ -5618,8 +5618,8 @@
       "ticker": "TOST",
       "cik": "0001650164",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 9,
+      "message": "9 filings via SEC EDGAR read-through"
     },
     {
       "company": "Marqeta",
@@ -5642,8 +5642,8 @@
       "ticker": "AFRM",
       "cik": "0001820953",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 7,
+      "message": "7 filings via SEC EDGAR read-through"
     },
     {
       "company": "Shift4",
