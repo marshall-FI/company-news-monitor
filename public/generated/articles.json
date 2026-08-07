@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T12:00:41.089091+00:00",
+  "generatedAt": "2026-08-07T13:42:04.376604+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-3e08d77a1809d0cd76ec",
@@ -24,6 +24,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "robinhood-blog-69481b85904044fc673c",
+      "title": "Robinhood Ventures Fund I (RVI) Invests $30 Million in Whatnot",
+      "link": "https://robinhood.com/us/en/newsroom/RVI-Whatnot",
+      "summary": "Robinhood Ventures Fund I (NYSE: RVI) announced it has purchased approximately $30 million of Preferred Stock in Whatnot as part of the company's $545 million Series G financing round, valuing the company at $20 billion.",
+      "publishedAt": "2026-08-07T07:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-f2646fd7d81f5a9f6d48",
@@ -1154,16 +1166,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "klarna-press-f223963852fbaed778bb",
-      "title": "Klarna gets physical with lululemon, launching in-store in the UK & Germany",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNE5aRldHTngtWjY0N2l3UGZqZm5OYXg5SjhIdFNXN1lVMjFQOFM5eDJsNXZObjhjYnNrNnVVM0hQX0JoR0x0TVJyQWN0M0tjaFVKUlRxa0hrM1B4c1BDbmdmNERuV2dSTEc2ZWN1b2hEY1lmU0pFb3ZkWTVUcC03X1RVSDRxdkJxX3ZEUlJOejlGeG1vaXM0UDlTRzlnSzlfSC15cFU2bWJKLTQ3QlZYWFp0cUt3ellBVkhwbg?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-22T13:53:33+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-c45c5739261a04a03c48",
@@ -1181,6 +1193,18 @@
       "id": "klarna-press-32be215e50b6ff0c0208",
       "title": "More choice and familiar convenience: Kleinanzeigen integrates Klarna Pay in full",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkNicU1WQ0RGVURTQnE4cXMxUUlQbEY2UVg2NjVRaEIwMGJwdWtQX1VmMVRxTGJfWWVrYjN0dXFhYUh0N2JvWGctZkZLTVZidkJzbEVHVkxmdVNPakVob0kzOUFKT2p3cjNpcmRQd1NwU3dubXJSNGxIUGZyTFZuS1lxRWpQeHByRjkwU1hWZ2pPeGpWYmZvUm5DbDJjWGZFZFFhRk8zNVBleWJabm1NNlZnU3BuZFB6UnBVbmhsOEpVUQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-22T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-f223963852fbaed778bb",
+      "title": "Klarna gets physical with lululemon, launching in-store in the UK & Germany",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNE5aRldHTngtWjY0N2l3UGZqZm5OYXg5SjhIdFNXN1lVMjFQOFM5eDJsNXZObjhjYnNrNnVVM0hQX0JoR0x0TVJyQWN0M0tjaFVKUlRxa0hrM1B4c1BDbmdmNERuV2dSTEc2ZWN1b2hEY1lmU0pFb3ZkWTVUcC03X1RVSDRxdkJxX3ZEUlJOejlGeG1vaXM0UDlTRzlnSzlfSC15cFU2bWJKLTQ3QlZYWFp0cUt3ellBVkhwbg?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-07-22T07:00:00+00:00",
       "sourceId": "klarna-press",
@@ -1802,18 +1826,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "robinhood-blog-736413882dd7fdeced0d",
-      "title": "Robinhood and TradePMR Unveil the Future of Wealth Management at SYNERGY26",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-tradepmr-synergy26",
-      "summary": "Robinhood and TradePMR unveil the Advisor Network, AI-powered Cortex tools, and Advisor IPO access at the SYNERGY26 conference.",
-      "publishedAt": "2026-06-03T04:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-7c228d86d73993aebdbe",
       "title": "Introducing SoFi Coach: An AI-Powered Financial Guide to Help Members Get Their Money Right",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR2dFQjM4TDRXNlJ2YXhjWFZDajRQTEVEMVpyZ2FFb3hLV1JYYkV3em1hY0g1NU51X29wUzBjOWVWOWZIMDgzQV9tS2VfcDhfcU8xbmtCTGRBRjdzcE5GVURDU1BmQ1JOcnFQLXc2SzhQb0lKVmhfR3ZzQUJXZ24yR2F5emI5UFdfbkxyeWdVUy1OclFqRTRzeExxblF3MWR3ODBWRTEtZDlDRUZyNUN4c0ZhdFVtd1FOTkJVblJLWndGQmR4NW1lRTVycFRUVHdDcnBMcFhiSUZLcEplX2xKak4wT24wQUpK?oc=5",
@@ -2294,6 +2306,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2306,10 +2330,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
+      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
+      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
+      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
+      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2366,18 +2390,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
-      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
-      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
-      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2388,6 +2400,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
@@ -2455,18 +2479,6 @@
       "link": "https://www.marqeta.com/blog/marqeta-2025-wrap-up",
       "summary": "Marqeta's 2025 year in review: New CEO Mike Milotich, Klarna's European expansion, TransactPay acquisition, and major fintech industry events.",
       "publishedAt": "2025-12-22T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-52552d4e8f0e51afa3e2",
-      "title": "Issuing/processing All Industries Black Friday 2025: What peak performance actually requires Article",
-      "link": "https://www.marqeta.com/blog/black-friday-2025-marqeta-platform-performance",
-      "summary": "Black Friday 2025 set records with 202.9M shoppers. See how Marqeta's platform handled peak volume with 99.999% uptime and sub-200ms response times.",
-      "publishedAt": "2025-12-19T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2866,18 +2878,6 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-bacdd251daca40559e7e",
-      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-18T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
