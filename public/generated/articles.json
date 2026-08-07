@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:21:09.896143+00:00",
+  "generatedAt": "2026-08-07T05:08:04.515863+00:00",
   "articles": [
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -300,18 +300,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "sofi-press-b840a4605e1879e7b276",
-      "title": "SoFi Expands Access to Private Markets with Funds From CAZ Investments and AngelList Asset Management",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWTVLZWhmeEctU2gwTFc5cGxzU0hCZm9FLWl1LXBXSXlPZW50a3poVVRMaFJrbUNYY3lFUlMxWE52MXNYMzhCUXBEMHVCUkNGRTZZWlUyOTdabXBRdTEyYmg1V014ZUJQckozSGpXMl9jbTlqVk56SmJnMS1UdzU3S2JYb1o0Zmo0M2RlTlowa1BvRlcwbTIydUhBNW1vQS0tTXdRLWlGVzF2djRCUU50X01qOW5URDExQWJ2YW5WaFB5R0o0Wm5sN0d3UXZaWFJ1N0Z6bjU1VXpQUHNjREp0Nk9QVTRweDh5ZFY4NVhkS0xpLXVKc0FF?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-05T12:04:38+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-bc6eec36975f2ba3af5f",
@@ -830,6 +818,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "sofi-press-90e48bd1d0d0ceda1168",
+      "title": "2026 Q2 Earnings Release",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEoyZC1XZkRBN0tLTUhjS3RqcWxNWnlfWEZTbUpzbDZZOWNYakZQSlFfb2JDVWFtSDVSTC1LQ20zQnkzN2Y2cmlBOUdKWURuWGh2RXBsdktERTNOVHBUcjV0ZmRzX3k5T3RXN2VKSDJlU3E0MXp0SUo2V1BReS03Mnc4VWpnam1PVkUwQQ?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-29T11:03:14+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "robinhood-blog-931182f67cf1751e2004",
       "title": "Robinhood Reports Second Quarter 2026 Results",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-reports-second-quarter-2026-results",
@@ -936,6 +936,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-e01b12db04913b664d4b",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Notre Dame Athletics Launch Landmark Multi-Year Partnership",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXc0elFHcmE4S05UQXdkUy1kOVZYQW5XeVJRVGZrSXRINUtxVHIxeWZOdG9fcFJ3NW1RVm5NQ2FqaHU1d0pfSm02cmZrSFUyMVdCeDdSN3dFVmc3bC00QWU2THNDaTM5WUtqYndPN19HaHZtaXNfclJYZnpoWGpnUEY0LVphUjduMlo0MU44WFJuVE9RREphS2xnZlBGQmxJbGRJTk4tSzJoaEM2TE1TSFpZTGwtZ2tLZFU2dlVybVpyc3FVei0zXzh1UQ?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-28T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "klarna-press-ae4d4851388ccd546dbe",
@@ -1142,18 +1154,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-f223963852fbaed778bb",
-      "title": "Klarna gets physical with lululemon, launching in-store in the UK & Germany",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNE5aRldHTngtWjY0N2l3UGZqZm5OYXg5SjhIdFNXN1lVMjFQOFM5eDJsNXZObjhjYnNrNnVVM0hQX0JoR0x0TVJyQWN0M0tjaFVKUlRxa0hrM1B4c1BDbmdmNERuV2dSTEc2ZWN1b2hEY1lmU0pFb3ZkWTVUcC03X1RVSDRxdkJxX3ZEUlJOejlGeG1vaXM0UDlTRzlnSzlfSC15cFU2bWJKLTQ3QlZYWFp0cUt3ellBVkhwbg?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-22T13:53:33+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "robinhood-blog-c45c5739261a04a03c48",
       "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-platinum-card-rollout",
@@ -1169,6 +1169,18 @@
       "id": "klarna-press-32be215e50b6ff0c0208",
       "title": "More choice and familiar convenience: Kleinanzeigen integrates Klarna Pay in full",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkNicU1WQ0RGVURTQnE4cXMxUUlQbEY2UVg2NjVRaEIwMGJwdWtQX1VmMVRxTGJfWWVrYjN0dXFhYUh0N2JvWGctZkZLTVZidkJzbEVHVkxmdVNPakVob0kzOUFKT2p3cjNpcmRQd1NwU3dubXJSNGxIUGZyTFZuS1lxRWpQeHByRjkwU1hWZ2pPeGpWYmZvUm5DbDJjWGZFZFFhRk8zNVBleWJabm1NNlZnU3BuZFB6UnBVbmhsOEpVUQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-22T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-f223963852fbaed778bb",
+      "title": "Klarna gets physical with lululemon, launching in-store in the UK & Germany",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNE5aRldHTngtWjY0N2l3UGZqZm5OYXg5SjhIdFNXN1lVMjFQOFM5eDJsNXZObjhjYnNrNnVVM0hQX0JoR0x0TVJyQWN0M0tjaFVKUlRxa0hrM1B4c1BDbmdmNERuV2dSTEc2ZWN1b2hEY1lmU0pFb3ZkWTVUcC03X1RVSDRxdkJxX3ZEUlJOejlGeG1vaXM0UDlTRzlnSzlfSC15cFU2bWJKLTQ3QlZYWFp0cUt3ellBVkhwbg?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-07-22T07:00:00+00:00",
       "sourceId": "klarna-press",
@@ -1394,6 +1406,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -1414,18 +1438,6 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-287611d804506569a0a7",
-      "title": "SoFi Expands ETF Lineup with the Social 50 Income ETF (SFYI), Seeking Income and Pursuing Growth",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmxQX0kyeHVWR0I5T1BaeS1peFlKd0xSZzljZWZsai01RXhraUxwa1VqNWdrcmV0bzJSRFVVeFRVbDFWdGxZakh0WTk1a1RZWEVuY0h3a0hPeThqZEgtbVZwSzJWMHRZZDVmNnQyNWJWSHpXYkZKcTRON3JPWXRVYzdiSG11RzhBV1pxMnNFQXRoSTZiU0UtclVYVzYxUGFuM2ZyRkZZTno5VVZNV1pneHM4aFZBRDAzWjZETEluQ0tST0tuRTJpSUJaQzhsVUJUcVFGNFhNUzRpY3ZfNUx5c2xudXpyU1dxZEZteg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-07T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1514,6 +1526,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "sofi-press-30683873a6dbcadcb4bd",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q2 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFNDVkJzMjlaTW40NVF6OV83Q01IUkx5YWRwVUtXOVNSZ0FlZ25wWVc2bm9iWDF6UW90SUNvb0tCVUVJZ1dpSkk1RmxZV3ZhUnF2cGpxNUR4YUdRaHdJRldENGszd2UwYkd2Z0RsMFVoZ0MwMU9nWUdERHotemhMTFpoYzI0T3JnRXNUTDNaQVdSVDd5NzRMMzh5eFloczQzMFEwaWRpVTk1dFZUVGJKZVZwWlNsY3J5R0Y2Rg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "affirm-news-16984a67934c9ecf072d",
       "title": "Meet our new board member: Ryan Schneider",
       "link": "https://investors.affirm.com/news-releases/news-release-details/meet-our-new-board-member-ryan-schneider",
@@ -1560,6 +1584,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-2431a1c21a66f2c14e49",
+      "title": "SoFi Introduces Small Business Loans to Help Members Pursue Their Business Ambitions",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnU4b3J1VGZhcVJ1a0lxYUVJTHF3NHNTT1EyN0Z2cFFtbXZ1eFdqVWp2dDNXZUZZTnVmaXVMZnJfSW9lakJKTDVHVXBjNXB6RFFCQ0ZjWVBVc2w1RERaVEEtN3JMVlpQaDJnRjI3Vnd1clk3bENOak94ZjFHeTMyOVFRaUdvQU50YUdTbWZ4RXdzdzRwakplaWFZaEpBQ1Vrc0k0SUNPZ0drTFZjUldEM2pCTTlOSnF0S1pWazRsZkd5bzQ0QU5WR0N4MnFnWk81eWJHWTFZUDdqRThlbVBYcg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-30T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-ddac1eca9a9e8339db28",
@@ -1622,16 +1658,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-0e713e826c864d9a03b6",
-      "title": "SoFi Technologies, Inc. (SOFI) - Introducing Composer by SoFi: AI-Powered Investing From Idea to Execution",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSEp4V3NRX2R6bzFyLWNRb09VX0g1MVJNTFhHNGhnTEdpRjBMTHJGRDJ1TW9BR0pvcGZnbkRIaV93QzJneUhKWk1mY2YtLWZTdExqMmRtWWlHRjFtSndOWmFhUFJabDhRRWNySkQycXJCd2RwbGxtcVpUM25HSk54QU9PY2NUcHpPN3V0WF9TR1NNTUZiRjhTbHUxLTl6a3prSzBCWWFxWndSM3FuQUdFY2FSaGpWZGxJN203NENzUjBFa1U1WmY4UmlWTXN3TzZI?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-23T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
+      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
+      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
+      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
+      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
+      "publishedAt": "2026-06-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-2f2a05d834f97cbab642",
@@ -1790,6 +1826,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "sofi-press-7c228d86d73993aebdbe",
+      "title": "Introducing SoFi Coach: An AI-Powered Financial Guide to Help Members Get Their Money Right",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR2dFQjM4TDRXNlJ2YXhjWFZDajRQTEVEMVpyZ2FFb3hLV1JYYkV3em1hY0g1NU51X29wUzBjOWVWOWZIMDgzQV9tS2VfcDhfcU8xbmtCTGRBRjdzcE5GVURDU1BmQ1JOcnFQLXc2SzhQb0lKVmhfR3ZzQUJXZ24yR2F5emI5UFdfbkxyeWdVUy1OclFqRTRzeExxblF3MWR3ODBWRTEtZDlDRUZyNUN4c0ZhdFVtd1FOTkJVblJLWndGQmR4NW1lRTVycFRUVHdDcnBMcFhiSUZLcEplX2xKak4wT24wQUpK?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-02T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "affirm-news-6ed71ab98ac10cd12c68",
       "title": "Affirm and Stripe team up to power flexible UK payments",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-stripe-team-power-flexible-uk-payments",
@@ -1812,6 +1860,18 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-dedda780f9896cf24a34",
+      "title": "SoFiUSD Becomes the First Stablecoin Issued by a US National Bank to Launch on a Banking Platform",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRVUzeHhJT3ZrSlVHSjFPNjlvZjdZaVcxRldwNVBYbkhVLUVUUkd4TFRfX0l5akZPNkdIMExnZjFQelpRU1phREtzcFhkUkNvVE1DTUpKVkpaWGdPdk5Fd0tVX0pZX1VCV2M2dzBUdmRDZnFXSUUzVGF1N0YwaWJTYkhmTV92dk85RFBLV1dscFlJbWttVGhOY09kMnhZUndOM1N2cFY1V3Uxa0tKZmR3WDhDWDN2dkpOcE1Ga3piOGZEMnFBMnR5R1BBMmtnWTlGWkV6WkRNR29lODFWSmh5U1dzbHNuaTMzN3o0LW9hVk12dw?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-27T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-3467846013eb2e4f3850",
@@ -2030,6 +2090,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "sofi-press-bb3b04fb99757be81c31",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q1 2026 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2FKRTZTdnVnY0NCelZSU2d6OW5FQ2FYNHZDNldJbTFKQ3pUd1hLczcwVnJOT19wbXZJbFo0WU9FR3F4WWhyWWl5UGN1MnlWQ0owdlpTaWx6VUt4Zms4WVRFQnJQRm4ya196MlU3OThOVENRZGlWQnhWaWMxTFkzTHlqQUVKZnhFazR0OV9lU250RnFJNU9RMXU3Z28wMlJ2Z0ozX21wWFBFMTVYeXNhQXhaeUp1djVRV3NFTnZR?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-b7aad5c939878451dc5c",
       "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
@@ -2174,18 +2246,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-651af70af5975fee826d",
-      "title": "SoFi Launches Big Business Banking to Power Fiat and Crypto Banking on a Single Regulated Platform",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUVM4ckRNNWhCZFE0VlozTklyaU1JV0FkUWhRRzU3SEgyRTFRcUdzbS1DcWlHc2I5cVZQcXhsQVM5ZEptSlF4QkpZaDZyZzcyOWdhYnppVXpUalhMU0xxbnVyTXk1M1A4OThjN09NNEUyb0o4NXBOZjRnUUJ4ajVjeWJOUEVJaVZTLUo0ZUdRUGQ1WkZVU1ZNVmNza05PNk8xdXF2QmdmeU1XUlFjcUg4U1hVUUJueTM1elFkTzd3VUFrVldENTVhZE1qR3NDWXpXN1RRQlRMRnVCaGI5MkNNVzFYYU82RzZtTkZQYXR4V2dhdzg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-02T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
       "title": "AI, local payments, and Nigeria’s new compliance playbook",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/ai-local-payments-and-nigerias-new-compliance-playbook/",
@@ -2196,6 +2256,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-a4c58ace79c2c7f7471f",
+      "title": "SoFi Expands Loan Platform Business with Multiple New Agreements Totaling Over $3.6 Billion",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnZwTF85WDJVY01GOTlXdzVPQkZINXlRdkNfVmdPY2ltbDRxZkQ2RTY1STE3eXdrc0IwcUxDOG1NSF9ubUtSODByZ2dmdjZPb2lkOWg2UmQ2UnBpLXd4dzIzZkNlaDdpb05WNmVub3p0cV9sX20tcDhGSi1FYjQ0N05yWDF2X3k2SW1qckQ5UDF6Sy1IdkZQX0lQUHFJdlZnQmpkYjlXTC1jUmQ5V0k2eFJSTXRjQ1dpU09iMlRLYzhEQWkwR2tHX051ZlZ2YnQxY1BVbHVsV0c3NXRSWm1QWW5VeE5nQU1P?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-03-26T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "circle-pressroom-4ff942344e8305decc12",
@@ -2220,6 +2292,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-c2fed06b99d719bdfba8",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-03-17T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-5b9e10e4e72eca9105f0",
@@ -2378,6 +2462,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "sofi-press-65efbd392b4acad7f72f",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q4 2025 & Full Year 2025 Results",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFlsSlRtRFEwVEkyMERyajVfOXRDT0NZM05mRWhnRHZfOU4tYVY0R2hycW9yemRJOWJrVzFza2hzR1YyeTFKaXkxTzZhUlpqYmhOQUppbWIxQ2R6NVc3ZDU2WTVWTzJqUzc3WEM0WDVDX3ZESFhRTVlQcW9HLWZYU3NrdWRfaTMwWXpVUHlGc01EenFqODhzVVdHWHBmdTQ2cmRkcnlRQzlmRDJWMWw1bXh4UnB1REIwZDNiY1g5R1JaTUZlenluSkotM205RElETXc?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-02T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-cc991003430c70174daa",
       "title": "Bank transfers: The trusted rails transforming payments in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/bank-transfers-the-trusted-rails-transforming-payments-in-emerging-markets/",
@@ -2460,6 +2556,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-82cf6b2a0f2b371da9c5",
+      "title": "SoFi Technologies, Inc. Announces Pricing of Public Offering of Common Stock",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUdaV1VRLTZudHFqcjVnN1RHUGV2UFdDejBkcHp4WVZIYnktamNvUzVJMHhzbEtGUV9oSXB5X2tod2cwTjBYWUsyOG1PcTZPSFB6akl4RjNkWngxNl9CVWk0emFPR3VMdjY2bVo4VTFfcXdXZnZjWlhoZ2p6Sjk5Mm9rTTN2OU11STdaMWlZLUo1MTVNeEdQYzByVTFwcjRreXpVQkVValk5RE1VOVpZSm9pTVV1bjNmSHlJcHZWeEhQWUUyQUEwbUh6WTNzQ2lqVnIxUFBRWGpLQnpjYWpVbExn?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-12-04T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-cbe8d54d26ffb21edcb4",
@@ -2558,6 +2666,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "sofi-press-cb9d11daf56f307f7e05",
+      "title": "SoFi Reports Third Quarter 2025 with Record Net Revenue of $962 Million, Record Member and Product Growth, Net Income of $139 Million",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUklCMExtU0pMX1hBM2c0OXBQa0YxMndyVjZNTXVyQkUyeVpsTkpuS2cya0EzRnpXRjlmbWpKbUxhLXlydDh1Z3k3ZUNZdzFscmJadWhYeWRPTEo3eHk4X2wwOC1NR3BRLVk0TlBqZEtLUEJrVTktVVd2R090SEVkNnJ1SHllM0pxTXM0Z1h0VkIyVENzWmJYZ3dCaXZDRWxXOGV2QTM2SElDQVNtdTl1YTBEZGI2S1VFV3dKem16SmVDVEtDVS1lTmNCeUc0REVzMTBucmd1dkM1TU1yZnJxRnIyMm5CbGNtU0pSU2VtWDExdGN4a1BSc2wzaTF3dDMzaDIyVl95ZmJyTGpsS1NJZXVrd19QQmR3OEVIbA?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-10-28T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-240988e232d77a710a65",
       "title": "Payments in the Middle East: A blend of heritage and modern innovation",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/payments-in-the-middle-east-a-blend-of-heritage-and-modern-innovation/",
@@ -2592,18 +2712,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-34d6da65d607cc48504b",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Launches Options Level 1 to Help Members Pursue Risk-Adjusted Strategies",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSkEzUmM3UXVLMFJpUkVFV2dHMmVYOG9Rd0h5TUtPb0tlTHJJNTN3MmRLSUlnb1czejBQN3dUMDJiWnQ4MU0ydDQ3c3NkcFFfbl8wQVhMbGwySGJBbElFcVlXTTFiSUoxU0puRUFQcEZOUzJfWUc2VmFXSm15WnN3d1ZyM190WHVBRS1MTVlWSldIVDV5YWppaGYzVGFZNV9FZzgxcndGdFB3T0syNFVwUkE3OUxWMFl5eHRDMWpqT2FRdDNuNHgxYnI1dE5qbWR6U1JETlIzbw?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-10-02T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "dave-press-9ad6aca2c340df637c4b",
@@ -2714,11 +2822,11 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-6051aacc1d5779fb7c2f",
-      "title": "The Future of Financial Services: SoFi to Offer Members New Crypto-Enabled Capabilities to Get Their Money Right",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQUxSR2pSd20yV09yQkVZMDEwUHZxX3Jzb2cwNS1uZmtxS3lDeXJXOEQ5cE4wd0o0SFhjclNweko2czNzakVJZFRJYzB4WkRPYVhpcW5LYWVaX1dON21DRjVKUVUtdXUwY3Z6dGtqYVdCX3ZES1hTOXdNNEwyQUxyUlV6RFI5N1VHQjBzbXAzZEt4dW1SdWsxSjY3Q3N0VmxKRUQwLWJ5eTdiazJYc0E3OTlLcEpwUk5XVlFQdmtsZ2Zab1poR2x4azFWQlBqam85QXJ2Ql9qVXg4Nkh4WUVXS0QzZFVfTVVWMUZvdm94VlU4d05rUmVnT2J5blEtN2V5X3pXbA?oc=5",
+      "id": "sofi-press-906d798c5b95f5509932",
+      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
       "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
+      "publishedAt": "2025-07-29T07:00:00+00:00",
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
@@ -2772,114 +2880,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-beb78dcb3b354d9be461",
-      "title": "SoFi Partners With Kelsea Ballerini and tnAchieves to Invest $2 Million for Tennessee's Next Generation to Achieve Their Ambitions",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPSzVCek5WRlQ2bUM2VE83djVNQmFwSUhRNjVEdXpZaDQwdGI2Z2UxQTc4LWd3T3FjVUZZdTdTZ0VhdUN0UEtqOFhpT0RfT09RUmtINm9iNXdnbFVWX2ZVUHplSlpTaDVtUXpEcWFCaldBQnQ2NHZzMTRWOTZCTGNveFNmU0ZpeUNlNDVOM0VRQ3Z0SWZYcmVBbUNrYnZ2dEJYYUJGZXhQWWpZQmdxNUh0M0doSjlMS1I4a0hPSGM5MmR0Y05QbWpSZm5CX0JUdVRlWllwcUtabkJ2V1diNmZmZ2IxVHFIYmJBb1RrZDdUT0paYWFMQUxHYTN2RVprNUM4dnNabGxRWS1PbVdlRkZRVVBlMTRPNWFwTld3?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-16T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-732353b06b981481ab01",
-      "title": "Toast Tees Up New Technology Platform for Topgolf",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemYyY0ZaeHE5anZnWFVpdFhhdnB4YkdlZ3JzZ1ZVbm55M0pGcjY4MjlfNTVCenk2aXZ0VEpHTDN0LXpNdnlxcnJaLTlkcEgyTGphejRLYVBGc3YyMWdKNEE4Y0x2emIxRFNHdHByQVVkU3RyX2xWSVpIZ2FEbVY5WmQ5QTFqdw?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-08T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-bacdd251daca40559e7e",
-      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-18T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-fe5531cd7d17e1157e23",
-      "title": "SoFi Secures $3.2 Billion Expansion to Loan Platform Business Across Agreements with Fortress and Edge Focus",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNXzJaZVUwLW9aN2daeHlySlE2bGlVSVpGczhzTk8tby15Vm1fZHBCVG1WS09jdXFUNWh5T1N2Umsxdmpkd0R5X1V6U3ZGRnRFM1RnUU5aTWFNeThib2lrVzVSTllwb3IzNGhFNEUyc3pvZXdYUm9UMzZidndYbDYzb0xyVEpxN3JJVFd6NG9ROEVKWC1rc05NMWpob01odWxwSDB5WUtJaWpzUzV0cU5fRUt1TU52dTdzOW8yUWlETFlNQmJwRkdHN2dTQnZ5RE1XY1U4NjBxakUwOUlWU1NTcjE0Y1BxOWJDZzl6aktEd0plbVhuVUZUU1Q3UGNiRmM?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-17T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-75345f100853aa8d29ab",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules 2025 Annual Meeting of Stockholders",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzA3a3BRZU5uc0E0MXFqYnc2Q3dfX2xWWUFuYlBXT005WEdVY0VhUUZ0U25aVWdQS3Q5SHcxcjVvVlZPcWRHd1A3bGZhejlPVms4Q2NoTHE3bGtVZ2ZJTmlOSTBaOXRmTkF1NHlTRHZCSkJ1WnVYSmctcVZ6QjlSSEtVangwY0lMTFNEbnBJWkRjQXVRNkc2WXJ6azZGNWEtN2FXVU45bGduR3BEN0hMV1pnTQ?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-15T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
-      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
-      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
-      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
-      "publishedAt": "2025-03-26T12:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-1290adaef7c4f7d6d12e",
-      "title": "Hidden Growth Tax on US Small Businesses is Hindering Development and Expansion",
-      "link": "https://newsroom.wise.com/en-NAM/247279-hidden-growth-tax-on-us-small-businesses-is-hindering-development-and-expansion/",
-      "summary": "A new Wise study reveals that US small businesses lose $153B to hidden fees in financial transactions. These fees act as an unfair 'growth tax' limiting small businesses' ability to plan ahead and remain competitive in today's digital economy.",
-      "publishedAt": "2025-02-25T17:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2887,19 +2887,19 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "category": "Fintech Blogs",
-      "kind": "rss",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 7,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 17,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "marqeta-blog",
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
@@ -2986,10 +2986,10 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "upstart-press",
@@ -3013,10 +3013,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 8,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "dave-press",
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 1,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "chime-newsroom",
@@ -3085,10 +3085,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "html",
-      "ok": false,
-      "itemCount": 0,
-      "message": "official_google_news: HTTP Error 503: Service Unavailable"
+      "kind": "google_news",
+      "ok": true,
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "trade-desk-press-room",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 3,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
