@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T23:51:21.813130+00:00",
+  "generatedAt": "2026-08-08T02:25:37.703832+00:00",
   "articles": [
     {
       "id": "google-blog-3a0d04875556775fe453",
@@ -878,18 +878,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-7aa81794ef69dcb9687e",
-      "title": "Focusing Our Bug Bounty Program on What Matters Most in the Age of AI",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTlBMUEzZ2FNVmJjMGFlVVBkQTN2dC1SeExCbENxUkFieHQ4WWJ0UkhJdzdlLXQ4eFd6Sl9IaTRxbHBEOEJwc3dVR2VnRnpNSWFFWXBiX3BVTk8zZENJRk5XRVBtajE0Zy1LeElXMEUwcXQ1TGQyZ08zai1oRWhPNktkMlJfaHdQeTdTX0F5LTFiZGZGTEl1S2NTU203Z092?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-29T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "robinhood-blog-931182f67cf1751e2004",
       "title": "Robinhood Reports Second Quarter 2026 Results",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-reports-second-quarter-2026-results",
@@ -1188,6 +1176,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-c45c5739261a04a03c48",
@@ -2366,6 +2366,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
       "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
       "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
@@ -2426,18 +2438,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
-      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
-      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
-      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
-      "publishedAt": "2026-01-20T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
       "title": "Cash: The resilient bridge to the digital economy in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/cash-the-resilient-bridge-to-the-digital-economy-in-emerging-markets/",
@@ -2494,18 +2494,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-11563e25e35dfee9fcb0",
-      "title": "Other All Industries Marqeta 2025 wrap-up: A year of momentum, milestones, and memorable moments Article",
-      "link": "https://www.marqeta.com/blog/marqeta-2025-wrap-up",
-      "summary": "Marqeta's 2025 year in review: New CEO Mike Milotich, Klarna's European expansion, TransactPay acquisition, and major fintech industry events.",
-      "publishedAt": "2025-12-22T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2592,6 +2580,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-66a6995a783cf73767a6",
+      "title": "Coinbase Business Marks its International Debut by Launching in Singapore",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kbWpQU0FTWFd5bVVCOFluXzJZckNjWV9DWUJqbDR1Y2lJbDhMQXVXNjdjOGxEdVhITzlQTlBja2RMM2ktMXJtYXl0M0psbU1MSFBveGJaS2puUDZxME9JU2tlcWdEd0EzTlNYQ2lfVXNidERZSGdiU1EwNi1kMjhBZ2RIazVsOW5hR3hLMXVLU1dUaWxiLTRPSTBEcHR1Ym1SNnFn?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-11-12T08:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-0b5deb4b6cc8f6140ce3",
