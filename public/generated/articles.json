@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T23:47:45.673075+00:00",
+  "generatedAt": "2026-08-09T02:31:22.362722+00:00",
   "articles": [
     {
       "id": "coinbase-blog-9ad9d6770d8f45b02fa7",
@@ -84,6 +84,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -334,18 +346,6 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-39e4c81cff937d704458",
-      "title": "Block Announces Second Quarter 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmtSTlJHdE5oaU1WWHB2aFpoMTRsdkZsNWltMHQ1NWg1NjZhSU1Nem5TWjUtQ1Fsc2JncWdQWk1pdlZ0blJUR0Z3SXlSTnZZNUQ5WkczUEloRDZGNC1WUjl1SkNVZDhobFFpaGZWNzR0S0h5NVM3X2VpYlFTSktfc0xvYnhhelMtckJlUGlNc1gyUlpZY2czV3VsRUpWZE4xXzZfTVVoRnlOUWVmMktfczRranc1SnM?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-05T23:22:24+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -662,18 +662,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-734bfda51cb56285b144",
-      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
-      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
-      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "about-amazon-ccaedd782979f8ed5894",
       "title": "How Amazon became one of the world’s top chip companies in a decade",
       "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history?utm_source=rss",
@@ -839,6 +827,18 @@
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-acf0119fe09c38f908c6",
+      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
+      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
+      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1418,6 +1418,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1426,18 +1438,6 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2270,18 +2270,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-1fc919b6cdd114307e6a",
-      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
-      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
-      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2390,6 +2378,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2470,18 +2470,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-11563e25e35dfee9fcb0",
-      "title": "Other All Industries Marqeta 2025 wrap-up: A year of momentum, milestones, and memorable moments Article",
-      "link": "https://www.marqeta.com/blog/marqeta-2025-wrap-up",
-      "summary": "Marqeta's 2025 year in review: New CEO Mike Milotich, Klarna's European expansion, TransactPay acquisition, and major fintech industry events.",
-      "publishedAt": "2025-12-22T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2862,7 +2850,7 @@
       "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
       "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T12:52:42+00:00",
+      "publishedAt": "2025-05-01T07:00:00+00:00",
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
@@ -2878,6 +2866,18 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-4f5f17b464c2bd52c3eb",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q1 2025 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmhPVzl4bGJKcUpaNlU5YjFwT3lKb3Z1NU5HRVc2UnZHWXh0b05yWUEtNUdmLURES3ZBUjhtWHZIRlZ1SGJIbVR2d296aEluaUdSLWY5MnJHQkVvNjhHelp1LXE1ZzVOOUZrbUV2VUw1cGdqbVdBM2VaRVR4bzRUaWZRWFl6eHZCQ3hIRjFKVmtLYXctVjBJcllKaVBRdG1hZXlUOGMxQ3huLV9ySk04dkJWdDZKT2x1V01ITg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-04T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
