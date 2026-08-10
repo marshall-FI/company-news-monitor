@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T16:14:37.004753+00:00",
+  "generatedAt": "2026-08-10T17:11:19.794655+00:00",
   "articles": [
     {
       "id": "google-blog-b2ade2099549ff92661c",
@@ -694,18 +694,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-734bfda51cb56285b144",
-      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
-      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
-      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2878,6 +2866,18 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-bacdd251daca40559e7e",
+      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-18T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
