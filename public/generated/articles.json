@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-10T10:41:00.273482+00:00",
+  "generatedAt": "2026-08-10T12:02:29.057639+00:00",
   "articles": [
+    {
+      "id": "paypal-newsroom-40d67513bd2032afea57",
+      "title": "Pay Your Way, Play Your Way: Venmo Is Now on Google Play",
+      "link": "https://newsroom.paypal-corp.com/2026-08-10-Pay-Your-Way-Play-Your-Way-Venmo-Is-Now-on-Google-Play",
+      "summary": "PayPal Newsroom published an update for PayPal relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "paypal-newsroom",
+      "sourceName": "PayPal Newsroom",
+      "company": "PayPal",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-cb24b4cfd442a3c2b1ba",
+      "title": "Venmo is giving you a new way to pay on Google Play.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/venmo-google-play-store/",
+      "summary": "Venmo is now available as a payment option on Google Play, giving you more flexibility at checkout.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
       "title": "Robinhood Launches Crypto Trading for UK Investors",
@@ -830,6 +854,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-acf0119fe09c38f908c6",
+      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
+      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
+      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-1308c676b64cc3b02903",
       "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
       "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
@@ -838,18 +874,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-80a79506bd7dc9b2847b",
-      "title": "How the Head of YouTube Health handles screen time with his kids",
-      "link": "https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/",
-      "summary": "Hear from Dr. Garth Graham on how he sets rules in his own home and helpful approaches for communicating about screen time.",
-      "publishedAt": "2026-07-29T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -1370,6 +1394,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-2e80730fc65202f389b2",
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "tsmc-news-587aff7bf4159253d90f",
       "title": "TSMC June 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVzNqUmZZcWF1RTZwZEdCdW5IcjdLRU1oRGZnbjRiaW9NOFVTQzNNdW5xQWVabWhFLTZlMGc0bUt1LTI1VFB6RXBuRUtSdw?oc=5",
@@ -1728,18 +1764,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "paypal-newsroom-1e6a0a20fcb88d21e172",
-      "title": "The Knot Worldwide Announces Integration with Venmo to Deliver Seamless Gifting Experiences for Couples and Guests",
-      "link": "https://newsroom.paypal-corp.com/2026-06-15-The-Knot-Worldwide-Announces-Integration-with-Venmo",
-      "summary": "Integration with Venmo and The Knot’s Wedding Registry gives guests a familiar and trusted way to contribute to registry cash funds, while keeping registry tracking all in one place",
-      "publishedAt": "2026-06-15T13:00:00+00:00",
-      "sourceId": "paypal-newsroom",
-      "sourceName": "PayPal Newsroom",
-      "company": "PayPal",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "block-investor-news-a0d5606912161961133e",
@@ -2256,6 +2280,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2844,42 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-1290adaef7c4f7d6d12e",
-      "title": "Hidden Growth Tax on US Small Businesses is Hindering Development and Expansion",
-      "link": "https://newsroom.wise.com/en-NAM/247279-hidden-growth-tax-on-us-small-businesses-is-hindering-development-and-expansion/",
-      "summary": "A new Wise study reveals that US small businesses lose $153B to hidden fees in financial transactions. These fees act as an unfair 'growth tax' limiting small businesses' ability to plan ahead and remain competitive in today's digital economy.",
-      "publishedAt": "2025-02-25T17:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-a64959960aa4a72b4462",
-      "title": "All’s fair in love and money: American couples struggle to talk about money but desire shared financial goals",
-      "link": "https://newsroom.wise.com/en-NAM/246883-all-s-fair-in-love-and-money-american-couples-struggle-to-talk-about-money-but-desire-shared-financial-goals/",
-      "summary": "New research from global tech company Wise uncovers that one in three Americans feels uncomfortable discussing money with their partner.",
-      "publishedAt": "2025-02-11T15:20:32+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-e57792b04b0c32f9a56a",
-      "title": "In the news View notable news mentions",
-      "link": "https://newsroom.wise.com/en-NAM/clippings/",
-      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
-      "publishedAt": "2023-07-05T00:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2887,19 +2887,19 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "category": "Fintech Blogs",
-      "kind": "rss",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 13,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 8,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 17,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "marqeta-blog",
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
@@ -2986,10 +2986,10 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 6,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "upstart-press",
@@ -3013,10 +3013,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 7,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "dave-press",
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 1,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "chime-newsroom",
@@ -3085,10 +3085,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "html",
-      "ok": false,
-      "itemCount": 0,
-      "message": "official_google_news: HTTP Error 503: Service Unavailable"
+      "kind": "google_news",
+      "ok": true,
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "trade-desk-press-room",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 3,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
