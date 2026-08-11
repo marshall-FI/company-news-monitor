@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-11T16:15:58.254455+00:00",
+  "generatedAt": "2026-08-11T17:15:27.215031+00:00",
   "articles": [
+    {
+      "id": "google-blog-012e30e2c241e587c143",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "publishedAt": "2026-08-11T17:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-7bf5671a785772176b91",
+      "title": "Stream free movies and shows on Google TV Freeplay",
+      "link": "https://blog.google/products-and-platforms/platforms/google-tv/google-freeplay-free-on-demand-tv-shows-movies/",
+      "summary": "Google TV Freeplay now offers over 10,000 free on-demand movies and shows, — plus, 300+ live channels, with no subscription needed.",
+      "publishedAt": "2026-08-11T17:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-f10ef3be8746b086f835",
+      "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T16:03:20+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "nvidia-newsroom-38a0519a43d4c8dc1965",
       "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
@@ -36,6 +72,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-67be862c78fa28fee36c",
+      "title": "Amazon Expands Locker Network to more than 750 U.S. College Locations",
+      "link": "https://press.aboutamazon.com/retail/2026/8/amazon-expands-locker-network-to-more-than-750-u-s-college-locations",
+      "summary": "At campuses across the country, Amazon Locker gives students a secure, convenient way to pick up packages on their own time at no additional cost.",
+      "publishedAt": "2026-08-11T13:10:33.887000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-82a1b397d389adf881a5",
@@ -107,18 +155,6 @@
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-f10ef3be8746b086f835",
-      "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T10:03:20+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -902,18 +938,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-04e5894ab585e2de19da",
-      "title": "Find out what’s new in the Gemini app in July's Gemini Drop.",
-      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
-      "summary": "Gemini Drops is our regular monthly update on how to get the most out of the Gemini app.",
-      "publishedAt": "2026-07-31T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "about-amazon-5ec7855cf02b31b18c3b",
       "title": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports",
       "link": "https://www.aboutamazon.com/news/entertainment/prime-video-august-movies-shows-music-sports-2026?utm_source=rss",
@@ -936,18 +960,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-f0d3b5f3abe8ba04e924",
-      "title": "Experience the magic of Kosovo from anywhere with Street View",
-      "link": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
-      "summary": "Google Maps brings Street View to Kosovo, offering a virtual tour of its vibrant cities, UNESCO World Heritage site, and natural beauty.",
-      "publishedAt": "2026-07-31T08:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "about-amazon-7de2f918ab31eaad0604",
@@ -1118,18 +1130,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-593442f536418b6ad0d8",
-      "title": "Feed California: How Amazon Employees Are Fighting Hunger Across the State",
-      "link": "https://press.aboutamazon.com/2026/7/feed-california-how-amazon-employees-are-fighting-hunger-across-the-state",
-      "summary": "More than 46,000 pounds of food donated and over 10 million meals delivered to Californians who need it most",
-      "publishedAt": "2026-07-28T18:33:59.656000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-285af763024318afcaad",
       "title": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
       "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
@@ -1188,6 +1188,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-d2e381229b5beb8cfbbe",
@@ -1947,7 +1959,7 @@
     },
     {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
-      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not",
+      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not - galileo-ft.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW5CTklPRHFtTVlIajVQNXNPMmZpRW1lSW5RZXUzYml3dm01Q282X0xWZFdRVlNubGpJU2lSZWNBcDV1ZXlkMFAzOV9JVm5pOHVxOHNSeEVzQl9ERXd3ZU42THAtX2wyYTdUd0k4OVQ2dWVraXpadGNzS01uVjEtMnhIX2dNc1RTTzRna3RzcjQzRFY5azZRcUctSzJ5WV9hRklQaQ?oc=5",
       "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-05-19T07:00:00+00:00",
@@ -2302,6 +2314,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2854,30 +2878,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-732353b06b981481ab01",
-      "title": "Toast Tees Up New Technology Platform for Topgolf",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemYyY0ZaeHE5anZnWFVpdFhhdnB4YkdlZ3JzZ1ZVbm55M0pGcjY4MjlfNTVCenk2aXZ0VEpHTDN0LXpNdnlxcnJaLTlkcEgyTGphejRLYVBGc3YyMWdKNEE4Y0x2emIxRFNHdHByQVVkU3RyX2xWSVpIZ2FEbVY5WmQ5QTFqdw?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-08T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
