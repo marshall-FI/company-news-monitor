@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-08-11T11:59:29.288840+00:00",
+  "generatedAt": "2026-08-11T13:45:54.312840+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-67be862c78fa28fee36c",
+      "title": "Amazon Expands Locker Network to more than 750 U.S. College Locations",
+      "link": "https://press.aboutamazon.com/retail/2026/8/amazon-expands-locker-network-to-more-than-750-u-s-college-locations",
+      "summary": "At campuses across the country, Amazon Locker gives students a secure, convenient way to pick up packages on their own time at no additional cost.",
+      "publishedAt": "2026-08-11T13:10:33.887000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "nvidia-newsroom-82a1b397d389adf881a5",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ec",
+      "publishedAt": "2026-08-11T13:00:25+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-a8ba0b0ace9187dbca9c",
+      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloa",
+      "publishedAt": "2026-08-11T13:00:05+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-6541ad92f1f4dfd4ea51",
+      "title": "Google Health announces a strategic partnership with Abbott, a leader in health and wellness.",
+      "link": "https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/",
+      "summary": "Google Health is teaming up with Abbott to give more holistic views of metabolic and women’s health.",
+      "publishedAt": "2026-08-11T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-ac9e3b2d2f353f60fc0f",
+      "title": "Expanding the Google AI Professional Certificate with vibe coding",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/",
+      "summary": "The Google AI Professional Certificate is now the most popular gen AI program on Coursera, and we are expanding it with vibe coding.",
+      "publishedAt": "2026-08-11T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "coinbase-blog-dcda7f8a0ef2c6216a94",
       "title": "Coinbase Expands Derivatives Access to UK Professional Investors",
@@ -180,6 +240,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -806,30 +878,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-5a01c69735c087a19c57",
-      "title": "Gemini Spark now integrates with Chrome",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
-      "summary": "An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.",
-      "publishedAt": "2026-07-30T20:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-0bb5162dd11b68c148f5",
-      "title": "Introducing Gemini Robotics ER 2",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
-      "summary": "Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "publishedAt": "2026-07-30T15:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "block-investor-news-90b32a615a5f825637fc",
       "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWE9ZTm1QY3l6alRsSUtlc1pLNnJudGVmNEM1WTZROUdubVlJXy1QRDllNVhLTUNtZVlBVHljU0JGdWRqVDNzS3hKT2lRRDBWNGVlUUVSNU9hTDhWUUM0c0Q1ZVVsTGtkamVpc0p6OHg0UG5IY2lXVkhwQ3M0bXd1ZUFVX1VPUXVJakkxWDR3QlQxbnVyTFRPQ1JoaEhsYXJyQlZjSXJYMEZlTmpUZkIwMnZNbjE0MDQ3LWl0WW8zWDJVSUR5dTM4a0NIdlNfVTJBbElieHE4S3NkRVVZaGNyMURYLWpSVV9zekVhN3REdHA3TlRwT3p6bVNkWmN4LTU5NFg3Z1pLLWpTMXR4TWhUNkxaVnA0bWFGSVE?oc=5",
@@ -986,18 +1034,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-593442f536418b6ad0d8",
-      "title": "Feed California: How Amazon Employees Are Fighting Hunger Across the State",
-      "link": "https://press.aboutamazon.com/2026/7/feed-california-how-amazon-employees-are-fighting-hunger-across-the-state",
-      "summary": "More than 46,000 pounds of food donated and over 10 million meals delivered to Californians who need it most",
-      "publishedAt": "2026-07-28T18:33:59.656000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-285af763024318afcaad",
       "title": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
       "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
@@ -1135,30 +1171,6 @@
       "link": "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout",
       "summary": "NAVER, NVIDIA and Brookfield today announced a proposed expansion of Korea's sovereign AI factory infrastructure, with planned investments that will grow the initial NVIDIA® DSX™ AI factory deployment to 200 megawatts — more than tripling the 55-megawatt buildout announced last month. NAVER intends to expand its deploy",
       "publishedAt": "2026-07-25T05:10:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-9f3be46aa89de2e2b5a3",
-      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
-      "link": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
-      "summary": "SK Group and NVIDIA today announced plans for a $500-billion-plus comprehensive partnership to establish AI infrastructure serving the surging demand for global compute. The two sides signed letters of intent to formalize the agreement, which spans from AI factory construction to AI memory supply.",
-      "publishedAt": "2026-07-25T05:10:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-f34cdff744c937a179c8",
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions",
-      "publishedAt": "2026-07-24T04:34:00+00:00",
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
@@ -1430,6 +1442,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1680,6 +1704,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
+      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
+      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
+      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
+      "publishedAt": "2026-06-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-9c111b94f0eda192b8ea",
@@ -2306,6 +2342,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
       "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
       "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
@@ -2364,18 +2412,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
-      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
-      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
-      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
-      "publishedAt": "2026-01-20T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
@@ -2842,42 +2878,6 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-4f5f17b464c2bd52c3eb",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q1 2025 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmhPVzl4bGJKcUpaNlU5YjFwT3lKb3Z1NU5HRVc2UnZHWXh0b05yWUEtNUdmLURES3ZBUjhtWHZIRlZ1SGJIbVR2d296aEluaUdSLWY5MnJHQkVvNjhHelp1LXE1ZzVOOUZrbUV2VUw1cGdqbVdBM2VaRVR4bzRUaWZRWFl6eHZCQ3hIRjFKVmtLYXctVjBJcllKaVBRdG1hZXlUOGMxQ3huLV9ySk04dkJWdDZKT2x1V01ITg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-04T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
-      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
-      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
-      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
-      "publishedAt": "2025-03-26T12:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-74a3e89360e2448fd6f4",
-      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-03-17T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
