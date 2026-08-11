@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T18:10:05.459438+00:00",
+  "generatedAt": "2026-08-11T19:22:43.779110+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-be5857c06a592fc6752a",
@@ -36,18 +36,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-f10ef3be8746b086f835",
-      "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T16:03:20+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-19face5b8e898c911c14",
@@ -179,6 +167,18 @@
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-f10ef3be8746b086f835",
+      "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T10:03:20+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -346,6 +346,18 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-07T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1010,6 +1022,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-acf0119fe09c38f908c6",
+      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
+      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
+      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-1308c676b64cc3b02903",
       "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
       "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
@@ -1164,18 +1188,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-127710ecc139b055cd65",
-      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
-      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
-      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
-      "publishedAt": "2026-07-28T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-d2e381229b5beb8cfbbe",
@@ -1514,18 +1526,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -1754,18 +1754,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
-      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
-      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
-      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
-      "publishedAt": "2026-06-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shopify-pressroom-7b22495b4fef395ea821",
       "title": "Selling everything, everywhere, all at once: The Spring '26 Edition",
       "link": "https://www.shopify.com/news/spring-26-edition-merchant",
@@ -1896,18 +1884,6 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "sofi-press-dedda780f9896cf24a34",
-      "title": "SoFiUSD Becomes the First Stablecoin Issued by a US National Bank to Launch on a Banking Platform",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRVUzeHhJT3ZrSlVHSjFPNjlvZjdZaVcxRldwNVBYbkhVLUVUUkd4TFRfX0l5akZPNkdIMExnZjFQelpRU1phREtzcFhkUkNvVE1DTUpKVkpaWGdPdk5Fd0tVX0pZX1VCV2M2dzBUdmRDZnFXSUUzVGF1N0YwaWJTYkhmTV92dk85RFBLV1dscFlJbWttVGhOY09kMnhZUndOM1N2cFY1V3Uxa0tKZmR3WDhDWDN2dkpOcE1Ga3piOGZEMnFBMnR5R1BBMmtnWTlGWkV6WkRNR29lODFWSmh5U1dzbHNuaTMzN3o0LW9hVk12dw?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-27T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-3467846013eb2e4f3850",
@@ -2294,16 +2270,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-c2fed06b99d719bdfba8",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-03-17T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-5b9e10e4e72eca9105f0",
@@ -2330,10 +2306,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "id": "marqeta-blog-2bdbcd290b41250e2d39",
+      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
+      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
+      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2342,11 +2318,11 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2386,6 +2362,18 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2654,6 +2642,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "sofi-press-e3324a6f95a3ab0ab3d9",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2025 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2FVMnFISnJzRlNFYmJXSzFnYVVadUpsbU1ldVRrc1RzT2k1TnpZVEd1cmE3M0x3Mm1HUGNRU0RaVTBfaElHd3VGclQ0a1l4eTlXVXNLek1tbEdDOXZrbmZZTVRuQzRpbFVqN0hiZGhlWnNVTi15eVhaNzlRUVVLcWpxWVc2cHBJYWZPYWxXWlpQTmM1bHc0TmQyUW5xX2gxSTdBYzFud2NDa3p5NWFfR3BpQTZ3VjlsWWlPYQ?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-10-01T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dave-press-9ad6aca2c340df637c4b",
       "title": "View announcement",
       "link": "https://staging.dave.com/press/news-releases/news-release-details/dave-reports-third-quarter-2025-financial-results",
@@ -2774,6 +2774,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "sofi-press-3ee365bcf3eb441e2f52",
+      "title": "SoFi Technologies, Inc. Announces Public Offering of Common Stock",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVV9ueXpMZ1kxUW55M09mbjktdllDYURWVS1lbUdXZlplYXp5dDBNSVJSSE53MmdvMUdfcXkwLThuanVhQmMwUnFSZnhKaVF6UERJVzVZZERiMUFrOE9zRk12NEtPRXZlMkNhR3dVUmF3WFU4SzhhUGRRSzZHX2puU3dSUk5HVThfeGtwQ1BYZTZlVEh4VDhYS2RneFNYQlZicG1RbDJZekhkM3ZMbmNjVS0yNVRxRmxpeEVLeXJoQ3dVRlB3c0E?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-0e5051ae773bb20f22c0",
       "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
@@ -2868,18 +2880,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-4f5f17b464c2bd52c3eb",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q1 2025 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmhPVzl4bGJKcUpaNlU5YjFwT3lKb3Z1NU5HRVc2UnZHWXh0b05yWUEtNUdmLURES3ZBUjhtWHZIRlZ1SGJIbVR2d296aEluaUdSLWY5MnJHQkVvNjhHelp1LXE1ZzVOOUZrbUV2VUw1cGdqbVdBM2VaRVR4bzRUaWZRWFl6eHZCQ3hIRjFKVmtLYXctVjBJcllKaVBRdG1hZXlUOGMxQ3huLV9ySk04dkJWdDZKT2x1V01ITg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-04T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2898,7 +2898,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 17,
+      "itemCount": 16,
       "message": "OK via official fallback RSS"
     },
     {
