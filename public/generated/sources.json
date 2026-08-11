@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T22:07:50.847346+00:00",
+  "generatedAt": "2026-08-11T23:05:53.388023+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -98,7 +98,7 @@
       "kind": "html",
       "ok": true,
       "itemCount": 10,
-      "message": "STALE: official_google_news: No official Google News fallback configured"
+      "message": "OK"
     },
     {
       "sourceId": "coinbase-blog",

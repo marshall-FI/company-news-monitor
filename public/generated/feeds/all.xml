@@ -4,7 +4,15 @@
     <title>Company News Monitor - All</title>
     <link>https://company-news-monitor.future-inves-2634.chatgpt-team.site</link>
     <description>Generated company news feed.</description>
-    <lastBuildDate>Tue, 11 Aug 2026 22:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:05:53 +0000</lastBuildDate>
+    <item>
+      <title>How Amazon is supporting communities impacted by the Colombia earthquake</title>
+      <link>https://www.aboutamazon.com/news/community/colombia-earthquake-amazon-disaster-relief?utm_source=rss</link>
+      <guid isPermaLink="false">about-amazon-5735f340943ef9a3b222</guid>
+      <description>Amazon is working with local nonprofits to help communities recover.</description>
+      <pubDate>Tue, 11 Aug 2026 22:21:38 +0000</pubDate>
+      <source>About Amazon</source>
+    </item>
     <item>
       <title>Still waiting? Your last chance to grab Great Freedom Sale deals is here!</title>
       <link>https://press.aboutamazon.com/in/2026/8/still-waiting-your-last-chance-to-grab-great-freedom-sale-deals-is-here</link>
@@ -654,14 +662,6 @@
       <source>Amazon Press Archive</source>
     </item>
     <item>
-      <title>Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers</title>
-      <link>https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-aws-revenue-growth-q2-2026-earnings?utm_source=rss</link>
-      <guid isPermaLink="false">about-amazon-7de2f918ab31eaad0604</guid>
-      <description>AWS revenue growth accelerated to 36.7% year over year—the fastest in 18 quarters—with AI and core services driving each other's growth.</description>
-      <pubDate>Fri, 31 Jul 2026 00:22:36 +0000</pubDate>
-      <source>About Amazon</source>
-    </item>
-    <item>
       <title>Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint</title>
       <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxOWE9ZTm1QY3l6alRsSUtlc1pLNnJudGVmNEM1WTZROUdubVlJXy1QRDllNVhLTUNtZVlBVHljU0JGdWRqVDNzS3hKT2lRRDBWNGVlUUVSNU9hTDhWUUM0c0Q1ZVVsTGtkamVpc0p6OHg0UG5IY2lXVkhwQ3M0bXd1ZUFVX1VPUXVJakkxWDR3QlQxbnVyTFRPQ1JoaEhsYXJyQlZjSXJYMEZlTmpUZkIwMnZNbjE0MDQ3LWl0WW8zWDJVSUR5dTM4a0NIdlNfVTJBbElieHE4S3NkRVVZaGNyMURYLWpSVV9zekVhN3REdHA3TlRwT3p6bVNkWmN4LTU5NFg3Z1pLLWpTMXR4TWhUNkxaVnA0bWFGSVE?oc=5</link>
       <guid isPermaLink="false">block-investor-news-90b32a615a5f825637fc</guid>
@@ -796,6 +796,14 @@
       <description>Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Tue, 28 Jul 2026 07:00:00 +0000</pubDate>
       <source>Klarna International Newsroom</source>
+    </item>
+    <item>
+      <title>Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article</title>
+      <link>https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop</link>
+      <guid isPermaLink="false">marqeta-blog-127710ecc139b055cd65</guid>
+      <description>BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership</title>
@@ -1012,14 +1020,6 @@
       <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
       <pubDate>Mon, 13 Jul 2026 07:00:00 +0000</pubDate>
       <source>TSMC Latest News</source>
-    </item>
-    <item>
-      <title>Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article</title>
-      <link>https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments</link>
-      <guid isPermaLink="false">marqeta-blog-5be6ad160600f107b941</guid>
-      <description>Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Small businesses aren't waiting for Washington to catch up</title>
@@ -1582,10 +1582,10 @@
       <source>Circle Pressroom</source>
     </item>
     <item>
-      <title>Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article</title>
-      <link>https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments</link>
-      <guid isPermaLink="false">marqeta-blog-fc97a60f7a3bbc7229bf</guid>
-      <description>Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.</description>
+      <title>Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article</title>
+      <link>https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect</link>
+      <guid isPermaLink="false">marqeta-blog-2bdbcd290b41250e2d39</guid>
+      <description>Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.</description>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <source>Marqeta Blog</source>
     </item>
@@ -1595,6 +1595,14 @@
       <guid isPermaLink="false">marqeta-blog-2d54e3923eade6fa0096</guid>
       <description>82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.</description>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <source>Marqeta Blog</source>
+    </item>
+    <item>
+      <title>BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article</title>
+      <link>https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday</link>
+      <guid isPermaLink="false">marqeta-blog-5f8d85b29fe46f36b3c1</guid>
+      <description>Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.</description>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <source>Marqeta Blog</source>
     </item>
     <item>
@@ -1916,14 +1924,6 @@
       <description>Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.</description>
       <pubDate>Mon, 12 May 2025 13:00:00 +0000</pubDate>
       <source>Wise Newsroom</source>
-    </item>
-    <item>
-      <title>Toast Tees Up New Technology Platform for Topgolf</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOemYyY0ZaeHE5anZnWFVpdFhhdnB4YkdlZ3JzZ1ZVbm55M0pGcjY4MjlfNTVCenk2aXZ0VEpHTDN0LXpNdnlxcnJaLTlkcEgyTGphejRLYVBGc3YyMWdKNEE4Y0x2emIxRFNHdHByQVVkU3RyX2xWSVpIZ2FEbVY5WmQ5QTFqdw?oc=5</link>
-      <guid isPermaLink="false">toast-product-news-732353b06b981481ab01</guid>
-      <description>Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Thu, 08 May 2025 07:00:00 +0000</pubDate>
-      <source>Toast POS Product News</source>
     </item>
   </channel>
 </rss>
