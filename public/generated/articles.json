@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:19:49.867291+00:00",
+  "generatedAt": "2026-08-11T16:15:58.254455+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-38a0519a43d4c8dc1965",
@@ -26,16 +26,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-67be862c78fa28fee36c",
-      "title": "Amazon Expands Locker Network to more than 750 U.S. College Locations",
-      "link": "https://press.aboutamazon.com/retail/2026/8/amazon-expands-locker-network-to-more-than-750-u-s-college-locations",
-      "summary": "At campuses across the country, Amazon Locker gives students a secure, convenient way to pick up packages on their own time at no additional cost.",
-      "publishedAt": "2026-08-11T13:10:33.887000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "id": "paypal-newsroom-cccfa8c5c952c9483c9d",
+      "title": "PayPal World Enables US Travelers to Pay Like a Local at Weixin Pay Merchants Across China",
+      "link": "https://newsroom.paypal-corp.com/2026-08-11-PayPal-World-Enables-US-Travelers-to-Pay-Like-a-Local-at-Weixin-Pay-Merchants-Across-China",
+      "summary": "US PayPal users can use their PayPal app to pay at Weixin Pay merchants in China, with no additional app or local bank account required",
+      "publishedAt": "2026-08-11T14:34:00+00:00",
+      "sourceId": "paypal-newsroom",
+      "sourceName": "PayPal Newsroom",
+      "company": "PayPal",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-82a1b397d389adf881a5",
@@ -110,6 +110,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "coinbase-blog-f10ef3be8746b086f835",
+      "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T10:03:20+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "coinbase-blog-dcda7f8a0ef2c6216a94",
       "title": "Coinbase Expands Derivatives Access to UK Professional Investors",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZURvcE9oaVlRcDZ2MkNsRmJia2ptTXZaWmg1LVBMcDZqd1hDMXgzZHNrUUFhYlRGUGdxTnlybTN6OVptQkU2THdjSTdIMnMxSDNpcWV6NUFOdXZJTlRsZ1JnWFlPUVZMS0QtSzdXYVpqRlV4YnctLUF0N2NVRjYwQlpvUHdWSmhmVlNybzA2elBKQzVRZGotX1ln?oc=5",
@@ -122,9 +134,9 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-f10ef3be8746b086f835",
-      "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
+      "id": "coinbase-blog-458b51a021c6614a95fe",
+      "title": "Getting paid in crypto just got a lot more powerful with Coinbase Business",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNekktQ2MzWVQ0V3hsR2dZWFM3VnFQUlN1SnNiQ1hUWUxOaDUxOWFGOVJBQmRaSnQ1dEYxYU1yVjU4R1dqUVZFX1drVG1wdmxBVXFvcXhkbkZLUTZEVV9hcW1MXzFsUU9iV01fSUhmQndvYzlxSGxKSjMxMk84bkpSLWV5WS1hcEZrc2l0dEZ4dm5OVm5NLWtZdy1GcEExYVNIZG9zOVlIZw?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-08-11T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -192,6 +204,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
@@ -288,6 +312,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -1082,6 +1118,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "amazon-press-archive-593442f536418b6ad0d8",
+      "title": "Feed California: How Amazon Employees Are Fighting Hunger Across the State",
+      "link": "https://press.aboutamazon.com/2026/7/feed-california-how-amazon-employees-are-fighting-hunger-across-the-state",
+      "summary": "More than 46,000 pounds of food donated and over 10 million meals delivered to Californians who need it most",
+      "publishedAt": "2026-07-28T18:33:59.656000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-285af763024318afcaad",
       "title": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
       "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
@@ -1466,18 +1514,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1742,18 +1778,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "paypal-newsroom-9c111b94f0eda192b8ea",
-      "title": "PayPal Ads Delivers Bottom-Line Growth Advertisers Can Measure",
-      "link": "https://newsroom.paypal-corp.com/2026-06-22-PayPal-Ads-Delivers-Bottom-Line-Growth-Advertisers-Can-Measure",
-      "summary": "Campaigns from Adorama, Best Buy, and Etsy demonstrate how PayPal's cross-merchant Transaction Graph and Storefront Ads translate into real business growth.",
-      "publishedAt": "2026-06-22T06:00:00+00:00",
-      "sourceId": "paypal-newsroom",
-      "sourceName": "PayPal Newsroom",
-      "company": "PayPal",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "shopify-pressroom-7b22495b4fef395ea821",
       "title": "Selling everything, everywhere, all at once: The Spring '26 Edition",
       "link": "https://www.shopify.com/news/spring-26-edition-merchant",
@@ -1923,7 +1947,7 @@
     },
     {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
-      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not - galileo-ft.com",
+      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW5CTklPRHFtTVlIajVQNXNPMmZpRW1lSW5RZXUzYml3dm01Q282X0xWZFdRVlNubGpJU2lSZWNBcDV1ZXlkMFAzOV9JVm5pOHVxOHNSeEVzQl9ERXd3ZU42THAtX2wyYTdUd0k4OVQ2dWVraXpadGNzS01uVjEtMnhIX2dNc1RTTzRna3RzcjQzRFY5azZRcUctSzJ5WV9hRklQaQ?oc=5",
       "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-05-19T07:00:00+00:00",
@@ -2282,18 +2306,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-1fc919b6cdd114307e6a",
-      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
-      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
-      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2304,6 +2316,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2582,18 +2606,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-66a6995a783cf73767a6",
-      "title": "Coinbase Business Marks its International Debut by Launching in Singapore",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kbWpQU0FTWFd5bVVCOFluXzJZckNjWV9DWUJqbDR1Y2lJbDhMQXVXNjdjOGxEdVhITzlQTlBja2RMM2ktMXJtYXl0M0psbU1MSFBveGJaS2puUDZxME9JU2tlcWdEd0EzTlNYQ2lfVXNidERZSGdiU1EwNi1kMjhBZ2RIazVsOW5hR3hLMXVLU1dUaWxiLTRPSTBEcHR1Ym1SNnFn?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-11-12T08:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-0b5deb4b6cc8f6140ce3",
       "title": "El Buen Fin 2025: Mexico’s USD $9B sales weekend",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/el-buen-fin-2025-mexicos-usd-9b-sales-weekend/",
@@ -2863,18 +2875,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemYyY0ZaeHE5anZnWFVpdFhhdnB4YkdlZ3JzZ1ZVbm55M0pGcjY4MjlfNTVCenk2aXZ0VEpHTDN0LXpNdnlxcnJaLTlkcEgyTGphejRLYVBGc3YyMWdKNEE4Y0x2emIxRFNHdHByQVVkU3RyX2xWSVpIZ2FEbVY5WmQ5QTFqdw?oc=5",
       "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-05-08T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T12:52:42+00:00",
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
