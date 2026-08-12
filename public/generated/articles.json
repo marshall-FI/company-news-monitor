@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-12T08:43:05.981505+00:00",
+  "generatedAt": "2026-08-12T10:23:38.033576+00:00",
   "articles": [
+    {
+      "id": "coinbase-blog-4c208dfea4fb4409c4ce",
+      "title": "Coinbase launches a new matching engine, upgrading its derivatives platform with ultra-low latency and deep liquidity",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXeENaV0RQQ3dFMTgwbjNhVzFUOEZoSF8zNHoxMGVha2FnSzdnZ29zX0JjZFpMWlFJdlc0dHNHeE4wQUNWdGZOdC1yMzlyaE5TRExBcnFBaHZLZEx0TVJPV3NSWFBSOUtjM18tTTZZb202OVNhT09JSg?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-12T09:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "nvidia-newsroom-90efa435138feda2a8d7",
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
@@ -410,18 +422,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "about-amazon-d8bd7498542333ea9112",
       "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
       "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
@@ -756,6 +756,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-94504e23e78d674ea587",
+      "title": "Investor Relations",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeVBmS05RSnJCNXVSRThwX1c3RWFuNC1Kd2lFVENyWDVjVHVTZkUtQVU3b0dkdUxXZU5FM0U1OFZ0dF9HU0FocjZkX2xVWC0teTIxSlB5Yl9SSE9E?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-05T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "circle-pressroom-682fc0f0a032d29d0c55",
@@ -1286,6 +1298,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-c45c5739261a04a03c48",
       "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-platinum-card-rollout",
@@ -1474,18 +1498,6 @@
       "sourceId": "shopify-pressroom",
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2330,18 +2342,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-2bdbcd290b41250e2d39",
       "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
       "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
@@ -2592,18 +2592,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-66a6995a783cf73767a6",
-      "title": "Coinbase Business Marks its International Debut by Launching in Singapore",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kbWpQU0FTWFd5bVVCOFluXzJZckNjWV9DWUJqbDR1Y2lJbDhMQXVXNjdjOGxEdVhITzlQTlBja2RMM2ktMXJtYXl0M0psbU1MSFBveGJaS2puUDZxME9JU2tlcWdEd0EzTlNYQ2lfVXNidERZSGdiU1EwNi1kMjhBZ2RIazVsOW5hR3hLMXVLU1dUaWxiLTRPSTBEcHR1Ym1SNnFn?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-11-12T08:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-0b5deb4b6cc8f6140ce3",
@@ -2875,6 +2863,18 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemYyY0ZaeHE5anZnWFVpdFhhdnB4YkdlZ3JzZ1ZVbm55M0pGcjY4MjlfNTVCenk2aXZ0VEpHTDN0LXpNdnlxcnJaLTlkcEgyTGphejRLYVBGc3YyMWdKNEE4Y0x2emIxRFNHdHByQVVkU3RyX2xWSVpIZ2FEbVY5WmQ5QTFqdw?oc=5",
       "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-05-08T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "toast-product-news-f1edeecf1136f3bc7b45",
+      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-01T12:52:42+00:00",
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
