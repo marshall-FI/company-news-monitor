@@ -1,18 +1,6 @@
 {
-  "generatedAt": "2026-08-12T18:10:19.406076+00:00",
+  "generatedAt": "2026-08-12T19:23:34.768830+00:00",
   "articles": [
-    {
-      "id": "amazon-press-archive-7ad6e61c788b88eae0f1",
-      "title": "Axiad Achieves FedRAMP® Moderate Authorization on AWS, Giving Federal Agencies a Faster Path to Modernize PKI and Phishing-Resistant Identity",
-      "link": "https://press.aboutamazon.com/aws/2026/8/axiad-achieves-fedramp-moderate-authorization-on-aws-giving-federal-agencies-a-faster-path-to-modernize-pki-and-phishing-resistant-identity",
-      "summary": "Powered by Amazon Web Services for cloud-first deployment and procurement, Axiad Conductor lets agencies issue and manage Derived PIV Credentials and run dedicated PKI-as-a-Service, modernizing legacy PKI, extending PIV-level assurance to mobile and alternative authenticators, and centralizing the…",
-      "publishedAt": "2026-08-12T17:08:03.930000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
     {
       "id": "about-amazon-ca5deb7933cafbf95c5a",
       "title": "How Amazon's AI shopping assistant makes hundreds of millions of products feel personal",
@@ -34,6 +22,18 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-6f9b67c20b2ae3791b38",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+      "summary": "The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -86,34 +86,22 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-04716bb994ac979d16cf",
-      "title": "Keep tabs on your valuables with Google Pixel Tag",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
-      "summary": "Google Pixel Tag locates keys, wallets, and luggage via Bluetooth Channel Sounding and Find Hub. Check specs, price, and compatibility.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-53c2596545e6e2deebaa",
-      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "summary": "Google Pixel Watch 5 offers proactive alerts, low-latency Gemini AI features, and health tracking to keep you connected.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-5248c83ef0b7b406d130",
       "title": "Here’s your first look at the newest Pixel devices.",
       "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
       "summary": "Here’s a first look at our new Pixel devices, including new Pixel 11 phones, Pixel Watch 5, and our first-ever Pixel Tag.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-02860cd00a3daba1bafe",
+      "title": "Here are 3 ways your Pixel just got even more helpful.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
+      "summary": "Our Pixel 11 phones are packed with helpful updates, like Magic Capture, Rambler, and HiLight. Here, a Googler shares his favorites.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -146,6 +134,42 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-04716bb994ac979d16cf",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "summary": "Google Pixel Tag locates keys, wallets, and luggage via Bluetooth Channel Sounding and Find Hub. Check specs, price, and compatibility.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-53c2596545e6e2deebaa",
+      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "summary": "Google Pixel Watch 5 offers proactive alerts, low-latency Gemini AI features, and health tracking to keep you connected.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-5299dc412dc9ce25fc42",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-45a31b2df946f95cfa9c",
       "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
       "link": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
@@ -162,30 +186,6 @@
       "title": "How your Pixel Watch steps in if you stop breathing",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
       "summary": "Breathing emergency detection calls emergency services when you stop breathing so you can get potentially life-saving care.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-6f9b67c20b2ae3791b38",
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-      "summary": "The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-5299dc412dc9ce25fc42",
-      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -386,18 +386,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6541ad92f1f4dfd4ea51",
-      "title": "Google Health announces a strategic partnership with Abbott, a leader in health and wellness.",
-      "link": "https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/",
-      "summary": "Google Health is teaming up with Abbott to give more holistic views of metabolic and women’s health.",
-      "publishedAt": "2026-08-11T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "tsmc-news-b2720e8e8e1e2b162feb",
       "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
@@ -564,6 +552,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -1046,15 +1046,15 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-acf0119fe09c38f908c6",
-      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
-      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
-      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
+      "id": "amazon-press-archive-85b8351583be18e2768b",
+      "title": "Con Amazon Family, i clienti Prime in Italia possono ora invitare un altro adulto del proprio nucleo familiare a condividere i benefici Prime senza costi aggiuntivi",
+      "link": "https://press.aboutamazon.com/it/news/amazon-prime/2026/7/amazon-family-invitare-familiare-benefici-prime",
+      "summary": "Amazon Family è ufficialmente disponibile in Italia e mette a disposizione dei clienti Prime un modo semplice per condividere molti dei propri benefici Prime con un altro adulto del nucleo familiare, senza dover condividere l’account.",
+      "publishedAt": "2026-07-30T07:33:00.921000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1200,18 +1200,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-127710ecc139b055cd65",
-      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
-      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
-      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
-      "publishedAt": "2026-07-28T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-d2e381229b5beb8cfbbe",
@@ -2359,6 +2347,18 @@
       "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
       "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
