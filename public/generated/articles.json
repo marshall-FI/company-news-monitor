@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:05:39.076540+00:00",
+  "generatedAt": "2026-08-12T23:04:29.603356+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-7ad6e61c788b88eae0f1",
@@ -1070,18 +1070,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-acf0119fe09c38f908c6",
-      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
-      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
-      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-1308c676b64cc3b02903",
       "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
       "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
@@ -1514,18 +1502,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1534,18 +1510,6 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2330,18 +2294,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2350,6 +2302,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
+      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
+      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
+      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2378,6 +2342,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
+      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
+      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
+      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
+      "publishedAt": "2026-02-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
       "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
       "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
@@ -2398,6 +2374,18 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2798,18 +2786,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-2226f61adf7d292adf5a",
       "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
@@ -2878,6 +2854,30 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
+      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
+      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
+      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
+      "publishedAt": "2025-03-26T12:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-74a3e89360e2448fd6f4",
+      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-17T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
