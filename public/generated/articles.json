@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-12T19:23:34.768830+00:00",
+  "generatedAt": "2026-08-12T21:06:25.686969+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-7ad6e61c788b88eae0f1",
+      "title": "Axiad Achieves FedRAMP® Moderate Authorization on AWS, Giving Federal Agencies a Faster Path to Modernize PKI and Phishing-Resistant Identity",
+      "link": "https://press.aboutamazon.com/aws/2026/8/axiad-achieves-fedramp-moderate-authorization-on-aws-giving-federal-agencies-a-faster-path-to-modernize-pki-and-phishing-resistant-identity",
+      "summary": "Powered by Amazon Web Services for cloud-first deployment and procurement, Axiad Conductor lets agencies issue and manage Derived PIV Credentials and run dedicated PKI-as-a-Service, modernizing legacy PKI, extending PIV-level assurance to mobile and alternative authenticators, and centralizing the…",
+      "publishedAt": "2026-08-12T17:08:03.930000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "about-amazon-ca5deb7933cafbf95c5a",
       "title": "How Amazon's AI shopping assistant makes hundreds of millions of products feel personal",
@@ -554,18 +566,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "about-amazon-d8bd7498542333ea9112",
       "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
       "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
@@ -998,6 +998,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-734bfda51cb56285b144",
+      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
+      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
+      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
+      "publishedAt": "2026-08-03T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "about-amazon-ccaedd782979f8ed5894",
       "title": "How Amazon became one of the world’s top chip companies in a decade",
       "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history?utm_source=rss",
@@ -1044,18 +1056,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-85b8351583be18e2768b",
-      "title": "Con Amazon Family, i clienti Prime in Italia possono ora invitare un altro adulto del proprio nucleo familiare a condividere i benefici Prime senza costi aggiuntivi",
-      "link": "https://press.aboutamazon.com/it/news/amazon-prime/2026/7/amazon-family-invitare-familiare-benefici-prime",
-      "summary": "Amazon Family è ufficialmente disponibile in Italia e mette a disposizione dei clienti Prime un modo semplice per condividere molti dei propri benefici Prime con un altro adulto del nucleo familiare, senza dover condividere l’account.",
-      "publishedAt": "2026-07-30T07:33:00.921000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-1308c676b64cc3b02903",
@@ -1200,6 +1200,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-d2e381229b5beb8cfbbe",
@@ -2868,18 +2880,6 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-bacdd251daca40559e7e",
-      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-18T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2959,10 +2959,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 2,
-      "message": "OK via rendered HTML"
+      "itemCount": 3,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "paypal-newsroom",
