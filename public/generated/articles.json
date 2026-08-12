@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-12T16:13:27.046296+00:00",
+  "generatedAt": "2026-08-12T17:15:07.999250+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-7ad6e61c788b88eae0f1",
+      "title": "Axiad Achieves FedRAMP® Moderate Authorization on AWS, Giving Federal Agencies a Faster Path to Modernize PKI and Phishing-Resistant Identity",
+      "link": "https://press.aboutamazon.com/aws/2026/8/axiad-achieves-fedramp-moderate-authorization-on-aws-giving-federal-agencies-a-faster-path-to-modernize-pki-and-phishing-resistant-identity",
+      "summary": "Powered by Amazon Web Services for cloud-first deployment and procurement, Axiad Conductor lets agencies issue and manage Derived PIV Credentials and run dedicated PKI-as-a-Service, modernizing legacy PKI, extending PIV-level assurance to mobile and alternative authenticators, and centralizing the…",
+      "publishedAt": "2026-08-12T17:08:03.930000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-ca5deb7933cafbf95c5a",
+      "title": "How Amazon's AI shopping assistant makes hundreds of millions of products feel personal",
+      "link": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-learn-and-be-curious-podcast?utm_source=rss",
+      "summary": "Doug Herrington, Amazon's CEO of Worldwide Stores, explains why conversational AI is the next format shift in retail—just as the catalog gave way to the search bar.",
+      "publishedAt": "2026-08-12T16:55:18+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-ccb8d606b747f3e0e893",
       "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
@@ -137,7 +161,7 @@
       "id": "google-blog-abf2ce6d0c455ed2debb",
       "title": "How your Pixel Watch steps in if you stop breathing",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
-      "summary": "Breathing Emergency Detection calls emergency services when you stop breathing so you can get potentially life-saving care.",
+      "summary": "Breathing emergency detection calls emergency services when you stop breathing so you can get potentially life-saving care.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -552,18 +576,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -1010,18 +1022,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-5ec7855cf02b31b18c3b",
-      "title": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports",
-      "link": "https://www.aboutamazon.com/news/entertainment/prime-video-august-movies-shows-music-sports-2026?utm_source=rss",
-      "summary": "Prime Video’s August lineup also features a series with Bear Grylls and a Novak Djokovic documentary.",
-      "publishedAt": "2026-07-31T13:00:17+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-5acd543662506d552c33",
       "title": "Amazon.pl zostaje Oficjalnym Partnerem ORLEN Ekstraligi Kobiet oraz ORLEN Pucharu Polski Kobiet",
       "link": "https://press.aboutamazon.com/pl/2026/7/amazon-pl-zostaje-oficjalnym-partnerem-orlen-ekstraligi-kobiet-oraz-orlen-pucharu-polski-kobiet",
@@ -1056,18 +1056,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-85b8351583be18e2768b",
-      "title": "Con Amazon Family, i clienti Prime in Italia possono ora invitare un altro adulto del proprio nucleo familiare a condividere i benefici Prime senza costi aggiuntivi",
-      "link": "https://press.aboutamazon.com/it/news/amazon-prime/2026/7/amazon-family-invitare-familiare-benefici-prime",
-      "summary": "Amazon Family è ufficialmente disponibile in Italia e mette a disposizione dei clienti Prime un modo semplice per condividere molti dei propri benefici Prime con un altro adulto del nucleo familiare, senza dover condividere l’account.",
-      "publishedAt": "2026-07-30T07:33:00.921000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-acf0119fe09c38f908c6",
@@ -1514,6 +1502,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
-      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not - galileo-ft.com",
+      "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW5CTklPRHFtTVlIajVQNXNPMmZpRW1lSW5RZXUzYml3dm01Q282X0xWZFdRVlNubGpJU2lSZWNBcDV1ZXlkMFAzOV9JVm5pOHVxOHNSeEVzQl9ERXd3ZU42THAtX2wyYTdUd0k4OVQ2dWVraXpadGNzS01uVjEtMnhIX2dNc1RTTzRna3RzcjQzRFY5azZRcUctSzJ5WV9hRklQaQ?oc=5",
       "summary": "Galileo Technologies Blog published an update for Galileo relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-05-19T07:00:00+00:00",
@@ -2318,18 +2318,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2354,11 +2342,11 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
-      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
-      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
-      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
-      "publishedAt": "2026-02-17T00:00:00+00:00",
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2386,18 +2374,6 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
-      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
-      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
-      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2878,6 +2854,30 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
+      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
+      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
+      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
+      "publishedAt": "2025-03-26T12:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-74a3e89360e2448fd6f4",
+      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-17T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
