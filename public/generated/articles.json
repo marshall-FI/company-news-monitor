@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-13T15:19:15.158734+00:00",
+  "generatedAt": "2026-08-13T16:13:48.936992+00:00",
   "articles": [
+    {
+      "id": "google-blog-52c9f3f185be8e46032d",
+      "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
+      "summary": "HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone is down.",
+      "publishedAt": "2026-08-13T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-ee0612eda4b2ab6b3ade",
+      "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
+      "summary": "Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying to capture them.",
+      "publishedAt": "2026-08-13T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-21c812e92ccbbe9606d0",
       "title": "Omni experts share what excites them most about the model.",
@@ -26,18 +50,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-e47d3c33ab2a2deff4de",
-      "title": "Oracle and AWS Deepen Strategic Collaboration as Enterprise Adoption of Oracle AI Database@AWS Accelerates",
-      "link": "https://press.aboutamazon.com/aws/2026/8/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-database-aws-accelerates",
-      "summary": "Oracle and AWS expand long-term strategic collaboration agreement to accelerate customer migration, with Oracle AI Database@AWS now available in 22 AWS Regions and offering new expanded capabilitiesNew Oracle Exadata Database Service on Exascale Infrastructure, now generally available, extends…",
-      "publishedAt": "2026-08-13T12:02:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shopify-pressroom-7b0b1510811570bf575b",
       "title": "Commerce now moves at the speed of culture. And anyone can move with it.",
       "link": "https://www.shopify.com/news/culture-becomes-commerce",
@@ -48,18 +60,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-4982f8b850a0395c1512",
-      "title": "Deribit receives Broker-Dealer Licence from Dubai's VARA, connecting clients to Coinbase Exchange liquidity",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0lFSWwydkJtR1BvcU41bWI2YW1yMGNiUnhJUUZROUFYMHBuTUl1ajV4MW1xY0piQnRLbV9HR3IyYjl4MEh3Z3ZwLS01UjZMVHI5TjlHMUlHX0cyVDZES0YzSW9yRHRuTV82OU9WT0NnR1UzMzllV0xOVlduQVZRSUc5VjJiMERqeDM3OA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-13T09:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-0f6d9cadff9fb2a4ed22",
@@ -122,34 +122,22 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-abf2ce6d0c455ed2debb",
-      "title": "How your Pixel Watch steps in if you stop breathing",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
-      "summary": "Breathing emergency detection calls emergency services when you stop breathing so you can get potentially life-saving care.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-0f3aae81898feb94204e",
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
-      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-f7852893bc4e1b3c4688",
       "title": "Sharing between Pixel devices is now just a tap away.",
       "link": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
       "summary": "Sharing between Android devices is even easier, starting with Pixel. Use Quick Share and tap to send contact info and more.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-5299dc412dc9ce25fc42",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -174,30 +162,6 @@
       "title": "7 can’t-miss updates from our Pixel 11 launch",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
       "summary": "The new Pixel 11 lineup offers the best of Gemini Intelligence and brings our biggest camera upgrades in years.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-857c0fc208df375805f2",
-      "title": "The Pixel 11 series: Your most personal Pixel yet",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
-      "summary": "Discover the Google Pixel 11 lineup featuring updated camera hardware, the Tensor G6 chip, LED HiLight notifications and faster Gemini AI support.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-04716bb994ac979d16cf",
-      "title": "Keep tabs on your valuables with Google Pixel Tag",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
-      "summary": "Google Pixel Tag locates keys, wallets, and luggage via Bluetooth Channel Sounding and Find Hub. Check specs, price, and compatibility.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -254,6 +218,42 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-0f3aae81898feb94204e",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-857c0fc208df375805f2",
+      "title": "The Pixel 11 series: Your most personal Pixel yet",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
+      "summary": "Discover the Google Pixel 11 lineup featuring updated camera hardware, the Tensor G6 chip, LED HiLight notifications and faster Gemini AI support.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-04716bb994ac979d16cf",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "summary": "Google Pixel Tag locates keys, wallets, and luggage via Bluetooth Channel Sounding and Find Hub. Check specs, price, and compatibility.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-53c2596545e6e2deebaa",
       "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
@@ -278,10 +278,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-5299dc412dc9ce25fc42",
-      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
+      "id": "google-blog-abf2ce6d0c455ed2debb",
+      "title": "How your Pixel Watch steps in if you stop breathing",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
+      "summary": "Breathing emergency detection calls emergency services when you stop breathing so you can get potentially life-saving care.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -360,30 +360,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-012e30e2c241e587c143",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-      "publishedAt": "2026-08-11T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-7bf5671a785772176b91",
-      "title": "Stream free movies and shows on Google TV Freeplay",
-      "link": "https://blog.google/products-and-platforms/platforms/google-tv/google-freeplay-free-on-demand-tv-shows-movies/",
-      "summary": "Google TV Freeplay now offers over 10,000 free on-demand movies and shows, — plus, 300+ live channels, with no subscription needed.",
-      "publishedAt": "2026-08-11T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "coinbase-blog-458b51a021c6614a95fe",
@@ -502,6 +478,18 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1070,6 +1058,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-734bfda51cb56285b144",
+      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
+      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
+      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
+      "publishedAt": "2026-08-03T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "about-amazon-ccaedd782979f8ed5894",
       "title": "How Amazon became one of the world’s top chip companies in a decade",
       "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history?utm_source=rss",
@@ -1272,18 +1272,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-127710ecc139b055cd65",
-      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
-      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
-      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
-      "publishedAt": "2026-07-28T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-d2e381229b5beb8cfbbe",
@@ -1562,18 +1550,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1764,6 +1740,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "amazon-press-archive-ddac1eca9a9e8339db28",
+      "title": "Amazon.com Announces Second Quarter Results",
+      "link": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/",
+      "summary": "Net sales increased 20% year-over-year Operating income was $27.5 billion, up 43% year-over-year AWS net sales increased 37%—its fastest growth in 18 quarters—to a $169 billion annualized revenue run rate Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2026. Net s",
+      "publishedAt": "2026-06-30T00:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-1a6c069fbf432d9b29dc",
@@ -2342,18 +2330,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2370,6 +2346,18 @@
       "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
       "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
       "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-2bdbcd290b41250e2d39",
+      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
+      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
+      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -2448,6 +2436,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
@@ -2846,6 +2846,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-c22901d5296e709477b9",
+      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-20T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-3aed8c2dde6ade06a126",
       "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
       "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
@@ -2858,28 +2870,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
-      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
-      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
-      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
-      "publishedAt": "2025-03-26T12:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
+      "id": "toast-product-news-f1edeecf1136f3bc7b45",
+      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-01T12:52:42+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-1290adaef7c4f7d6d12e",
-      "title": "Hidden Growth Tax on US Small Businesses is Hindering Development and Expansion",
-      "link": "https://newsroom.wise.com/en-NAM/247279-hidden-growth-tax-on-us-small-businesses-is-hindering-development-and-expansion/",
-      "summary": "A new Wise study reveals that US small businesses lose $153B to hidden fees in financial transactions. These fees act as an unfair 'growth tax' limiting small businesses' ability to plan ahead and remain competitive in today's digital economy.",
-      "publishedAt": "2025-02-25T17:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2887,19 +2887,19 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "category": "Fintech Blogs",
-      "kind": "rss",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 11,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 6,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 16,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "marqeta-blog",
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 8,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
@@ -2986,10 +2986,10 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "upstart-press",
@@ -3013,10 +3013,10 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 8,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "dave-press",
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 1,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "chime-newsroom",
@@ -3085,10 +3085,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "html",
-      "ok": false,
-      "itemCount": 0,
-      "message": "official_google_news: HTTP Error 503: Service Unavailable"
+      "kind": "google_news",
+      "ok": true,
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "trade-desk-press-room",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 4,
-      "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
