@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-13T16:13:48.936992+00:00",
+  "generatedAt": "2026-08-13T17:14:49.825619+00:00",
   "articles": [
+    {
+      "id": "google-blog-69cbe3169a5b0bf89f73",
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
+      "publishedAt": "2026-08-13T17:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-7756c5823dfb77e3adfe",
+      "title": "5 ways Amazon is investing in Maryland",
+      "link": "https://www.aboutamazon.com/news/community/amazon-investment-maryland-jobs-infrastructure-small-business?utm_source=rss",
+      "summary": "Amazon's investments are boosting the state's economy while creating opportunities for those who call Maryland home.",
+      "publishedAt": "2026-08-13T16:20:49+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-52c9f3f185be8e46032d",
       "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
@@ -50,6 +74,30 @@
       "sourceKind": "rss"
     },
     {
+      "id": "amazon-press-archive-e47d3c33ab2a2deff4de",
+      "title": "Oracle and AWS Deepen Strategic Collaboration as Enterprise Adoption of Oracle AI Database@AWS Accelerates",
+      "link": "https://press.aboutamazon.com/aws/2026/8/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-database-aws-accelerates",
+      "summary": "Oracle and AWS expand long-term strategic collaboration agreement to accelerate customer migration, with Oracle AI Database@AWS now available in 22 AWS Regions and offering new expanded capabilitiesNew Oracle Exadata Database Service on Exascale Infrastructure, now generally available, extends…",
+      "publishedAt": "2026-08-13T12:02:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "klarna-press-1b921d94f57740ea8f0b",
+      "title": "The fairest of them all: Klarna supercharges memberships, removing fees, boosting cashback and increasing annual value to as much as €6,000",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdUxVMUVETnhxOEdtM0E5NFd0c0VRc0FkdjNjdFcwUmo0c0RQTGh5YWtJc1A5NkIwckJoN1ZsUnhkWEFBTjVPVFUtRTVaRVZZNXV5c3I3a1FqSERRbFljV3RiVUtlUzlxNWZybXdaWV9iNXV1YXJJR2Y3LV9PUm1GRUNjd0Y0SlE5eS14ZW5vNkx0R1ZlZlhfamFPcXpkd1RKZ1FQSjZHaU84a18tbkFKUWg2QWxNVHduSEd4NlJPR1FGT2RQSjZwbVVuWmUwSGdINHhNckxiWld2ZU9yYkVlcTU3ZmxxZGhxNXRBd0pYQWlLanozRGpSeHBXNWZVcVJTUUFVNFFsTVJDTVp6ZlV3?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-13T11:37:12+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "shopify-pressroom-7b0b1510811570bf575b",
       "title": "Commerce now moves at the speed of culture. And anyone can move with it.",
       "link": "https://www.shopify.com/news/culture-becomes-commerce",
@@ -70,6 +118,18 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-f9eefd05739e5844daf0",
+      "title": "The Baked Bear Eyes Further Growth with Square as the Cookie Ice Cream Sandwich Brand Continues to Expand",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/The-Baked-Bear-Eyes-Further-Growth-with-Square-as-the-Cookie-Ice-Cream-Sandwich-Brand-Continues-to-Expand/default.aspx",
+      "summary": "The handcrafted ice cream sandwich concept plans to add at least five locations to its 36-location national portfolio over the coming year Square today announced that The Baked Bear , the beloved handcrafted cookie ice cream sandwich concept founded in San Diego in 2013, is continuing to grow on Square as it expands it",
+      "publishedAt": "2026-08-13T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -146,10 +206,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6f9b67c20b2ae3791b38",
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-      "summary": "The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.",
+      "id": "google-blog-857c0fc208df375805f2",
+      "title": "The Pixel 11 series: Your most personal Pixel yet",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
+      "summary": "Discover the Google Pixel 11 lineup featuring updated camera hardware, the Tensor G6 chip, LED HiLight notifications and faster Gemini AI support.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -158,10 +218,22 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6321cd294fd97fe04f87",
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
-      "summary": "The new Pixel 11 lineup offers the best of Gemini Intelligence and brings our biggest camera upgrades in years.",
+      "id": "google-blog-04716bb994ac979d16cf",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "summary": "Google Pixel Tag locates keys, wallets, and luggage via Bluetooth Channel Sounding and Find Hub. Check specs, price, and compatibility.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-53c2596545e6e2deebaa",
+      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "summary": "Google Pixel Watch 5 offers proactive alerts, low-latency Gemini AI features, and health tracking to keep you connected.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -218,46 +290,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0f3aae81898feb94204e",
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
-      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-857c0fc208df375805f2",
-      "title": "The Pixel 11 series: Your most personal Pixel yet",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
-      "summary": "Discover the Google Pixel 11 lineup featuring updated camera hardware, the Tensor G6 chip, LED HiLight notifications and faster Gemini AI support.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-04716bb994ac979d16cf",
-      "title": "Keep tabs on your valuables with Google Pixel Tag",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
-      "summary": "Google Pixel Tag locates keys, wallets, and luggage via Bluetooth Channel Sounding and Find Hub. Check specs, price, and compatibility.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-53c2596545e6e2deebaa",
-      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "summary": "Google Pixel Watch 5 offers proactive alerts, low-latency Gemini AI features, and health tracking to keep you connected.",
+      "id": "google-blog-6321cd294fd97fe04f87",
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "summary": "The new Pixel 11 lineup offers the best of Gemini Intelligence and brings our biggest camera upgrades in years.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -278,10 +314,22 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-abf2ce6d0c455ed2debb",
-      "title": "How your Pixel Watch steps in if you stop breathing",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
-      "summary": "Breathing emergency detection calls emergency services when you stop breathing so you can get potentially life-saving care.",
+      "id": "google-blog-6f9b67c20b2ae3791b38",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+      "summary": "The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-0f3aae81898feb94204e",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -506,6 +554,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-062287b6cadf174cd697",
+      "title": "Square Credit Card Levels Up: Rewards Built for Small Businesses and a New Way to Pay Vendors",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Credit-Card-Levels-Up-Rewards-Built-for-Small-Businesses-and-a-New-Way-to-Pay-Vendors/default.aspx",
+      "summary": "New Bill Pay capabilities pair with an expanded, refreshed Square Credit Card to give more sellers a simpler way to manage every outflow from one platform Square today announced a significant expansion of its Square Credit Card program and a new Square Bill Pay capability that enables sellers to fund vendor payments wi",
+      "publishedAt": "2026-08-11T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-0122ec2217c08ff32bc8",
       "title": "NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
       "link": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
@@ -590,18 +650,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-ad8415a020d79d9aba21",
-      "title": "Square and Google Deepen Collaboration to Support the Future of Food Ordering",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQmEyN013YVFpenFsUnl0cUotR2taOThZRE03VHgyblhUZjFzVkptdzRHWGtFdmxTaVFOcEZLMk1BNEV5SHg4aHJRbk83Q09NckdsMEpMaUdOV0NZX2ZqdkFrMkx5MVp3OW5sRW5oY0x4Z2JGblAyMTFJa0ozTV9fME1aaXBGTlVTdGhZamRJZGRSRW9XR2tLN3U3RDR4S05SVlhmMGdZWmZueE5LNkZHZC01a25tcThhR0pPX256N2hxYVRBNWV6a2F4ajUtdjBkTXN1S3NtT0d4YjRCOThKZ29pSlg?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-07T07:19:12+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "robinhood-blog-69481b85904044fc673c",
       "title": "Robinhood Ventures Fund I (RVI) Invests $30 Million in Whatnot",
       "link": "https://robinhood.com/us/en/newsroom/RVI-Whatnot",
@@ -624,6 +672,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -818,16 +878,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-39e4c81cff937d704458",
-      "title": "Block Announces Second Quarter 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmtSTlJHdE5oaU1WWHB2aFpoMTRsdkZsNWltMHQ1NWg1NjZhSU1Nem5TWjUtQ1Fsc2JncWdQWk1pdlZ0blJUR0Z3SXlSTnZZNUQ5WkczUEloRDZGNC1WUjl1SkNVZDhobFFpaGZWNzR0S0h5NVM3X2VpYlFTSktfc0xvYnhhelMtckJlUGlNc1gyUlpZY2czV3VsRUpWZE4xXzZfTVVoRnlOUWVmMktfczRranc1SnM?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-05T23:22:24+00:00",
+      "id": "block-investor-news-8b4e8f12096561d3d592",
+      "title": "Square and Google Deepen Collaboration to Support the Future of Food Ordering",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-and-Google-Deepen-Collaboration-to-Support-the-Future-of-Food-Ordering/default.aspx",
+      "summary": "Square sellers gain new discovery and ordering capabilities through Ask Maps, Google’s newest AI experience in Google Maps Square today announced an expansion of its relationship with Google, bringing U.S. food and beverage (FB) sellers into Ask Maps, a conversational AI experience within Google Maps where customers di",
+      "publishedAt": "2026-08-06T00:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-7ae9aa806dedd71377b1",
@@ -899,6 +959,30 @@
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-30be5a67c9524d71c4a4",
+      "title": "Block Announces Second Quarter 2026 Results",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-Announces-Second-Quarter-2026-Results/default.aspx",
+      "summary": "Block, Inc. (NYSE: XYZ) has posted its results for the second quarter of 2026 on the Financials section of its Investor Relations website at investors.block.xyz . Block will host a conference call and earnings webcast at 2:00 p.m. Pacific Time / 5:00 p.m. Eastern Time today to discuss these financial results. To regist",
+      "publishedAt": "2026-08-05T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-c75655aa3f2cce78a963",
+      "title": "Block to Announce Second Quarter 2026 Results",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-to-Announce-Second-Quarter-2026-Results/default.aspx",
+      "summary": "Block, Inc. (NYSE: XYZ) will release financial results for the second quarter of 2026 on Wednesday, August 5, 2026, after market close. Block will also host a conference call and earnings webcast at 2:00 p.m. Pacific Time / 5:00 p.m. Eastern Time on the same day to discuss these results. To register to participate in t",
+      "publishedAt": "2026-08-05T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1058,30 +1142,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-734bfda51cb56285b144",
-      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
-      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
-      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-ccaedd782979f8ed5894",
-      "title": "How Amazon became one of the world’s top chip companies in a decade",
-      "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history?utm_source=rss",
-      "summary": "Amazon’s custom silicon business exceeded a $25 billion annual revenue run rate—here’s what that means for customers and the future of AI.",
-      "publishedAt": "2026-07-31T19:55:28+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-5acd543662506d552c33",
       "title": "Amazon.pl zostaje Oficjalnym Partnerem ORLEN Ekstraligi Kobiet oraz ORLEN Pucharu Polski Kobiet",
       "link": "https://press.aboutamazon.com/pl/2026/7/amazon-pl-zostaje-oficjalnym-partnerem-orlen-ekstraligi-kobiet-oraz-orlen-pucharu-polski-kobiet",
@@ -1092,18 +1152,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-90b32a615a5f825637fc",
-      "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWE9ZTm1QY3l6alRsSUtlc1pLNnJudGVmNEM1WTZROUdubVlJXy1QRDllNVhLTUNtZVlBVHljU0JGdWRqVDNzS3hKT2lRRDBWNGVlUUVSNU9hTDhWUUM0c0Q1ZVVsTGtkamVpc0p6OHg0UG5IY2lXVkhwQ3M0bXd1ZUFVX1VPUXVJakkxWDR3QlQxbnVyTFRPQ1JoaEhsYXJyQlZjSXJYMEZlTmpUZkIwMnZNbjE0MDQ3LWl0WW8zWDJVSUR5dTM4a0NIdlNfVTJBbElieHE4S3NkRVVZaGNyMURYLWpSVV9zekVhN3REdHA3TlRwT3p6bVNkWmN4LTU5NFg3Z1pLLWpTMXR4TWhUNkxaVnA0bWFGSVE?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-30T13:24:18+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-e3fa3dd00a5abb9d3855",
@@ -1126,6 +1174,18 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-4ce8c2f3554961053a15",
+      "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Vibrant-Los-Angeles-Health-Spot-Kreation-Organic-Deepens-Its-Partnership-with-Square-Across-Its-25-Location-Footprint/default.aspx",
+      "summary": "The popular Southern California cold-pressed juice and healthy foods brand is expanding its use of Square’s platform as it scales Square today announced that Kreation Organic , the cold-pressed juice and healthy QSR (quick-service restaurant) brand, has renewed and expanded its partnership with Square across all 25 of ",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1274,6 +1334,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-d2e381229b5beb8cfbbe",
       "title": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
       "link": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
@@ -1334,14 +1406,14 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "id": "block-investor-news-65179d5eda7dc1dec48a",
+      "title": "Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Dimassis-Mediterranean-Buffet-Leverages-Square-as-It-Expands-Twenty-Four-Location-Portfolio/default.aspx",
+      "summary": "The family-owned, halal Mediterranean buffet chain is deepening its use of Square’s platform as it opens new restaurants in Texas and California Square today announced that Dimassi’s Mediterranean Buffet , a prominent Mediterranean buffet concept in the United States, has expanded its longstanding partnership with Squa",
       "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1502,6 +1574,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-0f1713f0e07982cd8713",
+      "title": "Honolulu Cookie Company Utilizes Square to Power Its Expanding Multi-Location Retail Operation",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Honolulu-Cookie-Company-Utilizes-Square-to-Power-Its-Expanding-Multi-Location-Retail-Operation/default.aspx",
+      "summary": "The beloved Hawaii-based cookie brand is leveraging Square’s unified commerce platform across locations in Hawaii, Nevada, and Guam, with a first-of-its-kind experiential flagship opening July 2026 Square today announced that Honolulu Cookie Company , the iconic Hawaii-based brand celebrating 28 years in business, is c",
+      "publishedAt": "2026-07-15T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1512,18 +1596,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-7cb76675f5cbf0cd4ea3",
-      "title": "Klarna sinks its teeth into dental care with Curve Dental®, bringing flexible payments to practices nationwide",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkV0WjU5aTBvamVoN3VZTWZzMkRKbE9rYzFaX2x5eHE4bzhoSzM3RUtQckFjZ0k4akoyT29rOHRPSU1Hdm9xSnBackhFS2pfV1JRbGh3S3BBbTlZMGQ4LWRTYzRhV2gtTGsxYnZleXRvNnhxX2pvWTRzcy1ZSU9XTGpjTWdQV1otQWpVa25TVXZwOGhtT0sxQ3NfV2hfMllVQkxWTExIZUg1NzVCdkFtYkVZNFRRNGdnZjdwZzc2eDQ5b3gxX0tOYjY0Y191eDZsaWd4Ui05cER0U1haTlRvalBUTXd3aFhfZlE?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-14T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "shopify-pressroom-45a99c80b9590ce0281d",
@@ -1548,6 +1620,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-da9126c3a7644c6957bd",
@@ -1682,6 +1766,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-239eca0503bf4e8a4741",
+      "title": "Square Introduces New ChatGPT and Claude Integrations, Helping Sellers Reach Customers Through AI-Powered Discovery",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Introduces-New-ChatGPT-and-Claude-Integrations-Helping-Sellers-Reach-Customers-Through-AI-Powered-Discovery/default.aspx",
+      "summary": "Eligible sellers can participate with no additional technical setup or added Square marketplace commissions Square today announced a new ChatGPT app and Claude plugin, helping sellers get discovered and transact at the exact moment customers are making purchasing decisions through AI-powered conversations. Square was b",
+      "publishedAt": "2026-07-01T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-16984a67934c9ecf072d",
       "title": "Meet our new board member: Ryan Schneider",
       "link": "https://investors.affirm.com/news-releases/news-release-details/meet-our-new-board-member-ryan-schneider",
@@ -1742,15 +1838,15 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-ddac1eca9a9e8339db28",
-      "title": "Amazon.com Announces Second Quarter Results",
-      "link": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/",
-      "summary": "Net sales increased 20% year-over-year Operating income was $27.5 billion, up 43% year-over-year AWS net sales increased 37%—its fastest growth in 18 quarters—to a $169 billion annualized revenue run rate Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2026. Net s",
-      "publishedAt": "2026-06-30T00:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
+      "id": "block-investor-news-31538d80771b4bee6d97",
+      "title": "Sherwin-Williams Selects Square as Newest Partner in Digital Alliance Program",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Sherwin-Williams-Selects-Square-as-Newest-Partner-in-Digital-Alliance-Program/default.aspx",
+      "summary": "This partnership brings payment solutions and business management tools to Sherwin-Williams PRO+ customers across the United States and Canada Square today announced that The Sherwin-Williams Company, the world’s largest paint and coatings company, has selected Square as its payment solutions partner in the Sherwin-Wil",
+      "publishedAt": "2026-06-29T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1790,6 +1886,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "block-investor-news-2acb49eec4eac34bc311",
+      "title": "A Taste of Paris, Powered by Square: Ladurée Canada Goes All-In on Square’s Commerce Platform",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/A-Taste-of-Paris-Powered-by-Square-Ladure-Canada-Goes-All-In-on-Squares-Commerce-Platform/default.aspx",
+      "summary": "The iconic Parisian patisserie brings Square to its growing Canadian footprint, from flagship tea salons to airport carriages Square today announced that Ladurée Canada , the Canadian franchise of the world-renowned Parisian patisserie, has selected Square as its exclusive commerce platform across all Canadian location",
+      "publishedAt": "2026-06-24T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-5028ab4f6712feb5e2cb",
       "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
       "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
@@ -1798,6 +1906,18 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-629408828534e4e49741",
+      "title": "Sofive Soccer Centers Selects Square to Power Its 22-Location National Footprint",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Sofive-Soccer-Centers-Selects-Square-to-Power-Its-22-Location-National-Footprint/default.aspx",
+      "summary": "The indoor soccer operator is leveraging Square’s unified commerce platform across concessions, events, loyalty, and online ordering, and bringing it to life this summer with watch parties and tournaments nationwide Square today announced that Sofive Soccer Centers , the leading modern indoor soccer operator in the Uni",
+      "publishedAt": "2026-06-18T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1838,16 +1958,28 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-a0d5606912161961133e",
-      "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGppUklmZmdvaEoyT1hKNVNHd3Blbm05eTB5c1JaWEpCaXdITHN4bkEtRndCUjh6UXdxbEM0b1BLUzlqZFA1UzR0U0FYV0hqSUNNWUNkNU1ZcS04ejNDQTJ6bkZDTUxrVFlLLU5NTzhSalJrMF9OM0JmR3k2bUxNbUp5SzhIYUVtRXVfMXFZVmdmLTlfcEx4S2xmNEJSVy1kd1p6WHJhRFJmLTdCNDEwSks1Tk9vNmlMWGY3WWFRZ3RBOVRBaTVoQUNOUEJ5azFjLS1pY0tvMWFlenJGWWx2SXBZOFVwc0ZCci05ZQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-11T07:00:00+00:00",
+      "id": "block-investor-news-b27a75ff08b7ad23c594",
+      "title": "Square Financial Services Introduces 3.50% APY High Yield Savings for Square Sellers, More Than 8 Times the National Average",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Financial-Services-Introduces-3-50-APY-High-Yield-Savings-for-Square-Sellers-More-Than-8-Times-the-National-Average/default.aspx",
+      "summary": "Sellers with $10,000 or more in their Square Savings account automatically earn the higher rate with no action required Square Financial Services, Inc. (SFS), a wholly owned subsidiary of Block, Inc. (NYSE: XYZ), today announced the launch of Square High Yield Savings, a new deposit tier that pays 3.50% APY to Square s",
+      "publishedAt": "2026-06-12T00:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-ea30ef50cde8c78c3011",
+      "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Coffee-Dose-Scales-from-88-Square-Feet-to-an-Eight-Figure-Brand-Supported-by-Square/default.aspx",
+      "summary": "The specialty coffee brand is leveraging Square’s commerce platform across four Southern California locations, with two additional openings planned for 2026 Square today announced that Coffee Dose , a specialty coffee brand and dining destination founded in 2018 by Jeni and Oscar Castro, is further expanding with Squar",
+      "publishedAt": "2026-06-11T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
@@ -1862,6 +1994,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "block-investor-news-8836f00d3a2ca2353155",
+      "title": "Monday Swimwear and Instacart Among Latest Brands to Add Afterpay and Cash App Pay to Checkout This Summer",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Monday-Swimwear-and-Instacart-Among-Latest-Brands-to-Add-Afterpay-and-Cash-App-Pay-to-Checkout-This-Summer/default.aspx",
+      "summary": "New brands join Cash App’s commerce merchant network, giving customers more ways to pay this season Cash App today announced new retailers have added its commerce payment products — Afterpay and Cash App Pay — to their checkout experience, giving customers more places to shop and pay with the flexibility they want this",
+      "publishedAt": "2026-06-08T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "trade-desk-press-room-9888080e0df1cd8f2982",
       "title": "The Trade Desk Reports Second Quarter 2026 Financial Results Press Release August 06, 2026",
       "link": "https://www.thetradedesk.com/press-room/the-trade-desk-reports-second-quarter-2026-financial-results",
@@ -1871,6 +2015,18 @@
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
       "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-16a05ed6b058243a929e",
+      "title": "Introducing Cash App Tags: A New Way to Pay",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Introducing-Cash-App-Tags1-A-New-Way-to-Pay/default.aspx",
+      "summary": "The physical payment accessories are linked to the Cash App Visa® Card * , enabling customers to pay without their phone or wallet Cash App is releasing a limited run of the first model—the Cash App Wand—available starting today while supplies last Today, Cash App is launching a new payment form factor that’s changing ",
+      "publishedAt": "2026-06-04T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1886,6 +2042,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-43eb6a48ae17d801d874",
+      "title": "Baker St Cafe Builds a Neighborhood Favorite on Square",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Baker-St-Cafe-Builds-a-Neighborhood-Favorite-on-Square/default.aspx",
+      "summary": "The family-owned Thai Kitchen Bubble Tea shop utilizes Square Marketing, Square Kiosk, and Neighborhoods on Cash App to deepen its foothold on a tight-knit Oregon community Square today announced that Baker St Cafe - Thai Kitchen Bubble Tea , a family-run restaurant in McMinnville, Oregon, is utilizing Square's unified",
+      "publishedAt": "2026-06-03T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-7c228d86d73993aebdbe",
       "title": "Introducing SoFi Coach: An AI-Powered Financial Guide to Help Members Get Their Money Right",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR2dFQjM4TDRXNlJ2YXhjWFZDajRQTEVEMVpyZ2FFb3hLV1JYYkV3em1hY0g1NU51X29wUzBjOWVWOWZIMDgzQV9tS2VfcDhfcU8xbmtCTGRBRjdzcE5GVURDU1BmQ1JOcnFQLXc2SzhQb0lKVmhfR3ZzQUJXZ24yR2F5emI5UFdfbkxyeWdVUy1OclFqRTRzeExxblF3MWR3ODBWRTEtZDlDRUZyNUN4c0ZhdFVtd1FOTkJVblJLWndGQmR4NW1lRTVycFRUVHdDcnBMcFhiSUZLcEplX2xKak4wT24wQUpK?oc=5",
@@ -1896,6 +2064,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-78e79bb3159fb366d023",
+      "title": "As BNPL Goes Mainstream, Cash App and Afterpay Brings Pay-Over-Time to Every Purchase, Where Visa is Accepted",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/As-BNPL-Goes-Mainstream-Cash-App-and-Afterpay-Brings-Pay-Over-Time-to-Every-Purchase-Where-Visa-is-Accepted/default.aspx",
+      "summary": "As America’s workforce shifts toward variable income, Cash App and Afterpay complete their most ambitious product integration yet – expanding pay-over-time flexibility to the modern earner Cash App today announced the general availability of Afterpay on Cash App Card , bringing Buy Now, Pay Later to eligible Cash App C",
+      "publishedAt": "2026-06-02T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-6ed71ab98ac10cd12c68",
@@ -2138,18 +2318,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "block-investor-news-b7aad5c939878451dc5c",
-      "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-28T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "circle-pressroom-b6aa8d3ea5c0ee99150d",
       "title": "Kyriba and Circle Bring USDC Capabilities to Enterprise Treasury, Unlocking a Path Toward More Intelligent Treasury Decisioning",
       "link": "https://www.circle.com/pressroom/kyriba-and-circle-bring-usdc-capabilities-to-enterprise-treasury-unlocking-a-path-toward-more-intelligent-treasury-decisioning",
@@ -2330,6 +2498,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2424,18 +2604,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
-      "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-20T08:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
@@ -2712,174 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-6418a3b40706bf8c2c78",
-      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
-      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
-      "publishedAt": "2025-09-11T12:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-84e40cb7c0acc4433863",
-      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
-      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
-      "publishedAt": "2025-08-12T11:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c22901d5296e709477b9",
-      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T12:52:42+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK via rendered HTML"
     },
     {
       "sourceId": "affirm-news",
