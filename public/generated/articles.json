@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:05:55.969885+00:00",
+  "generatedAt": "2026-08-13T22:05:32.824095+00:00",
   "articles": [
     {
       "id": "google-blog-69cbe3169a5b0bf89f73",
@@ -120,6 +120,18 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-4982f8b850a0395c1512",
+      "title": "Deribit receives Broker-Dealer Licence from Dubai's VARA, connecting clients to Coinbase Exchange liquidity",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0lFSWwydkJtR1BvcU41bWI2YW1yMGNiUnhJUUZROUFYMHBuTUl1ajV4MW1xY0piQnRLbV9HR3IyYjl4MEh3Z3ZwLS01UjZMVHI5TjlHMUlHX0cyVDZES0YzSW9yRHRuTV82OU9WT0NnR1UzMzllV0xOVlduQVZRSUc5VjJiMERqeDM3OA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-13T09:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-0f6d9cadff9fb2a4ed22",
@@ -1154,18 +1166,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-734bfda51cb56285b144",
-      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
-      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
-      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-5acd543662506d552c33",
       "title": "Amazon.pl zostaje Oficjalnym Partnerem ORLEN Ekstraligi Kobiet oraz ORLEN Pucharu Polski Kobiet",
       "link": "https://press.aboutamazon.com/pl/2026/7/amazon-pl-zostaje-oficjalnym-partnerem-orlen-ekstraligi-kobiet-oraz-orlen-pucharu-polski-kobiet",
@@ -1188,6 +1188,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-acf0119fe09c38f908c6",
+      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
+      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
+      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-4ce8c2f3554961053a15",
@@ -1416,18 +1428,6 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
