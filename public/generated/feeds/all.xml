@@ -4,13 +4,21 @@
     <title>Company News Monitor - All</title>
     <link>https://company-news-monitor.future-inves-2634.chatgpt-team.site</link>
     <description>Generated company news feed.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 17:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:10:03 +0000</lastBuildDate>
     <item>
       <title>Introducing Gemini 3.7 Flash</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
       <guid isPermaLink="false">google-blog-69cbe3169a5b0bf89f73</guid>
       <description>Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.</description>
       <pubDate>Thu, 13 Aug 2026 17:00:00 +0000</pubDate>
+      <source>Google Blog</source>
+    </item>
+    <item>
+      <title>Bring your spreadsheet data to life with Sheets canvas</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/</link>
+      <guid isPermaLink="false">google-blog-d00944e12348f9f23440</guid>
+      <description>Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.</description>
+      <pubDate>Thu, 13 Aug 2026 16:45:00 +0000</pubDate>
       <source>Google Blog</source>
     </item>
     <item>
@@ -218,14 +226,6 @@
       <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
       <guid isPermaLink="false">google-blog-6f9b67c20b2ae3791b38</guid>
       <description>The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.</description>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate>
-      <source>Google Blog</source>
-    </item>
-    <item>
-      <title>Now you can connect even more of your favorite apps and services to Gemini.</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/</link>
-      <guid isPermaLink="false">google-blog-0f3aae81898feb94204e</guid>
-      <description>Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.</description>
       <pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate>
       <source>Google Blog</source>
     </item>
@@ -894,14 +894,6 @@
       <source>Klarna International Newsroom</source>
     </item>
     <item>
-      <title>Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article</title>
-      <link>https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop</link>
-      <guid isPermaLink="false">marqeta-blog-127710ecc139b055cd65</guid>
-      <description>BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
       <title>Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership</title>
       <link>https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership</link>
       <guid isPermaLink="false">nvidia-newsroom-d2e381229b5beb8cfbbe</guid>
@@ -940,6 +932,14 @@
       <description>Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Thu, 23 Jul 2026 14:08:31 +0000</pubDate>
       <source>Toast POS Product News</source>
+    </item>
+    <item>
+      <title>Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article</title>
+      <link>https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits</link>
+      <guid isPermaLink="false">marqeta-blog-90db3b2ee015e64f2565</guid>
+      <description>Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio</title>
@@ -1084,14 +1084,6 @@
       <description>Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Mon, 13 Jul 2026 07:00:00 +0000</pubDate>
       <source>Coinbase Blog</source>
-    </item>
-    <item>
-      <title>Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article</title>
-      <link>https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments</link>
-      <guid isPermaLink="false">marqeta-blog-5be6ad160600f107b941</guid>
-      <description>Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Small businesses aren't waiting for Washington to catch up</title>
@@ -1670,14 +1662,6 @@
       <source>SoFi Press</source>
     </item>
     <item>
-      <title>Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article</title>
-      <link>https://www.marqeta.com/blog/the-future-of-payments-is-already-here</link>
-      <guid isPermaLink="false">marqeta-blog-5b9e10e4e72eca9105f0</guid>
-      <description>Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.</description>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
       <title>Circle Appoints Kirk Koenigsbauer to Board of Directors</title>
       <link>https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors</link>
       <guid isPermaLink="false">circle-pressroom-2fda7cb8a911589f5ba5</guid>
@@ -1739,14 +1723,6 @@
       <guid isPermaLink="false">marqeta-blog-fc74e697a71f9d23b7a1</guid>
       <description>For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design</description>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
-      <title>Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article</title>
-      <link>https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work</link>
-      <guid isPermaLink="false">marqeta-blog-ebb8f38236d7ca7c0d6b</guid>
-      <description>Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.</description>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <source>Marqeta Blog</source>
     </item>
     <item>
@@ -1923,6 +1899,30 @@
       <guid isPermaLink="false">dlocal-blog-7d63ac24baea9146c737</guid>
       <description>Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.</description>
       <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
+      <source>dLocal Blog</source>
+    </item>
+    <item>
+      <title>Stablecoins: a bridge for global businesses operating in emerging markets</title>
+      <link>https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/</link>
+      <guid isPermaLink="false">dlocal-blog-8357fec8a7f961d6724e</guid>
+      <description>Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.</description>
+      <pubDate>Wed, 17 Sep 2025 13:00:00 +0000</pubDate>
+      <source>dLocal Blog</source>
+    </item>
+    <item>
+      <title>dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments</title>
+      <link>https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/</link>
+      <guid isPermaLink="false">dlocal-blog-520c9f5309d7a7b5defd</guid>
+      <description>dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.</description>
+      <pubDate>Tue, 16 Sep 2025 19:11:38 +0000</pubDate>
+      <source>dLocal Blog</source>
+    </item>
+    <item>
+      <title>Real-time payments (RTP): The instant revolution driving emerging markets</title>
+      <link>https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/</link>
+      <guid isPermaLink="false">dlocal-blog-6418a3b40706bf8c2c78</guid>
+      <description>Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.</description>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
       <source>dLocal Blog</source>
     </item>
   </channel>
