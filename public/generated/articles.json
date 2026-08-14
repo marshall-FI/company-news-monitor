@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:43:12.190755+00:00",
+  "generatedAt": "2026-08-14T23:38:55.717397+00:00",
   "articles": [
     {
       "id": "nvidia-newsroom-b7aa33db77b78eeba80c",
@@ -178,18 +178,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "affirm-news-c29cab27ac3eeda37796",
-      "title": "Affirm to participate in upcoming investor conferences",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-participate-upcoming-investor-conferences-19",
-      "summary": "Payment options through Affirm are provided by these lending partners: affirm.com/lenders. Your rate will be 0–36% APR based on credit, and is subject to an eligibility check. Affirm Pay in 4 payment option is 0% APR.",
-      "publishedAt": "2026-08-13T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -710,6 +698,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "about-amazon-d8bd7498542333ea9112",
       "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
       "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
@@ -1190,6 +1190,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-acf0119fe09c38f908c6",
+      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
+      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
+      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-4ce8c2f3554961053a15",
       "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Vibrant-Los-Angeles-Health-Spot-Kreation-Organic-Deepens-Its-Partnership-with-Square-Across-Its-25-Location-Footprint/default.aspx",
@@ -1234,18 +1246,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "affirm-news-0889fe58b5bf34e0919c",
-      "title": "When new tires can't wait, confidence at checkout matters",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/when-new-tires-cant-wait-confidence-checkout-matters",
-      "summary": "_Discount Tire and Tire Rack partnered with Affirm to help customers replace tires with confidence, driving approximately 3x higher conversion and 21% higher average order values on TireRack.com, and 24% year-over-year payment volume growth at Discount Tire_",
-      "publishedAt": "2026-07-29T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1382,18 +1382,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
       "title": "Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Dimassis-Mediterranean-Buffet-Leverages-Square-as-It-Expands-Twenty-Four-Location-Portfolio/default.aspx",
@@ -1514,18 +1502,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "affirm-news-0e0292955c83165e7030",
-      "title": "A higher standard for credit—without fees",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
-      "summary": "By John Pitts, VP of Government Relations, Public Policy, and Social Impact, Affirm",
-      "publishedAt": "2026-07-16T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "datadog-investor-news-b6513a8b96f759b45ece",
       "title": "Datadog Named a Leader in the 2026 Gartner® Magic Quadrant™ For Observability Platforms For Sixth Consecutive Year",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-named-leader-2026-gartnerr-magic-quadranttm",
@@ -1570,30 +1546,6 @@
       "sourceId": "shopify-pressroom",
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "affirm-news-da9126c3a7644c6957bd",
-      "title": "Small businesses aren't waiting for Washington to catch up",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
-      "summary": "The conversation in Washington is dominated by two issues: helping consumers in a changing economy and helping American businesses compete. Affirm plays a role in both. We offer products that let eligible consumers pay for major purchases over time, often at no added cost to them and never a late fee, so they can manag",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1742,18 +1694,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "affirm-news-089b1ac59aba827976ee",
-      "title": "Affirm now available across Bed Bath & Beyond's brands, giving shoppers more flexibility for the purchases that make a house feel like home",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-now-available-across-bed-bath-beyonds-brands-giving",
-      "summary": "SAN FRANCISCO--(BUSINESS WIRE)--Jul. 1, 2026-- A home comes together one decision at a time, from the everyday essentials people rely on to the larger purchases that make a space more comfortable, functional, and personal. Now, eligible customers shopping across Bed Bath & Beyond brands – including Overstock,Bed Bath &",
-      "publishedAt": "2026-07-01T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "wise-newsroom-36cfe43c94ba45e5b45f",
       "title": "News archive Browse through all our news",
       "link": "https://newsroom.wise.com/en-NAM/releases/",
@@ -1814,18 +1754,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "affirm-news-1f305f2e51a1722fb245",
-      "title": "Backcountry and Affirm partner to give outdoor enthusiasts a transparent way to pay over time",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/backcountry-and-affirm-partner-give-outdoor-enthusiasts",
-      "summary": "SALT LAKE CITY&SAN FRANCISCO--(BUSINESS WIRE)--Jun. 25, 2026-- The best outdoor experiences often start long before the trailhead, with the gear that helps make them possible. That's why Backcountry and Affirm (NASDAQ: AFRM) have partnered to give outdoor enthusiasts a clearer, more flexible way to pay for the purchase",
-      "publishedAt": "2026-06-25T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-4c3da7e2f08947e60227",
       "title": "Upstart Announces Agreement with Neuberger Specialty Finance for Investment in up to $600M of Consumer Loans",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-agreement-neuberger-specialty-finance",
@@ -1846,6 +1774,18 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
+      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
+      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
+      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
+      "publishedAt": "2026-06-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1970,18 +1910,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "affirm-news-9b455e77d60416bc2475",
-      "title": "Affirm and CPP Investments renew and expand capital partnership",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-cpp-investments-renew-and-expand-capital-partnership",
-      "summary": "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20260604725818/en/",
-      "publishedAt": "2026-06-04T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-43eb6a48ae17d801d874",
       "title": "Baker St Cafe Builds a Neighborhood Favorite on Square",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Baker-St-Cafe-Builds-a-Neighborhood-Favorite-on-Square/default.aspx",
@@ -2018,18 +1946,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "affirm-news-6ed71ab98ac10cd12c68",
-      "title": "Affirm and Stripe team up to power flexible UK payments",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-stripe-team-power-flexible-uk-payments",
-      "summary": "**LONDON (2 June 2026)**- Affirm and Stripe today announced an expanded partnership that will bring Affirm’s pay-over-time solutions to Stripe merchants in the UK for the first time.",
-      "publishedAt": "2026-06-02T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-e1e21d8bd67712329d06",
       "title": "Chime and Invest America Launch the Compound Combine™ Series to Help All American Families Build Wealth Early",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-and-invest-america-launch-compound-combinetm-series-help",
@@ -2040,6 +1956,18 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-dedda780f9896cf24a34",
+      "title": "SoFiUSD Becomes the First Stablecoin Issued by a US National Bank to Launch on a Banking Platform",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRVUzeHhJT3ZrSlVHSjFPNjlvZjdZaVcxRldwNVBYbkhVLUVUUkd4TFRfX0l5akZPNkdIMExnZjFQelpRU1phREtzcFhkUkNvVE1DTUpKVkpaWGdPdk5Fd0tVX0pZX1VCV2M2dzBUdmRDZnFXSUUzVGF1N0YwaWJTYkhmTV92dk85RFBLV1dscFlJbWttVGhOY09kMnhZUndOM1N2cFY1V3Uxa0tKZmR3WDhDWDN2dkpOcE1Ga3piOGZEMnFBMnR5R1BBMmtnWTlGWkV6WkRNR29lODFWSmh5U1dzbHNuaTMzN3o0LW9hVk12dw?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-27T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-3467846013eb2e4f3850",
@@ -2234,18 +2162,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-bb3b04fb99757be81c31",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q1 2026 Earnings Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2FKRTZTdnVnY0NCelZSU2d6OW5FQ2FYNHZDNldJbTFKQ3pUd1hLczcwVnJOT19wbXZJbFo0WU9FR3F4WWhyWWl5UGN1MnlWQ0owdlpTaWx6VUt4Zms4WVRFQnJQRm4ya196MlU3OThOVENRZGlWQnhWaWMxTFkzTHlqQUVKZnhFazR0OV9lU250RnFJNU9RMXU3Z28wMlJ2Z0ozX21wWFBFMTVYeXNhQXhaeUp1djVRV3NFTnZR?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "circle-pressroom-b6aa8d3ea5c0ee99150d",
       "title": "Kyriba and Circle Bring USDC Capabilities to Enterprise Treasury, Unlocking a Path Toward More Intelligent Treasury Decisioning",
       "link": "https://www.circle.com/pressroom/kyriba-and-circle-bring-usdc-capabilities-to-enterprise-treasury-unlocking-a-path-toward-more-intelligent-treasury-decisioning",
@@ -2366,6 +2282,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "sofi-press-651af70af5975fee826d",
+      "title": "SoFi Launches Big Business Banking to Power Fiat and Crypto Banking on a Single Regulated Platform",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUVM4ckRNNWhCZFE0VlozTklyaU1JV0FkUWhRRzU3SEgyRTFRcUdzbS1DcWlHc2I5cVZQcXhsQVM5ZEptSlF4QkpZaDZyZzcyOWdhYnppVXpUalhMU0xxbnVyTXk1M1A4OThjN09NNEUyb0o4NXBOZjRnUUJ4ajVjeWJOUEVJaVZTLUo0ZUdRUGQ1WkZVU1ZNVmNza05PNk8xdXF2QmdmeU1XUlFjcUg4U1hVUUJueTM1elFkTzd3VUFrVldENTVhZE1qR3NDWXpXN1RRQlRMRnVCaGI5MkNNVzFYYU82RzZtTkZQYXR4V2dhdzg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-02T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
       "title": "AI, local payments, and Nigeria’s new compliance playbook",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/ai-local-payments-and-nigerias-new-compliance-playbook/",
@@ -2412,6 +2340,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-c2fed06b99d719bdfba8",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-03-17T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-5b9e10e4e72eca9105f0",
@@ -2472,6 +2412,30 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
+      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
+      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
+      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
+      "publishedAt": "2026-02-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-8654935da5de6a888ba0",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q4 & FY 2025 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZOWmlBRmhOcEV5NFpFaFdvTXdpdF9sbHFtMmptY2REaGI1Q0hFYW9tc2pFMmJ3dDNzcTc1WkxoZ0hHZXh6ZGo2UndaVGtKRkVvVTFyd3BndXV4U0xYWXoxWDYxRmRJU2p6SFAyRUlnNFpFbUQ1RjFMeXdjUFNjTDJMV2drSlk1cXFGS1BRUzliYXFZTEJIM2djSk1NbjRiY0xSY29iX1l0NU9VdXlyRGF4VGhBNjNkY1dmRThlUGVseGc?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-30T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
@@ -2582,6 +2546,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-11563e25e35dfee9fcb0",
+      "title": "Other All Industries Marqeta 2025 wrap-up: A year of momentum, milestones, and memorable moments Article",
+      "link": "https://www.marqeta.com/blog/marqeta-2025-wrap-up",
+      "summary": "Marqeta's 2025 year in review: New CEO Mike Milotich, Klarna's European expansion, TransactPay acquisition, and major fintech industry events.",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-52552d4e8f0e51afa3e2",
       "title": "Issuing/processing All Industries Black Friday 2025: What peak performance actually requires Article",
       "link": "https://www.marqeta.com/blog/black-friday-2025-marqeta-platform-performance",
@@ -2592,18 +2568,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-e8e75eeea1dede608614",
-      "title": "SoFi Launches Fully Reserved Stablecoin to Power Financial Infrastructure for Banks, Fintechs, and Enterprise Partners",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOY0Mzckk5N1l5cjhnRWRpOTZsZ0hFWUlocXYwU0Eyd1hSYnF1NE1GcVY0WTlRSVhHT3NlckViVWdnT2lsV0YtQmFzamhtQ0JKTXRGRzZlOXVXQTB2S0ZmaTZyZUlRS29yXzVjR1BRam1kbHUzRlZCcU5BeTY0R3R1RjlzVDRFcTByU2FHZnNkc0lpN2oxVDhPeDV5eDRHMjE4aDFIeGZpTWY0VXdWQ2xoTHZ6YXlhUWdaRXdBTEZEZGd1eURxcGc2SGFrMm1PbldrWS1SY21ITm0wNjlkSXB6VEFpREZzUnBMSDhGdk12bU9TcmJydGFOYTEwYW9RSlN5NnNKdEVWYW5EWEE?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-12-18T08:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-723efe929590bb13d10c",
@@ -2762,18 +2726,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-e3324a6f95a3ab0ab3d9",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2025 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2FVMnFISnJzRlNFYmJXSzFnYVVadUpsbU1ldVRrc1RzT2k1TnpZVEd1cmE3M0x3Mm1HUGNRU0RaVTBfaElHd3VGclQ0a1l4eTlXVXNLek1tbEdDOXZrbmZZTVRuQzRpbFVqN0hiZGhlWnNVTi15eVhaNzlRUVVLcWpxWVc2cHBJYWZPYWxXWlpQTmM1bHc0TmQyUW5xX2gxSTdBYzFud2NDa3p5NWFfR3BpQTZ3VjlsWWlPYQ?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-10-01T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dave-press-9ad6aca2c340df637c4b",
       "title": "View announcement",
       "link": "https://staging.dave.com/press/news-releases/news-release-details/dave-reports-third-quarter-2025-financial-results",
@@ -2878,6 +2830,54 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-906d798c5b95f5509932",
+      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-466599b9abbc40fccaf0",
+      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-08T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:43:20.103522+00:00",
+  "generatedAt": "2026-08-14T23:39:03.774438+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5611,15 +5611,15 @@
       "cik": "0001818874",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Toast",
       "ticker": "TOST",
       "cik": "0001650164",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 9,
+      "message": "STALE: retained 9 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Marqeta",
@@ -5627,7 +5627,7 @@
       "cik": "0001522540",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Block",
@@ -5635,15 +5635,15 @@
       "cik": "0001512673",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Affirm",
       "ticker": "AFRM",
       "cik": "0001820953",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 7,
+      "message": "STALE: retained 7 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Shift4",
@@ -5651,7 +5651,7 @@
       "cik": "0001794669",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Adyen",
@@ -5659,7 +5659,7 @@
       "cik": "0001788707",
       "ok": true,
       "filingCount": 1,
-      "message": "1 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 1 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Shopify",
@@ -5667,7 +5667,7 @@
       "cik": "0001594805",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Nubank",
@@ -5675,7 +5675,7 @@
       "cik": "0001691493",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "PayPal",
@@ -5683,7 +5683,7 @@
       "cik": "0001633917",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Robinhood",
@@ -5691,7 +5691,7 @@
       "cik": "0001783879",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Coinbase",
@@ -5699,7 +5699,7 @@
       "cik": "0001679788",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Upstart",
@@ -5707,7 +5707,7 @@
       "cik": "0001647639",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Wise",
@@ -5715,15 +5715,15 @@
       "cik": "0002099039",
       "ok": true,
       "filingCount": 10,
-      "message": "10 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 10 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Klarna",
       "ticker": "KLAR",
       "cik": "0002003292",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 11,
+      "message": "STALE: retained 11 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Dave",
@@ -5731,23 +5731,23 @@
       "cik": "0001841408",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Galileo",
       "ticker": "SOFI",
       "cik": "0001818874",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 1,
+      "message": "STALE: retained 1 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Chime",
       "ticker": "CHYM",
       "cik": "0001795586",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 9,
+      "message": "STALE: retained 9 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Circle",
@@ -5755,15 +5755,15 @@
       "cik": "0001876042",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "dLocal",
       "ticker": "DLO",
       "cik": "0001846832",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 7,
+      "message": "STALE: retained 7 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "NVIDIA",
@@ -5771,23 +5771,23 @@
       "cik": "0001045810",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Datadog",
       "ticker": "DDOG",
       "cik": "0001561550",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 11,
+      "message": "STALE: retained 11 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Tesla",
       "ticker": "TSLA",
       "cik": "0001318605",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 10,
+      "message": "STALE: retained 10 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "The Trade Desk",
@@ -5795,7 +5795,7 @@
       "cik": "0001671933",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Amazon",
@@ -5803,7 +5803,7 @@
       "cik": "0001018724",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "Google",
@@ -5811,7 +5811,7 @@
       "cik": "0001652044",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     },
     {
       "company": "TSMC",
@@ -5819,7 +5819,7 @@
       "cik": "0001046179",
       "ok": true,
       "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: snapshot unavailable; using last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
     }
   ]
 }
