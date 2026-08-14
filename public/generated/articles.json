@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:19:51.703439+00:00",
+  "generatedAt": "2026-08-14T11:13:00.698402+00:00",
   "articles": [
     {
       "id": "google-blog-69cbe3169a5b0bf89f73",
@@ -686,18 +686,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "about-amazon-d8bd7498542333ea9112",
       "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
       "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
@@ -1166,18 +1154,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-734bfda51cb56285b144",
-      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
-      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
-      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-5acd543662506d552c33",
       "title": "Amazon.pl zostaje Oficjalnym Partnerem ORLEN Ekstraligi Kobiet oraz ORLEN Pucharu Polski Kobiet",
       "link": "https://press.aboutamazon.com/pl/2026/7/amazon-pl-zostaje-oficjalnym-partnerem-orlen-ekstraligi-kobiet-oraz-orlen-pucharu-polski-kobiet",
@@ -1358,6 +1334,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-d2e381229b5beb8cfbbe",
       "title": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
       "link": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
@@ -1404,6 +1392,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
@@ -1459,6 +1459,18 @@
       "link": "https://newsroom.wise.com/en-NAM/268425-wise-launches-international-money-transfer-service-in-chile/",
       "summary": "New solution offers the ability to move money quickly, with 77% of global transfers on Wise completed in less than 20 seconds, and a digital and convenient experience for Chileans managing international payments.",
       "publishedAt": "2026-07-21T13:33:38+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b5cdab03f81bf5510ab8",
+      "title": "About Get to know us",
+      "link": "https://newsroom.wise.com/en-NAM/about/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-07-21T00:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
@@ -1786,6 +1798,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-36cfe43c94ba45e5b45f",
+      "title": "News archive Browse through all our news",
+      "link": "https://newsroom.wise.com/en-NAM/releases/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-07-01T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2851,30 +2875,6 @@
       "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
       "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
       "publishedAt": "2025-09-29T14:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
