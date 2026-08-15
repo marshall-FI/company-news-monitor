@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T20:41:09.383642+00:00",
+  "generatedAt": "2026-08-15T21:37:11.028645+00:00",
   "articles": [
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -696,6 +696,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "klarna-press-4bdc475562aa503f1ad1",
@@ -1574,6 +1586,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -2438,6 +2462,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-2bdbcd290b41250e2d39",
+      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
+      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
+      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-2d54e3923eade6fa0096",
       "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
       "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
@@ -2491,6 +2527,18 @@
       "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
       "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
       "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2832,54 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-84e40cb7c0acc4433863",
-      "title": "Asia’s payment powerhouse: Countless ways to pay, one digital future",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/asias-payment-powerhouse-countless-ways-to-pay-one-digital-future/",
-      "summary": "From RTPs to eWallet-driven ecosystems, Asia’s payment story is as diverse as its markets, and it’s rewriting the future of eCommerce.",
-      "publishedAt": "2025-08-12T11:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-466599b9abbc40fccaf0",
-      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-08T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3031,10 +3031,10 @@
       "sourceId": "galileo-blog",
       "sourceName": "Galileo Technologies Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
       "itemCount": 1,
-      "message": "OK via official fallback RSS"
+      "message": "STALE: official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "chime-newsroom",
