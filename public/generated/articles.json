@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:56:20.099826+00:00",
+  "generatedAt": "2026-08-15T04:49:26.539203+00:00",
   "articles": [
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -156,18 +156,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-4982f8b850a0395c1512",
-      "title": "Deribit receives Broker-Dealer Licence from Dubai's VARA, connecting clients to Coinbase Exchange liquidity",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0lFSWwydkJtR1BvcU41bWI2YW1yMGNiUnhJUUZROUFYMHBuTUl1ajV4MW1xY0piQnRLbV9HR3IyYjl4MEh3Z3ZwLS01UjZMVHI5TjlHMUlHX0cyVDZES0YzSW9yRHRuTV82OU9WT0NnR1UzMzllV0xOVlduQVZRSUc5VjJiMERqeDM3OA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-13T09:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-0f6d9cadff9fb2a4ed22",
@@ -720,6 +708,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "klarna-press-4bdc475562aa503f1ad1",
@@ -1586,6 +1586,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -2414,6 +2426,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2527,18 +2551,6 @@
       "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
       "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
       "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
-      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
-      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
-      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
-      "publishedAt": "2026-01-20T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2868,18 +2880,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
