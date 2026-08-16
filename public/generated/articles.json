@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T04:01:42.148226+00:00",
+  "generatedAt": "2026-08-16T04:52:31.040991+00:00",
   "articles": [
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -698,18 +698,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "klarna-press-4bdc475562aa503f1ad1",
       "title": "Klarna goes live with J.P. Morgan Payments, opening flexible checkout to U.S. merchants",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkNqNHRvS0IybGY4RmJrSWtEYXZnVk9NVzd1WDdGZGxoa1NVdkw5bE1icDJITVNqaTA5aVEzOUg3UzVBR212SFJQMkFsQVM1RXBGRGl0WmYwZDBIU25yY2dVQm8xam91aUNVNHFwcTd1anhhOEY3a3NpY0E4TXBhYk1iVDVldkdyZGNXTUFGNzFCZV9BWkVTT1VLU1lLdDZGbGRtNW5vYmYwaWxRY3hNRS1PN0tMd0o4cFVJSTZramM1NTFfWTdV?oc=5",
@@ -948,6 +936,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-b840a4605e1879e7b276",
+      "title": "SoFi Expands Access to Private Markets with Funds From CAZ Investments and AngelList Asset Management",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWTVLZWhmeEctU2gwTFc5cGxzU0hCZm9FLWl1LXBXSXlPZW50a3poVVRMaFJrbUNYY3lFUlMxWE52MXNYMzhCUXBEMHVCUkNGRTZZWlUyOTdabXBRdTEyYmg1V014ZUJQckozSGpXMl9jbTlqVk56SmJnMS1UdzU3S2JYb1o0Zmo0M2RlTlowa1BvRlcwbTIydUhBNW1vQS0tTXdRLWlGVzF2djRCUU50X01qOW5URDExQWJ2YW5WaFB5R0o0Wm5sN0d3UXZaWFJ1N0Z6bjU1VXpQUHNjREp0Nk9QVTRweDh5ZFY4NVhkS0xpLXVKc0FF?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-05T12:04:38+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-bc6eec36975f2ba3af5f",
