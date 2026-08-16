@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T19:37:03.501743+00:00",
+  "generatedAt": "2026-08-16T20:41:20.119342+00:00",
   "articles": [
     {
       "id": "about-amazon-d8bd7498542333ea9112",
@@ -1142,18 +1142,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-734bfda51cb56285b144",
-      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
-      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
-      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-e3fa3dd00a5abb9d3855",
       "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
@@ -1558,6 +1546,18 @@
       "sourceId": "shopify-pressroom",
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2889,7 +2889,7 @@
       "category": "Fintech Blogs",
       "kind": "rss",
       "ok": true,
-      "itemCount": 12,
+      "itemCount": 10,
       "message": "STALE: official_google_news: HTTP Error 503: Service Unavailable"
     },
     {
