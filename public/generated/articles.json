@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:48:13.858619+00:00",
+  "generatedAt": "2026-08-17T17:47:59.483015+00:00",
   "articles": [
     {
       "id": "about-amazon-cc382b931a14c12bc5d3",
@@ -1346,6 +1346,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "coinbase-blog-c1717a9e1a3d582b74f0",
+      "title": "What Coinbase is Doing to Prepare for Post-Quantum Cryptography",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblV2cWw3My1RQlZSalNiT3NWQmVZT01hZklaRXVPbW9SMHA5cDFEOUNIZWJEaHhSdHlWZjR3Umx5bV90TVFQem5NcGJiOXFCS2ZpS3FTclBYOU1oSkl3WDZJRWZJSHRUQmo3TVRZRGNwd01XTUFDcnlDV0lMaFJJbmxYemRaQVJnU3NtTjJKbHdkN2VyaWpTdQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-23T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
       "title": "Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Dimassis-Mediterranean-Buffet-Leverages-Square-as-It-Expands-Twenty-Four-Location-Portfolio/default.aspx",
@@ -1523,6 +1535,18 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2854,30 +2878,6 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-edc76b27965c51657da7",
-      "title": "5 ways to boost customer satisfaction with real-time payments",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2hjRFp6N0EtS0g1SnVYY3paMTZQM282U1FNaWtTZ2lfdm1TcDlSUl9FNlFRZnkyR3k1Y3VxQWZ2cHE5NlFRaE5nMUwwbENuOGx6Z195MGZMQ0R2cEsyYTA4bGw4UER3RXFZVHNnSXR0dlhYX0VEbENGTEhncUdWZ1VlRmd2SlBQaHRyak9fc1djX0sxeDZj?oc=5",
-      "summary": "Marqeta Blog published an update for Marqeta relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-29T23:09:16+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-bacdd251daca40559e7e",
-      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-18T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
