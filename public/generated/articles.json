@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-17T19:00:22.207917+00:00",
+  "generatedAt": "2026-08-17T19:44:48.322538+00:00",
   "articles": [
+    {
+      "id": "about-amazon-41f6b899975fd6a76cff",
+      "title": "5 ways Amazon is investing in Nevada",
+      "link": "https://www.aboutamazon.com/news/community/amazon-investment-nevada-jobs-infrastructure-small-business?utm_source=rss",
+      "summary": "Amazon's investments are boosting the Silver State's economy while creating opportunities for those who call Nevada home.",
+      "publishedAt": "2026-08-17T19:30:36+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-508c3740717ef490a137",
+      "title": "5 ways Amazon is investing in Colorado",
+      "link": "https://www.aboutamazon.com/news/community/amazon-investment-colorado-jobs-infrastructure-small-business?utm_source=rss",
+      "summary": "Amazon's investments are boosting the Centennial State's economy while creating opportunities for those who call Colorado home.",
+      "publishedAt": "2026-08-17T19:20:01+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-cc382b931a14c12bc5d3",
       "title": "A first look at 'The Terminal List' Season 2 starring Chris Pratt, coming to Prime Video October 21",
@@ -84,18 +108,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-14T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-69cbe3169a5b0bf89f73",
@@ -842,18 +854,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-15ac27abdec2318f1190",
-      "title": "Amazon Pharmacy now delivers GLP-1 medications to eligible Medicare patients for $50 a month",
-      "link": "https://www.aboutamazon.com/news/retail/amazon-pharmacy-glp-1-medicare?utm_source=rss",
-      "summary": "Amazon Pharmacy handles the majority of the paperwork and delivers Wegovy, Zepbound, and Foundayo to patients' doors—with Same-Day Delivery and kiosk pickup.",
-      "publishedAt": "2026-08-06T10:01:37+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-3c32388e41963b8bb078",
       "title": "Greenland International Industrial Center (GIIC) Expands Water Reclamation Program to Advance Sustainable Industrial Development in West Java",
       "link": "https://press.aboutamazon.com/aws-international/2026/8/greenland-international-industrial-center-giic-expands-water-reclamation-program-to-advance-sustainable-industrial-development-in-west-java",
@@ -962,16 +962,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-674996c75e34a9de4f2f",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
-      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "publishedAt": "2026-08-05T20:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
+      "id": "sofi-press-b840a4605e1879e7b276",
+      "title": "SoFi Expands Access to Private Markets with Funds From CAZ Investments and AngelList Asset Management",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWTVLZWhmeEctU2gwTFc5cGxzU0hCZm9FLWl1LXBXSXlPZW50a3poVVRMaFJrbUNYY3lFUlMxWE52MXNYMzhCUXBEMHVCUkNGRTZZWlUyOTdabXBRdTEyYmg1V014ZUJQckozSGpXMl9jbTlqVk56SmJnMS1UdzU3S2JYb1o0Zmo0M2RlTlowa1BvRlcwbTIydUhBNW1vQS0tTXdRLWlGVzF2djRCUU50X01qOW5URDExQWJ2YW5WaFB5R0o0Wm5sN0d3UXZaWFJ1N0Z6bjU1VXpQUHNjREp0Nk9QVTRweDh5ZFY4NVhkS0xpLXVKc0FF?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-05T12:04:38+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-bc6eec36975f2ba3af5f",
@@ -1190,6 +1190,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-acf0119fe09c38f908c6",
+      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
+      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
+      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-4ce8c2f3554961053a15",
       "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Vibrant-Los-Angeles-Health-Spot-Kreation-Organic-Deepens-Its-Partnership-with-Square-Across-Its-25-Location-Footprint/default.aspx",
@@ -1298,18 +1310,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-e01b12db04913b664d4b",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Notre Dame Athletics Launch Landmark Multi-Year Partnership",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXc0elFHcmE4S05UQXdkUy1kOVZYQW5XeVJRVGZrSXRINUtxVHIxeWZOdG9fcFJ3NW1RVm5NQ2FqaHU1d0pfSm02cmZrSFUyMVdCeDdSN3dFVmc3bC00QWU2THNDaTM5WUtqYndPN19HaHZtaXNfclJYZnpoWGpnUEY0LVphUjduMlo0MU44WFJuVE9RREphS2xnZlBGQmxJbGRJTk4tSzJoaEM2TE1TSFpZTGwtZ2tLZFU2dlVybVpyc3FVei0zXzh1UQ?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-28T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "klarna-press-ae4d4851388ccd546dbe",
       "title": "Klarna to power Apple Upgrade, a new hardware leasing program offered by Apple",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlJHSFU0cVAzYXN2ZjVQNzhVNGp2OGNSS0tHMHdSWGMzc1VQWDYtZ2YwUm5lbWJHeTZxQnl2YjRLaEN1SjFIcnNMTFpUclJNQ05VQXNyQ21veGRzY1Zudi1pMjM1ZFJiMk5MZGd3cWZQTnF3NjJWazlKdnhJNDBBeEl1dWZJejZRbFBqYXFJSXZmZEh2SmhIanpRLTVUaUJBalJoZFEtWWRGOC1JRHVZMnZueks0eGxpcnBZd0tB?oc=5",
@@ -1378,6 +1378,18 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-c1717a9e1a3d582b74f0",
+      "title": "What Coinbase is Doing to Prepare for Post-Quantum Cryptography",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblV2cWw3My1RQlZSalNiT3NWQmVZT01hZklaRXVPbW9SMHA5cDFEOUNIZWJEaHhSdHlWZjR3Umx5bV90TVFQem5NcGJiOXFCS2ZpS3FTclBYOU1oSkl3WDZJRWZJSHRUQmo3TVRZRGNwd01XTUFDcnlDV0lMaFJJbmxYemRaQVJnU3NtTjJKbHdkN2VyaWpTdQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-23T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1562,6 +1574,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1726,6 +1750,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-36cfe43c94ba45e5b45f",
+      "title": "News archive Browse through all our news",
+      "link": "https://newsroom.wise.com/en-NAM/releases/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-07-01T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2378,6 +2414,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-c2fed06b99d719bdfba8",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5",
@@ -2443,18 +2491,6 @@
       "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
       "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
       "publishedAt": "2026-02-25T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
-      "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
-      "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
-      "summary": "Buy Now, Pay Later is shifting from luxury purchases to essential spending. Learn how BNPL is becoming a vital cash flow management tool for daily expenses.",
-      "publishedAt": "2026-02-17T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2654,18 +2690,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-bb4d091ac1db0ddac185",
-      "title": "Wise Platform partners with Wealthsimple to offer enhanced international payments services for Canadians",
-      "link": "https://newsroom.wise.com/en-NAM/257478-wise-platform-partners-with-wealthsimple-to-offer-enhanced-international-payments-services-for-canadians/",
-      "summary": "Wealthsimple partners with Wise Platform to offer Canadians fast, low-fee international payments to 30 countries in 10+ currencies directly from the Wealthsimple app or website.",
-      "publishedAt": "2025-11-12T10:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-0b5deb4b6cc8f6140ce3",
       "title": "El Buen Fin 2025: Mexico’s USD $9B sales weekend",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/el-buen-fin-2025-mexicos-usd-9b-sales-weekend/",
@@ -2856,30 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2896,10 +2896,10 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 17,
-      "message": "OK via official fallback RSS"
+      "itemCount": 5,
+      "message": "STALE: official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "marqeta-blog",
