@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T04:04:59.509669+00:00",
+  "generatedAt": "2026-08-17T05:00:25.570844+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5544,6 +5544,26 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
+      "id": "SHOP-0001594805-25-000090",
+      "company": "Shopify",
+      "displayName": "Shopify",
+      "ticker": "SHOP",
+      "cik": "0001594805",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001594805-25-000090",
+      "filingDate": "2025-12-02",
+      "reportDate": "2025-12-02",
+      "acceptanceDateTime": "2025-12-02",
+      "primaryDocument": "shop-20251202.htm",
+      "title": "Shopify 8-K for 2025-12-02",
+      "summary": "Shopify filed a current report (8-K) on 2025-12-02 for report date 2025-12-02. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000090/0001594805-25-000090-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000090/shop-20251202.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
       "id": "KLAR-0001628280-25-052805",
       "company": "Klarna",
       "displayName": "Klarna Group",
@@ -5580,26 +5600,6 @@
       "summary": "Klarna Group filed a current report (6-K) on 2025-11-18 for report date 2025-09-30. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052803/0001628280-25-052803-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052803/form6-kxklarnagroupplcearn.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "DLO-0001193125-25-277539",
-      "company": "dLocal",
-      "displayName": "dLocal",
-      "ticker": "DLO",
-      "cik": "0001846832",
-      "category": "Fintech Blogs",
-      "form": "6-K",
-      "accessionNumber": "0001193125-25-277539",
-      "filingDate": "2025-11-12",
-      "reportDate": "2025-09-30",
-      "acceptanceDateTime": "2025-11-12",
-      "primaryDocument": "dlo-20250930.htm",
-      "title": "dLocal 6-K for 2025-09-30",
-      "summary": "dLocal filed a current report (6-K) on 2025-11-12 for report date 2025-09-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1846832/000119312525277539/0001193125-25-277539-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1846832/000119312525277539/dlo-20250930.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }
@@ -5666,8 +5666,8 @@
       "ticker": "SHOP",
       "cik": "0001594805",
       "ok": true,
-      "filingCount": 11,
-      "message": "11 filings via SEC EDGAR read-through"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Nubank",
