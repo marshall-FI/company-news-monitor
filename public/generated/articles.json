@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-18T19:00:05.329431+00:00",
+  "generatedAt": "2026-08-18T19:44:07.259724+00:00",
   "articles": [
+    {
+      "id": "google-blog-1c13ad3f7b6306969b09",
+      "title": "Tap into the power of Gemini in Chrome on Android.",
+      "link": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/",
+      "summary": "Gemini in Chrome is now available to all Android users in the U.S.",
+      "publishedAt": "2026-08-18T19:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-528b99fafffdb52eb88e",
+      "title": "Razorpay Launches Vulcan, India's First AI Payments Foundation Model, Fueled by NVIDIA and AWS - Re-architecting Payments for a $350 Bn E-Comm Future by 2030",
+      "link": "https://press.aboutamazon.com/aws-international/2026/8/razorpay-launches-vulcan-indias-first-ai-payments-foundation-model-fueled-by-nvidia-and-aws-re-architecting-payments-for-a-350-bn-e-comm-future-by-2030",
+      "summary": "[MEDIA ALERT]A single AI system trained on nearly 3 trillion data points across 4 bn payments, aiming to make every digital payment in India faster, safer, and smarter",
+      "publishedAt": "2026-08-18T18:58:31.255000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "google-blog-8d758d2d699ab03bdf82",
       "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
@@ -486,18 +510,6 @@
       "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
       "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
       "summary": "Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part of Made by Google.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-45a31b2df946f95cfa9c",
-      "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
-      "link": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
-      "summary": "A new level of proactive health and wellness is coming to your wrist.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -1154,18 +1166,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-f0eac5adb967cae3611d",
-      "title": "Shop AI-curated finds at Amazon India’s Great Freedom Sale starting 7th August 2026",
-      "link": "https://press.aboutamazon.com/in/2026/8/shop-ai-curated-finds-at-amazon-indias-great-freedom-sale-starting-7th-august-2026",
-      "summary": "● Customers can benefit from instant savings of Up to 10% on HDFC bank credit card and EMI transactions● Prime members can enjoy additional savings of Up to 5% off across categories● Up to 80% off with no Cost EMI, coupon discounts and instant bank offers● Discover products rooted in India’s…",
-      "publishedAt": "2026-08-03T15:07:05.344000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-6d79bad85486189e6159",
       "title": "Allied Universal Partners with Chime to Deliver Fee-Free Financial Solutions to Hundreds of Thousands of Employees",
       "link": "https://investors.chime.com/news-releases/news-release-details/allied-universal-partners-chime-deliver-fee-free-financial",
@@ -1212,6 +1212,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-acf0119fe09c38f908c6",
+      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
+      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
+      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
+      "publishedAt": "2026-07-30T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-4ce8c2f3554961053a15",
@@ -1406,18 +1418,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
       "title": "Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Dimassis-Mediterranean-Buffet-Leverages-Square-as-It-Expands-Twenty-Four-Location-Portfolio/default.aspx",
@@ -1524,18 +1524,6 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-0e0292955c83165e7030",
@@ -2030,6 +2018,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-16a05ed6b058243a929e",
       "title": "Introducing Cash App Tags: A New Way to Pay",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Introducing-Cash-App-Tags1-A-New-Way-to-Pay/default.aspx",
@@ -2196,18 +2196,6 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-bf3f9f54fcbcc79683b7",
-      "title": "2026/05/12 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3311",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-12T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-2552d993f4cfe9bc944a",
@@ -2388,18 +2376,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-7c24989a81478598c50a",
-      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "link": "https://pr.tsmc.com/english/news/3302",
-      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "publishedAt": "2026-04-23T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "shift4-news-59cd39600e4f0f00bf42",
@@ -2642,18 +2618,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
-      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
-      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
-      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
       "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
       "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
@@ -2880,6 +2844,42 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "dlocal-blog-240988e232d77a710a65",
+      "title": "Payments in the Middle East: A blend of heritage and modern innovation",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/payments-in-the-middle-east-a-blend-of-heritage-and-modern-innovation/",
+      "summary": "National payment networks, real-time rails, and mobile-driven consumers are transforming the Middle East into a hub of digital payment innovation.",
+      "publishedAt": "2025-10-21T19:53:30+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6e1e6bd0fd3a09b620bb",
+      "title": "eWallets: The digital gateway transforming payments in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/ewallets-the-digital-gateway-transforming-payments-in-emerging-markets/",
+      "summary": "Blending local trust with digital speed, eWallets—a cornerstone of the alternative payment methods (APMs) ecosystem, are revolutionizing payments in emerging markets and driving inclusion at scale.",
+      "publishedAt": "2025-10-17T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-7187026926ebefef292b",
+      "title": "Africa’s payment frontier: Connecting systems, people, and opportunity",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/africas-payment-frontier-connecting-systems-people-and-opportunity/",
+      "summary": "Mobile-first innovation, real-time rails, and new interoperability frameworks are turning Africa into one of the world’s most dynamic digital payment regions.",
+      "publishedAt": "2025-10-08T19:23:46+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
