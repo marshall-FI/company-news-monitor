@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:54:18.318691+00:00",
+  "generatedAt": "2026-08-18T17:48:16.652941+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -20,26 +20,6 @@
       "summary": "Wise Group filed a current report (6-K) on 2026-08-18 for report date 2026-08-18. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426007704/0001654954-26-007704-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426007704/a0280r.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "KLAR-0001628280-26-057573",
-      "company": "Klarna",
-      "displayName": "Klarna Group",
-      "ticker": "KLAR",
-      "cik": "0002003292",
-      "category": "Fintech Blogs",
-      "form": "6-K",
-      "accessionNumber": "0001628280-26-057573",
-      "filingDate": "2026-08-18",
-      "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-08-18",
-      "primaryDocument": "form6-kxklarnagroupplcxh126.htm",
-      "title": "Klarna 6-K for 2026-06-30",
-      "summary": "Klarna Group filed a current report (6-K) on 2026-08-18 for report date 2026-06-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026057573/0001628280-26-057573-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026057573/form6-kxklarnagroupplcxh126.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -5601,6 +5581,26 @@
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000225/0001818874-25-000225-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000225/sofi-20251204.htm",
       "note": "Galileo is tracked through parent company SoFi Technologies.",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "SHOP-0001594805-25-000090",
+      "company": "Shopify",
+      "displayName": "Shopify",
+      "ticker": "SHOP",
+      "cik": "0001594805",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001594805-25-000090",
+      "filingDate": "2025-12-02",
+      "reportDate": "2025-12-02",
+      "acceptanceDateTime": "2025-12-02",
+      "primaryDocument": "shop-20251202.htm",
+      "title": "Shopify 8-K for 2025-12-02",
+      "summary": "Shopify filed a current report (8-K) on 2025-12-02 for report date 2025-12-02. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000090/0001594805-25-000090-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000090/shop-20251202.htm",
+      "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }
   ],
