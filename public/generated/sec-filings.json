@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-08-18T09:51:07.754762+00:00",
+  "generatedAt": "2026-08-18T10:48:52.445438+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
+    {
+      "id": "WSE-0001654954-26-007704",
+      "company": "Wise",
+      "displayName": "Wise Group",
+      "ticker": "WSE",
+      "cik": "0002099039",
+      "category": "Fintech Blogs",
+      "form": "6-K",
+      "accessionNumber": "0001654954-26-007704",
+      "filingDate": "2026-08-18",
+      "reportDate": "2026-08-18",
+      "acceptanceDateTime": "2026-08-18",
+      "primaryDocument": "a0280r.htm",
+      "title": "Wise 6-K for 2026-08-18",
+      "summary": "Wise Group filed a current report (6-K) on 2026-08-18 for report date 2026-08-18. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426007704/0001654954-26-007704-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426007704/a0280r.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
     {
       "id": "WSE-0001171843-26-005571",
       "company": "Wise",
@@ -5582,26 +5602,6 @@
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000090/shop-20251202.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "KLAR-0001628280-25-052805",
-      "company": "Klarna",
-      "displayName": "Klarna Group",
-      "ticker": "KLAR",
-      "cik": "0002003292",
-      "category": "Fintech Blogs",
-      "form": "6-K",
-      "accessionNumber": "0001628280-25-052805",
-      "filingDate": "2025-11-18",
-      "reportDate": "2025-09-30",
-      "acceptanceDateTime": "2025-11-18",
-      "primaryDocument": "form6-kxklarnagroupplcinte.htm",
-      "title": "Klarna 6-K for 2025-09-30",
-      "summary": "Klarna Group filed a current report (6-K) on 2025-11-18 for report date 2025-09-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052805/0001628280-25-052805-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052805/form6-kxklarnagroupplcinte.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
     }
   ],
   "statuses": [
@@ -5714,8 +5714,8 @@
       "ticker": "WSE",
       "cik": "0002099039",
       "ok": true,
-      "filingCount": 11,
-      "message": "11 filings via SEC EDGAR read-through"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Klarna",

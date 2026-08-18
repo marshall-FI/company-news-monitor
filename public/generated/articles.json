@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:51:00.001557+00:00",
+  "generatedAt": "2026-08-18T10:48:43.946972+00:00",
   "articles": [
     {
       "id": "google-blog-82cb4061484abf43a160",
@@ -770,18 +770,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "klarna-press-4bdc475562aa503f1ad1",
       "title": "Klarna goes live with J.P. Morgan Payments, opening flexible checkout to U.S. merchants",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkNqNHRvS0IybGY4RmJrSWtEYXZnVk9NVzd1WDdGZGxoa1NVdkw5bE1icDJITVNqaTA5aVEzOUg3UzVBR212SFJQMkFsQVM1RXBGRGl0WmYwZDBIU25yY2dVQm8xam91aUNVNHFwcTd1anhhOEY3a3NpY0E4TXBhYk1iVDVldkdyZGNXTUFGNzFCZV9BWkVTT1VLU1lLdDZGbGRtNW5vYmYwaWxRY3hNRS1PN0tMd0o4cFVJSTZramM1NTFfWTdV?oc=5",
@@ -1174,6 +1162,18 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-734bfda51cb56285b144",
+      "title": "Issuing/processing Consumer The retail loyalty squeeze Article",
+      "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
+      "summary": "Help seal four common retail revenue leaks: loyalty program churn, checkout abandonment, third-party data ownership, and declined credit applicants.",
+      "publishedAt": "2026-08-03T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
