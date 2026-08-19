@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-19T14:00:22.868365+00:00",
+  "generatedAt": "2026-08-19T15:36:37.498932+00:00",
   "articles": [
+    {
+      "id": "about-amazon-b63f7f96cea72a78a4fe",
+      "title": "Alexa+ is now included on Fire TV at no additional cost",
+      "link": "https://www.aboutamazon.com/news/devices/alexa-plus-fire-tv-free-ai?utm_source=rss",
+      "summary": "Alexa+ is now included for free on compatible Fire TV devices, bringing conversational search and smart home controls.",
+      "publishedAt": "2026-08-19T14:55:04+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-de413d5b8fa123cdec0b",
       "title": "What 3 creatives built with unlimited access to Google Flow",
@@ -60,6 +72,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-87561f218048c91ccf10",
+      "title": "Other Financial Services Marqeta partners with zerohash for stablecoin cards: here's what it means for card programs Article",
+      "link": "https://www.marqeta.com/blog/marqeta-partners-with-zerohash-for-stablecoin-cards-heres-what-it-means-for-card-programs",
+      "summary": "Getting stablecoin-backed cards into the hands of many is exactly what we’re trying to do with our newly announced partnership with zerohash.",
+      "publishedAt": "2026-08-19T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-1c13ad3f7b6306969b09",
@@ -626,18 +650,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-5735f340943ef9a3b222",
-      "title": "How Amazon is supporting communities impacted by the Colombia earthquake",
-      "link": "https://www.aboutamazon.com/news/community/colombia-earthquake-amazon-disaster-relief?utm_source=rss",
-      "summary": "Amazon is working with local nonprofits to help communities recover.",
-      "publishedAt": "2026-08-11T22:21:38+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-be5857c06a592fc6752a",
       "title": "Still waiting? Your last chance to grab Great Freedom Sale deals is here!",
       "link": "https://press.aboutamazon.com/in/2026/8/still-waiting-your-last-chance-to-grab-great-freedom-sale-deals-is-here",
@@ -862,18 +874,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1394,18 +1394,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-127710ecc139b055cd65",
-      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
-      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
-      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
-      "publishedAt": "2026-07-28T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
       "title": "The Robinhood Ventures Fund II (RVII) IPO Roadshow Begins August 3",
       "link": "https://robinhood.com/us/en/newsroom/RVII-roadshow-aug3",
@@ -1658,18 +1646,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1678,6 +1654,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2774,18 +2762,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-2c71c1b75783b9631d72",
-      "title": "Other All Industries Marqeta at Money20/20: Looking back at Las Vegas 2025 Article",
-      "link": "https://www.marqeta.com/blog/money-2020",
-      "summary": "Marqeta's Money20/20 Las Vegas 2025 recap: Wakuda meetings, Boyz II Men panel, CHICA party highlights & how payment innovation meets reliability.",
-      "publishedAt": "2025-11-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-85656d296df85e155069",
       "title": "Yape, Peru’s SuperApp is now on-file and redefining mobile conversion",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/yape-perus-superapp-is-now-on-file-and-redefining-mobile-conversion/",
@@ -2875,6 +2851,30 @@
       "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
       "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
       "publishedAt": "2025-09-29T14:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-8357fec8a7f961d6724e",
+      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
+      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
+      "publishedAt": "2025-09-17T13:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
