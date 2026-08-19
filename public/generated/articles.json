@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-19T18:57:34.340175+00:00",
+  "generatedAt": "2026-08-19T19:42:46.853018+00:00",
   "articles": [
+    {
+      "id": "google-blog-abaed39cbc9c9b421285",
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "publishedAt": "2026-08-19T19:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-0c146b69c0dd91e6d3f1",
+      "title": "Start the semester with one year of Gemini, on us",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "summary": "College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.",
+      "publishedAt": "2026-08-19T19:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-0c8c3087b6e050b5ec31",
+      "title": "Back to School 2026",
+      "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+      "summary": "How Google tools can help students and educators this back-to-school season.",
+      "publishedAt": "2026-08-19T19:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-a7f60de41ca8bbdb1cf6",
       "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
@@ -12,18 +48,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-174eb4daf2fdc107c5e3",
-      "title": "BrightSign Scales Premium, Cloud-Based Device Management Solution on Amazon Web Services",
-      "link": "https://press.aboutamazon.com/aws/2026/8/brightsign-scales-premium-cloud-based-device-management-solution-on-amazon-web-services",
-      "summary": "BrightSign Control Plus leverages the breadth of AWS services for reliable, secure, and scalable digital signage network management",
-      "publishedAt": "2026-08-19T16:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "about-amazon-b63f7f96cea72a78a4fe",
@@ -566,46 +590,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6f9b67c20b2ae3791b38",
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-      "summary": "The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-5299dc412dc9ce25fc42",
       "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
       "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-6321cd294fd97fe04f87",
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
-      "summary": "The new Pixel 11 lineup offers the best of Gemini Intelligence and brings our biggest camera upgrades in years.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-5cdaf604df44a05a7075",
-      "title": "Made by Google 2026",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
-      "summary": "Google Blog published an update for Google relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -1214,6 +1202,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "amazon-press-archive-e6a07f02ff779d31abc7",
+      "title": "Superblocks and AWS Announce Strategic Collaboration to Bring Secure Enterprise AI App Development to Amazon Bedrock",
+      "link": "https://press.aboutamazon.com/aws/2026/8/superblocks-and-aws-announce-strategic-collaboration-to-bring-secure-enterprise-ai-app-development-to-amazon-bedrock",
+      "summary": "[MEDIA ALERT]Superblocks now provides AWS customers with a governed path from AI-generated application development to production, enabling business users to build faster while IT maintains control over security, policy, and deployment. Superblocks runs fully managed in the customer's own AWS…",
+      "publishedAt": "2026-08-03T17:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "chime-newsroom-6d79bad85486189e6159",
       "title": "Allied Universal Partners with Chime to Deliver Fee-Free Financial Solutions to Hundreds of Thousands of Employees",
       "link": "https://investors.chime.com/news-releases/news-release-details/allied-universal-partners-chime-deliver-fee-free-financial",
@@ -1392,6 +1392,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
@@ -2514,18 +2526,6 @@
       "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
       "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
       "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-2bdbcd290b41250e2d39",
-      "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
-      "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
-      "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
