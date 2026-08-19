@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-19T15:36:37.498932+00:00",
+  "generatedAt": "2026-08-19T17:42:46.183871+00:00",
   "articles": [
+    {
+      "id": "google-blog-a7f60de41ca8bbdb1cf6",
+      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
+      "summary": "Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
+      "publishedAt": "2026-08-19T17:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-174eb4daf2fdc107c5e3",
+      "title": "BrightSign Scales Premium, Cloud-Based Device Management Solution on Amazon Web Services",
+      "link": "https://press.aboutamazon.com/aws/2026/8/brightsign-scales-premium-cloud-based-device-management-solution-on-amazon-web-services",
+      "summary": "BrightSign Control Plus leverages the breadth of AWS services for reliable, secure, and scalable digital signage network management",
+      "publishedAt": "2026-08-19T16:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "about-amazon-b63f7f96cea72a78a4fe",
       "title": "Alexa+ is now included on Fire TV at no additional cost",
@@ -554,10 +578,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6321cd294fd97fe04f87",
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
-      "summary": "The new Pixel 11 lineup offers the best of Gemini Intelligence and brings our biggest camera upgrades in years.",
+      "id": "google-blog-6f9b67c20b2ae3791b38",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+      "summary": "The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -578,22 +602,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6f9b67c20b2ae3791b38",
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-      "summary": "The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-5248c83ef0b7b406d130",
-      "title": "Here’s your first look at the newest Pixel devices.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
-      "summary": "Here’s a first look at our new Pixel devices, including new Pixel 11 phones, Pixel Watch 5, and our first-ever Pixel Tag.",
+      "id": "google-blog-6321cd294fd97fe04f87",
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "summary": "The new Pixel 11 lineup offers the best of Gemini Intelligence and brings our biggest camera upgrades in years.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -762,7 +774,7 @@
       "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T04:00:00+00:00",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -1202,18 +1214,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-e6a07f02ff779d31abc7",
-      "title": "Superblocks and AWS Announce Strategic Collaboration to Bring Secure Enterprise AI App Development to Amazon Bedrock",
-      "link": "https://press.aboutamazon.com/aws/2026/8/superblocks-and-aws-announce-strategic-collaboration-to-bring-secure-enterprise-ai-app-development-to-amazon-bedrock",
-      "summary": "[MEDIA ALERT]Superblocks now provides AWS customers with a governed path from AI-generated application development to production, enabling business users to build faster while IT maintains control over security, policy, and deployment. Superblocks runs fully managed in the customer's own AWS…",
-      "publishedAt": "2026-08-03T17:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-6d79bad85486189e6159",
       "title": "Allied Universal Partners with Chime to Deliver Fee-Free Financial Solutions to Hundreds of Thousands of Employees",
       "link": "https://investors.chime.com/news-releases/news-release-details/allied-universal-partners-chime-deliver-fee-free-financial",
@@ -1394,6 +1394,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
       "title": "The Robinhood Ventures Fund II (RVII) IPO Roadshow Begins August 3",
       "link": "https://robinhood.com/us/en/newsroom/RVII-roadshow-aug3",
@@ -1452,18 +1464,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
@@ -1654,18 +1654,6 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2474,18 +2462,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2878,6 +2854,30 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6418a3b40706bf8c2c78",
+      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
+      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
+      "publishedAt": "2025-09-11T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
