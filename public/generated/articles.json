@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:56:03.731198+00:00",
+  "generatedAt": "2026-08-19T04:01:30.367396+00:00",
   "articles": [
     {
       "id": "google-blog-1c13ad3f7b6306969b09",
@@ -62,6 +62,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-1404e4634e3e0c45dcc4",
+      "title": "How Coinbase built a governed platform for internal operations",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3NuRVNuTHNsSUdBYzM2OGJqdkZFV1ZYUEFOTGpjZXJaamEtcDROSGpfUnN4QV9pWHN3R3RSSDJURkJvV0sxeVZVM1lUdzVVeHBUYWprTW1HSXAyZUVrd0o4cVRBb2hzbk9fblBHLWNTWUg2aFQyNEs5dmFMN2ZYUzJlXzJNQnVzcFlhT0xpdUI2Q2ZNOEhn?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-18T15:54:16+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "about-amazon-b194775cfef295ad3bb1",
       "title": "5 ways Amazon is investing in Arizona",
       "link": "https://www.aboutamazon.com/news/community/amazon-investment-arizona-jobs-infrastructure-small-business?utm_source=rss",
@@ -108,18 +120,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-1404e4634e3e0c45dcc4",
-      "title": "How Coinbase built a governed platform for internal operations",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3NuRVNuTHNsSUdBYzM2OGJqdkZFV1ZYUEFOTGpjZXJaamEtcDROSGpfUnN4QV9pWHN3R3RSSDJURkJvV0sxeVZVM1lUdzVVeHBUYWprTW1HSXAyZUVrd0o4cVRBb2hzbk9fblBHLWNTWUg2aFQyNEs5dmFMN2ZYUzJlXzJNQnVzcFlhT0xpdUI2Q2ZNOEhn?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-18T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-77ae3be081cbe9afad8b",
@@ -600,18 +600,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-458b51a021c6614a95fe",
-      "title": "Getting paid in crypto just got a lot more powerful with Coinbase Business",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNekktQ2MzWVQ0V3hsR2dZWFM3VnFQUlN1SnNiQ1hUWUxOaDUxOWFGOVJBQmRaSnQ1dEYxYU1yVjU4R1dqUVZFX1drVG1wdmxBVXFvcXhkbkZLUTZEVV9hcW1MXzFsUU9iV01fSUhmQndvYzlxSGxKSjMxMk84bkpSLWV5WS1hcEZrc2l0dEZ4dm5OVm5NLWtZdy1GcEExYVNIZG9zOVlIZw?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T16:08:21+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-38a0519a43d4c8dc1965",
@@ -1238,18 +1226,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-acf0119fe09c38f908c6",
-      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
-      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
-      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-4ce8c2f3554961053a15",
       "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Vibrant-Los-Angeles-Health-Spot-Kreation-Organic-Deepens-Its-Partnership-with-Square-Across-Its-25-Location-Footprint/default.aspx",
@@ -1642,6 +1618,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2875,6 +2863,18 @@
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
       "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
       "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6418a3b40706bf8c2c78",
+      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
+      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
+      "publishedAt": "2025-09-11T12:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
