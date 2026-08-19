@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-19T11:48:56.307825+00:00",
+  "generatedAt": "2026-08-19T13:11:46.774545+00:00",
   "articles": [
+    {
+      "id": "paypal-newsroom-9c5b9cc873ed17a3015b",
+      "title": "PayPal and Venmo Expand to Tuition Payments in New Integrations with Illumia, Nelnet Campus Commerce, and TouchNet",
+      "link": "https://newsroom.paypal-corp.com/2026-08-19-PayPal-and-Venmo-Expand-to-Tuition-Payments-in-New-Integrations-with-Illumia,-Nelnet-Campus-Commerce,-and-TouchNet",
+      "summary": "Students and families can now choose PayPal or Venmo to pay tuition, adding two more everyday payment options to a major life expense.",
+      "publishedAt": "2026-08-19T12:00:00+00:00",
+      "sourceId": "paypal-newsroom",
+      "sourceName": "PayPal Newsroom",
+      "company": "PayPal",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-40fddd5a061272a6d000",
+      "title": "Coinbase Brings Direct BRL Trading for USDC to Coinbase Advanced",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UdXRrek9yTkx2MHJPT2tUb09FUjgycnRNSTNSUFhpTk95T0huSG01dWxfLTlTTXZPaTl4dnZRcDFGaW9YYlFxSWg4Z2s5U01QRE90N2h6cFM2T2ZzTVk2cmpfdDg0bHZadlprOFd0VHFuUjNZMUlObkJycnkyZw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-19T12:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "dlocal-blog-8f7421363ca2c713dc5c",
       "title": "What are settlement models and how they can unlock strategic value",
@@ -838,6 +862,18 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1706,18 +1742,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "paypal-newsroom-6003a984edc02cdf2b7e",
-      "title": "PayPal Joins the European Payments Council",
-      "link": "https://newsroom.paypal-corp.com/2026-07-02-PayPal-Joins-the-European-Payments-Council",
-      "summary": "PayPal Newsroom published an update for PayPal relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-02T16:50:00+00:00",
-      "sourceId": "paypal-newsroom",
-      "sourceName": "PayPal Newsroom",
-      "company": "PayPal",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "robinhood-blog-422052f0adb9172aac1d",
       "title": "Robinhood Accelerates Global Expansion with Robinhood Chain Mainnet, Stock Tokens, Agentic Trading and New Suite of DeFi Products",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading",
@@ -2474,18 +2498,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-2bdbcd290b41250e2d39",
       "title": "Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article",
       "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
@@ -2542,6 +2554,18 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
+      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
+      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
+      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2854,30 +2878,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-6418a3b40706bf8c2c78",
-      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
-      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
-      "publishedAt": "2025-09-11T12:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
