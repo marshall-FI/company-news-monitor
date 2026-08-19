@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:38:47.915688+00:00",
+  "generatedAt": "2026-08-19T01:56:03.731198+00:00",
   "articles": [
     {
       "id": "google-blog-1c13ad3f7b6306969b09",
@@ -24,6 +24,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "google-blog-8a27388b3fc50cf6619e",
+      "title": "Try 4 new interactive BTS experiences inside the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/",
+      "summary": "Google Gemini and BTS are collaborating on a series of interactive features inside the Gemini app.",
+      "publishedAt": "2026-08-18T17:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "google-blog-b7f6163aebb9713ac4c1",
@@ -171,7 +183,7 @@
     },
     {
       "id": "nvidia-newsroom-14f10bd390e866e70672",
-      "title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
+      "title": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
       "link": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
       "summary": "NVIDIA announced that it has secured land, power and shell (LPS) capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Pike County, Ohio, to host NVIDIA compute...",
       "publishedAt": "2026-08-17T12:33:00+00:00",
@@ -482,10 +494,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0f3aae81898feb94204e",
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
-      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
+      "id": "google-blog-6321cd294fd97fe04f87",
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "summary": "The new Pixel 11 lineup offers the best of Gemini Intelligence and brings our biggest camera upgrades in years.",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -510,18 +522,6 @@
       "title": "Here are 3 ways your Pixel just got even more helpful.",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
       "summary": "Our Pixel 11 phones are packed with helpful updates, like Magic Capture, Rambler, and HiLight. Here, a Googler shares his favorites.",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-5feb9408180c33343ae4",
-      "title": "New accessories for Pixel 11 phones are here.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
-      "summary": "Google is rolling out new Pixel accessories as part of Made by Google",
       "publishedAt": "2026-08-12T14:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
