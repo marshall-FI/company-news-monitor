@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:49:32.541833+00:00",
+  "generatedAt": "2026-08-19T09:52:41.239614+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5484,6 +5484,26 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
+      "id": "AFRM-0001628280-25-057930",
+      "company": "Affirm",
+      "displayName": "Affirm Holdings",
+      "ticker": "AFRM",
+      "cik": "0001820953",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001628280-25-057930",
+      "filingDate": "2025-12-18",
+      "reportDate": "2025-12-15",
+      "acceptanceDateTime": "2025-12-18",
+      "primaryDocument": "afrm-20251215.htm",
+      "title": "Affirm 8-K for 2025-12-15",
+      "summary": "Affirm Holdings filed a current report (8-K) on 2025-12-18 for report date 2025-12-15. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025057930/0001628280-25-057930-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025057930/afrm-20251215.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
       "id": "DLO-0001193125-25-319349",
       "company": "dLocal",
       "displayName": "dLocal",
@@ -5525,7 +5545,7 @@
     },
     {
       "id": "SOFI-0001818874-25-000232",
-      "company": "Galileo",
+      "company": "SoFi",
       "displayName": "SoFi Technologies",
       "ticker": "SOFI",
       "cik": "0001818874",
@@ -5536,11 +5556,31 @@
       "reportDate": "2025-12-04",
       "acceptanceDateTime": "2025-12-08",
       "primaryDocument": "sofi-20251204.htm",
-      "title": "Galileo 8-K for 2025-12-04",
-      "summary": "SoFi Technologies filed a current report (8-K) on 2025-12-08 for report date 2025-12-04. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.",
+      "title": "SoFi 8-K for 2025-12-04",
+      "summary": "SoFi Technologies filed a current report (8-K) on 2025-12-08 for report date 2025-12-04. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000232/0001818874-25-000232-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000232/sofi-20251204.htm",
-      "note": "Galileo is tracked through parent company SoFi Technologies.",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "SOFI-0001818874-25-000229",
+      "company": "SoFi",
+      "displayName": "SoFi Technologies",
+      "ticker": "SOFI",
+      "cik": "0001818874",
+      "category": "Fintech Blogs",
+      "form": "424B3",
+      "accessionNumber": "0001818874-25-000229",
+      "filingDate": "2025-12-05",
+      "reportDate": "",
+      "acceptanceDateTime": "2025-12-05",
+      "primaryDocument": "sofidec2025finalprospectus.htm",
+      "title": "SoFi 424B3 for 2025-12-05",
+      "summary": "SoFi Technologies filed a SEC filing (424B3) on 2025-12-05. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000229/0001818874-25-000229-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000229/sofidec2025finalprospectus.htm",
+      "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
     {
@@ -5562,46 +5602,6 @@
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000225/sofi-20251204.htm",
       "note": "Galileo is tracked through parent company SoFi Technologies.",
       "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "SHOP-0001594805-25-000090",
-      "company": "Shopify",
-      "displayName": "Shopify",
-      "ticker": "SHOP",
-      "cik": "0001594805",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001594805-25-000090",
-      "filingDate": "2025-12-02",
-      "reportDate": "2025-12-02",
-      "acceptanceDateTime": "2025-12-02",
-      "primaryDocument": "shop-20251202.htm",
-      "title": "Shopify 8-K for 2025-12-02",
-      "summary": "Shopify filed a current report (8-K) on 2025-12-02 for report date 2025-12-02. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000090/0001594805-25-000090-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000090/shop-20251202.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "KLAR-0001628280-25-052805",
-      "company": "Klarna",
-      "displayName": "Klarna Group",
-      "ticker": "KLAR",
-      "cik": "0002003292",
-      "category": "Fintech Blogs",
-      "form": "6-K",
-      "accessionNumber": "0001628280-25-052805",
-      "filingDate": "2025-11-18",
-      "reportDate": "2025-09-30",
-      "acceptanceDateTime": "2025-11-18",
-      "primaryDocument": "form6-kxklarnagroupplcinte.htm",
-      "title": "Klarna 6-K for 2025-09-30",
-      "summary": "Klarna Group filed a current report (6-K) on 2025-11-18 for report date 2025-09-30. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052805/0001628280-25-052805-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828025052805/form6-kxklarnagroupplcinte.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
     }
   ],
   "statuses": [
@@ -5610,16 +5610,16 @@
       "ticker": "SOFI",
       "cik": "0001818874",
       "ok": true,
-      "filingCount": 10,
-      "message": "10 filings via SEC EDGAR read-through"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Toast",
       "ticker": "TOST",
       "cik": "0001650164",
       "ok": true,
-      "filingCount": 9,
-      "message": "9 filings via SEC EDGAR read-through"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Marqeta",
@@ -5642,8 +5642,8 @@
       "ticker": "AFRM",
       "cik": "0001820953",
       "ok": true,
-      "filingCount": 6,
-      "message": "6 filings via SEC EDGAR read-through"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Shift4",
