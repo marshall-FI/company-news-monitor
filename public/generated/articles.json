@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:42:46.183871+00:00",
+  "generatedAt": "2026-08-19T18:57:34.340175+00:00",
   "articles": [
     {
       "id": "google-blog-a7f60de41ca8bbdb1cf6",
@@ -96,18 +96,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-87561f218048c91ccf10",
-      "title": "Other Financial Services Marqeta partners with zerohash for stablecoin cards: here's what it means for card programs Article",
-      "link": "https://www.marqeta.com/blog/marqeta-partners-with-zerohash-for-stablecoin-cards-heres-what-it-means-for-card-programs",
-      "summary": "Getting stablecoin-backed cards into the hands of many is exactly what we’re trying to do with our newly announced partnership with zerohash.",
-      "publishedAt": "2026-08-19T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "google-blog-1c13ad3f7b6306969b09",
@@ -890,6 +878,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "klarna-press-4bdc475562aa503f1ad1",
       "title": "Klarna goes live with J.P. Morgan Payments, opening flexible checkout to U.S. merchants",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkNqNHRvS0IybGY4RmJrSWtEYXZnVk9NVzd1WDdGZGxoa1NVdkw5bE1icDJITVNqaTA5aVEzOUg3UzVBR212SFJQMkFsQVM1RXBGRGl0WmYwZDBIU25yY2dVQm8xam91aUNVNHFwcTd1anhhOEY3a3NpY0E4TXBhYk1iVDVldkdyZGNXTUFGNzFCZV9BWkVTT1VLU1lLdDZGbGRtNW5vYmYwaWxRY3hNRS1PN0tMd0o4cFVJSTZramM1NTFfWTdV?oc=5",
@@ -1394,18 +1394,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-127710ecc139b055cd65",
-      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
-      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
-      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
-      "publishedAt": "2026-07-28T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
       "title": "The Robinhood Ventures Fund II (RVII) IPO Roadshow Begins August 3",
       "link": "https://robinhood.com/us/en/newsroom/RVII-roadshow-aug3",
@@ -1464,6 +1452,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
@@ -1646,6 +1646,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -1654,6 +1666,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-7c3d4d976547827c1ea1",
+      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
+      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
+      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
+      "publishedAt": "2026-07-09T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2462,6 +2486,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2842,42 +2878,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-6418a3b40706bf8c2c78",
-      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
-      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
-      "publishedAt": "2025-09-11T12:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
