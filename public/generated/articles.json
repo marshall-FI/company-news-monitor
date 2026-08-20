@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:01:41.372275+00:00",
+  "generatedAt": "2026-08-20T04:55:23.075066+00:00",
   "articles": [
     {
       "id": "chime-newsroom-5b794e6546545b5645ff",
@@ -902,6 +902,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "klarna-press-4bdc475562aa503f1ad1",
       "title": "Klarna goes live with J.P. Morgan Payments, opening flexible checkout to U.S. merchants",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkNqNHRvS0IybGY4RmJrSWtEYXZnVk9NVzd1WDdGZGxoa1NVdkw5bE1icDJITVNqaTA5aVEzOUg3UzVBR212SFJQMkFsQVM1RXBGRGl0WmYwZDBIU25yY2dVQm8xam91aUNVNHFwcTd1anhhOEY3a3NpY0E4TXBhYk1iVDVldkdyZGNXTUFGNzFCZV9BWkVTT1VLU1lLdDZGbGRtNW5vYmYwaWxRY3hNRS1PN0tMd0o4cFVJSTZramM1NTFfWTdV?oc=5",
@@ -1272,18 +1284,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-acf0119fe09c38f908c6",
-      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
-      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
-      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-4ce8c2f3554961053a15",
@@ -1992,18 +1992,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-03bc0f726b286c6bc6ec",
-      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-16T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-b27a75ff08b7ad23c594",
@@ -2878,6 +2866,18 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-7d63ac24baea9146c737",
+      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
+      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
+      "publishedAt": "2025-09-29T14:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
