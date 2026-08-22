@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:38:08.709171+00:00",
+  "generatedAt": "2026-08-22T18:51:30.932607+00:00",
   "articles": [
     {
       "id": "google-blog-bb007757648f56cf0010",
@@ -758,18 +758,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-dcda7f8a0ef2c6216a94",
       "title": "Coinbase Expands Derivatives Access to UK Professional Investors",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZURvcE9oaVlRcDZ2MkNsRmJia2ptTXZaWmg1LVBMcDZqd1hDMXgzZHNrUUFhYlRGUGdxTnlybTN6OVptQkU2THdjSTdIMnMxSDNpcWV6NUFOdXZJTlRsZ1JnWFlPUVZMS0QtSzdXYVpqRlV4YnctLUF0N2NVRjYwQlpvUHdWSmhmVlNybzA2elBKQzVRZGotX1ln?oc=5",
@@ -779,6 +767,30 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-b2720e8e8e1e2b162feb",
+      "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-94a54c637199ce9bb783",
+      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -842,6 +854,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-d31b6f14f3727b962106",
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
@@ -874,18 +898,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1394,6 +1406,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
       "title": "The Robinhood Ventures Fund II (RVII) IPO Roadshow Begins August 3",
       "link": "https://robinhood.com/us/en/newsroom/RVII-roadshow-aug3",
@@ -1598,18 +1622,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-2e80730fc65202f389b2",
       "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
@@ -1642,18 +1654,6 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1886,6 +1886,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
+      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
+      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
+      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
+      "publishedAt": "2026-06-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-629408828534e4e49741",
       "title": "Sofive Soccer Centers Selects Square to Power Its 22-Location National Footprint",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Sofive-Soccer-Centers-Selects-Square-to-Power-Its-22-Location-National-Footprint/default.aspx",
@@ -1955,18 +1967,6 @@
       "sourceName": "Block Investor News",
       "company": "Block",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2210,18 +2210,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-734c29856225bc355ec5",
-      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "link": "https://pr.tsmc.com/english/news/3308",
-      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-a5454d306bd930dc2141",
       "title": "Shift4 Announces First Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/300/shift4-announces-first-quarter-2026-results",
@@ -2340,18 +2328,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-7c24989a81478598c50a",
-      "title": "2026/04/23 TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "link": "https://pr.tsmc.com/english/news/3302",
-      "summary": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
-      "publishedAt": "2026-04-23T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "shift4-news-59cd39600e4f0f00bf42",
@@ -2534,18 +2510,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-2d54e3923eade6fa0096",
-      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
-      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
-      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
-      "publishedAt": "2026-02-25T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
       "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
       "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
@@ -2699,18 +2663,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2832,54 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6418a3b40706bf8c2c78",
+      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
+      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
+      "publishedAt": "2025-09-11T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 13,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
