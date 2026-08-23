@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:48:30.597033+00:00",
+  "generatedAt": "2026-08-23T14:41:31.476745+00:00",
   "articles": [
     {
       "id": "google-blog-bb007757648f56cf0010",
@@ -48,18 +48,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-d992f2d9c8d768337eca",
-      "title": "Credit Commercial The cost of keeping business credit simple Article",
-      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
-      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
-      "publishedAt": "2026-08-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "about-amazon-13f7bca42647b416320d",
@@ -758,18 +746,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "coinbase-blog-dcda7f8a0ef2c6216a94",
-      "title": "Coinbase Expands Derivatives Access to UK Professional Investors",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZURvcE9oaVlRcDZ2MkNsRmJia2ptTXZaWmg1LVBMcDZqd1hDMXgzZHNrUUFhYlRGUGdxTnlybTN6OVptQkU2THdjSTdIMnMxSDNpcWV6NUFOdXZJTlRsZ1JnWFlPUVZMS0QtSzdXYVpqRlV4YnctLUF0N2NVRjYwQlpvUHdWSmhmVlNybzA2elBKQzVRZGotX1ln?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "tsmc-news-b2720e8e8e1e2b162feb",
       "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
@@ -914,18 +890,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-4bdc475562aa503f1ad1",
-      "title": "Klarna goes live with J.P. Morgan Payments, opening flexible checkout to U.S. merchants",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkNqNHRvS0IybGY4RmJrSWtEYXZnVk9NVzd1WDdGZGxoa1NVdkw5bE1icDJITVNqaTA5aVEzOUg3UzVBR212SFJQMkFsQVM1RXBGRGl0WmYwZDBIU25yY2dVQm8xam91aUNVNHFwcTd1anhhOEY3a3NpY0E4TXBhYk1iVDVldkdyZGNXTUFGNzFCZV9BWkVTT1VLU1lLdDZGbGRtNW5vYmYwaWxRY3hNRS1PN0tMd0o4cFVJSTZramM1NTFfWTdV?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-06T16:18:15+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "amazon-press-archive-68626cf01edc629c2fc3",
       "title": "Amazon Awards Nearly $250,000 to Warren County Community Fund Recipients",
       "link": "https://press.aboutamazon.com/community/2026/8/amazon-awards-nearly-250-000-to-warren-county-community-fund-recipients",
@@ -1054,6 +1018,18 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-4bdc475562aa503f1ad1",
+      "title": "Klarna goes live with J.P. Morgan Payments, opening flexible checkout to U.S. merchants",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkNqNHRvS0IybGY4RmJrSWtEYXZnVk9NVzd1WDdGZGxoa1NVdkw5bE1icDJITVNqaTA5aVEzOUg3UzVBR212SFJQMkFsQVM1RXBGRGl0WmYwZDBIU25yY2dVQm8xam91aUNVNHFwcTd1anhhOEY3a3NpY0E4TXBhYk1iVDVldkdyZGNXTUFGNzFCZV9BWkVTT1VLU1lLdDZGbGRtNW5vYmYwaWxRY3hNRS1PN0tMd0o4cFVJSTZramM1NTFfWTdV?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-06T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1318,18 +1294,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "affirm-news-0889fe58b5bf34e0919c",
-      "title": "When new tires can't wait, confidence at checkout matters",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/when-new-tires-cant-wait-confidence-checkout-matters",
-      "summary": "_Discount Tire and Tire Rack partnered with Affirm to help customers replace tires with confidence, driving approximately 3x higher conversion and 21% higher average order values on TireRack.com, and 24% year-over-year payment volume growth at Discount Tire_",
-      "publishedAt": "2026-07-29T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1894,18 +1858,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-5028ab4f6712feb5e2cb",
-      "title": "BNPL/POS Lending Consumer The 25-year-old who's quietly redefining your credit roadmap Article",
-      "link": "https://www.marqeta.com/blog/the-25-year-old-whos-quietly-redefining-your-credit-roadmap",
-      "summary": "Marqeta's 2026 State of Credit research reveals how 18-to 44-year-olds are assembling multi-product credit portfolios, and what it takes to serve them.",
-      "publishedAt": "2026-06-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2522,18 +2474,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-2d54e3923eade6fa0096",
-      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
-      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
-      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
-      "publishedAt": "2026-02-25T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
       "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
       "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
@@ -2880,6 +2820,66 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-906d798c5b95f5509932",
+      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-466599b9abbc40fccaf0",
+      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-08T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2959,10 +2959,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "rendered_html",
       "ok": true,
-      "itemCount": 3,
-      "message": "OK via official fallback RSS"
+      "itemCount": 2,
+      "message": "OK via rendered HTML"
     },
     {
       "sourceId": "paypal-newsroom",
