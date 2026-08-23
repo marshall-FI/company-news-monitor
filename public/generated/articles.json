@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:37:31.133413+00:00",
+  "generatedAt": "2026-08-23T20:41:20.907461+00:00",
   "articles": [
     {
       "id": "google-blog-bb007757648f56cf0010",
@@ -312,18 +312,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-87561f218048c91ccf10",
-      "title": "Other Financial Services Marqeta partners with zerohash for stablecoin cards: here's what it means for card programs Article",
-      "link": "https://www.marqeta.com/blog/marqeta-partners-with-zerohash-for-stablecoin-cards-heres-what-it-means-for-card-programs",
-      "summary": "Getting stablecoin-backed cards into the hands of many is exactly what we’re trying to do with our newly announced partnership with zerohash.",
-      "publishedAt": "2026-08-19T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "google-blog-1c13ad3f7b6306969b09",
@@ -1430,6 +1418,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
       "title": "The Robinhood Ventures Fund II (RVII) IPO Roadshow Begins August 3",
       "link": "https://robinhood.com/us/en/newsroom/RVII-roadshow-aug3",
@@ -1464,6 +1464,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
@@ -1658,18 +1670,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -1762,18 +1762,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "toast-product-news-c0c8d04c8bcc00e9bdfd",
-      "title": "Toast Announces 2026 - 2027 Independent Customer Advisory Board to Drive the Future of Hospitality",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzdYNmNVcHFLaVJ5ZG5BTEZoU2FmeGxScFV3VWl4Tk9wcnppWTlITXhGMDMzVGJhLTNCUTl3VUdnUUFheGJkbS1CM1pXTkZfTmFqVUsxSUF4ZHhFMXh6NGNsTGRnMnNmQkhPbF9xaE52dFUzbEdCNl8ySW5saDZieUM2MmhVTjc4?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1968,18 +1956,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-03bc0f726b286c6bc6ec",
-      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-16T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-b27a75ff08b7ad23c594",
@@ -2875,6 +2851,30 @@
       "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
       "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
       "publishedAt": "2025-09-17T13:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6418a3b40706bf8c2c78",
+      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
+      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
+      "publishedAt": "2025-09-11T12:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
