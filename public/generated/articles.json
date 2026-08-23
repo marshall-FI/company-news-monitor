@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:45:30.606317+00:00",
+  "generatedAt": "2026-08-23T10:42:31.022395+00:00",
   "articles": [
     {
       "id": "google-blog-bb007757648f56cf0010",
@@ -48,18 +48,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-d992f2d9c8d768337eca",
-      "title": "Credit Commercial The cost of keeping business credit simple Article",
-      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
-      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
-      "publishedAt": "2026-08-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "about-amazon-13f7bca42647b416320d",
@@ -1274,18 +1262,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-acf0119fe09c38f908c6",
-      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
-      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
-      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-4ce8c2f3554961053a15",
       "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Vibrant-Los-Angeles-Health-Spot-Kreation-Organic-Deepens-Its-Partnership-with-Square-Across-Its-25-Location-Footprint/default.aspx",
@@ -1406,6 +1382,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "coinbase-blog-e3d7700622e291df64b8",
+      "title": "Consumer Protection Tuesday: A Fake IRS \"Digital Asset Compliance Portal\" Letter Is Targeting Crypto Holders",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LQll1M2JZZEVuOWh5dExBdDlGNTZFUGNtQUw0VFRwd0NwV2dzLUQtS0tRWjYxZ1dvbzZVSGZHX1ZYLWdLOTFsUEJYRmJxYkdmN3FnTC1PbGh0aXQ5VkpmUnUyVVFxcTRSbnZ6MVgzdjJsdm10RGRnVVlMOA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-28T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "klarna-press-ae4d4851388ccd546dbe",
       "title": "Klarna to power Apple Upgrade, a new hardware leasing program offered by Apple",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlJHSFU0cVAzYXN2ZjVQNzhVNGp2OGNSS0tHMHdSWGMzc1VQWDYtZ2YwUm5lbWJHeTZxQnl2YjRLaEN1SjFIcnNMTFpUclJNQ05VQXNyQ21veGRzY1Zudi1pMjM1ZFJiMk5MZGd3cWZQTnF3NjJWazlKdnhJNDBBeEl1dWZJejZRbFBqYXFJSXZmZEh2SmhIanpRLTVUaUJBalJoZFEtWWRGOC1JRHVZMnZueks0eGxpcnBZd0tB?oc=5",
@@ -1416,6 +1404,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
@@ -1956,6 +1956,18 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-03bc0f726b286c6bc6ec",
+      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-16T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-b27a75ff08b7ad23c594",
@@ -2522,6 +2534,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
       "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
       "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
@@ -2854,30 +2878,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-6418a3b40706bf8c2c78",
-      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
-      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
-      "publishedAt": "2025-09-11T12:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
