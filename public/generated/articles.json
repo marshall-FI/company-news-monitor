@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:40:33.206376+00:00",
+  "generatedAt": "2026-08-23T23:37:37.633309+00:00",
   "articles": [
     {
       "id": "google-blog-bb007757648f56cf0010",
@@ -48,6 +48,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-13f7bca42647b416320d",
@@ -1250,18 +1262,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-acf0119fe09c38f908c6",
-      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
-      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
-      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-4ce8c2f3554961053a15",
       "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Vibrant-Los-Angeles-Health-Spot-Kreation-Organic-Deepens-Its-Partnership-with-Square-Across-Its-25-Location-Footprint/default.aspx",
@@ -1404,18 +1404,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-127710ecc139b055cd65",
-      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
-      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
-      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
-      "publishedAt": "2026-07-28T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
@@ -1654,18 +1642,6 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2880,6 +2856,30 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
