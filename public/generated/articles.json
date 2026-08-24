@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T04:10:39.950364+00:00",
+  "generatedAt": "2026-08-24T05:03:57.590447+00:00",
   "articles": [
     {
       "id": "google-blog-bb007757648f56cf0010",
@@ -312,6 +312,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-87561f218048c91ccf10",
+      "title": "Other Financial Services Marqeta partners with zerohash for stablecoin cards: here's what it means for card programs Article",
+      "link": "https://www.marqeta.com/blog/marqeta-partners-with-zerohash-for-stablecoin-cards-heres-what-it-means-for-card-programs",
+      "summary": "Getting stablecoin-backed cards into the hands of many is exactly what we’re trying to do with our newly announced partnership with zerohash.",
+      "publishedAt": "2026-08-19T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-1c13ad3f7b6306969b09",
@@ -761,18 +773,6 @@
       "id": "tsmc-news-b2720e8e8e1e2b162feb",
       "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-94a54c637199ce9bb783",
-      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "tsmc-news",
@@ -1464,6 +1464,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
@@ -2222,6 +2234,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-0847a2759412a0ace3c6",
+      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "shift4-news-a5454d306bd930dc2141",
       "title": "Shift4 Announces First Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/300/shift4-announces-first-quarter-2026-results",
@@ -2376,6 +2400,18 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-dc5ae9c4e942cf9e4c2b",
+      "title": "TSMC Files Annual Report on Form 20-F for 2025|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05eGtHUXotYkVhWWgxMXVzZndnclVWUXFPMkxrNWNEaUJMaExoZ3pqYjJpSjd4SGFyRU1CVndnTmctMWJLaVZ6OTlhUEdBQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-04-16T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "toast-product-news-e98b0f16ba78bfb2b939",
@@ -2690,6 +2726,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-8db66d3e9e9be834779a",
+      "title": "TSMC November 2025 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Lb2lUOVNfTDJHcmp1VnVoaUlYRDhBc0pKZ3p2Z3JBSW45MUVfZ1U2UTBBYXZEWUxENndVTTNGd1ZCTktwaTVnVWJNRHJrQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-12-10T08:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2830,54 +2878,6 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-7d63ac24baea9146c737",
-      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
-      "publishedAt": "2025-09-29T14:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-6418a3b40706bf8c2c78",
-      "title": "Real-time payments (RTP): The instant revolution driving emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/real-time-payments-rtp-the-instant-revolution-driving-emerging-markets/",
-      "summary": "Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.",
-      "publishedAt": "2025-09-11T12:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
