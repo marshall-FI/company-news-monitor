@@ -4,7 +4,47 @@
     <title>Company News Monitor - Big Tech</title>
     <link>https://company-news-monitor.future-inves-2634.chatgpt-team.site</link>
     <description>Generated big tech company news feed.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 14:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:02:59 +0000</lastBuildDate>
+    <item>
+      <title>How XPUs Meet a World-Class AI Factory</title>
+      <link>https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/</link>
+      <guid isPermaLink="false">nvidia-newsroom-f21b782b05987822e4db</guid>
+      <description>To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscale</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:54 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/</link>
+      <guid isPermaLink="false">nvidia-newsroom-b4d239e1cc10ea77cd0b</guid>
+      <description>The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system N</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:41 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/</link>
+      <guid isPermaLink="false">nvidia-newsroom-79a064693391118946d6</guid>
+      <description>According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valu</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:19 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai</link>
+      <guid isPermaLink="false">nvidia-newsroom-d00d6246caee468c0053</guid>
+      <description>Groq 3 LPX Extends the Vera Rubin Platform, Delivering Ultrafast Token Generation for the Next Generation of Agentic AI, With Nebius the First to AdoptNews Summary: In Artificial Analysis ...</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale</title>
+      <link>https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale</link>
+      <guid isPermaLink="false">nvidia-newsroom-cdec39be75cf310dea69</guid>
+      <description>SpaceXAI Scales NVIDIA Vera Rubin From Terrestrial AI Factories to First-Generation Starmind SatelliteNews Summary: SpaceXAI will deploy NVIDIA Vera CPUs to accelerate the work behind its next ...</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
     <item>
       <title>Amazon hourly employees became satellite technicians—then watched their work launch into space</title>
       <link>https://www.aboutamazon.com/news/amazon-leo/amazon-career-choice-satellite-technicians-space-launch?utm_source=rss</link>
@@ -430,14 +470,6 @@
       <source>NVIDIA Newsroom</source>
     </item>
     <item>
-      <title>Into the Omniverse: How Open World Models Push the Frontier of Physical AI</title>
-      <link>https://blogs.nvidia.com/blog/open-world-models-physical-ai/</link>
-      <guid isPermaLink="false">nvidia-newsroom-5cb2348978651bbca26e</guid>
-      <description>In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
       <title>Amazon's Machine Learning Summer School Turns Five, Over 12,000 Students Trained in AI/ML Skills Across India</title>
       <link>https://press.aboutamazon.com/in/2026/8/amazons-machine-learning-summer-school-turns-five-over-12-000-students-trained-in-ai-ml-skills-across-india</link>
       <guid isPermaLink="false">amazon-press-archive-69726627394ba5992d76</guid>
@@ -518,44 +550,12 @@
       <source>Amazon Press Archive</source>
     </item>
     <item>
-      <title>NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US</title>
-      <link>https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program</link>
-      <guid isPermaLink="false">nvidia-newsroom-4bf3719663bf4c01f8b3</guid>
-      <description>NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education.</description>
-      <pubDate>Tue, 04 Aug 2026 17:30:00 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use</title>
-      <link>https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</link>
-      <guid isPermaLink="false">nvidia-newsroom-1ef3c04752a8642d9af5</guid>
-      <description>For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reas</description>
-      <pubDate>Tue, 04 Aug 2026 15:00:49 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>As AI Increases Demands on Memory, Storage Steps Up</title>
-      <link>https://blogs.nvidia.com/blog/ai-storage-fms/</link>
-      <guid isPermaLink="false">nvidia-newsroom-df103dae637324da9a13</guid>
-      <description>Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those i</description>
-      <pubDate>Tue, 04 Aug 2026 15:00:47 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
       <title>Instructure Advances Education Equity with AWS Support, Accelerating AI-Powered Learning Modernization and Workforce Pathways</title>
       <link>https://press.aboutamazon.com/aws/2026/8/instructure-advances-education-equity-with-aws-support-accelerating-ai-powered-learning-modernization-and-workforce-pathways</link>
       <guid isPermaLink="false">amazon-press-archive-b64d2cb1f0c2f2c20b65</guid>
       <description>AWS collaboration accelerates AI-powered migration tools and Canvas Career capabilities designed to expand access for underserved learners</description>
       <pubDate>Tue, 04 Aug 2026 13:25:31 +0000</pubDate>
       <source>Amazon Press Archive</source>
-    </item>
-    <item>
-      <title>AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency</title>
-      <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/</link>
-      <guid isPermaLink="false">nvidia-newsroom-48933e8195256da421c8</guid>
-      <description>Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed </description>
-      <pubDate>Tue, 04 Aug 2026 13:00:47 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
     </item>
     <item>
       <title>Datadog Announces Date of Second Quarter Fiscal Year 2026 Earnings Call</title>

@@ -4,7 +4,47 @@
     <title>Company News Monitor - All</title>
     <link>https://company-news-monitor.future-inves-2634.chatgpt-team.site</link>
     <description>Generated company news feed.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 14:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:02:59 +0000</lastBuildDate>
+    <item>
+      <title>How XPUs Meet a World-Class AI Factory</title>
+      <link>https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/</link>
+      <guid isPermaLink="false">nvidia-newsroom-f21b782b05987822e4db</guid>
+      <description>To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscale</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:54 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/</link>
+      <guid isPermaLink="false">nvidia-newsroom-b4d239e1cc10ea77cd0b</guid>
+      <description>The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system N</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:41 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/</link>
+      <guid isPermaLink="false">nvidia-newsroom-79a064693391118946d6</guid>
+      <description>According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valu</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:19 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai</link>
+      <guid isPermaLink="false">nvidia-newsroom-d00d6246caee468c0053</guid>
+      <description>Groq 3 LPX Extends the Vera Rubin Platform, Delivering Ultrafast Token Generation for the Next Generation of Agentic AI, With Nebius the First to AdoptNews Summary: In Artificial Analysis ...</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale</title>
+      <link>https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale</link>
+      <guid isPermaLink="false">nvidia-newsroom-cdec39be75cf310dea69</guid>
+      <description>SpaceXAI Scales NVIDIA Vera Rubin From Terrestrial AI Factories to First-Generation Starmind SatelliteNews Summary: SpaceXAI will deploy NVIDIA Vera CPUs to accelerate the work behind its next ...</description>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
     <item>
       <title>Amazon hourly employees became satellite technicians—then watched their work launch into space</title>
       <link>https://www.aboutamazon.com/news/amazon-leo/amazon-career-choice-satellite-technicians-space-launch?utm_source=rss</link>
@@ -598,14 +638,6 @@
       <source>Robinhood Blog</source>
     </item>
     <item>
-      <title>Credit Commercial Why European SMBs are demanding more from business credit Article</title>
-      <link>https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit</link>
-      <guid isPermaLink="false">marqeta-blog-ab513aa3e6853dadf751</guid>
-      <description>We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
       <title>Amazon Awards Nearly $250,000 to Warren County Community Fund Recipients</title>
       <link>https://press.aboutamazon.com/community/2026/8/amazon-awards-nearly-250-000-to-warren-county-community-fund-recipients</link>
       <guid isPermaLink="false">amazon-press-archive-68626cf01edc629c2fc3</guid>
@@ -619,14 +651,6 @@
       <guid isPermaLink="false">nvidia-newsroom-9f10ae9fb17a40a7dc8a</guid>
       <description>August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-</description>
       <pubDate>Thu, 06 Aug 2026 13:00:11 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>Into the Omniverse: How Open World Models Push the Frontier of Physical AI</title>
-      <link>https://blogs.nvidia.com/blog/open-world-models-physical-ai/</link>
-      <guid isPermaLink="false">nvidia-newsroom-5cb2348978651bbca26e</guid>
-      <description>In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
       <source>NVIDIA Newsroom</source>
     </item>
     <item>
@@ -782,44 +806,12 @@
       <source>Upstart Press Releases</source>
     </item>
     <item>
-      <title>NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US</title>
-      <link>https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program</link>
-      <guid isPermaLink="false">nvidia-newsroom-4bf3719663bf4c01f8b3</guid>
-      <description>NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education.</description>
-      <pubDate>Tue, 04 Aug 2026 17:30:00 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use</title>
-      <link>https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</link>
-      <guid isPermaLink="false">nvidia-newsroom-1ef3c04752a8642d9af5</guid>
-      <description>For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reas</description>
-      <pubDate>Tue, 04 Aug 2026 15:00:49 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>As AI Increases Demands on Memory, Storage Steps Up</title>
-      <link>https://blogs.nvidia.com/blog/ai-storage-fms/</link>
-      <guid isPermaLink="false">nvidia-newsroom-df103dae637324da9a13</guid>
-      <description>Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those i</description>
-      <pubDate>Tue, 04 Aug 2026 15:00:47 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
       <title>Instructure Advances Education Equity with AWS Support, Accelerating AI-Powered Learning Modernization and Workforce Pathways</title>
       <link>https://press.aboutamazon.com/aws/2026/8/instructure-advances-education-equity-with-aws-support-accelerating-ai-powered-learning-modernization-and-workforce-pathways</link>
       <guid isPermaLink="false">amazon-press-archive-b64d2cb1f0c2f2c20b65</guid>
       <description>AWS collaboration accelerates AI-powered migration tools and Canvas Career capabilities designed to expand access for underserved learners</description>
       <pubDate>Tue, 04 Aug 2026 13:25:31 +0000</pubDate>
       <source>Amazon Press Archive</source>
-    </item>
-    <item>
-      <title>AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency</title>
-      <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/</link>
-      <guid isPermaLink="false">nvidia-newsroom-48933e8195256da421c8</guid>
-      <description>Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed </description>
-      <pubDate>Tue, 04 Aug 2026 13:00:47 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
     </item>
     <item>
       <title>Allied Universal Partners with Chime to Deliver Fee-Free Financial Solutions to Hundreds of Thousands of Employees</title>
@@ -844,14 +836,6 @@
       <description>Robinhood Ventures Fund II (RVII), the second fund from Robinhood Ventures, is expected to IPO on August 13 on the New York Stock Exchange (NYSE) under the symbol RVII at an expected price of $25 per share.</description>
       <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
       <source>Robinhood Blog</source>
-    </item>
-    <item>
-      <title>Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article</title>
-      <link>https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter</link>
-      <guid isPermaLink="false">marqeta-blog-acf0119fe09c38f908c6</guid>
-      <description>Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint</title>
@@ -980,6 +964,14 @@
       <description>Shift4 News published an update for Shift4 relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Thu, 23 Jul 2026 20:10:00 +0000</pubDate>
       <source>Shift4 News</source>
+    </item>
+    <item>
+      <title>Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article</title>
+      <link>https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits</link>
+      <guid isPermaLink="false">marqeta-blog-90db3b2ee015e64f2565</guid>
+      <description>Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <source>Marqeta Blog</source>
     </item>
     <item>
       <title>Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio</title>
@@ -1638,14 +1630,6 @@
       <source>Circle Pressroom</source>
     </item>
     <item>
-      <title>Issuing/processing Financial Services The payments vendor decision that defines your next decade Article</title>
-      <link>https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade</link>
-      <guid isPermaLink="false">marqeta-blog-1fc919b6cdd114307e6a</guid>
-      <description>91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.</description>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
       <title>SoFi Technologies, Inc. (SOFI) - SoFi Responds to Inaccurate Short Seller Report</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPREk1VHlJSG5UemdmZG5aZUNTRVo1ZGdPUW9KUkltQXJqeTc2VDZwX3NPMW5TVWJDTnQwU291MzBSMWV1LUNUaWs3WmJlQ2ZISlZ1ZjVWS0lyQ191T0dqVXBrWjExOHZCRXl2cVc0Sl9CaHF2T2ZmT1ZsQnhVb3NpNEJidzZmUnA2UFhaTDhIY2I1UDdxNWlMMWl1bG1hWnZweUh6eGluMzZDZDRmNU1n?oc=5</link>
       <guid isPermaLink="false">sofi-press-c2fed06b99d719bdfba8</guid>
@@ -1674,14 +1658,6 @@
       <link>https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments</link>
       <guid isPermaLink="false">marqeta-blog-fc97a60f7a3bbc7229bf</guid>
       <description>Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.</description>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
-      <title>Embedded finance All Industries Personalized payments: enabling the choice and flexibility consumers expect Article</title>
-      <link>https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect</link>
-      <guid isPermaLink="false">marqeta-blog-2bdbcd290b41250e2d39</guid>
-      <description>Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.</description>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <source>Marqeta Blog</source>
     </item>
@@ -1924,6 +1900,30 @@
       <description>Instant and reliable—real-time payments are a core type of alternative payment methods (APMs), enabling faster, safer, and more inclusive digital economies across emerging markets.</description>
       <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
       <source>dLocal Blog</source>
+    </item>
+    <item>
+      <title>Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers</title>
+      <link>https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/</link>
+      <guid isPermaLink="false">wise-newsroom-b2b26b97399791c9ad1d</guid>
+      <description>Innovative integration will power faster transfers to select South American, APAC and European currencies</description>
+      <pubDate>Wed, 10 Sep 2025 13:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
+    </item>
+    <item>
+      <title>Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5</link>
+      <guid isPermaLink="false">coinbase-blog-8027488bdcfba2c1ed57</guid>
+      <description>Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.</description>
+      <pubDate>Tue, 09 Sep 2025 07:00:00 +0000</pubDate>
+      <source>Coinbase Blog</source>
+    </item>
+    <item>
+      <title>Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation</title>
+      <link>https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/</link>
+      <guid isPermaLink="false">wise-newsroom-2343c3607e7c8273a3fb</guid>
+      <description>Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.</description>
+      <pubDate>Mon, 08 Sep 2025 14:00:00 +0000</pubDate>
+      <source>Wise Newsroom</source>
     </item>
   </channel>
 </rss>
