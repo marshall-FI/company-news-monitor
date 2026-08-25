@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-25T19:48:40.385779+00:00",
+  "generatedAt": "2026-08-25T20:48:01.064361+00:00",
   "articles": [
+    {
+      "id": "upstart-press-674a94cff69466925dcc",
+      "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Goldman Sachs Communacopia and Technology Conference 2026",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-co-founder-and-ceo-participate-fireside-chat-goldman",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Aug. 25, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that Paul Gu, Co-founder and CEO, will participate in a fireside chat at the Goldman Sachs Communacopia and Technology",
+      "publishedAt": "2026-08-25T20:05:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-38f9048063e26f7da7f4",
+      "title": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
+      "summary": "Our new Pixel 11 phones and Pixel Watch 5 are now on shelves at the Google Store and through our retail partners.",
+      "publishedAt": "2026-08-25T20:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-669494cdf06b710a0aec",
       "title": "I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI.",
@@ -12,6 +36,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-cc092c8232d29bda5194",
+      "title": "AWS, NBA Africa, and Learn Fresh Bring Math Education to Students in South Africa",
+      "link": "https://press.aboutamazon.com/aws/2026/8/aws-nba-africa-and-learn-fresh-bring-math-education-to-students-in-south-africa",
+      "summary": "AWS Commits AI and Cloud Technology to Expand NBA Math Hoops in South Africa, with Plans to Grow the Program in Several Other African Countries Next Year",
+      "publishedAt": "2026-08-25T17:26:16.247000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-9ce79d4dded95af4f616",
@@ -134,10 +170,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-0ff3b4d9d82aec1b63dc",
-      "title": "How developers build AI for good with Gemma 4",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/",
-      "summary": "A look at the winning entries from the Gemma 4 Good Challenge.",
+      "id": "google-blog-a541634a268d0346c374",
+      "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+      "link": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/",
+      "summary": "What people are searching in the leadup to National Parks Week — plus, how Google can help turn your wanderlust into a well-planned adventure.",
       "publishedAt": "2026-08-24T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -146,10 +182,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-a541634a268d0346c374",
-      "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
-      "link": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/",
-      "summary": "What people are searching in the leadup to National Parks Week — plus, how Google can help turn your wanderlust into a well-planned adventure.",
+      "id": "google-blog-0ff3b4d9d82aec1b63dc",
+      "title": "How developers build AI for good with Gemma 4",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/",
+      "summary": "A look at the winning entries from the Gemma 4 Good Challenge.",
       "publishedAt": "2026-08-24T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -276,6 +312,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-13f7bca42647b416320d",
@@ -434,18 +482,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-a7f60de41ca8bbdb1cf6",
-      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
-      "summary": "Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
-      "publishedAt": "2026-08-19T17:30:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-174eb4daf2fdc107c5e3",
       "title": "BrightSign Scales Premium, Cloud-Based Device Management Solution on Amazon Web Services",
       "link": "https://press.aboutamazon.com/aws/2026/8/brightsign-scales-premium-cloud-based-device-management-solution-on-amazon-web-services",
@@ -504,6 +540,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-87561f218048c91ccf10",
+      "title": "Other Financial Services Marqeta partners with zerohash for stablecoin cards: here's what it means for card programs Article",
+      "link": "https://www.marqeta.com/blog/marqeta-partners-with-zerohash-for-stablecoin-cards-heres-what-it-means-for-card-programs",
+      "summary": "Getting stablecoin-backed cards into the hands of many is exactly what we’re trying to do with our newly announced partnership with zerohash.",
+      "publishedAt": "2026-08-19T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-528b99fafffdb52eb88e",
@@ -842,28 +890,28 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "id": "tsmc-news-b2720e8e8e1e2b162feb",
+      "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
+      "id": "tsmc-news-94a54c637199ce9bb783",
+      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-062287b6cadf174cd697",
@@ -902,18 +950,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
       "title": "Robinhood Launches Crypto Trading for UK Investors",
       "link": "https://robinhood.com/us/en/newsroom/introducingukcryptotrading",
@@ -936,6 +972,18 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-3e08d77a1809d0cd76ec",
@@ -1200,18 +1248,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-b64d2cb1f0c2f2c20b65",
-      "title": "Instructure Advances Education Equity with AWS Support, Accelerating AI-Powered Learning Modernization and Workforce Pathways",
-      "link": "https://press.aboutamazon.com/aws/2026/8/instructure-advances-education-equity-with-aws-support-accelerating-ai-powered-learning-modernization-and-workforce-pathways",
-      "summary": "AWS collaboration accelerates AI-powered migration tools and Canvas Career capabilities designed to expand access for underserved learners",
-      "publishedAt": "2026-08-04T13:25:31.761000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-6d79bad85486189e6159",
@@ -1562,18 +1598,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -1644,6 +1668,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-da9126c3a7644c6957bd",
@@ -1874,18 +1910,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "upstart-press-4c3da7e2f08947e60227",
-      "title": "Upstart Announces Agreement with Neuberger Specialty Finance for Investment in up to $600M of Consumer Loans",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-agreement-neuberger-specialty-finance",
-      "summary": "SAN MATEO, Calif. --(BUSINESS WIRE)--Jun. 24, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced its renewal of its forward-flow agreement with Neuberger Specialty Finance, the dedicated asset-based investment team within",
-      "publishedAt": "2026-06-24T12:45:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "block-investor-news-2acb49eec4eac34bc311",
       "title": "A Taste of Paris, Powered by Square: Ladurée Canada Goes All-In on Square’s Commerce Platform",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/A-Taste-of-Paris-Powered-by-Square-Ladure-Canada-Goes-All-In-on-Squares-Commerce-Platform/default.aspx",
@@ -2026,18 +2050,6 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2198,18 +2210,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-bf3f9f54fcbcc79683b7",
-      "title": "2026/05/12 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3311",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-12T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-2552d993f4cfe9bc944a",
       "title": "Affirm works with Google to make AI shopping payments clear and simple",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-works-google-make-ai-shopping-payments-clear-and-simple",
@@ -2243,30 +2243,6 @@
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-734c29856225bc355ec5",
-      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "link": "https://pr.tsmc.com/english/news/3308",
-      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-7b041f3b81909f5a8181",
-      "title": "2026/05/08 TSMC April 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3305",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2522,6 +2498,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2551,6 +2539,18 @@
       "link": "https://www.marqeta.com/blog/personalized-payments-enabling-the-choice-and-flexibility-consumers-expect",
       "summary": "Consumer payment expectations are rising. Here's how embedded, programmable infrastructure helps businesses deliver personalized experiences Gen Z demands.",
       "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2714,18 +2714,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2875,6 +2863,18 @@
       "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
       "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
       "publishedAt": "2025-09-29T14:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-8357fec8a7f961d6724e",
+      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
+      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
+      "publishedAt": "2025-09-17T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
