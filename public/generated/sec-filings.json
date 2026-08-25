@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:06:23.299521+00:00",
+  "generatedAt": "2026-08-25T15:07:39.030019+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -40,26 +40,6 @@
       "summary": "Wise Group filed a current report (6-K) on 2026-08-25 for report date 2026-08-25. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426007837/0001654954-26-007837-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426007837/a9575r.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "TSM-0001046179-26-000545",
-      "company": "TSMC",
-      "displayName": "Taiwan Semiconductor Manufacturing",
-      "ticker": "TSM",
-      "cik": "0001046179",
-      "category": "Big Tech Blogs",
-      "form": "6-K",
-      "accessionNumber": "0001046179-26-000545",
-      "filingDate": "2026-08-25",
-      "reportDate": "2026-07-31",
-      "acceptanceDateTime": "2026-08-25",
-      "primaryDocument": "tsm-monthend6kx20260825.htm",
-      "title": "TSMC 6-K for 2026-07-31",
-      "summary": "Taiwan Semiconductor Manufacturing filed a current report (6-K) on 2026-08-25 for report date 2026-07-31. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000545/0001046179-26-000545-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000545/tsm-monthend6kx20260825.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -2800,6 +2780,26 @@
       "summary": "Klarna Group filed a current report (6-K) on 2026-05-27 for report date 2026-05-27. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026038366/0001628280-26-038366-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026038366/form6-kxklarnagroupplc2026.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "TSM-0001046179-26-000294",
+      "company": "TSMC",
+      "displayName": "Taiwan Semiconductor Manufacturing",
+      "ticker": "TSM",
+      "cik": "0001046179",
+      "category": "Big Tech Blogs",
+      "form": "6-K",
+      "accessionNumber": "0001046179-26-000294",
+      "filingDate": "2026-05-27",
+      "reportDate": "2026-05-27",
+      "acceptanceDateTime": "2026-05-27",
+      "primaryDocument": "tsm-dividendadjustmentx202.htm",
+      "title": "TSMC 6-K for 2026-05-27",
+      "summary": "Taiwan Semiconductor Manufacturing filed a current report (6-K) on 2026-05-27 for report date 2026-05-27. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000294/0001046179-26-000294-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000294/tsm-dividendadjustmentx202.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -5746,8 +5746,8 @@
       "ticker": "CHYM",
       "cik": "0001795586",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 11,
+      "message": "11 filings via SEC EDGAR read-through"
     },
     {
       "company": "Circle",
@@ -5762,8 +5762,8 @@
       "ticker": "DLO",
       "cik": "0001846832",
       "ok": true,
-      "filingCount": 12,
-      "message": "12 filings via SEC EDGAR read-through"
+      "filingCount": 10,
+      "message": "10 filings via SEC EDGAR read-through"
     },
     {
       "company": "NVIDIA",
