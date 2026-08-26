@@ -4,7 +4,47 @@
     <title>Company News Monitor - Big Tech</title>
     <link>https://company-news-monitor.future-inves-2634.chatgpt-team.site</link>
     <description>Generated big tech company news feed.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 19:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:34:43 +0000</lastBuildDate>
+    <item>
+      <title>AWS and NVIDIA expand partnership for next-gen AI infrastructure</title>
+      <link>https://www.aboutamazon.com/news/aws/aws-nvidia-2-million-gpus-ai?utm_source=rss</link>
+      <guid isPermaLink="false">about-amazon-dfed4b0136d31e07971d</guid>
+      <description>AWS and NVIDIA will deploy 2 million additional GPUs and deepen collaboration across CPUs, networking, and robotics.</description>
+      <pubDate>Wed, 26 Aug 2026 21:12:41 +0000</pubDate>
+      <source>About Amazon</source>
+    </item>
+    <item>
+      <title>AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI</title>
+      <link>https://press.aboutamazon.com/aws/2026/8/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai</link>
+      <guid isPermaLink="false">amazon-press-archive-9f43a79e9c23b1f329d8</guid>
+      <description>Companies deepen integration across the AI stack, bringing NVIDIA Vera CPUs, advanced networking, Nemotron open models, and physical AI technologies to AWS as customer demand accelerates</description>
+      <pubDate>Wed, 26 Aug 2026 21:09:39 +0000</pubDate>
+      <source>Amazon Press Archive</source>
+    </item>
+    <item>
+      <title>NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory</title>
+      <link>https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</link>
+      <guid isPermaLink="false">nvidia-newsroom-a50e18aa16c5d023eeb2</guid>
+      <description>The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers an</description>
+      <pubDate>Wed, 26 Aug 2026 21:05:30 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
+    <item>
+      <title>7 ways to kick-start back to school using Gemini in Workspace</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/</link>
+      <guid isPermaLink="false">google-blog-b43a1d3ce3c902dcdb32</guid>
+      <description>Get a jump on this semester by using Gemini in Google Workspace to organize your notes, track deadlines, prep for projects, and more.</description>
+      <pubDate>Wed, 26 Aug 2026 20:30:00 +0000</pubDate>
+      <source>Google Blog</source>
+    </item>
+    <item>
+      <title>NVIDIA Announces Financial Results for Second Quarter Fiscal 2027</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027</link>
+      <guid isPermaLink="false">nvidia-newsroom-9bc4950664f1773de163</guid>
+      <description>NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago.</description>
+      <pubDate>Wed, 26 Aug 2026 20:20:00 +0000</pubDate>
+      <source>NVIDIA Newsroom</source>
+    </item>
     <item>
       <title>Turn your voice into action with new productivity features in Gemini Live</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
@@ -278,14 +318,6 @@
       <source>Google Blog</source>
     </item>
     <item>
-      <title>Inside the Gemmaverse: Celebrating one billion Gemma downloads</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/</link>
-      <guid isPermaLink="false">google-blog-d05a2bc7d8f3afe67c70</guid>
-      <description>A look at the Gemmaverse as Gemma surpasses one billion downloads.</description>
-      <pubDate>Thu, 20 Aug 2026 15:30:00 +0000</pubDate>
-      <source>Google Blog</source>
-    </item>
-    <item>
       <title>Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/</link>
       <guid isPermaLink="false">nvidia-newsroom-0557db4024a130d09aa7</guid>
@@ -308,14 +340,6 @@
       <description>BrightSign Control Plus leverages the breadth of AWS services for reliable, secure, and scalable digital signage network management</description>
       <pubDate>Wed, 19 Aug 2026 16:00:00 +0000</pubDate>
       <source>Amazon Press Archive</source>
-    </item>
-    <item>
-      <title>Alexa+ is now included on Fire TV at no additional cost</title>
-      <link>https://www.aboutamazon.com/news/devices/alexa-plus-fire-tv-free-ai?utm_source=rss</link>
-      <guid isPermaLink="false">about-amazon-b63f7f96cea72a78a4fe</guid>
-      <description>Alexa+ is now included for free on compatible Fire TV devices, bringing conversational search and smart home controls.</description>
-      <pubDate>Wed, 19 Aug 2026 14:55:04 +0000</pubDate>
-      <source>About Amazon</source>
     </item>
     <item>
       <title>Razorpay Launches Vulcan, India's First AI Payments Foundation Model, Fueled by NVIDIA and AWS - Re-architecting Payments for a $350 Bn E-Comm Future by 2030</title>
@@ -422,51 +446,19 @@
       <source>Amazon Press Archive</source>
     </item>
     <item>
-      <title>NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/</link>
-      <guid isPermaLink="false">nvidia-newsroom-82a1b397d389adf881a5</guid>
-      <description>The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ec</description>
-      <pubDate>Tue, 11 Aug 2026 13:00:25 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</link>
-      <guid isPermaLink="false">nvidia-newsroom-a8ba0b0ace9187dbca9c</guid>
-      <description>As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloa</description>
-      <pubDate>Tue, 11 Aug 2026 13:00:05 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5</link>
-      <guid isPermaLink="false">tsmc-news-b2720e8e8e1e2b162feb</guid>
-      <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
-      <pubDate>Tue, 11 Aug 2026 07:00:00 +0000</pubDate>
+      <title>2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</title>
+      <link>https://pr.tsmc.com/english/news/3333</link>
+      <guid isPermaLink="false">tsmc-news-d7f2b331ed28a994cc6b</guid>
+      <description>Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors</description>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
       <source>TSMC Latest News</source>
     </item>
     <item>
-      <title>TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5</link>
-      <guid isPermaLink="false">tsmc-news-94a54c637199ce9bb783</guid>
+      <title>2026/08/11 TSMC Board of Directors Meeting Resolutions</title>
+      <link>https://pr.tsmc.com/english/news/3332</link>
+      <guid isPermaLink="false">tsmc-news-b460603e59d7512c7373</guid>
       <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
-      <pubDate>Tue, 11 Aug 2026 07:00:00 +0000</pubDate>
-      <source>TSMC Latest News</source>
-    </item>
-    <item>
-      <title>NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital</link>
-      <guid isPermaLink="false">nvidia-newsroom-0122ec2217c08ff32bc8</guid>
-      <description>NVIDIA today announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 ...</description>
-      <pubDate>Mon, 10 Aug 2026 20:01:00 +0000</pubDate>
-      <source>NVIDIA Newsroom</source>
-    </item>
-    <item>
-      <title>TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5</link>
-      <guid isPermaLink="false">tsmc-news-81907d2949b3bcef6dcd</guid>
-      <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
-      <pubDate>Mon, 10 Aug 2026 07:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
       <source>TSMC Latest News</source>
     </item>
     <item>
@@ -550,14 +542,6 @@
       <source>Datadog Investor News</source>
     </item>
     <item>
-      <title>Amazon celebra el primer aniversario de la reapertura de sus tours en España con más de 8.000 visitantes</title>
-      <link>https://press.aboutamazon.com/es/news/company-news/2026/8/amazon-celebra-primer-aniversario-reapertura-tours-espana</link>
-      <guid isPermaLink="false">amazon-press-archive-bc6eec36975f2ba3af5f</guid>
-      <description>Durante los últimos doce meses, la compañía ha organizado más de 600 visitas a sus centros logísticos de Illescas (Toledo) y El Prat de Llobregat (Barcelona).Estos tours gratuitos permiten conocer de primera mano las personas, la tecnología y los procesos que hacen posible las operaciones de Amazon.</description>
-      <pubDate>Wed, 05 Aug 2026 09:32:57 +0000</pubDate>
-      <source>Amazon Press Archive</source>
-    </item>
-    <item>
       <title>Datadog Announces Date of Second Quarter Fiscal Year 2026 Earnings Call</title>
       <link>https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-date-second-quarter-fiscal-year-2026-earnings</link>
       <guid isPermaLink="false">datadog-investor-news-4c1ef44dc5580a18760b</guid>
@@ -582,6 +566,14 @@
       <source>Datadog Investor News</source>
     </item>
     <item>
+      <title>2026/06/10 TSMC May 2026 Revenue Report</title>
+      <link>https://pr.tsmc.com/english/news/3320</link>
+      <guid isPermaLink="false">tsmc-news-c4f3b13e47702c65ced0</guid>
+      <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+      <source>TSMC Latest News</source>
+    </item>
+    <item>
       <title>Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity</title>
       <link>https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy</link>
       <guid isPermaLink="false">datadog-investor-news-e922ca60a820127d36ce</guid>
@@ -598,12 +590,36 @@
       <source>The Trade Desk Press Room</source>
     </item>
     <item>
+      <title>2026/06/04 TSMC Shareholders’ Meeting Resolutions</title>
+      <link>https://pr.tsmc.com/english/news/3317</link>
+      <guid isPermaLink="false">tsmc-news-3a98bc88202c9f655fdc</guid>
+      <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+      <source>TSMC Latest News</source>
+    </item>
+    <item>
       <title>Datadog to Present at Upcoming Investor Conference</title>
       <link>https://investors.datadoghq.com/news-releases/news-release-details/datadog-present-upcoming-investor-conference-8</link>
       <guid isPermaLink="false">datadog-investor-news-673f9d7fab98b74f3ebc</guid>
       <description>NEW YORK, May 12, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ:DDOG), the leading AI-powered observability and security platform, today announced that management will present at the following investor conferences: The J.P. Morgan Global Technology, Media and Communications Conference.</description>
       <pubDate>Tue, 12 May 2026 20:05:00 +0000</pubDate>
       <source>Datadog Investor News</source>
+    </item>
+    <item>
+      <title>2026/05/12 TSMC Board of Directors Meeting Resolutions</title>
+      <link>https://pr.tsmc.com/english/news/3311</link>
+      <guid isPermaLink="false">tsmc-news-bf3f9f54fcbcc79683b7</guid>
+      <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
+      <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+      <source>TSMC Latest News</source>
+    </item>
+    <item>
+      <title>2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership</title>
+      <link>https://pr.tsmc.com/english/news/3308</link>
+      <guid isPermaLink="false">tsmc-news-734c29856225bc355ec5</guid>
+      <description>Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership</description>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+      <source>TSMC Latest News</source>
     </item>
     <item>
       <title>Datadog Announces First Quarter 2026 Financial Results</title>
