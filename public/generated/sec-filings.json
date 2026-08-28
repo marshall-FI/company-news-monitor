@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-08-27T20:33:20.510412+00:00",
+  "generatedAt": "2026-08-28T05:26:33.757042+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
+    {
+      "id": "AFRM-0001628280-26-059279",
+      "company": "Affirm",
+      "displayName": "Affirm Holdings",
+      "ticker": "AFRM",
+      "cik": "0001820953",
+      "category": "Fintech Blogs",
+      "form": "10-K",
+      "accessionNumber": "0001628280-26-059279",
+      "filingDate": "2026-08-27",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-08-27",
+      "primaryDocument": "afrm-20260630.htm",
+      "title": "Affirm 10-K for 2026-06-30",
+      "summary": "Affirm Holdings filed a annual report (10-K) on 2026-08-27 for report date 2026-06-30. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828026059279/0001628280-26-059279-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828026059279/afrm-20260630.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
     {
       "id": "AFRM-0001628280-26-059271",
       "company": "Affirm",
@@ -5580,26 +5600,6 @@
       "summary": "SoFi Technologies filed a current report (8-K) on 2025-12-08 for report date 2025-12-04. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000232/0001818874-25-000232-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000232/sofi-20251204.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "SOFI-0001818874-25-000229",
-      "company": "SoFi",
-      "displayName": "SoFi Technologies",
-      "ticker": "SOFI",
-      "cik": "0001818874",
-      "category": "Fintech Blogs",
-      "form": "424B3",
-      "accessionNumber": "0001818874-25-000229",
-      "filingDate": "2025-12-05",
-      "reportDate": "",
-      "acceptanceDateTime": "2025-12-05",
-      "primaryDocument": "sofidec2025finalprospectus.htm",
-      "title": "SoFi 424B3 for 2025-12-05",
-      "summary": "SoFi Technologies filed a SEC filing (424B3) on 2025-12-05. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000229/0001818874-25-000229-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000229/sofidec2025finalprospectus.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }
