@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T09:05:16.144131+00:00",
+  "generatedAt": "2026-08-29T14:31:24.828318+00:00",
   "articles": [
     {
       "id": "about-amazon-a81d6d41c12e8d610b7d",
@@ -96,6 +96,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-055b1b63d1ccc8a16497",
+      "title": "Affirm and Shopify launch Shop Pay Installments in Australia",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-shopify-launch-shop-pay-installments-australia",
+      "summary": "Australian merchants on Shopify can now give their customers a flexible way to pay over time, with no late fees. SYDNEY --(BUSINESS WIRE)--Aug. 27, 2026-- Affirm expands its global partnership with Shopify to launch Shop Pay Installments in Australia.",
+      "publishedAt": "2026-08-27T20:10:21+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-fbdfc2d343a8c287f7a9",
@@ -210,18 +222,6 @@
       "title": "Affirm to announce fourth quarter fiscal year 2026 results on August 27, 2026",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-announce-fourth-quarter-fiscal-year-2026-results-august",
       "summary": "Payment options through Affirm are provided by these lending partners: affirm.com/lenders. Your rate will be 0–36% APR based on credit, and is subject to an eligibility check. Affirm Pay in 4 payment option is 0% APR.",
-      "publishedAt": "2026-08-27T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "affirm-news-055b1b63d1ccc8a16497",
-      "title": "Affirm and Shopify launch Shop Pay Installments in Australia",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-shopify-launch-shop-pay-installments-australia",
-      "summary": "_Australian merchants on Shopify can now give their customers a flexible way to pay over time, with no late fees._",
       "publishedAt": "2026-08-27T00:00:00+00:00",
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
@@ -638,18 +638,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-5ed7d6d1f6483b3f2bd9",
-      "title": "Klarna launches in-store with GARAGE and DYNAMITE across North America and the UK",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1E4WDZ4bzZxYWpvMEJKQTAzRVpma21wcnBYVGhlU0RSSVhrNmxLZ3FjQXhqb0thQXl5dDQweWZ1QVhUOFIyQmVJdXdKUXl3UnU0NXVieDVET0E5bUg0elNfNE94SWhabHM5aFRZLWFWcVN6aG55MHFEVExPV2pBS3ZoNmFsajdKaGMyLXZTdUwxZlB4YnZWdllmMzdKUnBLOE9NRnZYWFlqajRqWWFfc3pPRkF3TG1GcnRMVHVvaXFWQkk?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-20T16:13:56+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "nvidia-newsroom-0557db4024a130d09aa7",
       "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -660,6 +648,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-5ed7d6d1f6483b3f2bd9",
+      "title": "Klarna launches in-store with GARAGE and DYNAMITE across North America and the UK",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1E4WDZ4bzZxYWpvMEJKQTAzRVpma21wcnBYVGhlU0RSSVhrNmxLZ3FjQXhqb0thQXl5dDQweWZ1QVhUOFIyQmVJdXdKUXl3UnU0NXVieDVET0E5bUg0elNfNE94SWhabHM5aFRZLWFWcVN6aG55MHFEVExPV2pBS3ZoNmFsajdKaGMyLXZTdUwxZlB4YnZWdllmMzdKUnBLOE9NRnZYWFlqajRqWWFfc3pPRkF3TG1GcnRMVHVvaXFWQkk?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-20T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "chime-newsroom-5b794e6546545b5645ff",
@@ -794,6 +794,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "affirm-news-c29cab27ac3eeda37796",
+      "title": "Affirm to participate in upcoming investor conferences",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-participate-upcoming-investor-conferences-19",
+      "summary": "Payment options through Affirm are provided by these lending partners: affirm.com/lenders. Your rate will be 0–36% APR based on credit, and is subject to an eligibility check. Affirm Pay in 4 payment option is 0% APR.",
+      "publishedAt": "2026-08-13T20:07:26+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-57077a078bea401a1816",
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
@@ -874,18 +886,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "affirm-news-c29cab27ac3eeda37796",
-      "title": "Affirm to participate in upcoming investor conferences",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-participate-upcoming-investor-conferences-19",
-      "summary": "Payment options through Affirm are provided by these lending partners: affirm.com/lenders. Your rate will be 0–36% APR based on credit, and is subject to an eligibility check. Affirm Pay in 4 payment option is 0% APR.",
-      "publishedAt": "2026-08-13T00:00:00+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1682,6 +1682,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-da9126c3a7644c6957bd",
       "title": "Small businesses aren't waiting for Washington to catch up",
       "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
@@ -2057,8 +2069,8 @@
       "id": "affirm-news-9b455e77d60416bc2475",
       "title": "Affirm and CPP Investments renew and expand capital partnership",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-cpp-investments-renew-and-expand-capital-partnership",
-      "summary": "SAN FRANCISCO & TORONTO --(BUSINESS WIRE)--Jun. 4, 2026-- Affirm (NASDAQ: AFRM) and Canada Pension Plan Investment Board (“CPP Investments”), through subsidiaries of CPPIB Credit Investments Inc., today announced a renewed and expanded forward-flow agreement.",
-      "publishedAt": "2026-06-04T13:00:41+00:00",
+      "summary": "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20260604725818/en/",
+      "publishedAt": "2026-06-04T00:00:00+00:00",
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
@@ -2866,18 +2878,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
