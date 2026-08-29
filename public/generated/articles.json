@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:31:22.570908+00:00",
+  "generatedAt": "2026-08-29T21:46:47.874993+00:00",
   "articles": [
     {
       "id": "about-amazon-a81d6d41c12e8d610b7d",
@@ -624,6 +624,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-0557db4024a130d09aa7",
@@ -1502,18 +1514,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
       "title": "Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Dimassis-Mediterranean-Buffet-Leverages-Square-as-It-Expands-Twenty-Four-Location-Portfolio/default.aspx",
@@ -1666,30 +1666,6 @@
       "sourceId": "shopify-pressroom",
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-2e80730fc65202f389b2",
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1994,6 +1970,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-4810b369bf59db948649",
+      "title": "System Update: Take Control of Your Money with Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkh4VmpSN0pjOEFtUFA3RWZDRm12bDI0V3l2aktEcnVZZWJaM0lISmJLOWFPZnJrNXJSZTBmTFZZUzV3Vkl1Zk9QZ0VVSEpiRzU5bEhzS0EwRjNqS1h6dEVEbVFHZmR6akRCNExWZzhBZVNMeUlWTkUyMWdPVzRpYVFSUmtXZWtZVVphSA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-16T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-b27a75ff08b7ad23c594",
       "title": "Square Financial Services Introduces 3.50% APY High Yield Savings for Square Sellers, More Than 8 Times the National Average",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Financial-Services-Introduces-3-50-APY-High-Yield-Savings-for-Square-Sellers-More-Than-8-Times-the-National-Average/default.aspx",
@@ -2292,6 +2280,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-37eaa7f2b1fdbbd43772",
+      "title": "Coinbase Asset Management launches Digital Credit Strategy with Tokenized Shareclass",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3hGT0VpRWZfVElmZ0FpMElfbTc3UjFILVdrMy1TWmtaa2xpbzNGQlVGdXdoZFpjek45SUxWUVlhbmpuSU1ZM0c1Mm5sQkNqYUtJZjRmVlEwNlJzOFpVSEFJSE1fOXNPSEc2c2lyUmFiaGxnaDN3T0ZhNHphM0RNWHQwZnZqZW1sRVhhMXUtT3RxNFRHRG5WVjdjVjNkVV9QS3hKTVQ4WHJheDU1YjBTN0hocUs?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-30T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "circle-pressroom-b6aa8d3ea5c0ee99150d",
