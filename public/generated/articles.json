@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:14:10.056480+00:00",
+  "generatedAt": "2026-08-29T09:05:16.144131+00:00",
   "articles": [
     {
       "id": "about-amazon-a81d6d41c12e8d610b7d",
@@ -38,6 +38,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-23feead150e4e4aa0de0",
+      "title": "CEEcil: engineering a support “teammate” with human memory",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUml6ZHJ3NE5QNXhHN0hJdXN2b2dYcFlSZ3ZFRXI2TjkxMnlSWVhNNEowNHlxVnJLYjVJSy1xdlo4emJDNzA0REFCdk9lV0VZVlBLT3lza0M4MUpYbHRaNzM0My1yRWpyakY1TVpTczBuaFVERWdVVGJPMFdPMnNpRV9EaGlHNEZscFFjR1ZB?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-28T14:55:15+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "about-amazon-2103440247c40c1d2b5d",
       "title": "Amazon's Second Chance Deal Days returns to Europe, with deals also available in the US, Mexico, and Brazil",
       "link": "https://www.aboutamazon.com/news/retail/second-chance-deal-days?utm_source=rss",
@@ -72,18 +84,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-23feead150e4e4aa0de0",
-      "title": "CEEcil: engineering a support “teammate” with human memory",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUml6ZHJ3NE5QNXhHN0hJdXN2b2dYcFlSZ3ZFRXI2TjkxMnlSWVhNNEowNHlxVnJLYjVJSy1xdlo4emJDNzA0REFCdk9lV0VZVlBLT3lza0M4MUpYbHRaNzM0My1yRWpyakY1TVpTczBuaFVERWdVVGJPMFdPMnNpRV9EaGlHNEZscFFjR1ZB?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-28T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-c0b67fc281a69f5065fa",
@@ -626,6 +626,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "klarna-press-5ed7d6d1f6483b3f2bd9",
       "title": "Klarna launches in-store with GARAGE and DYNAMITE across North America and the UK",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1E4WDZ4bzZxYWpvMEJKQTAzRVpma21wcnBYVGhlU0RSSVhrNmxLZ3FjQXhqb0thQXl5dDQweWZ1QVhUOFIyQmVJdXdKUXl3UnU0NXVieDVET0E5bUg0elNfNE94SWhabHM5aFRZLWFWcVN6aG55MHFEVExPV2pBS3ZoNmFsajdKaGMyLXZTdUwxZlB4YnZWdllmMzdKUnBLOE9NRnZYWFlqajRqWWFfc3pPRkF3TG1GcnRMVHVvaXFWQkk?oc=5",
@@ -974,6 +986,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-94a54c637199ce9bb783",
+      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-062287b6cadf174cd697",
       "title": "Square Credit Card Levels Up: Rewards Built for Small Businesses and a New Way to Pay Vendors",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Credit-Card-Levels-Up-Rewards-Built-for-Small-Businesses-and-a-New-Way-to-Pay-Vendors/default.aspx",
@@ -1054,6 +1078,18 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1658,18 +1694,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -2033,8 +2057,8 @@
       "id": "affirm-news-9b455e77d60416bc2475",
       "title": "Affirm and CPP Investments renew and expand capital partnership",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-cpp-investments-renew-and-expand-capital-partnership",
-      "summary": "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20260604725818/en/",
-      "publishedAt": "2026-06-04T00:00:00+00:00",
+      "summary": "SAN FRANCISCO & TORONTO --(BUSINESS WIRE)--Jun. 4, 2026-- Affirm (NASDAQ: AFRM) and Canada Pension Plan Investment Board (“CPP Investments”), through subsidiaries of CPPIB Credit Investments Inc., today announced a renewed and expanded forward-flow agreement.",
+      "publishedAt": "2026-06-04T13:00:41+00:00",
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
@@ -2184,18 +2208,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-0847a2759412a0ace3c6",
-      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-a5454d306bd930dc2141",
@@ -2410,6 +2422,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2654,18 +2678,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-8db66d3e9e9be834779a",
-      "title": "TSMC November 2025 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Lb2lUOVNfTDJHcmp1VnVoaUlYRDhBc0pKZ3p2Z3JBSW45MUVfZ1U2UTBBYXZEWUxENndVTTNGd1ZCTktwaTVnVWJNRHJrQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-12-10T08:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2868,18 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
