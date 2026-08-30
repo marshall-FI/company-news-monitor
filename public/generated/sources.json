@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:41:44.716801+00:00",
+  "generatedAt": "2026-08-30T12:56:38.231137+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -32,10 +32,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via rendered HTML"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
