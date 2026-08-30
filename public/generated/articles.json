@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-30T00:22:29.650724+00:00",
+  "generatedAt": "2026-08-30T06:41:44.716801+00:00",
   "articles": [
+    {
+      "id": "google-blog-9acd1ac8887a342ea861",
+      "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+      "link": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
+      "summary": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States. Since we update Google Maps …",
+      "publishedAt": "2026-08-29T04:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-a81d6d41c12e8d610b7d",
       "title": "How Amazon is helping communities impacted by the Nepal flash floods",
@@ -127,18 +139,6 @@
       "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
       "summary": "Expert Intelligence lets you add ebooks like those you’ve purchased from Google Play Books directly to a Gemini Notebook.",
       "publishedAt": "2026-08-27T19:30:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-13e95c70fd2ebfa9f8ad",
-      "title": "Celebrating 250 years of America, from its history to its future",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/",
-      "summary": "Google and YouTube are celebrating America's 250th anniversary.",
-      "publishedAt": "2026-08-27T17:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
@@ -624,6 +624,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-0557db4024a130d09aa7",
@@ -1442,18 +1454,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-127710ecc139b055cd65",
-      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
-      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
-      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
-      "publishedAt": "2026-07-28T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
       "title": "The Robinhood Ventures Fund II (RVII) IPO Roadshow Begins August 3",
       "link": "https://robinhood.com/us/en/newsroom/RVII-roadshow-aug3",
@@ -1500,18 +1500,6 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-65179d5eda7dc1dec48a",
@@ -1992,6 +1980,18 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-03bc0f726b286c6bc6ec",
+      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-16T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-b27a75ff08b7ad23c594",
