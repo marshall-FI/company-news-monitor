@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-08-31T13:51:00.522054+00:00",
+  "generatedAt": "2026-08-31T20:07:54.551810+00:00",
   "articles": [
+    {
+      "id": "chime-newsroom-95fccf222f4743b5a382",
+      "title": "Chime Expands Trump Account Benefit for Employees’ Children and Helps More American Families Start Building Wealth",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-expands-trump-account-benefit-employees-children-and-helps",
+      "summary": "Chime will contribute $250 when a Trump Account is opened for any child of a Chime employee, building on its early commitment to match the federal government’s $1,000 seed Chime will bring its Compound Combine ™ financial education series to Texas in 2027, following events in Jersey City,",
+      "publishedAt": "2026-08-31T19:45:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-0d3f76e6093b76632218",
+      "title": "Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads",
+      "link": "https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit-response?utm_source=rss",
+      "summary": "The FTC today filed a misguided lawsuit claiming Amazon misled advertisers about its Sponsored Ads pricing and auction. Amazon strongly disagrees.",
+      "publishedAt": "2026-08-31T19:36:13+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-6cd6eeebbac4de05ccb5",
+      "title": "Amazon Ads Launches \"First Day Ready,\" a Multi-Brand Campaign Connecting Brands to Gen Z at College's Biggest Moment",
+      "link": "https://press.aboutamazon.com/2026/8/amazon-ads-launches-first-day-ready-a-multi-brand-campaign-connecting-brands-to-gen-z-at-colleges-biggest-moment",
+      "summary": "Gatorade, Michael Kors, and SharkNinja join Amazon Ads back-to-college brand partnership — spanning shoppable content, immersive campus experiences, and a concert featuring Kane Brown, presented by Amazon Music",
+      "publishedAt": "2026-08-31T14:42:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-01bae95b6a1f23418784",
+      "title": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026",
+      "link": "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia?utm_source=rss",
+      "summary": "AWS and HUMAIN deepen partnership with a commitment to deliver up to 50MW of capacity in Saudi’s first AI Zone by 2028.",
+      "publishedAt": "2026-08-31T14:08:31+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "coinbase-blog-c820a4bf7c189f2acea9",
       "title": "Coinbase and Webull Expand Partnership, Bringing Trading and Custody to Canada",
@@ -38,6 +86,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-23feead150e4e4aa0de0",
+      "title": "CEEcil: engineering a support “teammate” with human memory",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUml6ZHJ3NE5QNXhHN0hJdXN2b2dYcFlSZ3ZFRXI2TjkxMnlSWVhNNEowNHlxVnJLYjVJSy1xdlo4emJDNzA0REFCdk9lV0VZVlBLT3lza0M4MUpYbHRaNzM0My1yRWpyakY1TVpTczBuaFVERWdVVGJPMFdPMnNpRV9EaGlHNEZscFFjR1ZB?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-29T02:55:15+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "about-amazon-a81d6d41c12e8d610b7d",
       "title": "How Amazon is helping communities impacted by the Nepal flash floods",
       "link": "https://www.aboutamazon.com/news/community/nepal-floods-amazon-disaster-relief?utm_source=rss",
@@ -72,18 +132,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-23feead150e4e4aa0de0",
-      "title": "CEEcil: engineering a support “teammate” with human memory",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUml6ZHJ3NE5QNXhHN0hJdXN2b2dYcFlSZ3ZFRXI2TjkxMnlSWVhNNEowNHlxVnJLYjVJSy1xdlo4emJDNzA0REFCdk9lV0VZVlBLT3lza0M4MUpYbHRaNzM0My1yRWpyakY1TVpTczBuaFVERWdVVGJPMFdPMnNpRV9EaGlHNEZscFFjR1ZB?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-28T14:55:15+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "about-amazon-2103440247c40c1d2b5d",
@@ -554,18 +602,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-30564fa8f310f3b18dd9",
-      "title": "How to buy a car with Amazon Autos",
-      "link": "https://www.aboutamazon.com/news/retail/how-to-buy-a-car-with-amazon-autos?utm_source=rss",
-      "summary": "Amazon Autos lets you browse, compare, finance, and buy new, used, and certified pre-owned vehicles—all online.",
-      "publishedAt": "2026-08-25T09:24:59+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-f21b782b05987822e4db",
       "title": "How XPUs Meet a World-Class AI Factory",
       "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
@@ -626,16 +662,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-a06704e359a6417137dc",
-      "title": "Amazon hourly employees became satellite technicians—then watched their work launch into space",
-      "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-career-choice-satellite-technicians-space-launch?utm_source=rss",
-      "summary": "Career Choice is helping eligible Amazon employees earn certifications and launch new aerospace careers with Amazon Leo.",
-      "publishedAt": "2026-08-24T14:00:25+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-0557db4024a130d09aa7",
@@ -950,28 +986,28 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "id": "tsmc-news-b2720e8e8e1e2b162feb",
+      "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
+      "id": "tsmc-news-94a54c637199ce9bb783",
+      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -984,18 +1020,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
@@ -1020,6 +1044,18 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-3e08d77a1809d0cd76ec",
@@ -1134,18 +1170,6 @@
       "title": "Mitra Keluarga Advances Its Digital Transformation with Generative AI on Amazon Bedrock",
       "link": "https://press.aboutamazon.com/aws-international/2026/8/mitra-keluarga-advances-its-digital-transformation-with-generative-ai-on-amazon-bedrock",
       "summary": "From fairer, faster hiring to accelerated software development, Mitra Keluarga is modernizing the systems behind better patient care",
-      "publishedAt": "2026-08-06T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-e096e88054c7576675cf",
-      "title": "POSe Modernized Core Applications Six Months Ahead of Schedule Using Kiro",
-      "link": "https://press.aboutamazon.com/aws-international/2026/8/pose-modernized-core-applications-six-months-ahead-of-schedule-using-kiro",
-      "summary": "Indonesian fintech completed eight months of engineering work in just nine weeks after adopting Kiro, the generative AI-powered development tool from Amazon Web Services",
       "publishedAt": "2026-08-06T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -1430,18 +1454,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-c45c5739261a04a03c48",
       "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-platinum-card-rollout",
@@ -1584,18 +1596,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-5be6ad160600f107b941",
-      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
-      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
-      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-7c3d4d976547827c1ea1",
@@ -1874,18 +1874,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
       "title": "Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy",
@@ -1919,18 +1907,6 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2018,18 +1994,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
-      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "link": "https://pr.tsmc.com/english/news/3314",
-      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "publishedAt": "2026-05-15T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
       "title": "Chime to Participate in William Blair Growth Stock Conference",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-william-blair-growth-stock-conference",
@@ -2087,30 +2051,6 @@
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-734c29856225bc355ec5",
-      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "link": "https://pr.tsmc.com/english/news/3308",
-      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-7b041f3b81909f5a8181",
-      "title": "2026/05/08 TSMC April 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3305",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2220,18 +2160,6 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "chime-newsroom-974a18bb9e2a8fe79e8b",
-      "title": "Chime to Participate in J.P. Morgan Global Technology, Media and Communications Conference",
-      "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-jp-morgan-global-technology-media-and",
-      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Apr. 27, 2026-- Chime ® (Nasdaq: CHYM), America’s #1 Choice for Banking 1, announced today that CEO and Co-founder Chris Britt will participate in a fireside chat at the J.P. Morgan Global Technology, Media and Communications Conference in Boston on Monday, May 18,",
-      "publishedAt": "2026-04-27T20:05:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "shift4-news-9a643e3f16a098990bd9",
@@ -2618,18 +2546,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2878,6 +2794,90 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-0e5051ae773bb20f22c0",
+      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-25T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-2226f61adf7d292adf5a",
+      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-21T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-c22901d5296e709477b9",
+      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-20T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-f1edeecf1136f3bc7b45",
+      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-01T12:52:42+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-bacdd251daca40559e7e",
+      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-18T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
