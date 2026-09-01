@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-01T18:34:03.692650+00:00",
+  "generatedAt": "2026-09-01T21:50:22.547687+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-5c23ba73e597b8bc7be2",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurit",
+      "publishedAt": "2026-09-01T21:19:20+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-c97fc058379572822e7b",
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "publishedAt": "2026-09-01T20:45:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-fc559f8bec5ee56949ab",
       "title": "September Android Drop: Remember where you put things, ease motion sickness, and more",
@@ -26,6 +50,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-75804842c44008583506",
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
+      "summary": "A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
+      "publishedAt": "2026-09-01T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-7415c6bcd9dd29dab310",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
@@ -36,6 +72,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-2efcdfbf0b02bf24b9ac",
+      "title": "Consumer Protection Tuesday: How to Talk to Your Parents About Money Safety",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmpwMm51V1hCTFlDbVhGN082SUFZRllaNnNQOXJpTS15bkZCR3NtSUdHRDhUNUxDcV96NEN4dFNqY1dseFZqZWtRM2RzOWFyVHlnYl9ueXEwdUFfWDVQRlRfMWZ4bVJSa0ZSby03cjVla3pyaVhiMFExSmFrM3oyV1JubHBrMGlzeFJZS194WnhSZFlhMHYwX3NzMDROY3JhcVFtSlpMOA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-01T15:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-b1e825cffa0217d04a6a",
@@ -290,6 +338,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-a1c9c66d7311246563eb",
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "publishedAt": "2026-08-27T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-7d8f7d49cd6deab313ef",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
@@ -318,18 +378,6 @@
       "title": "Google Flow brings new creative control features to enhance video editing.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
       "summary": "At Google I/O, we launched Gemini Omni Flash in Google Flow, bringing new video editing capabilities to creatives. Today we’re rolling out updates via Gemini Omni 1.1 Fl…",
-      "publishedAt": "2026-08-27T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-a1c9c66d7311246563eb",
-      "title": "3 new ways to plan and book travel in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
       "publishedAt": "2026-08-27T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -434,18 +482,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-584c12716aade0682087",
-      "title": "Turn your voice into action with new productivity features in Gemini Live",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
-      "summary": "We’re rolling out a major productivity upgrade to Gemini Live so you can use your voice to delegate your to-dos without missing a beat.",
-      "publishedAt": "2026-08-26T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-95b7ebc1937a7b61cc28",
       "title": "Intelligent transcription with Gemini 3.5 Transcribe",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
@@ -458,11 +494,11 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-7bb04b5fa0cef39d541b",
-      "title": "28 startups using AI to transform the energy sector",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/",
-      "summary": "Spanning North America and Europe, the energy-focused, AI-driven startups were selected for the Google for Startups Accelerator.",
-      "publishedAt": "2026-08-26T16:00:00+00:00",
+      "id": "google-blog-584c12716aade0682087",
+      "title": "Turn your voice into action with new productivity features in Gemini Live",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+      "summary": "We’re rolling out a major productivity upgrade to Gemini Live so you can use your voice to delegate your to-dos without missing a beat.",
+      "publishedAt": "2026-08-26T17:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
@@ -526,18 +562,6 @@
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-08f95232fa3d9ce9f3ee",
-      "title": "Google at the Global Forum on Intellectual Property",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
-      "summary": "Read remarks from Kent Walker, President of Global Affairs for Google and Alphabet, to the Global Forum on Intellectual Property.",
-      "publishedAt": "2026-08-26T04:15:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -684,6 +708,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-0557db4024a130d09aa7",
@@ -854,18 +890,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "nvidia-newsroom-57077a078bea401a1816",
-      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-      "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance memb",
-      "publishedAt": "2026-08-13T13:00:33+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-e47d3c33ab2a2deff4de",
       "title": "Oracle and AWS Deepen Strategic Collaboration as Enterprise Adoption of Oracle AI Database@AWS Accelerates",
       "link": "https://press.aboutamazon.com/aws/2026/8/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-database-aws-accelerates",
@@ -998,28 +1022,28 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "id": "tsmc-news-b2720e8e8e1e2b162feb",
+      "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
+      "id": "tsmc-news-94a54c637199ce9bb783",
+      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1058,6 +1082,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "amazon-press-archive-3e08d77a1809d0cd76ec",
       "title": "Discover your Independence Day style at Amazon India's Great Freedom Sale 2026",
       "link": "https://press.aboutamazon.com/in/2026/8/discover-your-independence-day-style-at-amazon-indias-great-freedom-sale-2026",
@@ -1078,18 +1114,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1286,18 +1310,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "marqeta-blog-acf0119fe09c38f908c6",
-      "title": "Issuing/processing Financial Services The card in your wallet is about to get a lot smarter Article",
-      "link": "https://www.marqeta.com/blog/the-card-in-your-wallet-is-about-to-get-a-lot-smarter",
-      "summary": "Nearly two thirds of consumers say they would replace their existing debit card with a flexible credential if one were available to them.",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-0194b791576ca9bad557",
       "title": "Upstart Announces Multi-Year $4 Billion Forward Flow Agreement with Castlelake",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-multi-year-4-billion-forward-flow-agreement",
@@ -1490,6 +1502,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
+      "title": "Wise Launches International Money Transfer Service in Chile",
+      "link": "https://newsroom.wise.com/en-NAM/268425-wise-launches-international-money-transfer-service-in-chile/",
+      "summary": "New solution offers the ability to move money quickly, with 77% of global transfers on Wise completed in less than 20 seconds, and a digital and convenient experience for Chileans managing international payments.",
+      "publishedAt": "2026-07-21T13:33:38+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "wise-newsroom-b5cdab03f81bf5510ab8",
       "title": "About Get to know us",
       "link": "https://newsroom.wise.com/en-NAM/about/",
@@ -1608,6 +1632,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5be6ad160600f107b941",
+      "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
+      "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
+      "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
+      "publishedAt": "2026-07-13T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-7c3d4d976547827c1ea1",
@@ -1922,18 +1958,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-7c228d86d73993aebdbe",
       "title": "Introducing SoFi Coach: An AI-Powered Financial Guide to Help Members Get Their Money Right",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR2dFQjM4TDRXNlJ2YXhjWFZDajRQTEVEMVpyZ2FFb3hLV1JYYkV3em1hY0g1NU51X29wUzBjOWVWOWZIMDgzQV9tS2VfcDhfcU8xbmtCTGRBRjdzcE5GVURDU1BmQ1JOcnFQLXc2SzhQb0lKVmhfR3ZzQUJXZ24yR2F5emI5UFdfbkxyeWdVUy1OclFqRTRzeExxblF3MWR3ODBWRTEtZDlDRUZyNUN4c0ZhdFVtd1FOTkJVblJLWndGQmR4NW1lRTVycFRUVHdDcnBMcFhiSUZLcEplX2xKak4wT24wQUpK?oc=5",
@@ -2063,18 +2087,6 @@
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-734c29856225bc355ec5",
-      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "link": "https://pr.tsmc.com/english/news/3308",
-      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2366,6 +2378,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
       "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
       "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
@@ -2436,6 +2460,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
@@ -2543,18 +2579,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2856,30 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T12:52:42+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-bacdd251daca40559e7e",
-      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-18T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
