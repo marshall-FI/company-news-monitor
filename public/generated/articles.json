@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:11:20.757857+00:00",
+  "generatedAt": "2026-09-01T10:08:51.441902+00:00",
   "articles": [
     {
       "id": "google-blog-5c8787f86ace68e85002",
@@ -66,7 +66,7 @@
       "title": "Coinbase and Webull Expand Partnership, Bringing Trading and Custody to Canada",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2dOVnFUeFVaNy1qZmNhMWRWM0x2c1lBMUxHc3QteHVnUHFVNFdrdkVMUnNjS25hYTF1LUtyRXhrY1NQa1FkSFhsQ1FyYzIxU0M2MEYxNzFFLXFyREg3Q09RejZydzk5bkhwOGREUFNudEtnSjAtbXZaeEo1OF9CcVFZaVNNQVk0QzhaOWdEeUo0T0hNdG1pdjlselFYZDlsbnJiV05Sb0dETTQ?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-31T13:00:00+00:00",
+      "publishedAt": "2026-08-31T13:10:31+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -132,6 +132,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-f105af675a09b65bd0f2",
+      "title": "Klarna CEO Sebastian Siemiatkowski acquires 692,506 shares for $10 million",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXppTFYtY1I2RHY2eW5NX0xyeWJHdzJSVVlrdHNDaXY2ZUdfZG1lUGhzM3dVQ0ZFUk9odkpwU0ZWd2ViQUJOTTJtd1BnSF9sNGtaRVpwVXBVRERLREgxX2tHNWxQNVNrbVFDMXFuSlVBRU8xOHluR2dqcmpxUndrcmtwLTRvUHY1aHpZMXgzXzdTSmt4WWJVYUFfYURQNWliNXlpSEVIWmFacDJoMEhVWWpnTDdmblM2?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-28T15:40:32+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "about-amazon-2103440247c40c1d2b5d",
@@ -398,6 +410,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "block-investor-news-46b3da78491d20bf3047",
+      "title": "Cascadia Pizza Co. Returns to Square to Power Its Next Chapter of National Franchise Growth",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY1NjMy1MWkxDNm8ybzc4S3lEckhneUNMelVvVXZuRVVvOHBTQk9HblE3d04wcjRWLWR6LXBldDREVFZCY016MFpwQzI2OU8tbkhGb0VOd0dQekZ1a3VqRlhWdEYzMElabG9EZ3lWVkZnWlF4bERGT3hQME9LV1FIS2s1N2ZEQmwtR0hGRHBfODJlOUw2WWtlU1dBdTQzTXN3UXh4LXl6bk8wTmRsXzVPUXdzUncxT054YUV5Y0ZKVDRlb1VZMDY2Z1piLTB3czlVcUZoVjAycmRQLU1uQmh3d1NKcS12MWEySzF1ME16Zktxb1J5aFQ0?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-26T14:17:55+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "about-amazon-876bd6cc1b1a013255ef",
       "title": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB",
       "link": "https://www.aboutamazon.com/news/company-news/aws-ducklabs?utm_source=rss",
@@ -650,6 +674,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-d992f2d9c8d768337eca",
+      "title": "Credit Commercial The cost of keeping business credit simple Article",
+      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
+      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-0557db4024a130d09aa7",
       "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -660,6 +696,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-5ed7d6d1f6483b3f2bd9",
+      "title": "Klarna launches in-store with GARAGE and DYNAMITE across North America and the UK",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1E4WDZ4bzZxYWpvMEJKQTAzRVpma21wcnBYVGhlU0RSSVhrNmxLZ3FjQXhqb0thQXl5dDQweWZ1QVhUOFIyQmVJdXdKUXl3UnU0NXVieDVET0E5bUg0elNfNE94SWhabHM5aFRZLWFWcVN6aG55MHFEVExPV2pBS3ZoNmFsajdKaGMyLXZTdUwxZlB4YnZWdllmMzdKUnBLOE9NRnZYWFlqajRqWWFfc3pPRkF3TG1GcnRMVHVvaXFWQkk?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-20T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "chime-newsroom-5b794e6546545b5645ff",
@@ -1042,6 +1090,18 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1886,18 +1946,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-b91b59eb6d243c834d6b",
-      "title": "Klarna launches in-app inbox to help consumers avoid scams",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmpLOHFZOER5cFB3V2U2SmxNOVFndEx4Vm5XSFI5bzl0eFRYNlJoVkpfaFUtSmJOVm5zaVdhQVItZlZnbWE4SkhkYXhvckdZV3J0czIzaGV3YmhIWThfWXJ2ZVA3MmpMdW5BS0JUcDJBb3hKZ19DZ0Ywc01aNkVwUmRzNXdhMW12bGNqYnNWbEFsUk5pWU16VWlqVFZpeDVKWGJDYQ?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-7c228d86d73993aebdbe",
       "title": "Introducing SoFi Coach: An AI-Powered Financial Guide to Help Members Get Their Money Right",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR2dFQjM4TDRXNlJ2YXhjWFZDajRQTEVEMVpyZ2FFb3hLV1JYYkV3em1hY0g1NU51X29wUzBjOWVWOWZIMDgzQV9tS2VfcDhfcU8xbmtCTGRBRjdzcE5GVURDU1BmQ1JOcnFQLXc2SzhQb0lKVmhfR3ZzQUJXZ24yR2F5emI5UFdfbkxyeWdVUy1OclFqRTRzeExxblF3MWR3ODBWRTEtZDlDRUZyNUN4c0ZhdFVtd1FOTkJVblJLWndGQmR4NW1lRTVycFRUVHdDcnBMcFhiSUZLcEplX2xKak4wT24wQUpK?oc=5",
@@ -1956,18 +2004,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-cc17036a11e7185dc13b",
-      "title": "Worldline and Klarna partner to enable flexible, online and in-store payments everywhere",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNExvMkxFaTZHb21NZ2tvdndIc2VPLTNDVEZ2N1NCRTE0Ym1pWUZWYmZyaWZLazlLLXdPU1ZlcnhXcXI1Y2otMnBCZHVKbFpfQmVhYTV0V1lGSmIzVHJQNkV6b0tSQzRrMjRQeWppSWVwbTRONkg5ZXFvZldZUGdPMmM0MDRWN2RuWjBqc1h3ZTlZbVJXNFc1SnR0d3BsX1U4bVZfWmVPMEREMkF2Q0ZFbExUMHUyMHpVNmxab1QxbnU2X2ExVUdYVGotZw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-19T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
@@ -2258,16 +2294,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-ec67c4faecab534d7df4",
-      "title": "Klarna Card reaches 5 million active customers",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUF91ZzJSRlBXV3ZPVHdmZ01ONDdvVnh4aXJUZFFFRG81dFJnRlJMUlVzMHg3Z3Bjc3lYVXlOQTVNLUZ0V3JsWFdENjBKejRxN3dnN25nT0o5X2xYQ215MTROTHYxaWxqNXJzMFFZLWRKb1BkUWZLbUdtSkZJN1VlVll4OWZfd0J6aHEtU1ItOVRNR2Rs?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-03-19T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
+      "id": "marqeta-blog-1fc919b6cdd114307e6a",
+      "title": "Issuing/processing Financial Services The payments vendor decision that defines your next decade Article",
+      "link": "https://www.marqeta.com/blog/the-payments-vendor-decision-that-defines-your-next-decade",
+      "summary": "91% of scaled fintechs switched payment vendors. 70% of migrations took 2-3x longer than planned. Why your vendor decisions define the next decade.",
+      "publishedAt": "2026-03-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "sofi-press-c2fed06b99d719bdfba8",
@@ -2330,6 +2366,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-2d54e3923eade6fa0096",
+      "title": "Issuing/processing Financial Services The multi-vendor mirage: Why the best-of-breed strategy is backfiring for financial services Article",
+      "link": "https://www.marqeta.com/blog/the-multi-vendor-mirage-why-the-best-of-breed-strategy-is-backfiring",
+      "summary": "82% of fintechs chose best-of-breed vendors, but 64% regret it. New research reveals why multi-vendor strategies backfire and comprehensive platforms win.",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-5f8d85b29fe46f36b3c1",
       "title": "BNPL/POS Lending Financial Services Beyond luxury: How BNPL is evolving into an essential tool for everyday financial health Article",
       "link": "https://www.marqeta.com/blog/beyond-luxury-how-bnpl-is-evolving-into-an-essential-tool-for-everyday",
@@ -2340,18 +2388,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "klarna-press-2e23749375e9b1f7b8ee",
-      "title": "Klarna launches on Google Pay in the UK",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnpYS2s3MXRQWnZQcjVVaVpqaGx3OE9TaHFJWmpqN29scnJzWUdrS0h6TFBYSUlEMW5RVGxVR2g1WmdoY1dUN0QtM0Z5MGM3MThObnZIM08zODM2c2hsTGRPeS11R3haQWhPWXJKZzFha0lQdlBKVE5lRWt4M0RNX1djdmplSm12MmRV?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-16T08:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-7e092cfe4241063ee67f",
@@ -2414,6 +2450,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-ebb8f38236d7ca7c0d6b",
+      "title": "Other All Industries Marqeta Named a 2026 'Built In Best Place to Work' Article",
+      "link": "https://www.marqeta.com/blog/marqeta-named-a-2026-built-in-best-place-to-work",
+      "summary": "Behind our fourth Built In Best Workplace award: the culture that powers payment innovation.",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
       "title": "Cash: The resilient bridge to the digital economy in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/cash-the-resilient-bridge-to-the-digital-economy-in-emerging-markets/",
@@ -2424,18 +2472,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "klarna-press-f2113950c101241bede8",
-      "title": "Klarna expands digital bank offer with peer-to-peer payments",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2JpNmJ5MUhTOEpEYlQwSE1fSG1GV2dPME5XVnFnUUM5NWZxdnluSVU1U2NwTzBkS2w3VEpkbTV1UUd4SEEtQ19Xb2RmdHZ0bnZJZDBZUXFnNzA1UTB1Wjh5Ukp0R3dvMGtzdFpONV9ILTJjblpjMTVIOXlVU2ZXWTQ5Y05RQnBWY2QzSGRnTXFVWVFCTnBaMmxtZWpwWnZObFp0RF9kaw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-14T08:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "toast-product-news-9e5e095cb7855f19948c",
@@ -2774,18 +2810,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-3ce720bb7592293b08e1",
-      "title": "Klarna grows Q2 revenue to $823m, reports continued operating profitability and highest number of on-time payments",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazhDUHdzeWpUWEk2azRnRGxtODVxRFI4UUdHTktjRjFUM19uM3NMdURhZmFyWVZRdU5iMWxXZXA1MFMwZ2c0MEtPdTd0TUxTX2xwVDNYczN5X29aTV80MnhBaDl5V0FuX1hucE1iQWFYYUZyM29ZTnp0aG92MkpLNDBZYUprZ2s0WkdXV0JkQ0VobERtUDNtWDdjSnRUaDdLcmxFZHJaN3JmNjZoQ1dONVZKWGxGREh6Ml9Jcg?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-14T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-906d798c5b95f5509932",
       "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
@@ -2798,18 +2822,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "toast-product-news-d01129db009118c07f99",
-      "title": "Toast Convenes Global Customer Advisory Board Summit to Build a Brighter Future for the Industry",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RdjkwRlVUbVV5UTkwVk9ZeWpLdkEwanVCVEVWeGJMTXJxWnlHaEh3R2c3UG1QNXpRR18yR0hmZi1OdFhGZzVqUXR6VFFpWUlDY0Y3RDZ1d3V0T0VYN2tneG9KODlVekQ5ME8wdmlRemNXWklTdGRZc1hGWQ?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-08T17:26:26+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-0e5051ae773bb20f22c0",
       "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
@@ -2818,18 +2830,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-af157ce83a54fb0984e8",
-      "title": "Tap to switch: Klarna expands into mobile phone plans with flexible, no-hassle service for 25M Americans",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHFWNmVoZG9QYTZLWUczYjBUTGROMFM0NDR1WUpjOV8wOExmSEQ2RUswa3Rid0p6UG1ycnZlNGc3Zld5WVhnN1oyeG5pMzFCYnJpdTE2YWxtR3I2cEs1Sm40MzZZTkJfN1pkekktR0FLV0lzXzdwNmU4SXpYNEFNSWZNekhTcF9zX1N5ckkxZW9aaWhyUnJVN19yMTdqSHhJQ1h2bFdfbHYtY3VPUWJsVC0yQnB4QVlLUkdOQQ?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-18T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
