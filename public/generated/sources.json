@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:51:50.728504+00:00",
+  "generatedAt": "2026-09-03T14:38:14.057833+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -14,10 +14,10 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 17,
-      "message": "OK via official fallback RSS"
+      "itemCount": 7,
+      "message": "STALE: official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "marqeta-blog",
@@ -32,10 +32,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 9,
+      "message": "STALE: official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "affirm-news",
