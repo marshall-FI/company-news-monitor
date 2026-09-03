@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-03T04:39:25.320179+00:00",
+  "generatedAt": "2026-09-03T09:51:50.728504+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-f520f64ca05156d35043",
+      "title": "Amazon e HYROX annunciano una partnership globale e lanciano una nuova vetrina Amazon dedicata agli essenziali per il fitness",
+      "link": "https://press.aboutamazon.com/it/news/retail/2026/9/amazo-hyrox-annunciano-partnership-globale",
+      "summary": "Amazon diventa partner ufficiale della più grande serie di fitness racing al mondo. Nella vetrina dedicata amazon.it/hyrox è disponibile una selezione di prodotti dedicati al fitness. La partnership prevede inoltre playlist Amazon Music ed esperienze per la community HYROX.",
+      "publishedAt": "2026-09-03T08:02:34.960000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-5904ad19cf808f11c82f",
+      "title": "Welcoming Anthony Armstrong to Coinbase's Board of Directors",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDJETVl0UGhHbE9jNkoxR2R5UGlFc1gxMDVjN2RYYURiWmxwckRaRXpsX3VpSDljaUpxWjBCNVQtWEs2cDU3MWxiWXVIS09UX3R0WFB5eVVWdE1YdjNiTjBqbFphNjFDQktDdjBwNU1lOW84cVJxbFZ0R1dyclNFNzJLRjUzZnpTRzF5dlN1Qng5elE?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-02T20:13:54+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "google-blog-b263b9cf94a657b2bca6",
       "title": "Build a measurement stack you can rely on to steer your campaigns.",
@@ -62,18 +86,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "klarna-press-8eea6350220fe6345de4",
-      "title": "Klarna and Rare Carat team up to bring flexible payments to engagement ring shopping",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHdFcktUMWgtOEVfaFEzMEozanVPYUNTQzJWNzJqWkE4ZmlRbWljWEZXQUJGU3RoT1lodFFISDE4NmxlRTZqMmJwNWRmYW9PZml2d3hvWWdtVU5PN2tSbVo5U1k2TFBRN0tMTGMtS0NhN0RtdWp2WWVkUzJFQ3ZVMDhIY3A0NjJoUGczYXJUbzJqaGU5RS1abW5IM0x1cGRqaXJrc1M1Mmk2RnA5dENFeGpya2NrWGJoUXJSUWI5QTBYakhTOGdr?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-02T13:26:57+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "about-amazon-125342862996aeb9fe10",
       "title": "Is that message really from Amazon? Just ask Alexa for Shopping.",
       "link": "https://www.aboutamazon.com/news/retail/how-to-verify-amazon-messages-alexa-for-shopping?utm_source=rss",
@@ -132,18 +144,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-5904ad19cf808f11c82f",
-      "title": "Welcoming Anthony Armstrong to Coinbase's Board of Directors",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDJETVl0UGhHbE9jNkoxR2R5UGlFc1gxMDVjN2RYYURiWmxwckRaRXpsX3VpSDljaUpxWjBCNVQtWEs2cDU3MWxiWXVIS09UX3R0WFB5eVVWdE1YdjNiTjBqbFphNjFDQktDdjBwNU1lOW84cVJxbFZ0R1dyclNFNzJLRjUzZnpTRzF5dlN1Qng5elE?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-02T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-5c23ba73e597b8bc7be2",
@@ -432,18 +432,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-28T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-c0b67fc281a69f5065fa",
@@ -1238,18 +1226,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-3c32388e41963b8bb078",
-      "title": "Greenland International Industrial Center (GIIC) Expands Water Reclamation Program to Advance Sustainable Industrial Development in West Java",
-      "link": "https://press.aboutamazon.com/aws-international/2026/8/greenland-international-industrial-center-giic-expands-water-reclamation-program-to-advance-sustainable-industrial-development-in-west-java",
-      "summary": "Cikarang, August 6, 2026 – Water management has become one of the strategic issues in global industrial development. The United Nations (UN) estimates that by 2030, the world could face a gap of up to 40% between water demand and the availability of clean water if current consumption patterns…",
-      "publishedAt": "2026-08-06T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-3424e4f9d11def8ed727",
       "title": "Coinbase UK Launches 24/5 US Stock Trading",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NndpRUpYM29PWmwxaHFCWVRQSzhlbVFlaWZPemtMX1llSHh0X0RmQ2RQQW52Z0tnQ25YMWZic2VQdWRZdGljU2hqYUxkV0JmV1VyTTBKRzdwLWRDdW9pNEU3ZDFtcUtWMmlod1BKRzlPd01vb1E?oc=5",
@@ -1514,16 +1490,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "toast-product-news-ca16ed760760faf509b0",
-      "title": "Toast News and Press Releases",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZ3U0TFZobzY2aEJPRld3U2xLeW1mcmJqWlN6NE8wUExYS2poZ1VScExkNXJqbUxJejAyZldLOHJOR0tORnlzaS1QZlZ0X0prMUZyQnQ1dw?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-23T14:08:31+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-c45c5739261a04a03c48",
@@ -2038,6 +2014,18 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "toast-product-news-97e1a87d9306e6e911e1",
+      "title": "Toast News and Press Releases",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IdDZqakxYUXhUbUVfVWhWVXRzWFJ2dVYxVWUzc09vTkZqbHBwRkJOLXdhRXRQdVFoZWxIeFhISnp1dGVHSXlSM0tXTHE?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-22T06:51:49+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2880,6 +2868,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
