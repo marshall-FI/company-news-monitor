@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-03T14:38:14.057833+00:00",
+  "generatedAt": "2026-09-03T18:43:11.861121+00:00",
   "articles": [
+    {
+      "id": "google-blog-a5536cd7efe5226bd1ec",
+      "title": "Start the year AI-ready with the Google AI Educator Series",
+      "link": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
+      "summary": "An overview of upcoming training sessions from the Google AI Educator Series (GES), and how teachers are putting these tools to work.",
+      "publishedAt": "2026-09-03T17:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-60188377bc15b4a309f2",
+      "title": "Hoxton Wealth Collaborates with AWS to Bring Agentic AI to Wealth Management",
+      "link": "https://press.aboutamazon.com/aws/2026/9/hoxton-wealth-collaborates-with-aws-to-bring-agentic-ai-to-wealth-management",
+      "summary": "International financial advisory firm Hoxton Wealth has begun working with Amazon Web Services (AWS) to explore how AI can benefit both its own business and the wealth management sector more broadly.",
+      "publishedAt": "2026-09-03T16:15:40.843000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "nvidia-newsroom-9509bbf8b01c98fec68a",
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and ",
+      "publishedAt": "2026-09-03T16:00:59+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-6054f10fecad81abf693",
+      "title": "Use your voice to get more done in Gmail, Docs, and Keep",
+      "link": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+      "summary": "Three new voice-activated features will change the way you use Google Workspace products.",
+      "publishedAt": "2026-09-03T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-8064cb09f5278e5b934f",
+      "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
+      "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+      "summary": "HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science.",
+      "publishedAt": "2026-09-03T15:05:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-20c169671e8659758393",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "summary": "WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.",
+      "publishedAt": "2026-09-03T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-fa67f50273e6d77f6455",
       "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
@@ -12,6 +84,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-3c721b0e1669f2919786",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Payward Partner to Connect Banking and Digital Asset Markets",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbDJQWUhxbHFDRUNXTVZvQXl1ZGZFWk5kRWQtNmV4UXFvZllXNTkxT1gxRk1sSnVDeUYwSXd6aVBRQTE4VGt4R292d2lNaFJrMW5fTUk0dHRpZGR3LVhuMHVreHpIRDhEeVJ3Sl8wb3Faclh3MHVlbEtfemNBa3lPMzFiMG5hRlBxUmtGYTV4V2lzeVhQR1FCQ2NreGhlYUt4NmxlQkdkM0JBUElJVGt5bXk4clBURnJOVE1UV1Y2NjNHWWFsVVBqYXR2dHA?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-03T12:04:05+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-ea981681c9e20cb5e31f",
@@ -74,10 +158,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0805b852647b5c59df31",
-      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
-      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "id": "google-blog-0347ba7fd470f2fab3e4",
+      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -86,10 +170,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0347ba7fd470f2fab3e4",
-      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
-      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
+      "id": "google-blog-0805b852647b5c59df31",
+      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -302,6 +386,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-01T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "google-blog-5c8787f86ace68e85002",
       "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
@@ -386,18 +482,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-31T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "google-blog-9acd1ac8887a342ea861",
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
       "link": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
@@ -432,18 +516,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-9415753715d793c7251c",
-      "title": "We’re introducing flexible usage limits for Gemini Notebook.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
-      "summary": "We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.",
-      "publishedAt": "2026-08-28T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "klarna-press-f105af675a09b65bd0f2",
@@ -516,42 +588,6 @@
       "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-fbdfc2d343a8c287f7a9",
-      "title": "Expert Intelligence: a new way for you to engage with trusted content",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
-      "summary": "Expert Intelligence lets you add ebooks like those you’ve purchased from Google Play Books directly to a Gemini Notebook.",
-      "publishedAt": "2026-08-27T19:30:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-7d8f7d49cd6deab313ef",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "summary": "Gemini Omni 1.1 Flash brings a new suite of creative controls and generative video capabilities to developers.",
-      "publishedAt": "2026-08-27T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-a1c9c66d7311246563eb",
-      "title": "3 new ways to plan and book travel in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-      "publishedAt": "2026-08-27T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-ca1c781736e147b08fba",
@@ -738,7 +774,7 @@
       "title": "Block’s Neighborhoods Adds 30,000 More Sellers as Square and Cash App Help Build Local Commerce Network",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWFBSN19tOHVwME1nM19xTWkxSGJSSmYwTElVOEZfbDdQa2pvZnV6UjA4X2RWbkw0MjFNdUMtLWpILWxmMHV0MU55LWJBNWJwemFjS2VFenh3SHBwaWZoNlBLVkxIWTVkYzdUWTVhOW1sTG9ncE9NNEs0clQ4RklQc0V1Szl4V25iR0NkellRM0UtcjhnZEljRndQblFwLTZITTA3UGkzMTZlSVkwZWxVMDRXNXVLQjRpakxmOVlOa2NIRVM2NWtfV2ZLbEZWVF9zX3Z6WEVXTmlSX2tXaHpfaV85U3ptQ09EOVZBY1ZKUGNHdXMwRUViMDdMMDFyc196UE9Fcg?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-25T14:22:48+00:00",
+      "publishedAt": "2026-08-25T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
@@ -924,18 +960,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "nvidia-newsroom-efd3807b918786409a71",
-      "title": "Securing the Infrastructure of Intelligence",
-      "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-      "summary": "AI factories are the defining infrastructure of the AI era—where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking – as w",
-      "publishedAt": "2026-08-17T12:34:51+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "amazon-press-archive-20acade843b171fa3dfc",
@@ -1207,18 +1231,6 @@
       "link": "https://press.aboutamazon.com/community/2026/8/amazon-awards-nearly-250-000-to-warren-county-community-fund-recipients",
       "summary": "28 organizations and individuals across Warren County recognized",
       "publishedAt": "2026-08-06T14:43:01.312000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-69726627394ba5992d76",
-      "title": "Amazon's Machine Learning Summer School Turns Five, Over 12,000 Students Trained in AI/ML Skills Across India",
-      "link": "https://press.aboutamazon.com/in/2026/8/amazons-machine-learning-summer-school-turns-five-over-12-000-students-trained-in-ai-ml-skills-across-india",
-      "summary": "Amazon Machine Learning Summer School (MLSS) is a free, virtual, immersive program that teaches core AI & ML disciplines to engineering students across India, delivered by Amazon scientists over four weekends each yearThe program has trained over 12,000 students since 2021, with registrations…",
-      "publishedAt": "2026-08-06T12:35:11.471000+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
@@ -2309,7 +2321,7 @@
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
       "title": "AI, local payments, and Nigeria’s new compliance playbook",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/ai-local-payments-and-nigerias-new-compliance-playbook/",
-      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
+      "summary": "AI is reshaping payments in Nigeria. Discover how dLocal uses AI for fraud prevention, smart routing and AML compliance in line with the CBN’s new guidelines.",
       "publishedAt": "2026-04-01T17:15:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2573,7 +2585,7 @@
       "id": "dlocal-blog-3fbf725fa285668570e7",
       "title": "From local to interoperable: dLocal's 5 predictions for payments in 2026",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/from-local-to-interoperable-dlocals-5-predictions-for-payments-in-2026/",
-      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
+      "summary": "Get valuable insights from dLocal's experts' viewpoints.",
       "publishedAt": "2025-12-22T14:25:37+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2868,18 +2880,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-466599b9abbc40fccaf0",
-      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-08T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2896,10 +2896,10 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 7,
-      "message": "STALE: official_google_news: No official Google News fallback configured"
+      "itemCount": 17,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "marqeta-blog",
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "STALE: official_google_news: No official Google News fallback configured"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
@@ -2959,10 +2959,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 2,
-      "message": "OK via rendered HTML"
+      "itemCount": 3,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "paypal-newsroom",
