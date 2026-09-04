@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-04T14:24:53.298841+00:00",
+  "generatedAt": "2026-09-04T18:27:32.949405+00:00",
   "articles": [
+    {
+      "id": "google-blog-d0b16425fcb6e943f870",
+      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+      "summary": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…",
+      "publishedAt": "2026-09-04T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-4a8c2aa660e98629d570",
+      "title": "Google Translate rolls out new upgrades for iOS and Android.",
+      "link": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
+      "summary": "We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
+      "publishedAt": "2026-09-04T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-8a838e04f37b63c9af2f",
+      "title": "Amazon expands Career Choice employee benefit with new programs in high-demand industries",
+      "link": "https://www.aboutamazon.com/news/workplace/amazon-career-choice-training-programs-tuition-careers?utm_source=rss",
+      "summary": "Eligible employees will be able to use Amazon’s tuition assistance benefit to earn credentials and move into new, in-demand industries.",
+      "publishedAt": "2026-09-04T15:27:02+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-e9ee6ea68a3ce82f7801",
       "title": "Amazon's water conservation and replenishment efforts around the world",
@@ -98,9 +134,9 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-3c721b0e1669f2919786",
+      "id": "sofi-press-068a49e698c479e0d633",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Payward Partner to Connect Banking and Digital Asset Markets",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbDJQWUhxbHFDRUNXTVZvQXl1ZGZFWk5kRWQtNmV4UXFvZllXNTkxT1gxRk1sSnVDeUYwSXd6aVBRQTE4VGt4R292d2lNaFJrMW5fTUk0dHRpZGR3LVhuMHVreHpIRDhEeVJ3Sl8wb3Faclh3MHVlbEtfemNBa3lPMzFiMG5hRlBxUmtGYTV4V2lzeVhQR1FCQ2NreGhlYUt4NmxlQkdkM0JBUElJVGt5bXk4clBURnJOVE1UV1Y2NjNHWWFsVVBqYXR2dHA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTVLeng0bVlrVjI3cmEzR2NLQlQ1Q0NpYjV6UXE3bnE5WDFUcXlFbWlNeFY4QkpwTHFlX1Y5MkJ3dHRuSkVXU1BvOGE2dHRycDMtcFVuUk9xdGVWeWxDNU9qMmV2Y3NTaW9uSTNXTkVLX0p3d1NHN1Z1TzBoRFo4c2plcGVSbnF4TnJJbDNiV0Q1TmZNX1BpVU5WeHRfdkMtUUI4empwZGZCMWF2QWthU3BKYS1EYnlqdVFjcA?oc=5",
       "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-03T12:04:05+00:00",
       "sourceId": "sofi-press",
@@ -170,10 +206,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0347ba7fd470f2fab3e4",
-      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
-      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
+      "id": "google-blog-0805b852647b5c59df31",
+      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -182,10 +218,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0805b852647b5c59df31",
-      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
-      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "id": "google-blog-0347ba7fd470f2fab3e4",
+      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -422,18 +458,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "google-blog-5c8787f86ace68e85002",
-      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
-      "summary": "Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
-      "publishedAt": "2026-08-31T22:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "chime-newsroom-95fccf222f4743b5a382",
       "title": "Chime Expands Trump Account Benefit for Employees’ Children and Helps More American Families Start Building Wealth",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-expands-trump-account-benefit-employees-children-and-helps",
@@ -490,18 +514,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-9acd1ac8887a342ea861",
-      "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
-      "link": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
-      "summary": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States. Since we update Google Maps …",
-      "publishedAt": "2026-08-29T04:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -672,18 +684,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "about-amazon-876bd6cc1b1a013255ef",
-      "title": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB",
-      "link": "https://www.aboutamazon.com/news/company-news/aws-ducklabs?utm_source=rss",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-26T13:00:22+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "shift4-news-1644873c0da93fdc8a01",
@@ -1490,6 +1490,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "marqeta-blog-127710ecc139b055cd65",
+      "title": "Issuing/processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
+      "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
+      "summary": "BNPL average order values fell 9% year over year as consumers financed groceries and delivery. See why retail's big-ticket scoping logic no longer holds.",
+      "publishedAt": "2026-07-28T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-a50246fb94e5695dc1fe",
       "title": "The Robinhood Ventures Fund II (RVII) IPO Roadshow Begins August 3",
       "link": "https://robinhood.com/us/en/newsroom/RVII-roadshow-aug3",
@@ -1860,6 +1872,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-beb085e673f205e21977",
+      "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
+      "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
+      "summary": "What Money20/20 Europe revealed about stablecoins: the use cases gaining traction, infrastructure taking shape, and what it means for card issuers.",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-16984a67934c9ecf072d",
@@ -2549,7 +2573,7 @@
       "id": "dlocal-blog-cc991003430c70174daa",
       "title": "Bank transfers: The trusted rails transforming payments in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/bank-transfers-the-trusted-rails-transforming-payments-in-emerging-markets/",
-      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
+      "summary": "Learn how bank transfer payments work across emerging markets, why they’re becoming a digital default, and how global merchants can reduce checkout friction with local bank transfer options.",
       "publishedAt": "2025-12-30T13:54:13+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2856,30 +2880,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
