@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:30:55.187462+00:00",
+  "generatedAt": "2026-09-05T22:57:55.468808+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -59,10 +59,10 @@
       "sourceId": "adyen-newsroom",
       "sourceName": "Adyen Newsroom",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 5,
-      "message": "OK via rendered HTML"
+      "itemCount": 1,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "shopify-pressroom",
