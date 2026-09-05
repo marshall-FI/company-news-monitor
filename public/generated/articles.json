@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T18:21:17.523845+00:00",
+  "generatedAt": "2026-09-05T20:30:55.187462+00:00",
   "articles": [
     {
       "id": "google-blog-d0b16425fcb6e943f870",
@@ -1094,18 +1094,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-f10ef3be8746b086f835",
       "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
@@ -1115,6 +1103,30 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-b2720e8e8e1e2b162feb",
+      "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-94a54c637199ce9bb783",
+      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1152,6 +1164,18 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-3e08d77a1809d0cd76ec",
@@ -1488,18 +1512,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-90db3b2ee015e64f2565",
-      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
-      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
-      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-c45c5739261a04a03c48",
@@ -1874,18 +1886,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-a0d5606912161961133e",
-      "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGppUklmZmdvaEoyT1hKNVNHd3Blbm05eTB5c1JaWEpCaXdITHN4bkEtRndCUjh6UXdxbEM0b1BLUzlqZFA1UzR0U0FYV0hqSUNNWUNkNU1ZcS04ejNDQTJ6bkZDTUxrVFlLLU5NTzhSalJrMF9OM0JmR3k2bUxNbUp5SzhIYUVtRXVfMXFZVmdmLTlfcEx4S2xmNEJSVy1kd1p6WHJhRFJmLTdCNDEwSks1Tk9vNmlMWGY3WWFRZ3RBOVRBaTVoQUNOUEJ5azFjLS1pY0tvMWFlenJGWWx2SXBZOFVwc0ZCci05ZQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-11T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-e922ca60a820127d36ce",
       "title": "Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy",
@@ -2063,18 +2063,6 @@
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-734c29856225bc355ec5",
-      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "link": "https://pr.tsmc.com/english/news/3308",
-      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2868,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
