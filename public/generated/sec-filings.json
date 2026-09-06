@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T01:00:23.611444+00:00",
+  "generatedAt": "2026-09-06T06:00:46.826409+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -5778,16 +5778,16 @@
       "ticker": "DDOG",
       "cik": "0001561550",
       "ok": true,
-      "filingCount": 11,
-      "message": "STALE: retained 11 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Tesla",
       "ticker": "TSLA",
       "cik": "0001318605",
       "ok": true,
-      "filingCount": 10,
-      "message": "STALE: retained 10 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "The Trade Desk",
@@ -5795,7 +5795,7 @@
       "cik": "0001671933",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Amazon",
@@ -5803,7 +5803,7 @@
       "cik": "0001018724",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Google",
@@ -5811,7 +5811,7 @@
       "cik": "0001652044",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "TSMC",
@@ -5819,7 +5819,7 @@
       "cik": "0001046179",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     }
   ]
 }
