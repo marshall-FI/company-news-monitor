@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:00:38.854319+00:00",
+  "generatedAt": "2026-09-06T10:58:26.394740+00:00",
   "articles": [
     {
       "id": "google-blog-d0b16425fcb6e943f870",
@@ -48,6 +48,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-04T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-a5536cd7efe5226bd1ec",
@@ -180,18 +192,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-03T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-b263b9cf94a657b2bca6",
@@ -854,18 +854,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-d992f2d9c8d768337eca",
-      "title": "Credit Commercial The cost of keeping business credit simple Article",
-      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
-      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
-      "publishedAt": "2026-08-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-0557db4024a130d09aa7",
       "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -1106,18 +1094,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-f10ef3be8746b086f835",
       "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
@@ -1127,6 +1103,30 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-b2720e8e8e1e2b162feb",
+      "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-94a54c637199ce9bb783",
+      "title": "TSMC Board of Directors Meeting Resolutions|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90REpHVEtRbUdXNnNBdnA5bXgwYk1fZWhPRTZHbHFsaUNFYVcxQ1U3c2I0TVozRTh3Y0l4X3JiWW94TzVmNW1vQnJPRVBnUQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1164,6 +1164,18 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-3e08d77a1809d0cd76ec",
@@ -2066,18 +2078,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-734c29856225bc355ec5",
-      "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "link": "https://pr.tsmc.com/english/news/3308",
-      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-a5454d306bd930dc2141",
       "title": "Shift4 Announces First Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/300/shift4-announces-first-quarter-2026-results",
@@ -2570,18 +2570,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2880,6 +2868,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-c22901d5296e709477b9",
+      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-20T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
