@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-07T04:43:21.436721+00:00",
+  "generatedAt": "2026-09-07T10:20:18.854450+00:00",
   "articles": [
+    {
+      "id": "google-blog-ba1e5d53f269b7268b65",
+      "title": "Our new contrail avoidance trial in Asia-Pacific",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
+      "summary": "We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
+      "publishedAt": "2026-09-07T08:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-93b63b754f268ce88c3e",
       "title": "Backing 16 green AI projects in Asia-Pacific",
@@ -72,18 +84,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-04T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-a5536cd7efe5226bd1ec",
@@ -216,6 +216,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-b263b9cf94a657b2bca6",
@@ -403,18 +415,6 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
       "summary": "We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
       "publishedAt": "2026-09-01T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-7415c6bcd9dd29dab310",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "publishedAt": "2026-09-01T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
@@ -1154,18 +1154,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
       "title": "Robinhood Launches Crypto Trading for UK Investors",
       "link": "https://robinhood.com/us/en/newsroom/introducingukcryptotrading",
@@ -1610,18 +1598,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -1679,18 +1655,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1934,6 +1898,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -1979,6 +1955,18 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2142,18 +2130,6 @@
       "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
       "link": "https://pr.tsmc.com/english/news/3308",
       "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
-      "publishedAt": "2026-05-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-7b041f3b81909f5a8181",
-      "title": "2026/05/08 TSMC April 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3305",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -2422,6 +2398,18 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
+      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
+      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
+      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
+      "publishedAt": "2026-03-11T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2878,6 +2866,18 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-906d798c5b95f5509932",
+      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
