@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-06T23:57:28.576600+00:00",
+  "generatedAt": "2026-09-07T04:43:21.436721+00:00",
   "articles": [
+    {
+      "id": "google-blog-93b63b754f268ce88c3e",
+      "title": "Backing 16 green AI projects in Asia-Pacific",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/",
+      "summary": "We’re supporting 16 organizations across Asia-Pacific using frontier AI to tackle challenges in climate, agriculture, and biodiversity.",
+      "publishedAt": "2026-09-07T01:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-5a0633a722dfaa5491ca",
       "title": "Amazon 21 Air updates",
@@ -218,10 +230,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0805b852647b5c59df31",
-      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
-      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "id": "google-blog-0347ba7fd470f2fab3e4",
+      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -230,10 +242,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0347ba7fd470f2fab3e4",
-      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
-      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
+      "id": "google-blog-0805b852647b5c59df31",
+      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -402,18 +414,6 @@
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "publishedAt": "2026-09-01T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-75804842c44008583506",
-      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
-      "summary": "A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
       "publishedAt": "2026-09-01T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -1118,6 +1118,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-f10ef3be8746b086f835",
       "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
@@ -1514,6 +1526,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-c45c5739261a04a03c48",
       "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-platinum-card-rollout",
@@ -1655,6 +1679,18 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1898,18 +1934,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -1955,18 +1979,6 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2054,6 +2066,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
+      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "link": "https://pr.tsmc.com/english/news/3314",
+      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
+      "publishedAt": "2026-05-15T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
       "title": "Chime to Participate in William Blair Growth Stock Conference",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-william-blair-growth-stock-conference",
@@ -2118,6 +2142,18 @@
       "title": "2026/05/08 Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
       "link": "https://pr.tsmc.com/english/news/3308",
       "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership",
+      "publishedAt": "2026-05-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-7b041f3b81909f5a8181",
+      "title": "2026/05/08 TSMC April 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3305",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-05-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -2306,18 +2342,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-651af70af5975fee826d",
-      "title": "SoFi Launches Big Business Banking to Power Fiat and Crypto Banking on a Single Regulated Platform",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUVM4ckRNNWhCZFE0VlozTklyaU1JV0FkUWhRRzU3SEgyRTFRcUdzbS1DcWlHc2I5cVZQcXhsQVM5ZEptSlF4QkpZaDZyZzcyOWdhYnppVXpUalhMU0xxbnVyTXk1M1A4OThjN09NNEUyb0o4NXBOZjRnUUJ4ajVjeWJOUEVJaVZTLUo0ZUdRUGQ1WkZVU1ZNVmNza05PNk8xdXF2QmdmeU1XUlFjcUg4U1hVUUJueTM1elFkTzd3VUFrVldENTVhZE1qR3NDWXpXN1RRQlRMRnVCaGI5MkNNVzFYYU82RzZtTkZQYXR4V2dhdzg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-02T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
       "title": "AI, local payments, and Nigeria’s new compliance playbook",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/ai-local-payments-and-nigerias-new-compliance-playbook/",
@@ -2398,18 +2422,6 @@
       "sourceId": "circle-pressroom",
       "sourceName": "Circle Pressroom",
       "company": "Circle",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-fc97a60f7a3bbc7229bf",
-      "title": "Issuing/processing Financial Services The hidden economics of vendor selection in payments: Beyond per-transaction pricing Article",
-      "link": "https://www.marqeta.com/blog/the-hidden-economics-of-vendor-selection-in-payments",
-      "summary": "Why the cheapest payment vendor is often the most expensive. New research reveals hidden integration costs, scaling surprises, and true TCO beyond fees.",
-      "publishedAt": "2026-03-11T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2627,18 +2639,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
