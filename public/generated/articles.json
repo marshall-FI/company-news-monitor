@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-09-08T11:21:00.614832+00:00",
+  "generatedAt": "2026-09-08T15:13:47.850389+00:00",
   "articles": [
+    {
+      "id": "google-blog-fa6db35c0b9bc29c9fb8",
+      "title": "Missouri and Google partner on AI and career training",
+      "link": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
+      "summary": "Google is partnering with Missouri to provide 1.1 million students free access to Gemini for Education and career certificates. See how to get started.",
+      "publishedAt": "2026-09-08T15:05:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-9311d1ae660af48d591f",
+      "title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
+      "summary": "We’re partnering with Nevoya and the Center for Green Market Activation (GMA) to deploy 25 electric semi trucks.",
+      "publishedAt": "2026-09-08T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-2ce01404d80fba7f895d",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "summary": "We’re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome.",
+      "publishedAt": "2026-09-08T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-5e12b9068ccd13afc97d",
+      "title": "Helping small businesses win with AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/",
+      "summary": "We took to Route 66 to help Main Street entrepreneurs build confidence with AI. Explore free tools at Grow.Google/SMB.",
+      "publishedAt": "2026-09-08T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "tsmc-news-4a5d4341e3e395195c28",
       "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
@@ -24,6 +72,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "robinhood-blog-8ebc7ce55cc2a937891a",
+      "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
+      "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
+      "summary": "Robinhood is teaming up with Crypto.com to begin routing a selection of event contracts to its CFTC-regulated exchange and clearinghouse in time for the start of the Pro Football season.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-ba1e5d53f269b7268b65",
@@ -278,10 +338,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0347ba7fd470f2fab3e4",
-      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
-      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
+      "id": "google-blog-0805b852647b5c59df31",
+      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -290,10 +350,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-0805b852647b5c59df31",
-      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
-      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "id": "google-blog-0347ba7fd470f2fab3e4",
+      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+      "summary": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
       "publishedAt": "2026-09-02T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -374,18 +434,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-51ee4d1d74487ea379ff",
-      "title": "Our new partnership brings long-duration energy storage to West Virginia.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/",
-      "summary": "Google is collaborating with MN8 Energy and Eos Energy Enterprises on a new clean energy project on the PJM grid.",
-      "publishedAt": "2026-09-02T12:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-777aa4cb796e7100cc30",
       "title": "Amazon India creates over 160,000 seasonal work opportunities nationwide as festive season approaches",
       "link": "https://press.aboutamazon.com/in/2026/9/amazon-india-creates-over-160-000-seasonal-work-opportunities-nationwide-as-festive-season-approaches",
@@ -418,42 +466,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-c97fc058379572822e7b",
-      "title": "The latest AI news we announced in August 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "publishedAt": "2026-09-01T20:45:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-fc559f8bec5ee56949ab",
-      "title": "September Android Drop: Remember where you put things, ease motion sickness, and more",
-      "link": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
-      "summary": "Keep track of important items, reduce motion sickness during your ride, create and edit notes right from your chat, and more.",
-      "publishedAt": "2026-09-01T18:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-5a222bc71ad39c8bf61d",
-      "title": "Introducing agentic video understanding with Gemini",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-      "summary": "We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
-      "publishedAt": "2026-09-01T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -1166,10 +1178,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "robinhood-blog-f0f534e7989f6eb3e839",
-      "title": "Robinhood Launches Crypto Trading for UK Investors",
-      "link": "https://robinhood.com/us/en/newsroom/introducingukcryptotrading",
-      "summary": "Robinhood Blog published an update for Robinhood relevant to fintech news. Open the original item for full details.",
+      "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
+      "title": "Robinhood Presents: HOOD Summit ‘26 - Engines of Creation",
+      "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation",
+      "summary": "On Sept 29 and 30, we're heading to Houston for our third annual HOOD Summit, which is shaping up to be our biggest event yet. HOOD Summit: Engines of Creation will be livestreamed over two days, during which we'll announce the latest products",
       "publishedAt": "2026-08-10T07:00:00+00:00",
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
@@ -1178,10 +1190,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
-      "title": "Robinhood Presents: HOOD Summit ‘26 - Engines of Creation",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation",
-      "summary": "On Sept 29 and 30, we're heading to Houston for our third annual HOOD Summit, which is shaping up to be our biggest event yet. HOOD Summit: Engines of Creation will be livestreamed over two days, during which we'll announce the latest products",
+      "id": "robinhood-blog-f0f534e7989f6eb3e839",
+      "title": "Robinhood Launches Crypto Trading for UK Investors",
+      "link": "https://robinhood.com/us/en/newsroom/introducingukcryptotrading",
+      "summary": "Robinhood Blog published an update for Robinhood relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-08-10T07:00:00+00:00",
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
@@ -1802,18 +1814,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "robinhood-blog-422052f0adb9172aac1d",
-      "title": "Robinhood Accelerates Global Expansion with Robinhood Chain Mainnet, Stock Tokens, Agentic Trading and New Suite of DeFi Products",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading",
-      "summary": "From London, Robinhood unveils new plans to expand global ownership through an extensive suite of decentralized finance and agentic products.",
-      "publishedAt": "2026-07-01T18:45:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-089b1ac59aba827976ee",
       "title": "Affirm now available across Bed Bath & Beyond's brands, giving shoppers more flexibility for the purchases that make a house feel like home",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-now-available-across-bed-bath-beyonds-brands-giving",
@@ -1946,6 +1946,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -1991,6 +2003,18 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2124,6 +2148,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-bf3f9f54fcbcc79683b7",
+      "title": "2026/05/12 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3311",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-12T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-822e6ef542c72a2fe9e3",
@@ -2342,18 +2378,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-651af70af5975fee826d",
-      "title": "SoFi Launches Big Business Banking to Power Fiat and Crypto Banking on a Single Regulated Platform",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUVM4ckRNNWhCZFE0VlozTklyaU1JV0FkUWhRRzU3SEgyRTFRcUdzbS1DcWlHc2I5cVZQcXhsQVM5ZEptSlF4QkpZaDZyZzcyOWdhYnppVXpUalhMU0xxbnVyTXk1M1A4OThjN09NNEUyb0o4NXBOZjRnUUJ4ajVjeWJOUEVJaVZTLUo0ZUdRUGQ1WkZVU1ZNVmNza05PNk8xdXF2QmdmeU1XUlFjcUg4U1hVUUJueTM1elFkTzd3VUFrVldENTVhZE1qR3NDWXpXN1RRQlRMRnVCaGI5MkNNVzFYYU82RzZtTkZQYXR4V2dhdzg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-02T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
       "title": "AI, local payments, and Nigeria’s new compliance playbook",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/ai-local-payments-and-nigerias-new-compliance-playbook/",
@@ -2484,6 +2508,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-8654935da5de6a888ba0",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q4 & FY 2025 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZOWmlBRmhOcEV5NFpFaFdvTXdpdF9sbHFtMmptY2REaGI1Q0hFYW9tc2pFMmJ3dDNzcTc1WkxoZ0hHZXh6ZGo2UndaVGtKRkVvVTFyd3BndXV4U0xYWXoxWDYxRmRJU2p6SFAyRUlnNFpFbUQ1RjFMeXdjUFNjTDJMV2drSlk1cXFGS1BRUzliYXFZTEJIM2djSk1NbjRiY0xSY29iX1l0NU9VdXlyRGF4VGhBNjNkY1dmRThlUGVseGc?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-30T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
@@ -2627,18 +2663,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2854,30 +2878,6 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-46fedca57c3b38b6e1eb",
-      "title": "Block, Inc. Announces $1.5 Billion Offering of Senior Notes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmhnaHJpQnpHRVdYZnhXWV9uUlBDdldLY1o0Nmk0RlgtcVViTlYwNjBkNXJFZzVJOXJRNmJzSTYtOS1UQXNPRUVlN25ZVkF2b0hlVG5qT2k2YnBJOVFHZW54SVFwb1ZuYktrOEdhekZXRmVEaEdQdWVUZ0JCMEJ0dUsxXzcwMVY1SlV1WFVhY29Cb0p5RGRjNzllMG1lODRTenlXNm9rRGxCN3FFazVxY0ttbVRjV0Z2V0E?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-13T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
