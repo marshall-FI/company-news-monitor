@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:53:44.420720+00:00",
+  "generatedAt": "2026-09-08T01:15:51.421867+00:00",
   "articles": [
     {
       "id": "google-blog-ba1e5d53f269b7268b65",
@@ -566,18 +566,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-f105af675a09b65bd0f2",
-      "title": "Klarna CEO Sebastian Siemiatkowski acquires 692,506 shares for $10 million",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXppTFYtY1I2RHY2eW5NX0xyeWJHdzJSVVlrdHNDaXY2ZUdfZG1lUGhzM3dVQ0ZFUk9odkpwU0ZWd2ViQUJOTTJtd1BnSF9sNGtaRVpwVXBVRERLREgxX2tHNWxQNVNrbVFDMXFuSlVBRU8xOHluR2dqcmpxUndrcmtwLTRvUHY1aHpZMXgzXzdTSmt4WWJVYUFfYURQNWliNXlpSEVIWmFacDJoMEhVWWpnTDdmblM2?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-28T15:40:32+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "about-amazon-2103440247c40c1d2b5d",
       "title": "Amazon's Second Chance Deal Days returns to Europe, with deals also available in the US, Mexico, and Brazil",
       "link": "https://www.aboutamazon.com/news/retail/second-chance-deal-days?utm_source=rss",
@@ -600,6 +588,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "klarna-press-f105af675a09b65bd0f2",
+      "title": "Klarna CEO Sebastian Siemiatkowski acquires 692,506 shares for $10 million",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXppTFYtY1I2RHY2eW5NX0xyeWJHdzJSVVlrdHNDaXY2ZUdfZG1lUGhzM3dVQ0ZFUk9odkpwU0ZWd2ViQUJOTTJtd1BnSF9sNGtaRVpwVXBVRERLREgxX2tHNWxQNVNrbVFDMXFuSlVBRU8xOHluR2dqcmpxUndrcmtwLTRvUHY1aHpZMXgzXzdTSmt4WWJVYUFfYURQNWliNXlpSEVIWmFacDJoMEhVWWpnTDdmblM2?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-28T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-c0b67fc281a69f5065fa",
@@ -1646,18 +1646,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-2e80730fc65202f389b2",
       "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
@@ -1955,6 +1943,18 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2450,6 +2450,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-7e092cfe4241063ee67f",
+      "title": "7 Leaves Cafe Plans Expansion, Chooses Square as its Commerce Technology Partner",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaHVpV0trVGdkV1dYTkY5amJPVklERkJqZTdUcHh3VFAwbTY5dWVkVjZHV1J1RDBCM3pfSmxueGJ2SC16VGh6UVNPbUZfU3p4Zm8xX2padGRuT0xrUVc3NE9wSnFPVHlleEY1ZGtHaWg2ZjAySVpZQ2lJbUdabmJJaVZUYzNaMklUNF9tWkRVdUI2QVdXV180ZkdMdmJHNVk0NXE3TlFDMU9FQ3pxVFNpSkV6Ujlld1QyaHFHaThPTTV3UFBKOC1KUmZ3R3FzR1VJNDB1NEpuckFSQUlYbzB0aktZR3lacHc?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-29T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
       "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
       "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
@@ -2866,18 +2878,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
