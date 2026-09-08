@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:43:27.119091+00:00",
+  "generatedAt": "2026-09-08T21:54:48.158246+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -20,6 +20,26 @@
       "summary": "Wise Group filed a current report (6-K) on 2026-09-08 for report date 2026-09-08. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008157/0001654954-26-008157-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008157/a7577t.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "CHYM-0001193125-26-385383",
+      "company": "Chime",
+      "displayName": "Chime Financial",
+      "ticker": "CHYM",
+      "cik": "0001795586",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001193125-26-385383",
+      "filingDate": "2026-09-08",
+      "reportDate": "2026-09-08",
+      "acceptanceDateTime": "2026-09-08",
+      "primaryDocument": "d948605d8k.htm",
+      "title": "Chime 8-K for 2026-09-08",
+      "summary": "Chime Financial filed a current report (8-K) on 2026-09-08 for report date 2026-09-08. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1795586/000119312526385383/0001193125-26-385383-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1795586/000119312526385383/d948605d8k.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -5580,26 +5600,6 @@
       "summary": "Chime Financial filed a current report (8-K) on 2025-12-10 for report date 2025-12-08. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1795586/000179558625000023/0001795586-25-000023-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1795586/000179558625000023/chme-20251208.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "SOFI-0001818874-25-000232",
-      "company": "SoFi",
-      "displayName": "SoFi Technologies",
-      "ticker": "SOFI",
-      "cik": "0001818874",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001818874-25-000232",
-      "filingDate": "2025-12-08",
-      "reportDate": "2025-12-04",
-      "acceptanceDateTime": "2025-12-08",
-      "primaryDocument": "sofi-20251204.htm",
-      "title": "SoFi 8-K for 2025-12-04",
-      "summary": "SoFi Technologies filed a current report (8-K) on 2025-12-08 for report date 2025-12-04. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000232/0001818874-25-000232-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000232/sofi-20251204.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }
