@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:17:55.228272+00:00",
+  "generatedAt": "2026-09-09T04:46:47.214744+00:00",
   "articles": [
     {
       "id": "block-investor-news-493e33e2519a3f399c08",
@@ -62,6 +62,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-90dbb252fa44a8c125a8",
+      "title": "Consumer Protection Tuesday: How to Talk to Your Kids About Staying Safe Online",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbi1sR2JVZWFHcW4xSjhCa2lENHI2MFpUSXBKM2pKTTRUM1lxMFFwR2I1dkszaHNjOGRjM2FaQXVFZmRBNUp4RHB3X3JMTFRMUmJ5eDN6VERJTlc0M1BqQUdRVkE2WmVMRzRVQlBaWUZ1bVJya3NDbng3cWhyN1VtVnRzM09lWlpadnhrb3puWEtPdjF0OVJCSllTaXpucW5XNy1HVk9BdllMUkps?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T15:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "google-blog-9311d1ae660af48d591f",
       "title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
       "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
@@ -72,6 +84,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-b1b3914bd7ad7b248c1c",
+      "title": "Klarna expands partnership with online retail marketplace StockX to bring flexible payment options to U.S. and Canada",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWDZsQ2NaTklhN1Y3NU83c1VfTk9DRlMwTnJtNy16ZTRDUXBaaG9QdHllTmdibE5ZU0N6Y1ZQU2ZlUFpKTV9mYkVrY2F2NFNqZnBfWGJRUzZlajBOSzN3cFE0UGZMa3VOTHh0cUlCa05rTHE5YlpUcDJqNXE5cWx6UjEzQW9QTWhkVUhyZFpid3Bja2Q1X2t0akRySktnZURWajhkY3dqWDU0Z3VZX1FjX1hFYWlQWTMxYUV3TVFqbGF2aXZLZXpwUDJqYzFxQWNlYzNpWDNVOUpsWGlZalVPSzdkVEk0V3AyVmhOZy11c2hkdw?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T14:30:25+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-2ce01404d80fba7f895d",
@@ -372,18 +396,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-5a15beb1d0677b4871ce",
-      "title": "Parsons Bakery Turns to Square to Run Its Business on One Platform",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlFwbWlmRVRqaS1sYjJGb1FtNllqdjExTmpJSDJIb052SVBWWDROSWhnQXc3cjNxTTdKdU1tazRJN1dXcWotM2Nwa1poblk4VVFvd0taQzYwWmo2NlZWa01YOHlndGxYWTVVa25Rd2h4bE1UWjd5eHRJc0w2dDM1TS02T1FxbGhTdGNZa1lYQzluRGI2Sm4xd1pmaVNuQnF6YUZTUmd0QjNaWk1UYWZCUmdsMWx5bEJWUkZQc3Jud2Nyejd6V1dFZC1FWUJKazZadmVTNVd3?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-03T07:43:14+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-b263b9cf94a657b2bca6",
@@ -791,6 +803,18 @@
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
       "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-f573b2c305df9e50a2e2",
+      "title": "Embedded finance B2B Platforms Your platform has a revenue leak you haven't noticed yet Article",
+      "link": "https://www.marqeta.com/blog/your-platform-has-a-revenue-leak-you-havent-noticed-yet",
+      "summary": "B2B SaaS platforms can diversify revenue with payments by embedding card issuing and capturing interchange fees on transactions already flowing through",
+      "publishedAt": "2026-08-26T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1716,18 +1740,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-2e80730fc65202f389b2",
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0FlYjFHdGl3d3BCVjRTb0cwSDFwNEl2N0hxNm5YMldQbF9CcFloUG9JZ1ppN2ppeVBQZ1M1RkwwWV9UN2ZGNl9FOTlxQUZUQ2NtdERrei1pSl94UzBYOWFzdzZJcElodkJYU2hDMTlOazNUWWJsbFNMVTJoc2VfN1NEN0FYNkJkNWdpWEU4SWtLb1pHNjNtMlQ3S012R3A4TEE?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-5be6ad160600f107b941",
@@ -2866,18 +2878,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
