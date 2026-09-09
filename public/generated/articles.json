@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-09-09T09:48:15.746840+00:00",
+  "generatedAt": "2026-09-09T14:39:03.116814+00:00",
   "articles": [
+    {
+      "id": "about-amazon-a098e3125d783fa2cc71",
+      "title": "Ring launches NFL Game Day Cam Cover for all 32 teams",
+      "link": "https://www.aboutamazon.com/news/devices/ring-nfl-game-day-cam-cover?utm_source=rss",
+      "summary": "Ring's officially licensed NFL camera cover lets fans showcase team pride on their compatible indoor Ring cameras, just in time for the 2026-2027 NFL season.",
+      "publishedAt": "2026-09-09T13:45:25+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-24e6814cea1f4ff0a724",
+      "title": "No results found for \"Coinbase Customer service Number 1 (810) 345-6174\"",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDRibDFvbXg4ajl2bGVOX1R0dE1UQVdnUVV3eTdUamp1b2k1WFRyVGdUT29uWFZwMEI2Ujl2Z01MeFM2Z1p4c3E3Mm5RbUJjZkZSVVdiZ3gweG1IZVAtQzF5d1ZnSTg0QTNFc3dvYUxVQ1lwYWEwWURENmRXeGNjUUdIVGNLMGZfOWxPaDRkZlBqc1pFWVFzM05lT1FCbVhCSXZTc2VB?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-09T13:39:06+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "about-amazon-6089dc9f26f2856801b6",
+      "title": "Amazon’s 2026 Top 100+ Toys list: Something for every kid at heart",
+      "link": "https://www.aboutamazon.com/news/retail/best-gifts-kids-amazon-toys-we-love-list-2026?utm_source=rss",
+      "summary": "From budget-friendly finds and Amazon exclusives to trending collectibles, sensory toys, and screen-free favorites, the annual list for 2026 spotlights 100+ expert-curated toys to make holiday gifting easier.",
+      "publishedAt": "2026-09-09T13:00:04+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-e9ee6ea68a3ce82f7801",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "publishedAt": "2026-09-09T13:00:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-065ceacd740522a02830",
+      "title": "Prime Video introduces new lip-sync technology on ‘Maxton Hall’",
+      "link": "https://www.aboutamazon.com/news/entertainment/prime-video-lip-sync-technology?utm_source=rss",
+      "summary": "Visual dubbing using AI and VFX technologies enhances the viewing experience for global customers.",
+      "publishedAt": "2026-09-09T12:55:35+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-122968da4f7a08c6ea9e",
+      "title": "Amazon Pharmacy Expands Spanish-Language Experience for Millions of Americans",
+      "link": "https://press.aboutamazon.com/2026/9/amazon-pharmacy-expands-spanish-language-experience-for-millions-of-americans",
+      "summary": "Full end-to-end Spanish-language pharmacy experience including 24/7 access to a pharmacist, a caregiver support feature for families, and same-day prescription delivery",
+      "publishedAt": "2026-09-09T12:01:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-224e7601797ff9c6f203",
+      "title": "Coinbase and Morpho bring USDC earning to Brazil",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUHRxLUdkbjJrM0xnOVUzLUtVeFJJZ0tXTEIyaUlnN3RpeWFXaWNaYWZ4bDUzUXhjUmVNeUN6SWM2aUF2SU1jd2tLYWdpWUlWVGNVYXYtdVMxLU40dktsa2FlZFZoQUxoWnc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-09T12:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "amazon-press-archive-7ee1898cad9945ae94f1",
       "title": "Rakhis, gifts and more - Your one-stop destination for Raksha Bandhan on Amazon.in",
@@ -283,18 +367,6 @@
       "link": "https://www.aboutamazon.com/news/workplace/amazon-career-choice-training-programs-tuition-careers?utm_source=rss",
       "summary": "Eligible employees, including corporate employees, will be able to use Amazon’s tuition assistance and career development benefit to earn credentials and move into new, in-demand industries.",
       "publishedAt": "2026-09-04T15:27:02+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-e9ee6ea68a3ce82f7801",
-      "title": "Amazon's water conservation and replenishment efforts around the world",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
-      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
-      "publishedAt": "2026-09-04T08:25:00+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -602,18 +674,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-b47676cbdeb2ff770837",
-      "title": "How Amazon is preparing for the energy needs of the future",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-updates?utm_source=rss",
-      "summary": "Learn how we're supporting the transition to carbon-free energy and powering our business with sustainability in mind.",
-      "publishedAt": "2026-09-01T11:35:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "chime-newsroom-95fccf222f4743b5a382",
       "title": "Chime Expands Trump Account Benefit for Employees’ Children and Helps More American Families Start Building Wealth",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-expands-trump-account-benefit-employees-children-and-helps",
@@ -623,18 +683,6 @@
       "sourceName": "Chime Newsroom",
       "company": "Chime",
       "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-0d3f76e6093b76632218",
-      "title": "Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads",
-      "link": "https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit-response?utm_source=rss",
-      "summary": "The FTC today filed a misguided lawsuit claiming Amazon misled advertisers about its Sponsored Ads pricing and auction. Amazon strongly disagrees.",
-      "publishedAt": "2026-08-31T19:36:13+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
     {
@@ -648,18 +696,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-01bae95b6a1f23418784",
-      "title": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026",
-      "link": "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia?utm_source=rss",
-      "summary": "AWS and HUMAIN deepen partnership with a commitment to deliver up to 50MW of capacity in Saudi’s first AI Zone by 2028.",
-      "publishedAt": "2026-08-31T14:08:31+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "coinbase-blog-c820a4bf7c189f2acea9",
@@ -902,18 +938,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "block-investor-news-a93a91405781df70d857",
-      "title": "Block’s Neighborhoods Adds 30,000 More Sellers as Square and Cash App Help Build Local Commerce Network",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWFBSN19tOHVwME1nM19xTWkxSGJSSmYwTElVOEZfbDdQa2pvZnV6UjA4X2RWbkw0MjFNdUMtLWpILWxmMHV0MU55LWJBNWJwemFjS2VFenh3SHBwaWZoNlBLVkxIWTVkYzdUWTVhOW1sTG9ncE9NNEs0clQ4RklQc0V1Szl4V25iR0NkellRM0UtcjhnZEljRndQblFwLTZITTA3UGkzMTZlSVkwZWxVMDRXNXVLQjRpakxmOVlOa2NIRVM2NWtfV2ZLbEZWVF9zX3Z6WEVXTmlSX2tXaHpfaV85U3ptQ09EOVZBY1ZKUGNHdXMwRUViMDdMMDFyc196UE9Fcg?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "nvidia-newsroom-f21b782b05987822e4db",
       "title": "How XPUs Meet a World-Class AI Factory",
       "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
@@ -1074,7 +1098,7 @@
       "title": "Klarna Reports Second Quarter 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQW1oN2h0Szdscm8wVXN3djduNVpoU3pvR0UtUDRNaTBnZVVMcVhxel9EZGhhTlNaT05adkhWRmU5Xzh1ci1LUkZELTFnMlo5X2c4TXhuRi1RLWpuTlNqaUIwNTkyRXlIcmJwSEpSSGxjV3VSbHdYeWlmSXd4UERpNkRIMW5rVGU0cDNpaGlDZw?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-18T12:13:36+00:00",
+      "publishedAt": "2026-08-18T07:00:00+00:00",
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
@@ -1178,18 +1202,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-be5857c06a592fc6752a",
-      "title": "Still waiting? Your last chance to grab Great Freedom Sale deals is here!",
-      "link": "https://press.aboutamazon.com/in/2026/8/still-waiting-your-last-chance-to-grab-great-freedom-sale-deals-is-here",
-      "summary": "Up to 80% off across categories such as smartphones, home, kitchen, everyday essentials, fashion, beauty and more from top brands such as Samsung, OnePlus, JBL, Sony, Wipro, Sketchers, Philips amongst othersCustomers can benefit from instant savings of up to 10% on HDFC bank credit card and EMI…",
-      "publishedAt": "2026-08-11T17:56:54.759000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "paypal-newsroom-cccfa8c5c952c9483c9d",
       "title": "PayPal World Enables US Travelers to Pay Like a Local at Weixin Pay Merchants Across China",
       "link": "https://newsroom.paypal-corp.com/2026-08-11-PayPal-World-Enables-US-Travelers-to-Pay-Like-a-Local-at-Weixin-Pay-Merchants-Across-China",
@@ -1206,18 +1218,6 @@
       "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
       "link": "https://pr.tsmc.com/english/news/3333",
       "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-08-11T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -1682,18 +1682,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -1751,18 +1739,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1991,18 +1967,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2844,42 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-46fedca57c3b38b6e1eb",
+      "title": "Block, Inc. Announces $1.5 Billion Offering of Senior Notes",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmhnaHJpQnpHRVdYZnhXWV9uUlBDdldLY1o0Nmk0RlgtcVViTlYwNjBkNXJFZzVJOXJRNmJzSTYtOS1UQXNPRUVlN25ZVkF2b0hlVG5qT2k2YnBJOVFHZW54SVFwb1ZuYktrOEdhekZXRmVEaEdQdWVUZ0JCMEJ0dUsxXzcwMVY1SlV1WFVhY29Cb0p5RGRjNzllMG1lODRTenlXNm9rRGxCN3FFazVxY0ttbVRjV0Z2V0E?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
