@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-10T18:30:39.968501+00:00",
+  "generatedAt": "2026-09-10T21:41:07.503060+00:00",
   "articles": [
+    {
+      "id": "about-amazon-29d03e2bf24efaa033e8",
+      "title": "Amazon Leo adds 6 new Arianespace launches, expanding its launch partnership",
+      "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-arianespace-new-launches?utm_source=rss",
+      "summary": "The agreement extends the largest commercial contract in Arianespace history and supports investment and innovation across Europe.",
+      "publishedAt": "2026-09-10T19:26:06+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-cc643436dbfcc7513db8",
       "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
@@ -240,6 +252,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-2d891049b5967b53729a",
+      "title": "Klarna is now available in HubSpot's new Checkout experience for merchants in the U.S. and Canada",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa2hreENtLW1MalpOZHh5czh2OEN3TEJKYmhoc0FLdHpIdFRvLVRQUzV0bkdOYkZkSFFKeEI5aTllcEZ4cnBucVBZdXliTDM4bXMzSFQ5Z3E1bkdBZzlRQmdIaFJNcnRsbklzRXloVjVuY1U0ak1KY0R2NXVHRUlPRUd2aVZsZDRNREwxSlpraGs1SHhWcTk3ZEdMMTFvazl6dlQwZG5HYnQ5eTVxY2duUzlaMnhuOS1TR3lZekFPQnFwWHRZR014NGY3N2pKXzFoNVJOb1ln?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-09T20:59:04+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "about-amazon-488bdafe27123e49350f",
@@ -576,18 +600,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-4e0c14206b237a33c831",
-      "title": "Millions of students can now get access to a free year of Kiro from AWS",
-      "link": "https://www.aboutamazon.com/news/aws/amazon-expands-free-kiro-access-students-universities?utm_source=rss",
-      "summary": "AWS is giving students at 132 universities across 18 countries a full year of free access to Kiro, so they enter the workforce ready to build with AI from day one.",
-      "publishedAt": "2026-09-08T15:55:21+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "google-blog-fa6db35c0b9bc29c9fb8",
@@ -1170,7 +1182,7 @@
       "title": "Klarna Reports Second Quarter 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQW1oN2h0Szdscm8wVXN3djduNVpoU3pvR0UtUDRNaTBnZVVMcVhxel9EZGhhTlNaT05adkhWRmU5Xzh1ci1LUkZELTFnMlo5X2c4TXhuRi1RLWpuTlNqaUIwNTkyRXlIcmJwSEpSSGxjV3VSbHdYeWlmSXd4UERpNkRIMW5rVGU0cDNpaGlDZw?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-18T12:13:36+00:00",
+      "publishedAt": "2026-08-18T07:00:00+00:00",
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
@@ -2863,18 +2875,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
       "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-466599b9abbc40fccaf0",
-      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-08T07:00:00+00:00",
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
