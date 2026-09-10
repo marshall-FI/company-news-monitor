@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-09-10T09:47:05.588081+00:00",
+  "generatedAt": "2026-09-10T14:30:05.388937+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-82bf10337daed53c8a1d",
+      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+      "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+      "summary": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack arc",
+      "publishedAt": "2026-09-10T13:00:21+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-0bda131789ef5bde8345",
+      "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
+      "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage […]",
+      "publishedAt": "2026-09-10T13:00:18+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-50f92fe38778814ca4ff",
+      "title": "Drive profitable growth with new data and measurement tools",
+      "link": "https://blog.google/products/ads-commerce/data-strength-updates/",
+      "summary": "New capabilities across our measurement suite can help you make better, faster decisions that drive business growth.",
+      "publishedAt": "2026-09-10T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-058da771460461d4bdd6",
+      "title": "Exploring Creative Intelligence with London’s Southbank Centre",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
+      "summary": "A new weekend explores how artists, digital innovation and AI are reshaping the world we live in.",
+      "publishedAt": "2026-09-10T11:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-c705d902c5bf7a4a6c86",
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
@@ -35,6 +83,18 @@
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-be2681e0afc0ccce66be",
+      "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -554,18 +614,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-a5536cd7efe5226bd1ec",
-      "title": "Start the year AI-ready with the Google AI Educator Series",
-      "link": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
-      "summary": "An overview of upcoming training sessions from the Google AI Educator Series (GES), and how teachers are putting these tools to work.",
-      "publishedAt": "2026-09-03T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-60188377bc15b4a309f2",
       "title": "Hoxton Wealth Collaborates with AWS to Bring Agentic AI to Wealth Management",
       "link": "https://press.aboutamazon.com/aws/2026/9/hoxton-wealth-collaborates-with-aws-to-bring-agentic-ai-to-wealth-management",
@@ -586,18 +634,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-6054f10fecad81abf693",
-      "title": "Use your voice to get more done in Gmail, Docs, and Keep",
-      "link": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
-      "summary": "Three new voice-activated features will change the way you use Google Workspace products.",
-      "publishedAt": "2026-09-03T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -698,18 +734,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-777aa4cb796e7100cc30",
-      "title": "Amazon India creates over 160,000 seasonal work opportunities nationwide as festive season approaches",
-      "link": "https://press.aboutamazon.com/in/2026/9/amazon-india-creates-over-160-000-seasonal-work-opportunities-nationwide-as-festive-season-approaches",
-      "summary": "· Tens of thousands work opportunities created within the growing Amazon Now network to support fast and reliable deliveries in minutes· Thousands of women and associates with disabilities onboarded as part of Amazon’s expanded workforce for the festive season· Creates work opportunities across…",
-      "publishedAt": "2026-09-02T10:07:56.149000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-5904ad19cf808f11c82f",
       "title": "Welcoming Anthony Armstrong to Coinbase's Board of Directors",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDJETVl0UGhHbE9jNkoxR2R5UGlFc1gxMDVjN2RYYURiWmxwckRaRXpsX3VpSDljaUpxWjBCNVQtWEs2cDU3MWxiWXVIS09UX3R0WFB5eVVWdE1YdjNiTjBqbFphNjFDQktDdjBwNU1lOW84cVJxbFZ0R1dyclNFNzJLRjUzZnpTRzF5dlN1Qng5elE?oc=5",
@@ -770,18 +794,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-c820a4bf7c189f2acea9",
-      "title": "Coinbase and Webull Expand Partnership, Bringing Trading and Custody to Canada",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2dOVnFUeFVaNy1qZmNhMWRWM0x2c1lBMUxHc3QteHVnUHFVNFdrdkVMUnNjS25hYTF1LUtyRXhrY1NQa1FkSFhsQ1FyYzIxU0M2MEYxNzFFLXFyREg3Q09RejZydzk5bkhwOGREUFNudEtnSjAtbXZaeEo1OF9CcVFZaVNNQVk0QzhaOWdEeUo0T0hNdG1pdjlselFYZDlsbnJiV05Sb0dETTQ?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-31T13:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "nvidia-newsroom-dccec670d05c413c1581",
       "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
       "link": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
@@ -794,16 +806,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-cd08f44e7fb551cd9e7c",
-      "title": "Arlington Community High School Opens Its Doors at Amazon’s HQ2",
-      "link": "https://press.aboutamazon.com/community/2026/8/arlington-community-high-school-opens-its-doors-at-amazons-hq2",
-      "summary": "National Landing welcomes a new chapter in community and education",
-      "publishedAt": "2026-08-28T18:48:01.431000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "id": "coinbase-blog-c820a4bf7c189f2acea9",
+      "title": "Coinbase and Webull Expand Partnership, Bringing Trading and Custody to Canada",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2dOVnFUeFVaNy1qZmNhMWRWM0x2c1lBMUxHc3QteHVnUHFVNFdrdkVMUnNjS25hYTF1LUtyRXhrY1NQa1FkSFhsQ1FyYzIxU0M2MEYxNzFFLXFyREg3Q09RejZydzk5bkhwOGREUFNudEtnSjAtbXZaeEo1OF9CcVFZaVNNQVk0QzhaOWdEeUo0T0hNdG1pdjlselFYZDlsbnJiV05Sb0dETTQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-31T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-86a7fd3e393f4e55dea4",
@@ -1022,30 +1034,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "nvidia-newsroom-b4d239e1cc10ea77cd0b",
-      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-      "link": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system N",
-      "publishedAt": "2026-08-24T15:00:41+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-79a064693391118946d6",
-      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-      "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-      "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valu",
-      "publishedAt": "2026-08-24T15:00:19+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "marqeta-blog-d992f2d9c8d768337eca",
       "title": "Credit Commercial The cost of keeping business credit simple Article",
       "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
@@ -1134,7 +1122,7 @@
       "title": "Klarna Reports Second Quarter 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQW1oN2h0Szdscm8wVXN3djduNVpoU3pvR0UtUDRNaTBnZVVMcVhxel9EZGhhTlNaT05adkhWRmU5Xzh1ci1LUkZELTFnMlo5X2c4TXhuRi1RLWpuTlNqaUIwNTkyRXlIcmJwSEpSSGxjV3VSbHdYeWlmSXd4UERpNkRIMW5rVGU0cDNpaGlDZw?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-18T07:00:00+00:00",
+      "publishedAt": "2026-08-18T12:13:36+00:00",
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
@@ -1236,30 +1224,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-f10ef3be8746b086f835",
-      "title": "Coinbase establishes its tokenization hub in Abu Dhabi, with Financial Services Permission from the Financial Services Regulatory Authority (FSRA)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTM4VFc3ZDBMeF9tS0JWVXFGLXJHTnNhUzN2Y2EtZlNKN19waExXY2FYd3JjN2Zhb1JMOHJCa0dubDJ6MDFlT05UMXV1bUdJeUo3MHQyT0ZCZUdzS1A5QTljTHJWbVlzTzZ3T1h4UXItM1JJNkF4cEtZTkNtc2FIMldxdFJIdi1Fajdiag?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-b2720e8e8e1e2b162feb",
-      "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1608,6 +1572,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-c45c5739261a04a03c48",
@@ -2875,6 +2851,30 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-06-25T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-2226f61adf7d292adf5a",
+      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-21T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
