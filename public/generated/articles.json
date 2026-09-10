@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-09-10T14:30:05.388937+00:00",
+  "generatedAt": "2026-09-10T18:30:39.968501+00:00",
   "articles": [
+    {
+      "id": "google-blog-cc643436dbfcc7513db8",
+      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
+      "summary": "In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S…",
+      "publishedAt": "2026-09-10T18:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-16ba5fdc01c09a877c0c",
+      "title": "The Prime Video Shop the Show Experience Introduces New Features and Expands Across Thousands of Titles",
+      "link": "https://press.aboutamazon.com/prime-video/2026/9/the-prime-video-shop-the-show-experience-introduces-new-features-and-expands-across-thousands-of-titles",
+      "summary": "Discovering products inspired by what you’re watching is now easier than ever",
+      "publishedAt": "2026-09-10T17:09:20.688000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-10b85cab85ffb9443bf6",
+      "title": "Investing more than $230 million in higher pay and expanded benefits for Whole Foods Market team members",
+      "link": "https://www.aboutamazon.com/news/workplace/whole-foods-market-pay-benefits-expansion?utm_source=rss",
+      "summary": "More than 100,000 U.S. Whole Foods Market team members will soon gain access to Amazon's comprehensive benefits.",
+      "publishedAt": "2026-09-10T17:00:08+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-a9e027c5d6e4fda41df4",
+      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a sing",
+      "publishedAt": "2026-09-10T16:30:35+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-416f4d7400cc0ae0127b",
+      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+      "summary": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one c",
+      "publishedAt": "2026-09-10T16:00:04+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-ceadd21f5d3a2d6592d4",
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-fcbdbdad0836d1cd7c37",
+      "title": "The Gemini app is now available for Windows",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "summary": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-e9eab2f819816bb93b9f",
+      "title": "Switching password managers is easy and safe on Android",
+      "link": "https://blog.google/products-and-platforms/platforms/android/switch-password-managers/",
+      "summary": "A new Android feature lets you securely transfer passwords and passkeys between password managers.",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-0a10c13b264a5fde4e81",
+      "title": "Columbia University Irving Medical Center (CUIMC) and Amazon Web Services (AWS) are collaborating to help develop new ways to detect and diagnose diseases",
+      "link": "https://press.aboutamazon.com/aws/2026/9/columbia-university-irving-medical-center-cuimc-and-amazon-web-services-aws-are-collaborating-to-help-develop-new-ways-to-detect-and-diagnose-diseases",
+      "summary": "The agreement will support scientific discovery, innovation, and commercialization",
+      "publishedAt": "2026-09-10T15:56:50.419000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-9379bcfd0ca01db08c91",
+      "title": "Whit’s Frozen Custard Brings its 100 Locations to Square’s Unified Commerce Platform",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnBDdjh6eE8wa1pLNVNKWGhhSmxfam5Qa3djYlludmhibjNfMzVfSEFrcG40OWVTTkFOU3FDM1JyMURiUU82QzJwY29FbUpJY0owTVUwNVFlYlFVWjNZZGJQa3laaENjeUI5R21lOGNKUjB1WUpDR2JnTmNQeldsZzFZOGNMd3pubEIxQ2ZuQXhjS194WmRNR2tZRk00V2JDbHlDYXZnekNHcW0wTmhqR0FnaXZ2UUVKd3M1ejI5cGxrd1ZrS1ZlMGloZWZhNEZNTnhhNWFMUW51anNhZXZOY2lIV285YnFaWFBV?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T13:39:38+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "nvidia-newsroom-82bf10337daed53c8a1d",
       "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
@@ -36,6 +156,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-47aa7e72dc2330763175",
+      "title": "Blog - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMigwZBVV95cUxNX1U4bTZyWFZxejNsbWR0bUgxZW1WZDRUODY1OWJGT0hQbWs4ZDZUZW05RUVWb2pLQmNWckVzUnN6NnpNcXVPanRPWnk1UHh5RWJoM1VabmJZUEU5bDBpQ21JSi04THJOVTVfdHR2eHVSSWhEbEpuejVGc0lPRk13WUVQWnpJNzNrOWpOYklDYjd5T0xQdWlmWlRJQXRaMlhERUFMd2JUdmZQeFhlUDZ5bnJlaFljLVFNekxZeXB6LVNIaThza2Y2VVEzZmRneVcxVWdFNGFQYnpZVC1MbzE3eFhheDhRLTd2T0V5ZTFwLXRtTXBTcEwxUVZTYzkyLUowV3l4MUVMZEFTLUhIclZGb1B3UndobFVFM2JjMzVFREd5cVpPb0Zva1lpaDZ0TGpiWDZwSVg5YmNWa2tRaTBTd18tV2FvNXlyMW1mbFllMXFjQnRubGIySW5aM2xDc2VoeHpRWm1aRjlqckdrNTdMQnVscjQySWxGRU1tZllHS1JjVDRRVHVNeVJ5aFdsX0xkdkZ4aWJwVkUwTVdhdzMtUWtlb1hoSkNEOWYzN2JrZDJHTWpVWk1FRFFtMEkwYXJ3WFIzSDNvWThfTkZQTHNmVklCSGE2RjA5Tm1XRTZKV08xdGw0MnpLeHdrSThmS3lqMFQ3LVFvWkFSS1J1TmtzUmVCY1NoTGJ4M3lDc1lQcHlkUHhYTDZlQVppZTJrcWsxNlY3VkhJNDRHVFAweWkxNDNHbHJ1eGlaemdocDBVOWVGb09QMmxpS1FZaDNHcloyT04tcUIxSXNFTThFWFlSeVh5c3c2a3psWXpma3lBeVlvc00yUGVMbWw4cENNT2I5MEFFU2xUY0Q1aTZxRVBzeUgteDFlTWthMjZ2aEdmTmVUcVVkNEhpWmdVN19TazNEOFNXcTRzX0xBc0ljZ1IyeTE5VV9RZWRnVjg3dnV4U0FlR0pyZ1hqU2VLYU9vTGhVTzB1RnRUMkhTcUd6Vkt0Yl9zMXJnMG5QNVlTamRlME80dTA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:25:02+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-058da771460461d4bdd6",
@@ -134,18 +266,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "coinbase-blog-9f6e46f50bf6734f0c30",
-      "title": "Blog - Coinbase",
-      "link": "https://news.google.com/rss/articles/CBMi0wdBVV95cUxOY3lwOGlRVmZqclFHX0w2T0JQWXVFSERBbUdYWkFiZTExLU1kYU5kRmo0clRVdGstVFA3SHE2UmpNVG9ESmYwSmJWREJlaE9nMmFHbmM4RzkwNFdBLS1SSUowMjYwd3ZydjFITUY4RUFIeThwLXBQNlE0T0hpaXBheFVuTThHR01CM3N4T3p3Z0NidDFwX0lnMUhEYzQxN3pBTW90VGMwekhjTENOenhKRW1FNFpnZ3R5V010U0RkaUxqdnlVUGprR2VRX3ZEOGxRbGZQZkVHTGFIaHZhMFZxUmVFSk40OEtSYkVUQVpkc0pwd0hDZmhHY3YzNU0yNGlYQVJ5YnJEUEZGNGdURE5WNE9JbThiUDlmSzFNV0xpRXo2bkUzSFVZYWRkR2oyeU1jU2FGUFE4ZzZ2cURaYXZjalZtSlhGc2pyY0s1RVF6bDV6QnptY2tSNWdVaHFGSldPSlFRU1ZITnNjRDNCM1QxQ0xyb3hiSGZ5QWZURzhyb1VkdllONXVwelRCVU1yeWNxUFdmclhXWGp6RVJ3U1VqQXA0dEJFQjgwQUNLWFdSZE5PSGNyUkxYUnRLTjJuYll6WWZDR2c4THZUOFdFZE1jc1JoN1JieFMtbFVsRDU2dFpZaHJUZGYzTUNzRV9QYVNyVDhHU2h0V0xZMElYb1ZURTVOWG1XZUVUVnFFMmluaVQ5TnYyS0NBUS1iYS1MMVVyRWlmQjlJMTBiZlFqdEp5aGhLbDdqTno0QjhPSWdkZEhuNXJVRm14NzVPcEVaamJlc083TGdfOVU2LUVyelRIVVRlSlpwamdaRmJJZkFRRlJwSXpvZDczMVNxRWlhYjRHOWhPcDljSTNrblQ2a3Zfd010cmpZc2NxdngwT1hXMHZJN0JWa3BZUndBLUttUFJXNlllR1hWdmtDNlNjUVlYNGJ0Q1dXb2doRHNGUnBfTXV2bm1CbXlXTTJkdTdCTGlYSFM5TUdDdUJHSS1hdUo2OHpSRFpabUZIZEh4M2VHODk0TFpQMlZBcVFtRndKWmFucE1wTUxEVHdjS0hJTGtmOVZKT2R0Z3FtTW4wYW5Ba2VfZTRyMXNnZWlQS25qNjdmWldrNWNiTExhTXYzX0ZHN2xjdHgxRUpfbDNCMW41UHBUeUFSUVQzUUpIYTJMdHktZUlEdzBVeHRzN1ZxTlRNQVNRUFRYUHBtal9neTEwcVZ4cVU0RV95TnBwcjBBZzBBNW9ZcE1GU2U0UlQtdnNzejV2aXE4SEFzRndhUmlwUEt5VkZ0djNxYzN6Z0Y2QnRiRk5B?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-09T17:38:26+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "about-amazon-b16a47cd3f9a09462861",
       "title": "Meet the new paper replacing Amazon's plastic packaging",
       "link": "https://www.aboutamazon.com/stories/amazon-paper-packaging-sustainability?utm_source=rss",
@@ -206,22 +326,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-73af7527f82e0ada94cf",
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-      "publishedAt": "2026-09-09T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-c9b388b08480989881b9",
-      "title": "4 ways Gemini makes administrative chores quick and easy",
-      "link": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
-      "summary": "People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.",
+      "id": "google-blog-6e36e285835b0b35783a",
+      "title": "Google Accelerators have spent the last decade helping global startups succeed.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
+      "summary": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
       "publishedAt": "2026-09-09T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -242,10 +350,22 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6e36e285835b0b35783a",
-      "title": "Google Accelerators have spent the last decade helping global startups succeed.",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
-      "summary": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+      "id": "google-blog-73af7527f82e0ada94cf",
+      "title": "Get ready for the game with new football features in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "publishedAt": "2026-09-09T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-c9b388b08480989881b9",
+      "title": "4 ways Gemini makes administrative chores quick and easy",
+      "link": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+      "summary": "People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.",
       "publishedAt": "2026-09-09T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -446,6 +566,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "amazon-press-archive-c20167b7a168e68e4a66",
+      "title": "ADP Partners with AWS to Accelerate AI-Powered Innovation in Human Capital Management",
+      "link": "https://press.aboutamazon.com/aws/2026/9/adp-partners-with-aws-to-accelerate-ai-powered-innovation-in-human-capital-management",
+      "summary": "Expanded strategic partnership combines ADP's 77 years of HR, payroll, and compliance expertise with AWS cloud and AI capabilities to help ADP clients navigate the growing complexity of workforce management in the AI era.",
+      "publishedAt": "2026-09-08T15:59:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "about-amazon-4e0c14206b237a33c831",
       "title": "Millions of students can now get access to a free year of Kiro from AWS",
       "link": "https://www.aboutamazon.com/news/aws/amazon-expands-free-kiro-access-students-universities?utm_source=rss",
@@ -530,18 +662,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-cb5842cd2621d69c6aaf",
-      "title": "A first look at ‘Our Fault: London,’ the ‘Your Fault: London’ and 'My Fault: London' sequel coming to Prime Video in 2027",
-      "link": "https://www.aboutamazon.com/news/entertainment/our-fault-london-prime-video?utm_source=rss",
-      "summary": "Asha Banks and Matthew Broome return for the concluding chapter of the English-language adaptation of Mercedes Ron's 'Culpables' trilogy.",
-      "publishedAt": "2026-09-08T08:28:07+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -554,30 +674,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-ba1e5d53f269b7268b65",
-      "title": "Our new contrail avoidance trial in Asia-Pacific",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
-      "summary": "We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
-      "publishedAt": "2026-09-07T08:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-93b63b754f268ce88c3e",
-      "title": "Backing 16 green AI projects in Asia-Pacific",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/",
-      "summary": "We’re supporting 16 organizations across Asia-Pacific using frontier AI to tackle challenges in climate, agriculture, and biodiversity.",
-      "publishedAt": "2026-09-07T01:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "marqeta-blog-7c95935eeb4bbe66c953",
       "title": "Embedded finance Commercial What your B2B software customers are doing right now (And why it's a payments problem) Article",
       "link": "https://www.marqeta.com/blog/what-your-b2b-software-customers-are-doing-right-now-and-why-its-a-payments-problem",
@@ -588,30 +684,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-d0b16425fcb6e943f870",
-      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
-      "summary": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…",
-      "publishedAt": "2026-09-04T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-4a8c2aa660e98629d570",
-      "title": "Google Translate rolls out new upgrades for iOS and Android.",
-      "link": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
-      "summary": "We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
-      "publishedAt": "2026-09-04T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "amazon-press-archive-60188377bc15b4a309f2",
@@ -734,6 +806,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "amazon-press-archive-777aa4cb796e7100cc30",
+      "title": "Amazon India creates over 160,000 seasonal work opportunities nationwide as festive season approaches",
+      "link": "https://press.aboutamazon.com/in/2026/9/amazon-india-creates-over-160-000-seasonal-work-opportunities-nationwide-as-festive-season-approaches",
+      "summary": "· Tens of thousands work opportunities created within the growing Amazon Now network to support fast and reliable deliveries in minutes· Thousands of women and associates with disabilities onboarded as part of Amazon’s expanded workforce for the festive season· Creates work opportunities across…",
+      "publishedAt": "2026-09-02T10:07:56.149000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-5904ad19cf808f11c82f",
       "title": "Welcoming Anthony Armstrong to Coinbase's Board of Directors",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDJETVl0UGhHbE9jNkoxR2R5UGlFc1gxMDVjN2RYYURiWmxwckRaRXpsX3VpSDljaUpxWjBCNVQtWEs2cDU3MWxiWXVIS09UX3R0WFB5eVVWdE1YdjNiTjBqbFphNjFDQktDdjBwNU1lOW84cVJxbFZ0R1dyclNFNzJLRjUzZnpTRzF5dlN1Qng5elE?oc=5",
@@ -816,6 +900,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "amazon-press-archive-cd08f44e7fb551cd9e7c",
+      "title": "Arlington Community High School Opens Its Doors at Amazon’s HQ2",
+      "link": "https://press.aboutamazon.com/community/2026/8/arlington-community-high-school-opens-its-doors-at-amazons-hq2",
+      "summary": "National Landing welcomes a new chapter in community and education",
+      "publishedAt": "2026-08-28T18:48:01.431000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-86a7fd3e393f4e55dea4",
@@ -1010,30 +1106,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "nvidia-newsroom-f1d5f7a3d06ef525fa74",
-      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
-      "summary": "NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.",
-      "publishedAt": "2026-08-25T15:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-f21b782b05987822e4db",
-      "title": "How XPUs Meet a World-Class AI Factory",
-      "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscale",
-      "publishedAt": "2026-08-24T15:00:54+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "marqeta-blog-d992f2d9c8d768337eca",
       "title": "Credit Commercial The cost of keeping business credit simple Article",
       "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
@@ -1070,18 +1142,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-174eb4daf2fdc107c5e3",
-      "title": "BrightSign Scales Premium, Cloud-Based Device Management Solution on Amazon Web Services",
-      "link": "https://press.aboutamazon.com/aws/2026/8/brightsign-scales-premium-cloud-based-device-management-solution-on-amazon-web-services",
-      "summary": "BrightSign Control Plus leverages the breadth of AWS services for reliable, secure, and scalable digital signage network management",
-      "publishedAt": "2026-08-19T16:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "paypal-newsroom-9c5b9cc873ed17a3015b",
       "title": "PayPal and Venmo Expand to Tuition Payments in New Integrations with Illumia, Nelnet Campus Commerce, and TouchNet",
       "link": "https://newsroom.paypal-corp.com/2026-08-19-PayPal-and-Venmo-Expand-to-Tuition-Payments-in-New-Integrations-with-Illumia,-Nelnet-Campus-Commerce,-and-TouchNet",
@@ -1106,18 +1166,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-528b99fafffdb52eb88e",
-      "title": "Razorpay Launches Vulcan, India's First AI Payments Foundation Model, Fueled by NVIDIA and AWS - Re-architecting Payments for a $350 Bn E-Comm Future by 2030",
-      "link": "https://press.aboutamazon.com/aws-international/2026/8/razorpay-launches-vulcan-indias-first-ai-payments-foundation-model-fueled-by-nvidia-and-aws-re-architecting-payments-for-a-350-bn-e-comm-future-by-2030",
-      "summary": "[MEDIA ALERT]A single AI system trained on nearly 3 trillion data points across 4 bn payments, aiming to make every digital payment in India faster, safer, and smarter",
-      "publishedAt": "2026-08-18T18:58:31.255000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "klarna-press-af7d0d36cc52788e2a85",
       "title": "Klarna Reports Second Quarter 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQW1oN2h0Szdscm8wVXN3djduNVpoU3pvR0UtUDRNaTBnZVVMcVhxel9EZGhhTlNaT05adkhWRmU5Xzh1ci1LUkZELTFnMlo5X2c4TXhuRi1RLWpuTlNqaUIwNTkyRXlIcmJwSEpSSGxjV3VSbHdYeWlmSXd4UERpNkRIMW5rVGU0cDNpaGlDZw?oc=5",
@@ -1128,18 +1176,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-20acade843b171fa3dfc",
-      "title": "AppFolio Names Amazon Web Services its Preferred Cloud Provider",
-      "link": "https://press.aboutamazon.com/aws/2026/8/appfolio-names-amazon-web-services-its-preferred-cloud-provider",
-      "summary": "The AppFolio Performance Platform runs on AWS, providing the technical foundation for its AI-native architecture and Realm, its AI suite",
-      "publishedAt": "2026-08-14T16:55:42.584000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-c29cab27ac3eeda37796",
@@ -2842,42 +2878,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
