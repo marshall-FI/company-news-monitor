@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:48:11.067077+00:00",
+  "generatedAt": "2026-09-12T14:10:28.516365+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -71,7 +71,7 @@
       "kind": "html",
       "ok": true,
       "itemCount": 6,
-      "message": "OK"
+      "message": "STALE: official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "nubank-newsroom",
