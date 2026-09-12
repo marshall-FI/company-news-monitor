@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:21:27.678579+00:00",
+  "generatedAt": "2026-09-12T05:50:01.047711+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-62103e296887564e3421",
@@ -842,18 +842,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-92e20149a9fa93f936fe",
-      "title": "Coinbase Launches Derivative Contracts in Canada",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnJnTERKSEtFOGRNNFp0MmJLX1dJMER2ajFnZXNFd0NVSzA4cXdPcGkzVGo2UU5kLTZyZFBfUnloX2tlQk1VNEFxZnluTjk2b3dDWE1pcktCMEUzVDFvdENYekFvanVyWFRIUmVTVnhCU2dkUWU0RmE3Z0RHLUpSVGxoMno?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "nvidia-newsroom-5c23ba73e597b8bc7be2",
       "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
       "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
@@ -1266,6 +1254,18 @@
       "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
       "link": "https://pr.tsmc.com/english/news/3333",
       "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-08-11T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
@@ -1718,18 +1718,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -2018,6 +2006,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -2063,18 +2063,6 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2162,18 +2150,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
-      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "link": "https://pr.tsmc.com/english/news/3314",
-      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "publishedAt": "2026-05-15T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
       "title": "Chime to Participate in William Blair Growth Stock Conference",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-william-blair-growth-stock-conference",
@@ -2208,6 +2184,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-bf3f9f54fcbcc79683b7",
+      "title": "2026/05/12 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3311",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-12T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-822e6ef542c72a2fe9e3",
@@ -2678,18 +2666,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2875,6 +2851,30 @@
       "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
       "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
       "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
