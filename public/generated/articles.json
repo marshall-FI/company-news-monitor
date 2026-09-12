@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T17:12:52.873150+00:00",
+  "generatedAt": "2026-09-12T19:23:11.871956+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-62103e296887564e3421",
@@ -254,6 +254,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-224e7601797ff9c6f203",
+      "title": "Coinbase and Morpho bring USDC earning to Brazil",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUHRxLUdkbjJrM0xnOVUzLUtVeFJJZ0tXTEIyaUlnN3RpeWFXaWNaYWZ4bDUzUXhjUmVNeUN6SWM2aUF2SU1jd2tLYWdpWUlWVGNVYXYtdVMxLU40dktsa2FlZFZoQUxoWnc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T06:59:59+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "tsmc-news-bba1a011634bc4e556ac",
       "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
@@ -504,18 +516,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-224e7601797ff9c6f203",
-      "title": "Coinbase and Morpho bring USDC earning to Brazil",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUHRxLUdkbjJrM0xnOVUzLUtVeFJJZ0tXTEIyaUlnN3RpeWFXaWNaYWZ4bDUzUXhjUmVNeUN6SWM2aUF2SU1jd2tLYWdpWUlWVGNVYXYtdVMxLU40dktsa2FlZFZoQUxoWnc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-09T12:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-7ee1898cad9945ae94f1",
@@ -2961,7 +2961,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 1,
+      "itemCount": 2,
       "message": "OK via official fallback RSS"
     },
     {
