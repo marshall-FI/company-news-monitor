@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-09-15T07:47:14.746445+00:00",
+  "generatedAt": "2026-09-15T13:36:13.311860+00:00",
   "articles": [
+    {
+      "id": "google-blog-b21c5e1ffc812be885ba",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "publishedAt": "2026-09-15T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-92b7de7298e66a6db728",
+      "title": "AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day",
+      "link": "https://press.aboutamazon.com/aws/2026/9/aws-and-salesforce-put-crm-data-ai-agents-and-model-choice-into-the-tools-teams-use-every-day",
+      "summary": "New integrations bring Salesforce data, context, and actions into Amazon Quick, AWS agents into Slack, and Agent2Agent (A2A) support for real-time, bidirectional voice between Agentforce Voice and Amazon Connect Customer — putting AI where customers work, grounded in data they trust, without…",
+      "publishedAt": "2026-09-15T12:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-e9ee6ea68a3ce82f7801",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "publishedAt": "2026-09-15T11:13:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-eccedc9ab942cbed56e8",
+      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "summary": "NVIDIA Newsroom published an update for NVIDIA relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-15T09:00:42+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-181860f56dd3812358f3",
+      "title": "Amazon podnosi pensje pracowników wynagradzanych godzinowo – od 6 472 zł do 8 404 zł brutto miesięcznie",
+      "link": "https://press.aboutamazon.com/pl/wiadomosci/praca-w-amazon/2026/9/amazon-podnosi-pensje-pracownikow-wynagradzanych-godzinowo-od-6-472-zl-do-8-404-zl-brutto-miesiecznie",
+      "summary": "Od 1 października Amazon podnosi pensje pracowników wynagradzanych stawką godzinową w 12 centrach logistycznych w Polsce. Pensje wynosić będą od 6 472 do 8 404 zł brutto miesięcznie, łącznie ze specjalną 15-proc. premią miesięczną dla pracowników przychodzących do pracy zgodnie z grafikiem.…",
+      "publishedAt": "2026-09-15T08:01:02.909000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "amazon-press-archive-54b5fcc362a5098bbbcb",
       "title": "La Festa delle Offerte Prime torna il 6 e 7 ottobre, due giorni di offerte esclusive dedicate ai clienti Prime per inaugurare la stagione autunnale",
@@ -60,6 +120,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-85b21cd9d799d2d4e8d4",
+      "title": "Costco UK members gain a new way to pay with Affirm",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/costco-uk-members-gain-new-way-pay-affirm",
+      "summary": "Costco is expanding its partnership with Affirm to give its members in the UK a new way to pay over time with no late or hidden fees. Whether stocking up on household essentials or investing in the latest technology, eligible Costco members shopping online can now choose Affirm at checkout and",
+      "publishedAt": "2026-09-15T00:29:52+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-87a85801ad4f19453a2d",
@@ -216,18 +288,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-e9ee6ea68a3ce82f7801",
-      "title": "Amazon's water conservation and replenishment efforts around the world",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
-      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
-      "publishedAt": "2026-09-11T16:34:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "google-blog-aa1d6238e82a2f873d5c",
@@ -446,18 +506,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "google-blog-058da771460461d4bdd6",
       "title": "Exploring Creative Intelligence with London’s Southbank Centre",
       "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
@@ -480,6 +528,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T05:30:18+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
@@ -614,10 +674,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-73af7527f82e0ada94cf",
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "id": "google-blog-6e36e285835b0b35783a",
+      "title": "Google Accelerators have spent the last decade helping global startups succeed.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
+      "summary": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
       "publishedAt": "2026-09-09T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -626,10 +686,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6e36e285835b0b35783a",
-      "title": "Google Accelerators have spent the last decade helping global startups succeed.",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
-      "summary": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+      "id": "google-blog-73af7527f82e0ada94cf",
+      "title": "Get ready for the game with new football features in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
       "publishedAt": "2026-09-09T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -686,6 +746,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "coinbase-blog-6f54498a0c6efcb74588",
+      "title": "Coinbase and Morpho bring USDC earning to Brazil and Canada",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12QzI1LUxmblpxdXJHNnRWdDdDVlhGU3Q4ZEU5MVF6SzU1TkdGemZMT0NDSDRkRlh2OXZjbDFoUU5Na3RSMzNRdEsyS2xsa3V6RzZUYVNweEhDNDd2NGNXRXRTd3ZES3R1Rlh6MzVoLThSUTA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-09T12:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "amazon-press-archive-7ee1898cad9945ae94f1",
       "title": "Rakhis, gifts and more - Your one-stop destination for Raksha Bandhan on Amazon.in",
       "link": "https://press.aboutamazon.com/in/2026/9/rakhis-gifts-and-more-your-one-stop-destination-for-raksha-bandhan-on-amazon-in",
@@ -720,18 +792,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-660d0278eadc729c69df",
-      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
-      "summary": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
-      "publishedAt": "2026-09-09T07:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "google-blog-ff0e50f02373f80b7b53",
@@ -806,16 +866,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "id": "tsmc-news-818f2287e609f6ec09d4",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-09-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
@@ -902,18 +962,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-f520f64ca05156d35043",
-      "title": "Amazon e HYROX annunciano una partnership globale e lanciano una nuova vetrina Amazon dedicata agli essenziali per il fitness",
-      "link": "https://press.aboutamazon.com/it/news/retail/2026/9/amazo-hyrox-annunciano-partnership-globale",
-      "summary": "Amazon diventa partner ufficiale della più grande serie di fitness racing al mondo. Nella vetrina dedicata amazon.it/hyrox è disponibile una selezione di prodotti dedicati al fitness. La partnership prevede inoltre playlist Amazon Music ed esperienze per la community HYROX.",
-      "publishedAt": "2026-09-03T08:02:34.960000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-5a15beb1d0677b4871ce",
       "title": "Parsons Bakery Turns to Square to Run Its Business on One Platform",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlFwbWlmRVRqaS1sYjJGb1FtNllqdjExTmpJSDJIb052SVBWWDROSWhnQXc3cjNxTTdKdU1tazRJN1dXcWotM2Nwa1poblk4VVFvd0taQzYwWmo2NlZWa01YOHlndGxYWTVVa25Rd2h4bE1UWjd5eHRJc0w2dDM1TS02T1FxbGhTdGNZa1lYQzluRGI2Sm4xd1pmaVNuQnF6YUZTUmd0QjNaWk1UYWZCUmdsMWx5bEJWUkZQc3Jud2Nyejd6V1dFZC1FWUJKazZadmVTNVd3?oc=5",
@@ -948,18 +996,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-777aa4cb796e7100cc30",
-      "title": "Amazon India creates over 160,000 seasonal work opportunities nationwide as festive season approaches",
-      "link": "https://press.aboutamazon.com/in/2026/9/amazon-india-creates-over-160-000-seasonal-work-opportunities-nationwide-as-festive-season-approaches",
-      "summary": "· Tens of thousands work opportunities created within the growing Amazon Now network to support fast and reliable deliveries in minutes· Thousands of women and associates with disabilities onboarded as part of Amazon’s expanded workforce for the festive season· Creates work opportunities across…",
-      "publishedAt": "2026-09-02T10:07:56.149000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-5c23ba73e597b8bc7be2",
@@ -1087,18 +1123,6 @@
       "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
       "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers an",
       "publishedAt": "2026-08-26T21:05:30+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-b9ec799d769b0f4ba49d",
-      "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
-      "link": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
-      "summary": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced a major expansion of their strategic collaboration to meet surging global demand for AI infrastructure as demand continues to accelerate.",
-      "publishedAt": "2026-08-26T21:05:00+00:00",
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
@@ -1284,18 +1308,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1754,18 +1766,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "klarna-press-c7351589ab3914bee83d",
-      "title": "Klarna now available on Fragrance.com, bringing flexible payments to one of America's largest online beauty destinations",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMnk4bDI0LUh1MktsTExQdGVvRHUxTm5UOE5PSDRDcmJWUFBNeUY5dE5kLXBZdVRvWG1KbHVzdF9aaEItLVgwcTlaLXpHZHNKd3M2WWRBXzZURkZfbHdDQUI1ZnhQZk1MQTNzZzNqTHliRUx5bzJTZkFFc2ItOE5iNmFITFg4S3Nta3NaWW9KdG52MmJZcDJVVkVUUjJER0JXMXRCZV9jOXpVOE9qM3N3S2ZEbVE0aEo2OGNXZV9LMVpHa0RacGRCYm9Bd0gyWlZmc21FZXlhSTVoQ1Q3Zml5ajdxdDdiWHE1aUxIRGZ1VHBwYzln?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-15T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1934,18 +1934,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-2431a1c21a66f2c14e49",
-      "title": "SoFi Introduces Small Business Loans to Help Members Pursue Their Business Ambitions",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnU4b3J1VGZhcVJ1a0lxYUVJTHF3NHNTT1EyN0Z2cFFtbXZ1eFdqVWp2dDNXZUZZTnVmaXVMZnJfSW9lakJKTDVHVXBjNXB6RFFCQ0ZjWVBVc2w1RERaVEEtN3JMVlpQaDJnRjI3Vnd1clk3bENOak94ZjFHeTMyOVFRaUdvQU50YUdTbWZ4RXdzdzRwakplaWFZaEpBQ1Vrc0k0SUNPZ0drTFZjUldEM2pCTTlOSnF0S1pWazRsZkd5bzQ0QU5WR0N4MnFnWk81eWJHWTFZUDdqRThlbVBYcg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-30T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-beb085e673f205e21977",
       "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
       "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
@@ -2016,6 +2004,18 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-03bc0f726b286c6bc6ec",
+      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-16T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-a0d5606912161961133e",
@@ -2090,18 +2090,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "affirm-news-6ed71ab98ac10cd12c68",
-      "title": "Affirm and Stripe team up to power flexible UK payments",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-stripe-team-power-flexible-uk-payments",
-      "summary": "LONDON (2 June 2026) - Affirm and Stripe today announced an expanded partnership that will bring Affirm’s pay-over-time solutions to Stripe merchants in the UK for the first time. In July, British businesses using Stripe will be able to add Affirm to their online checkout.",
-      "publishedAt": "2026-06-01T17:12:06+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-e1e21d8bd67712329d06",
       "title": "Chime and Invest America Launch the Compound Combine™ Series to Help All American Families Build Wealth Early",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-and-invest-america-launch-compound-combinetm-series-help",
@@ -2138,6 +2126,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "klarna-press-cc17036a11e7185dc13b",
+      "title": "Worldline and Klarna partner to enable flexible, online and in-store payments everywhere",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNExvMkxFaTZHb21NZ2tvdndIc2VPLTNDVEZ2N1NCRTE0Ym1pWUZWYmZyaWZLazlLLXdPU1ZlcnhXcXI1Y2otMnBCZHVKbFpfQmVhYTV0V1lGSmIzVHJQNkV6b0tSQzRrMjRQeWppSWVwbTRONkg5ZXFvZldZUGdPMmM0MDRWN2RuWjBqc1h3ZTlZbVJXNFc1SnR0d3BsX1U4bVZfWmVPMEREMkF2Q0ZFbExUMHUyMHpVNmxab1QxbnU2X2ExVUdYVGotZw?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-19T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
       "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW5CTklPRHFtTVlIajVQNXNPMmZpRW1lSW5RZXUzYml3dm01Q282X0xWZFdRVlNubGpJU2lSZWNBcDV1ZXlkMFAzOV9JVm5pOHVxOHNSeEVzQl9ERXd3ZU42THAtX2wyYTdUd0k4OVQ2dWVraXpadGNzS01uVjEtMnhIX2dNc1RTTzRna3RzcjQzRFY5azZRcUctSzJ5WV9hRklQaQ?oc=5",
@@ -2148,18 +2148,6 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-446d28dfdaa9daf7c2c6",
-      "title": "2026/05/15 TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "link": "https://pr.tsmc.com/english/news/3314",
-      "summary": "TSMC to Sell 8.1% of Vanguard International Semiconductor",
-      "publishedAt": "2026-05-15T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-12aa1f0154d44aa29dec",
@@ -2388,6 +2376,18 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-651af70af5975fee826d",
+      "title": "SoFi Launches Big Business Banking to Power Fiat and Crypto Banking on a Single Regulated Platform",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUVM4ckRNNWhCZFE0VlozTklyaU1JV0FkUWhRRzU3SEgyRTFRcUdzbS1DcWlHc2I5cVZQcXhsQVM5ZEptSlF4QkpZaDZyZzcyOWdhYnppVXpUalhMU0xxbnVyTXk1M1A4OThjN09NNEUyb0o4NXBOZjRnUUJ4ajVjeWJOUEVJaVZTLUo0ZUdRUGQ1WkZVU1ZNVmNza05PNk8xdXF2QmdmeU1XUlFjcUg4U1hVUUJueTM1elFkTzd3VUFrVldENTVhZE1qR3NDWXpXN1RRQlRMRnVCaGI5MkNNVzFYYU82RzZtTkZQYXR4V2dhdzg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-02T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
@@ -2666,18 +2666,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2880,6 +2868,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2961,7 +2961,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 1,
+      "itemCount": 2,
       "message": "OK via official fallback RSS"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 11,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
