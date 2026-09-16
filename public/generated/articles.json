@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-16T06:04:11.111831+00:00",
+  "generatedAt": "2026-09-16T11:34:48.339733+00:00",
   "articles": [
+    {
+      "id": "about-amazon-e9ee6ea68a3ce82f7801",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "publishedAt": "2026-09-16T09:19:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-e7e3b473a14c1d5f9c66",
       "title": "Reimagining Chicago’s Thompson Center for the next generation",
@@ -24,6 +36,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "circle-pressroom-058cf6c116b6ceb27a12",
+      "title": "Circle Launches Arc Mainnet, an Economic Operating System for the Internet Arc goes live with more than 100 institutional and ecosystem builders on day one",
+      "link": "https://www.circle.com/pressroom/circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet",
+      "summary": "Arc goes live with more than 100 institutional and ecosystem builders on day one",
+      "publishedAt": "2026-09-16T00:00:00+00:00",
+      "sourceId": "circle-pressroom",
+      "sourceName": "Circle Pressroom",
+      "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-ed34d148788e5d6f51fa",
@@ -276,18 +300,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-e9ee6ea68a3ce82f7801",
-      "title": "Amazon's water conservation and replenishment efforts around the world",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
-      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
-      "publishedAt": "2026-09-15T11:13:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-eccedc9ab942cbed56e8",
@@ -698,6 +710,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "nvidia-newsroom-c705d902c5bf7a4a6c86",
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
@@ -708,18 +732,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T05:30:18+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
@@ -890,18 +902,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-493e33e2519a3f399c08",
-      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T20:56:41+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "chime-newsroom-7a9252ad52f7934555fb",
       "title": "Chime Announces Agreement to Acquire Stride Bank",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-announces-agreement-acquire-stride-bank",
@@ -926,15 +926,27 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-818f2287e609f6ec09d4",
-      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
       "publishedAt": "2026-09-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-493e33e2519a3f399c08",
+      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1042,6 +1054,18 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-92e20149a9fa93f936fe",
+      "title": "Coinbase Launches Derivative Contracts in Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnJnTERKSEtFOGRNNFp0MmJLX1dJMER2ajFnZXNFd0NVSzA4cXdPcGkzVGo2UU5kLTZyZFBfUnloX2tlQk1VNEFxZnluTjk2b3dDWE1pcktCMEUzVDFvdENYekFvanVyWFRIUmVTVnhCU2dkUWU0RmE3Z0RHLUpSVGxoMno?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1308,6 +1332,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1860,18 +1896,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-b013e0a8e571c827620b",
-      "title": "Klarna submits application for U.S. banking license",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDRnZERDNTZjeERTaGRtLWwzZ050OFZSVGwzQzliQVJUc0hmc2IyYnJlWjJHRWFJb1RwTmhmZ0ZzaGNDXzVZbzNUVVg0UU9kMExtZlo1TVUwX2ZrWkJQb1FDZFU0UlNRaVUtdE11YXItbkJVSUQ2enpTWmFsOWQ1S25XemFpX2FxbEQzcFdiYVJ4U3N6bTFHenh3?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-06T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-b0446ecad3a45c8a947a",
@@ -2510,6 +2534,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "klarna-press-2e23749375e9b1f7b8ee",
+      "title": "Klarna launches on Google Pay in the UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnpYS2s3MXRQWnZQcjVVaVpqaGx3OE9TaHFJWmpqN29scnJzWUdrS0h6TFBYSUlEMW5RVGxVR2g1WmdoY1dUN0QtM0Z5MGM3MThObnZIM08zODM2c2hsTGRPeS11R3haQWhPWXJKZzFha0lQdlBKVE5lRWt4M0RNX1djdmplSm12MmRV?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-02-16T08:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "sofi-press-8654935da5de6a888ba0",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q4 & FY 2025 Earnings Conference Call",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZOWmlBRmhOcEV5NFpFaFdvTXdpdF9sbHFtMmptY2REaGI1Q0hFYW9tc2pFMmJ3dDNzcTc1WkxoZ0hHZXh6ZGo2UndaVGtKRkVvVTFyd3BndXV4U0xYWXoxWDYxRmRJU2p6SFAyRUlnNFpFbUQ1RjFMeXdjUFNjTDJMV2drSlk1cXFGS1BRUzliYXFZTEJIM2djSk1NbjRiY0xSY29iX1l0NU9VdXlyRGF4VGhBNjNkY1dmRThlUGVseGc?oc=5",
@@ -2544,6 +2580,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-547ee7d8199e477ccaa6",
+      "title": "Square Renews Corner Store Lease, Launching New Era of Local Business Support in the Mission District",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWVWRkhOS0c3dk9Kd1FnTlNPUWRvelFWNlM4Qmx6LXhNeFlDdjRkSXhQenpiUmxQWWY0bFFxanEzQjJiYTNtZzJBZEtidXAxNzJja0x2cEhlLVdtMFVPOU04Vk5wQXJVbHBoSW01Sk5UN1Znc0MtaW41SUs1VFA1bEpHeWhNMGcxMmh2ZFNFME1ONXFSUVRzUTNqdDZTTGNvSE80U2h0MTJxZXlaTG12Sno3TndKSXAyeG9nbVhyRjdibGVDR1EzQ0JCc0w0eUxuc0RHU0Q0VE1CSVhWVHlDYXVVUHpsWmZValNMZ0JVNzFDTk8xdDlkODVJdk1KQjItdkRR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-27T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-fc74e697a71f9d23b7a1",
@@ -2651,6 +2699,18 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2820,66 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3051,7 +3051,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 7,
+      "itemCount": 8,
       "message": "OK"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
