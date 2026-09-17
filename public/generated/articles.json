@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-17T18:16:08.178594+00:00",
+  "generatedAt": "2026-09-17T21:24:46.875650+00:00",
   "articles": [
+    {
+      "id": "google-blog-590df77dc8c3726e2134",
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "publishedAt": "2026-09-17T20:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-e78be4774342acdb5781",
       "title": "The new CC, an AI agent built for families",
@@ -566,18 +578,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-3333bd4644474e5f6e6a",
-      "title": "4 ways to tackle household chores with Gemini",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
-      "summary": "Here’s how Gemini can help you with household chores, like meal planning and fixing appliances.",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-970c94673769027aa8a4",
       "title": "AI for Societal Impact",
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -806,6 +806,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-b5cdab03f81bf5510ab8",
       "title": "About Get to know us",
       "link": "https://newsroom.wise.com/en-NAM/about/",
@@ -950,18 +962,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T05:30:18+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -1034,16 +1034,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-818f2287e609f6ec09d4",
-      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
       "publishedAt": "2026-09-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-493e33e2519a3f399c08",
@@ -1392,6 +1392,30 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -2138,6 +2162,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-7c228d86d73993aebdbe",
       "title": "Introducing SoFi Coach: An AI-Powered Financial Guide to Help Members Get Their Money Right",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR2dFQjM4TDRXNlJ2YXhjWFZDajRQTEVEMVpyZ2FFb3hLV1JYYkV3em1hY0g1NU51X29wUzBjOWVWOWZIMDgzQV9tS2VfcDhfcU8xbmtCTGRBRjdzcE5GVURDU1BmQ1JOcnFQLXc2SzhQb0lKVmhfR3ZzQUJXZ24yR2F5emI5UFdfbkxyeWdVUy1OclFqRTRzeExxblF3MWR3ODBWRTEtZDlDRUZyNUN4c0ZhdFVtd1FOTkJVblJLWndGQmR4NW1lRTVycFRUVHdDcnBMcFhiSUZLcEplX2xKak4wT24wQUpK?oc=5",
@@ -2690,6 +2726,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2830,54 +2878,6 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-7d63ac24baea9146c737",
-      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
-      "publishedAt": "2025-09-29T14:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
