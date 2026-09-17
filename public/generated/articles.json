@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-17T13:29:59.480976+00:00",
+  "generatedAt": "2026-09-17T18:16:08.178594+00:00",
   "articles": [
+    {
+      "id": "google-blog-e78be4774342acdb5781",
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "summary": "Google Labs is expanding CC to groups, starting with families and households, so they can spend less time on logistics.",
+      "publishedAt": "2026-09-17T18:15:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-3ed06954b16e0ce9b04f",
+      "title": "AWS Announces New Energy Industry Workflows for Amazon Quick",
+      "link": "https://press.aboutamazon.com/aws/2026/9/aws-announces-new-energy-industry-workflows-for-amazon-quick",
+      "summary": "Deep partner expertise, new purpose-built energy workflows, and native energy connectors grant faster access to customized insights",
+      "publishedAt": "2026-09-17T16:30:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-a550760e1e397802eccb",
+      "title": "Watch the trailer for 'Perfect Liars,' the adaptation of the hit novel coming to Prime Video November 20",
+      "link": "https://www.aboutamazon.com/news/entertainment/perfect-liars-prime-video?utm_source=rss",
+      "summary": "This thriller set in an elite university is based on author Alex Mírez's captivating Wattpad novel.",
+      "publishedAt": "2026-09-17T16:00:17+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-4ca245724e1a0307897c",
+      "title": "How to read books for free with Prime: Amazon First Reads and Amazon Original Stories",
+      "link": "https://www.aboutamazon.com/news/books-and-authors/prime-reading-free-books-benefits?utm_source=rss",
+      "summary": "Prime members get instant access to short stories from best-selling authors through Amazon Original Stories, plus a Kindle book each month with First Reads. Learn how to start reading or listening at no additional cost.",
+      "publishedAt": "2026-09-17T16:00:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-100d440880116cc938ff",
+      "title": "AWS Launches Agentic Grid Planning Program to Accelerate Interconnection Studies",
+      "link": "https://press.aboutamazon.com/aws/2026/9/aws-launches-agentic-grid-planning-program-to-accelerate-interconnection-studies",
+      "summary": "New AWS program connects utilities with specialized AI agents, streamlining how they connect new energy resources and serve rising demand",
+      "publishedAt": "2026-09-17T15:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-b9c83d2c1d95d98a9d89",
+      "title": "Amazon and No Kid Hungry Deliver More Than 2 Million Meals to Families in Rural Communities This Summer",
+      "link": "https://press.aboutamazon.com/2026/9/amazon-and-no-kid-hungry-deliver-more-than-2-million-meals-to-families-in-rural-communities-this-summer",
+      "summary": "The Summer Meals for Kids pilot provided free home delivery of more than 2 million meals across 13 states, helping families in rural communities overcome barriers to accessing summer nutrition.",
+      "publishedAt": "2026-09-17T13:30:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "nvidia-newsroom-facc38f4ce798f87b53a",
       "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
@@ -26,6 +98,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-08bbceaad2f9169fb7cc",
+      "title": "Drive with “Forgotten Island” on Waze.",
+      "link": "https://blog.google/waze/waze-forgotten-island/",
+      "summary": "Ready to turn your daily commute into an epic island adventure? Waze is bringing your new navigation best friend to the passenger seat, just in time for the release of D…",
+      "publishedAt": "2026-09-17T11:28:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "affirm-news-5c4bd524e53bf6c693e6",
       "title": "Affirm launches transformer-based machine learning model for real-time underwriting",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-launches-transformer-based-machine-learning-model-real",
@@ -34,6 +118,18 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "robinhood-blog-0f91bbb34cc4af0f1796",
+      "title": "Robinhood Ventures Fund I (RVI) Invests $25M in Crusoe",
+      "link": "https://robinhood.com/us/en/newsroom/rvi-crusoe",
+      "summary": "Today, Robinhood Ventures Fund I (NYSE: RVI) announced it purchased approximately $25M of Preferred Stock in Crusoe as part of the company’s $3.9 billion Series F financing round, which values the company at $30.9 billion.",
+      "publishedAt": "2026-09-17T07:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -60,6 +156,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-c3d97aa56d2a48ddda2a",
+      "title": "Risk & fraud Financial Services Disputes and chargebacks explained: What it takes to manage them at scale Article",
+      "link": "https://www.marqeta.com/blog/disputes-and-chargebacks-explained-what-it-takes-to-manage-them-at-scale",
+      "summary": "When something goes wrong with a card transaction, dispute and chargeback management is the process that makes it right.",
+      "publishedAt": "2026-09-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-a10d772282cbd2e9cdbe",
@@ -434,18 +542,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-4f3754e6a54823b0c603",
-      "title": "We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/",
-      "summary": "We're providing funding to the Nevada Clean Energy Fund (NCEF) to help families within our data center communities.",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-50f1fa34d3c31e122438",
       "title": "AI for everyone in every language",
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
@@ -462,18 +558,6 @@
       "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
       "summary": "Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-6fff55fdf7cb614f4288",
-      "title": "Building AI to accelerate science and improve lives",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
       "publishedAt": "2026-09-15T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -650,18 +734,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-87a85801ad4f19453a2d",
-      "title": "How Amazon is helping after back-to-back earthquakes in Venezuela",
-      "link": "https://www.aboutamazon.com/news/community/amazon-response-venezuela-earthquakes-2026?utm_source=rss",
-      "summary": "Amazon fueled a first-of-its-kind humanitarian airlift to deliver more than 220 tons of food, medicine, and emergency supplies to families across northern Venezuela.",
-      "publishedAt": "2026-09-14T19:01:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-e00f10b74c13b96d283e",
       "title": "Ninth Wave's AI-Powered Compass with Amazon Bedrock Cuts API Integration Time Up to 95%",
       "link": "https://press.aboutamazon.com/aws/2026/9/ninth-waves-ai-powered-compass-with-amazon-bedrock-cuts-api-integration-time-up-to-95",
@@ -684,18 +756,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-12cdf7ae968408c8e1a9",
-      "title": "Global Healthtech Proximie, in Collaboration with AWS, Deloitte and the NHS, Launches Largest NHS AI Theatre Evaluation to Unlock Hidden Operating Theatre Capacity",
-      "link": "https://press.aboutamazon.com/2026/9/global-healthtech-proximie-in-collaboration-with-aws-deloitte-and-the-nhs-launches-largest-nhs-ai-theatre-evaluation-to-unlock-hidden-operating-theatre-capacity",
-      "summary": "104 operating theatres across eight UK hospitals to participate in pioneering programme, evaluating how AI can increase surgical capacity and reduce surgical waiting lists",
-      "publishedAt": "2026-09-14T14:19:48.695000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-1822c7c186c5e8a8c40b",
@@ -746,18 +806,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-14T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-b5cdab03f81bf5510ab8",
       "title": "About Get to know us",
       "link": "https://newsroom.wise.com/en-NAM/about/",
@@ -792,18 +840,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-29d03e2bf24efaa033e8",
-      "title": "Amazon Leo adds 6 new Arianespace launches, expanding its launch partnership",
-      "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-arianespace-new-launches?utm_source=rss",
-      "summary": "The agreement extends the largest commercial contract in Arianespace history and supports investment and innovation across Europe.",
-      "publishedAt": "2026-09-10T19:26:06+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "amazon-press-archive-16ba5fdc01c09a877c0c",
@@ -914,6 +950,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T05:30:18+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -950,18 +998,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-3c9dd76e590791879eec",
-      "title": "Amazon Music Live Returns September 24 with a Star-Studded Season Five",
-      "link": "https://press.aboutamazon.com/amazon-music/2026/9/amazon-music-live-returns-september-24-with-a-star-studded-season-five",
-      "summary": "The fifth season of Amazon Music Live hits the road, capturing some of the year’s biggest tours and can’t-miss performances across four episodes featuring Noah Kahan, Don Toliver, Lainey Wilson, and Doja CatFans can tune in after Thursday Night Football on Amazon Music, Prime Video, Twitch, and…",
-      "publishedAt": "2026-09-09T16:54:19.868000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-35f3d5ec0662c6210cce",
       "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
       "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
@@ -972,18 +1008,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-122968da4f7a08c6ea9e",
-      "title": "Amazon Pharmacy Expands Spanish-Language Experience for Millions of Americans",
-      "link": "https://press.aboutamazon.com/2026/9/amazon-pharmacy-expands-spanish-language-experience-for-millions-of-americans",
-      "summary": "Full end-to-end Spanish-language pharmacy experience including 24/7 access to a pharmacist, a caregiver support feature for families, and same-day prescription delivery",
-      "publishedAt": "2026-09-09T12:01:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-224e7601797ff9c6f203",
@@ -1010,16 +1034,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "id": "tsmc-news-818f2287e609f6ec09d4",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-09-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-493e33e2519a3f399c08",
@@ -1370,30 +1394,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "paypal-newsroom-40d67513bd2032afea57",
       "title": "Pay Your Way, Play Your Way: Venmo Is Now on Google Play",
       "link": "https://newsroom.paypal-corp.com/2026-08-10-Pay-Your-Way-Play-Your-Way-Venmo-Is-Now-on-Google-Play",
@@ -1404,18 +1404,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
@@ -1766,18 +1754,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "robinhood-blog-c45c5739261a04a03c48",
-      "title": "The Robinhood Platinum Card is Here, and It’s Better than Ever",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-platinum-card-rollout",
-      "summary": "There are now more than 1 million people with a Robinhood Gold Card. It’s a significant milestone and another example that when you build great products, customers take notice.",
-      "publishedAt": "2026-07-22T09:30:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
       "title": "Wise Launches International Money Transfer Service in Chile",
       "link": "https://newsroom.wise.com/en-NAM/268425-wise-launches-international-money-transfer-service-in-chile/",
@@ -1895,18 +1871,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2582,18 +2546,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-2e23749375e9b1f7b8ee",
-      "title": "Klarna launches on Google Pay in the UK",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnpYS2s3MXRQWnZQcjVVaVpqaGx3OE9TaHFJWmpqN29scnJzWUdrS0h6TFBYSUlEMW5RVGxVR2g1WmdoY1dUN0QtM0Z5MGM3MThObnZIM08zODM2c2hsTGRPeS11R3haQWhPWXJKZzFha0lQdlBKVE5lRWt4M0RNX1djdmplSm12MmRV?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-16T08:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-8654935da5de6a888ba0",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q4 & FY 2025 Earnings Conference Call",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZOWmlBRmhOcEV5NFpFaFdvTXdpdF9sbHFtMmptY2REaGI1Q0hFYW9tc2pFMmJ3dDNzcTc1WkxoZ0hHZXh6ZGo2UndaVGtKRkVvVTFyd3BndXV4U0xYWXoxWDYxRmRJU2p6SFAyRUlnNFpFbUQ1RjFMeXdjUFNjTDJMV2drSlk1cXFGS1BRUzliYXFZTEJIM2djSk1NbjRiY0xSY29iX1l0NU9VdXlyRGF4VGhBNjNkY1dmRThlUGVseGc?oc=5",
@@ -2640,18 +2592,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "marqeta-blog-fc74e697a71f9d23b7a1",
-      "title": "Embedded finance All Industries Europe vs. US: How Europe jumped ahead in embedded finance, and why the US may leapfrog next Article",
-      "link": "https://www.marqeta.com/blog/europe-vs-us-how-europe-jumped-ahead-in-embedded-finance-and-why-the-us-may",
-      "summary": "For banks and fintechs in the US, the opportunity is not to replicate Europe—it is to leapfrog it and focus on seamless integration, customer-centric design",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
@@ -2747,18 +2687,6 @@
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2808,78 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-7187026926ebefef292b",
+      "title": "Africa’s payment frontier: Connecting systems, people, and opportunity",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/africas-payment-frontier-connecting-systems-people-and-opportunity/",
+      "summary": "Mobile-first innovation, real-time rails, and new interoperability frameworks are turning Africa into one of the world’s most dynamic digital payment regions.",
+      "publishedAt": "2025-10-08T19:23:46+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dave-press-93fc9009b124c80e1650",
+      "title": "View announcement",
+      "link": "https://dave.com/press/news-releases/news-release-details/dave-reports-third-quarter-2025-financial-results",
+      "summary": "Dave Inc., one of the nation’s leading neobanks, today reported its financial results for the third quarter ended September 30, 2025.",
+      "publishedAt": "2025-09-30T00:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-7d63ac24baea9146c737",
+      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
+      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
+      "publishedAt": "2025-09-29T14:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-8357fec8a7f961d6724e",
+      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
+      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
+      "publishedAt": "2025-09-17T13:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2961,7 +2961,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 2,
+      "itemCount": 3,
       "message": "OK via official fallback RSS"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
