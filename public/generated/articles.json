@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-17T07:41:50.468676+00:00",
+  "generatedAt": "2026-09-17T13:29:59.480976+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-facc38f4ce798f87b53a",
+      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashin",
+      "publishedAt": "2026-09-17T13:00:55+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-3c9cffa181de3269303a",
+      "title": "Amazon delivered more than 2 million meals to students in rural communities this summer",
+      "link": "https://www.aboutamazon.com/news/community/amazon-summer-meals-kids-rural-delivery?utm_source=rss",
+      "summary": "Amazon’s Summer Meals for Kids program partners with 18 food banks and school districts to deliver meals to families across 13 states this summer.",
+      "publishedAt": "2026-09-17T13:00:04+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-5c4bd524e53bf6c693e6",
+      "title": "Affirm launches transformer-based machine learning model for real-time underwriting",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-launches-transformer-based-machine-learning-model-real",
+      "summary": "New model builds on 14 years of transaction-level underwriting experience and data to approve more eligible consumers at comparable levels of risk SAN FRANCISCO --(BUSINESS WIRE)--Sep. 17, 2026-- For 14 years, Affirm (NASDAQ: AFRM) has underwritten every purchase individually, in real time, using",
+      "publishedAt": "2026-09-17T10:55:30+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "google-blog-c62fadadc9d8a6cf39dc",
       "title": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
@@ -12,6 +48,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-1cf5bacaf6a1489f131b",
+      "title": "Klarna teams up with Alza.at, bringing flexible payments to Austrian shoppers",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDhpVXlPUnNmeWFPTUxOT1B1cmRxZWlIQVJmQWVCNUxnelpvaXNOYm5iNndidlk5ZEJZUXppVkU1X2RQb0Q0Ymx6UzU2SU5rYU5CaVZKRFFmY1hicnZtVlRncU16RHAwc3duNlByODdrWTVlLV9yc25fY3VNR1FoeXBPMWh0X01GRkpXSUNrNmNJcWRLcURPd0pXaHl0NXJ5aGNDQnZWNlRRZndxT1laYVl4YUk4WkJKMkd2Wg?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-17T00:46:37+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-a10d772282cbd2e9cdbe",
@@ -770,18 +818,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-10b85cab85ffb9443bf6",
-      "title": "Investing more than $230 million in higher pay and expanded benefits for Whole Foods Market team members",
-      "link": "https://www.aboutamazon.com/news/workplace/whole-foods-market-pay-benefits-expansion?utm_source=rss",
-      "summary": "More than 100,000 U.S. Whole Foods Market team members will soon gain access to Amazon's comprehensive benefits.",
-      "publishedAt": "2026-09-10T17:00:08+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-a9e027c5d6e4fda41df4",
       "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
       "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
@@ -864,18 +900,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-c705d902c5bf7a4a6c86",
@@ -974,18 +998,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-6f54498a0c6efcb74588",
-      "title": "Coinbase and Morpho bring USDC earning to Brazil and Canada",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12QzI1LUxmblpxdXJHNnRWdDdDVlhGU3Q4ZEU5MVF6SzU1TkdGemZMT0NDSDRkRlh2OXZjbDFoUU5Na3RSMzNRdEsyS2xsa3V6RzZUYVNweEhDNDd2NGNXRXRTd3ZES3R1Rlh6MzVoLThSUTA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-09T12:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "chime-newsroom-7a9252ad52f7934555fb",
       "title": "Chime Announces Agreement to Acquire Stride Bank",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-announces-agreement-acquire-stride-bank",
@@ -1051,18 +1063,6 @@
       "link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and ",
       "publishedAt": "2026-09-03T16:00:59+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-fa67f50273e6d77f6455",
-      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
-      "summary": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
-      "publishedAt": "2026-09-03T13:00:35+00:00",
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
@@ -1310,18 +1310,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-af7d0d36cc52788e2a85",
-      "title": "Klarna Reports Second Quarter 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQW1oN2h0Szdscm8wVXN3djduNVpoU3pvR0UtUDRNaTBnZVVMcVhxel9EZGhhTlNaT05adkhWRmU5Xzh1ci1LUkZELTFnMlo5X2c4TXhuRi1RLWpuTlNqaUIwNTkyRXlIcmJwSEpSSGxjV3VSbHdYeWlmSXd4UERpNkRIMW5rVGU0cDNpaGlDZw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-18T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "affirm-news-c29cab27ac3eeda37796",
       "title": "Affirm to participate in upcoming investor conferences",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-participate-upcoming-investor-conferences-19",
@@ -1416,6 +1404,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-faff4fb821b9c9495d97",
+      "title": "2026/08/10 TSMC July 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3329",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
@@ -1826,18 +1826,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -1907,6 +1895,18 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2030,6 +2030,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-b940b0825676f3298174",
+      "title": "Coinbase Powers Spiko’s Mutual Fund with Stablecoin Funding",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbk5uay0tWHNCTzNzdDR0cl95MmhNVENSN0JfbFVGcm0ta2c2VnpsY0pfZEgxOFlWaTBPU2tXQXpYMWNSbVlkcXFTZUI5V013Yy1WQVVRTkpUZHpZWXVUN1dITU5oaTdVbnVWaTNhTXR4cjBjUUNxLXFMVjk1UVA3eDlhaXM1RXRoXzFLaG1ZT3M?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-30T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "marqeta-blog-beb085e673f205e21977",
       "title": "Issuing/processing Financial Services Stablecoins are moving from debate to build Article",
       "link": "https://www.marqeta.com/blog/stablecoins-are-moving-from-debate-to-build",
@@ -2114,18 +2126,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "toast-product-news-03bc0f726b286c6bc6ec",
-      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-16T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-a0d5606912161961133e",
       "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGppUklmZmdvaEoyT1hKNVNHd3Blbm05eTB5c1JaWEpCaXdITHN4bkEtRndCUjh6UXdxbEM0b1BLUzlqZFA1UzR0U0FYV0hqSUNNWUNkNU1ZcS04ejNDQTJ6bkZDTUxrVFlLLU5NTzhSalJrMF9OM0JmR3k2bUxNbUp5SzhIYUVtRXVfMXFZVmdmLTlfcEx4S2xmNEJSVy1kd1p6WHJhRFJmLTdCNDEwSks1Tk9vNmlMWGY3WWFRZ3RBOVRBaTVoQUNOUEJ5azFjLS1pY0tvMWFlenJGWWx2SXBZOFVwc0ZCci05ZQ?oc=5",
@@ -2171,18 +2171,6 @@
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "affirm-news-9b455e77d60416bc2475",
-      "title": "Affirm and CPP Investments renew and expand capital partnership",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-cpp-investments-renew-and-expand-capital-partnership",
-      "summary": "SAN FRANCISCO & TORONTO --(BUSINESS WIRE)--Jun. 4, 2026-- Affirm (NASDAQ: AFRM) and Canada Pension Plan Investment Board (“CPP Investments”), through subsidiaries of CPPIB Credit Investments Inc., today announced a renewed and expanded forward-flow agreement.",
-      "publishedAt": "2026-06-04T13:00:41+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2592,6 +2580,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "klarna-press-2e23749375e9b1f7b8ee",
+      "title": "Klarna launches on Google Pay in the UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnpYS2s3MXRQWnZQcjVVaVpqaGx3OE9TaHFJWmpqN29scnJzWUdrS0h6TFBYSUlEMW5RVGxVR2g1WmdoY1dUN0QtM0Z5MGM3MThObnZIM08zODM2c2hsTGRPeS11R3haQWhPWXJKZzFha0lQdlBKVE5lRWt4M0RNX1djdmplSm12MmRV?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-02-16T08:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "sofi-press-8654935da5de6a888ba0",
