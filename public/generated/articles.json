@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-18T09:49:07.733489+00:00",
+  "generatedAt": "2026-09-18T14:34:47.922520+00:00",
   "articles": [
+    {
+      "id": "google-blog-d92122e53ec9d4f7bc6f",
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-44ec3a3d6fdc7de7b05f",
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "publishedAt": "2026-09-18T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-672bbab5cf75f1a1f05e",
+      "title": "Build campaigns that drive high-converting, sales-ready leads.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+      "summary": "In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?",
+      "publishedAt": "2026-09-18T12:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-c8e573c2249a6a1921c5",
       "title": "What AWS's chief AI and technology officer told employees about the future of AI",
@@ -566,42 +602,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-50f1fa34d3c31e122438",
-      "title": "AI for everyone in every language",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-bd6b61586f08b7234938",
-      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
-      "summary": "Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-970c94673769027aa8a4",
-      "title": "AI for Societal Impact",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-321b80c77252ab0ccec7",
       "title": "Rutgers and RWJBarnabas Health to Launch Innovation Hub, Powered by Amazon Web Services",
       "link": "https://press.aboutamazon.com/aws/2026/9/rutgers-and-rwjbarnabas-health-to-launch-innovation-hub-powered-by-amazon-web-services",
@@ -926,6 +926,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-47aa7e72dc2330763175",
+      "title": "Blog - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMigwZBVV95cUxNX1U4bTZyWFZxejNsbWR0bUgxZW1WZDRUODY1OWJGT0hQbWs4ZDZUZW05RUVWb2pLQmNWckVzUnN6NnpNcXVPanRPWnk1UHh5RWJoM1VabmJZUEU5bDBpQ21JSi04THJOVTVfdHR2eHVSSWhEbEpuejVGc0lPRk13WUVQWnpJNzNrOWpOYklDYjd5T0xQdWlmWlRJQXRaMlhERUFMd2JUdmZQeFhlUDZ5bnJlaFljLVFNekxZeXB6LVNIaThza2Y2VVEzZmRneVcxVWdFNGFQYnpZVC1MbzE3eFhheDhRLTd2T0V5ZTFwLXRtTXBTcEwxUVZTYzkyLUowV3l4MUVMZEFTLUhIclZGb1B3UndobFVFM2JjMzVFREd5cVpPb0Zva1lpaDZ0TGpiWDZwSVg5YmNWa2tRaTBTd18tV2FvNXlyMW1mbFllMXFjQnRubGIySW5aM2xDc2VoeHpRWm1aRjlqckdrNTdMQnVscjQySWxGRU1tZllHS1JjVDRRVHVNeVJ5aFdsX0xkdkZ4aWJwVkUwTVdhdzMtUWtlb1hoSkNEOWYzN2JrZDJHTWpVWk1FRFFtMEkwYXJ3WFIzSDNvWThfTkZQTHNmVklCSGE2RjA5Tm1XRTZKV08xdGw0MnpLeHdrSThmS3lqMFQ3LVFvWkFSS1J1TmtzUmVCY1NoTGJ4M3lDc1lQcHlkUHhYTDZlQVppZTJrcWsxNlY3VkhJNDRHVFAweWkxNDNHbHJ1eGlaemdocDBVOWVGb09QMmxpS1FZaDNHcloyT04tcUIxSXNFTThFWFlSeVh5c3c2a3psWXpma3lBeVlvc00yUGVMbWw4cENNT2I5MEFFU2xUY0Q1aTZxRVBzeUgteDFlTWthMjZ2aEdmTmVUcVVkNEhpWmdVN19TazNEOFNXcTRzX0xBc0ljZ1IyeTE5VV9RZWRnVjg3dnV4U0FlR0pyZ1hqU2VLYU9vTGhVTzB1RnRUMkhTcUd6Vkt0Yl9zMXJnMG5QNVlTamRlME80dTA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:25:02+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-c705d902c5bf7a4a6c86",
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
@@ -1042,6 +1054,18 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-7c95935eeb4bbe66c953",
+      "title": "Embedded finance Commercial What your B2B software customers are doing right now (And why it's a payments problem) Article",
+      "link": "https://www.marqeta.com/blog/what-your-b2b-software-customers-are-doing-right-now-and-why-its-a-payments-problem",
+      "summary": "B2B SaaS platforms can solve hidden payment friction; shared corporate cards, manual supplier payments, and receipt chaos, by embedding card issuing",
+      "publishedAt": "2026-09-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1370,6 +1394,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "paypal-newsroom-40d67513bd2032afea57",
       "title": "Pay Your Way, Play Your Way: Venmo Is Now on Google Play",
       "link": "https://newsroom.paypal-corp.com/2026-08-10-Pay-Your-Way-Play-Your-Way-Venmo-Is-Now-on-Google-Play",
@@ -1380,6 +1416,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-faff4fb821b9c9495d97",
+      "title": "2026/08/10 TSMC July 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3329",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
@@ -2830,54 +2878,6 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-7d63ac24baea9146c737",
-      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
-      "publishedAt": "2025-09-29T14:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
