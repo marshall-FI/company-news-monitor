@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:24:06.562094+00:00",
+  "generatedAt": "2026-09-19T05:55:52.520294+00:00",
   "articles": [
     {
       "id": "about-amazon-9c6ab95af2370be7bf1b",
@@ -228,18 +228,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-1cf5bacaf6a1489f131b",
-      "title": "Klarna teams up with Alza.at, bringing flexible payments to Austrian shoppers",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDhpVXlPUnNmeWFPTUxOT1B1cmRxZWlIQVJmQWVCNUxnelpvaXNOYm5iNndidlk5ZEJZUXppVkU1X2RQb0Q0Ymx6UzU2SU5rYU5CaVZKRFFmY1hicnZtVlRncU16RHAwc3duNlByODdrWTVlLV9yc25fY3VNR1FoeXBPMWh0X01GRkpXSUNrNmNJcWRLcURPd0pXaHl0NXJ5aGNDQnZWNlRRZndxT1laYVl4YUk4WkJKMkd2Wg?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-17T00:46:37+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-c3d97aa56d2a48ddda2a",
@@ -938,6 +926,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-47aa7e72dc2330763175",
+      "title": "Blog - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMigwZBVV95cUxNX1U4bTZyWFZxejNsbWR0bUgxZW1WZDRUODY1OWJGT0hQbWs4ZDZUZW05RUVWb2pLQmNWckVzUnN6NnpNcXVPanRPWnk1UHh5RWJoM1VabmJZUEU5bDBpQ21JSi04THJOVTVfdHR2eHVSSWhEbEpuejVGc0lPRk13WUVQWnpJNzNrOWpOYklDYjd5T0xQdWlmWlRJQXRaMlhERUFMd2JUdmZQeFhlUDZ5bnJlaFljLVFNekxZeXB6LVNIaThza2Y2VVEzZmRneVcxVWdFNGFQYnpZVC1MbzE3eFhheDhRLTd2T0V5ZTFwLXRtTXBTcEwxUVZTYzkyLUowV3l4MUVMZEFTLUhIclZGb1B3UndobFVFM2JjMzVFREd5cVpPb0Zva1lpaDZ0TGpiWDZwSVg5YmNWa2tRaTBTd18tV2FvNXlyMW1mbFllMXFjQnRubGIySW5aM2xDc2VoeHpRWm1aRjlqckdrNTdMQnVscjQySWxGRU1tZllHS1JjVDRRVHVNeVJ5aFdsX0xkdkZ4aWJwVkUwTVdhdzMtUWtlb1hoSkNEOWYzN2JrZDJHTWpVWk1FRFFtMEkwYXJ3WFIzSDNvWThfTkZQTHNmVklCSGE2RjA5Tm1XRTZKV08xdGw0MnpLeHdrSThmS3lqMFQ3LVFvWkFSS1J1TmtzUmVCY1NoTGJ4M3lDc1lQcHlkUHhYTDZlQVppZTJrcWsxNlY3VkhJNDRHVFAweWkxNDNHbHJ1eGlaemdocDBVOWVGb09QMmxpS1FZaDNHcloyT04tcUIxSXNFTThFWFlSeVh5c3c2a3psWXpma3lBeVlvc00yUGVMbWw4cENNT2I5MEFFU2xUY0Q1aTZxRVBzeUgteDFlTWthMjZ2aEdmTmVUcVVkNEhpWmdVN19TazNEOFNXcTRzX0xBc0ljZ1IyeTE5VV9RZWRnVjg3dnV4U0FlR0pyZ1hqU2VLYU9vTGhVTzB1RnRUMkhTcUd6Vkt0Yl9zMXJnMG5QNVlTamRlME80dTA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:25:02+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-c705d902c5bf7a4a6c86",
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
@@ -959,18 +959,6 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T05:30:18+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1034,6 +1022,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-493e33e2519a3f399c08",
       "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
@@ -1056,18 +1056,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-818f2287e609f6ec09d4",
-      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7c95935eeb4bbe66c953",
@@ -1130,18 +1118,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-92e20149a9fa93f936fe",
-      "title": "Coinbase Launches Derivative Contracts in Canada",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnJnTERKSEtFOGRNNFp0MmJLX1dJMER2ajFnZXNFd0NVSzA4cXdPcGkzVGo2UU5kLTZyZFBfUnloX2tlQk1VNEFxZnluTjk2b3dDWE1pcktCMEUzVDFvdENYekFvanVyWFRIUmVTVnhCU2dkUWU0RmE3Z0RHLUpSVGxoMno?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "klarna-press-8eea6350220fe6345de4",
       "title": "Klarna and Rare Carat team up to bring flexible payments to engagement ring shopping",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHdFcktUMWgtOEVfaFEzMEozanVPYUNTQzJWNzJqWkE4ZmlRbWljWEZXQUJGU3RoT1lodFFISDE4NmxlRTZqMmJwNWRmYW9PZml2d3hvWWdtVU5PN2tSbVo5U1k2TFBRN0tMTGMtS0NhN0RtdWp2WWVkUzJFQ3ZVMDhIY3A0NjJoUGczYXJUbzJqaGU5RS1abW5IM0x1cGRqaXJrc1M1Mmk2RnA5dENFeGpya2NrWGJoUXJSUWI5QTBYakhTOGdr?oc=5",
@@ -1164,6 +1140,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-36cfe43c94ba45e5b45f",
+      "title": "News archive Browse through all our news",
+      "link": "https://newsroom.wise.com/en-NAM/releases/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-09-01T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-95fccf222f4743b5a382",
@@ -1380,6 +1368,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1970,18 +1970,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-d5dbf81d8601ec17cb2b",
-      "title": "Square Introduces New ChatGPT and Claude Integrations, Helping Sellers Reach Customers Through AI-Powered Discovery",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNVoweEc1Z1pRNk80RWRYVHdIbHVzbEtsT1JraTNnMUNISWhRMzdmdWw1UXFZVHgza3lSZ2l0WVRGWDdwTGN3d0QtYUNlblEwd1ZtOXpOcUhfb21xYklGSkI3WHE3OUhFdk12dXJzMkhVcTdqbTVlS28zS1A3RXRGblRxQW1qWXU0bW1BMjVUdjF5aGJfeXZaMlNqSUk2ajBmTG9qYkNENS1oZlBZR253RUdaNDR3MVJ3R0J2S2twLUN6eWtEa3FBMVBDTGpvLWM2Q0lkOU1hek42cjRqYWI3VmlkVE9VLWdGRTBGbDFwR0FBU0ZtMGhienM0Z09qRzVQRG8yTGtudWFNaDdFdkJXT3RJVTczZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-c5ad4ad1f16366953b61",
       "title": "Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-acquires-adaptive-ml-accelerate-its-investment-ai",
@@ -1994,14 +1982,14 @@
       "sourceKind": "rss"
     },
     {
-      "id": "coinbase-blog-b940b0825676f3298174",
-      "title": "Coinbase Powers Spiko’s Mutual Fund with Stablecoin Funding",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbk5uay0tWHNCTzNzdDR0cl95MmhNVENSN0JfbFVGcm0ta2c2VnpsY0pfZEgxOFlWaTBPU2tXQXpYMWNSbVlkcXFTZUI5V013Yy1WQVVRTkpUZHpZWXVUN1dITU5oaTdVbnVWaTNhTXR4cjBjUUNxLXFMVjk1UVA3eDlhaXM1RXRoXzFLaG1ZT3M?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "id": "sofi-press-2431a1c21a66f2c14e49",
+      "title": "SoFi Introduces Small Business Loans to Help Members Pursue Their Business Ambitions",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnU4b3J1VGZhcVJ1a0lxYUVJTHF3NHNTT1EyN0Z2cFFtbXZ1eFdqVWp2dDNXZUZZTnVmaXVMZnJfSW9lakJKTDVHVXBjNXB6RFFCQ0ZjWVBVc2w1RERaVEEtN3JMVlpQaDJnRjI3Vnd1clk3bENOak94ZjFHeTMyOVFRaUdvQU50YUdTbWZ4RXdzdzRwakplaWFZaEpBQ1Vrc0k0SUNPZ0drTFZjUldEM2pCTTlOSnF0S1pWazRsZkd5bzQ0QU5WR0N4MnFnWk81eWJHWTFZUDdqRThlbVBYcg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-06-30T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2172,6 +2160,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-cc17036a11e7185dc13b",
+      "title": "Worldline and Klarna partner to enable flexible, online and in-store payments everywhere",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNExvMkxFaTZHb21NZ2tvdndIc2VPLTNDVEZ2N1NCRTE0Ym1pWUZWYmZyaWZLazlLLXdPU1ZlcnhXcXI1Y2otMnBCZHVKbFpfQmVhYTV0V1lGSmIzVHJQNkV6b0tSQzRrMjRQeWppSWVwbTRONkg5ZXFvZldZUGdPMmM0MDRWN2RuWjBqc1h3ZTlZbVJXNFc1SnR0d3BsX1U4bVZfWmVPMEREMkF2Q0ZFbExUMHUyMHpVNmxab1QxbnU2X2ExVUdYVGotZw?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-19T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
@@ -2534,18 +2534,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-2e23749375e9b1f7b8ee",
-      "title": "Klarna launches on Google Pay in the UK",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnpYS2s3MXRQWnZQcjVVaVpqaGx3OE9TaHFJWmpqN29scnJzWUdrS0h6TFBYSUlEMW5RVGxVR2g1WmdoY1dUN0QtM0Z5MGM3MThObnZIM08zODM2c2hsTGRPeS11R3haQWhPWXJKZzFha0lQdlBKVE5lRWt4M0RNX1djdmplSm12MmRV?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-16T08:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-8654935da5de6a888ba0",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q4 & FY 2025 Earnings Conference Call",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZOWmlBRmhOcEV5NFpFaFdvTXdpdF9sbHFtMmptY2REaGI1Q0hFYW9tc2pFMmJ3dDNzcTc1WkxoZ0hHZXh6ZGo2UndaVGtKRkVvVTFyd3BndXV4U0xYWXoxWDYxRmRJU2p6SFAyRUlnNFpFbUQ1RjFMeXdjUFNjTDJMV2drSlk1cXFGS1BRUzliYXFZTEJIM2djSk1NbjRiY0xSY29iX1l0NU9VdXlyRGF4VGhBNjNkY1dmRThlUGVseGc?oc=5",
@@ -2580,18 +2568,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-547ee7d8199e477ccaa6",
-      "title": "Square Renews Corner Store Lease, Launching New Era of Local Business Support in the Mission District",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWVWRkhOS0c3dk9Kd1FnTlNPUWRvelFWNlM4Qmx6LXhNeFlDdjRkSXhQenpiUmxQWWY0bFFxanEzQjJiYTNtZzJBZEtidXAxNzJja0x2cEhlLVdtMFVPOU04Vk5wQXJVbHBoSW01Sk5UN1Znc0MtaW41SUs1VFA1bEpHeWhNMGcxMmh2ZFNFME1ONXFSUVRzUTNqdDZTTGNvSE80U2h0MTJxZXlaTG12Sno3TndKSXAyeG9nbVhyRjdibGVDR1EzQ0JCc0w0eUxuc0RHU0Q0VE1CSVhWVHlDYXVVUHpsWmZValNMZ0JVNzFDTk8xdDlkODVJdk1KQjItdkRR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-27T08:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
@@ -2722,6 +2698,18 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-bb4d091ac1db0ddac185",
+      "title": "Wise Platform partners with Wealthsimple to offer enhanced international payments services for Canadians",
+      "link": "https://newsroom.wise.com/en-NAM/257478-wise-platform-partners-with-wealthsimple-to-offer-enhanced-international-payments-services-for-canadians/",
+      "summary": "Wealthsimple partners with Wise Platform to offer Canadians fast, low-fee international payments to 30 countries in 10+ currencies directly from the Wealthsimple app or website.",
+      "publishedAt": "2025-11-12T10:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2858,6 +2846,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-8027488bdcfba2c1ed57",
       "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
@@ -2961,7 +2961,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 3,
+      "itemCount": 1,
       "message": "OK via official fallback RSS"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
