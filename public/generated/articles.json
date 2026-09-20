@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T01:11:14.430894+00:00",
+  "generatedAt": "2026-09-20T06:18:24.783521+00:00",
   "articles": [
     {
       "id": "amazon-press-archive-61ea0c2149e21c026bae",
@@ -938,6 +938,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-47aa7e72dc2330763175",
+      "title": "Blog - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMigwZBVV95cUxNX1U4bTZyWFZxejNsbWR0bUgxZW1WZDRUODY1OWJGT0hQbWs4ZDZUZW05RUVWb2pLQmNWckVzUnN6NnpNcXVPanRPWnk1UHh5RWJoM1VabmJZUEU5bDBpQ21JSi04THJOVTVfdHR2eHVSSWhEbEpuejVGc0lPRk13WUVQWnpJNzNrOWpOYklDYjd5T0xQdWlmWlRJQXRaMlhERUFMd2JUdmZQeFhlUDZ5bnJlaFljLVFNekxZeXB6LVNIaThza2Y2VVEzZmRneVcxVWdFNGFQYnpZVC1MbzE3eFhheDhRLTd2T0V5ZTFwLXRtTXBTcEwxUVZTYzkyLUowV3l4MUVMZEFTLUhIclZGb1B3UndobFVFM2JjMzVFREd5cVpPb0Zva1lpaDZ0TGpiWDZwSVg5YmNWa2tRaTBTd18tV2FvNXlyMW1mbFllMXFjQnRubGIySW5aM2xDc2VoeHpRWm1aRjlqckdrNTdMQnVscjQySWxGRU1tZllHS1JjVDRRVHVNeVJ5aFdsX0xkdkZ4aWJwVkUwTVdhdzMtUWtlb1hoSkNEOWYzN2JrZDJHTWpVWk1FRFFtMEkwYXJ3WFIzSDNvWThfTkZQTHNmVklCSGE2RjA5Tm1XRTZKV08xdGw0MnpLeHdrSThmS3lqMFQ3LVFvWkFSS1J1TmtzUmVCY1NoTGJ4M3lDc1lQcHlkUHhYTDZlQVppZTJrcWsxNlY3VkhJNDRHVFAweWkxNDNHbHJ1eGlaemdocDBVOWVGb09QMmxpS1FZaDNHcloyT04tcUIxSXNFTThFWFlSeVh5c3c2a3psWXpma3lBeVlvc00yUGVMbWw4cENNT2I5MEFFU2xUY0Q1aTZxRVBzeUgteDFlTWthMjZ2aEdmTmVUcVVkNEhpWmdVN19TazNEOFNXcTRzX0xBc0ljZ1IyeTE5VV9RZWRnVjg3dnV4U0FlR0pyZ1hqU2VLYU9vTGhVTzB1RnRUMkhTcUd6Vkt0Yl9zMXJnMG5QNVlTamRlME80dTA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:25:02+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-c705d902c5bf7a4a6c86",
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
@@ -959,6 +971,18 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1022,18 +1046,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-493e33e2519a3f399c08",
       "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
@@ -1056,6 +1068,18 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-818f2287e609f6ec09d4",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7c95935eeb4bbe66c953",
@@ -1094,9 +1118,9 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-3c721b0e1669f2919786",
+      "id": "sofi-press-068a49e698c479e0d633",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Payward Partner to Connect Banking and Digital Asset Markets",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbDJQWUhxbHFDRUNXTVZvQXl1ZGZFWk5kRWQtNmV4UXFvZllXNTkxT1gxRk1sSnVDeUYwSXd6aVBRQTE4VGt4R292d2lNaFJrMW5fTUk0dHRpZGR3LVhuMHVreHpIRDhEeVJ3Sl8wb3Faclh3MHVlbEtfemNBa3lPMzFiMG5hRlBxUmtGYTV4V2lzeVhQR1FCQ2NreGhlYUt4NmxlQkdkM0JBUElJVGt5bXk4clBURnJOVE1UV1Y2NjNHWWFsVVBqYXR2dHA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTVLeng0bVlrVjI3cmEzR2NLQlQ1Q0NpYjV6UXE3bnE5WDFUcXlFbWlNeFY4QkpwTHFlX1Y5MkJ3dHRuSkVXU1BvOGE2dHRycDMtcFVuUk9xdGVWeWxDNU9qMmV2Y3NTaW9uSTNXTkVLX0p3d1NHN1Z1TzBoRFo4c2plcGVSbnF4TnJJbDNiV0Q1TmZNX1BpVU5WeHRfdkMtUUI4empwZGZCMWF2QWthU3BKYS1EYnlqdVFjcA?oc=5",
       "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-03T07:00:00+00:00",
       "sourceId": "sofi-press",
@@ -1212,18 +1236,6 @@
       "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-46b3da78491d20bf3047",
-      "title": "Cascadia Pizza Co. Returns to Square to Power Its Next Chapter of National Franchise Growth",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY1NjMy1MWkxDNm8ybzc4S3lEckhneUNMelVvVXZuRVVvOHBTQk9HblE3d04wcjRWLWR6LXBldDREVFZCY016MFpwQzI2OU8tbkhGb0VOd0dQekZ1a3VqRlhWdEYzMElabG9EZ3lWVkZnWlF4bERGT3hQME9LV1FIS2s1N2ZEQmwtR0hGRHBfODJlOUw2WWtlU1dBdTQzTXN3UXh4LXl6bk8wTmRsXzVPUXdzUncxT054YUV5Y0ZKVDRlb1VZMDY2Z1piLTB3czlVcUZoVjAycmRQLU1uQmh3d1NKcS12MWEySzF1ME16Zktxb1J5aFQ0?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-26T14:17:55+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-1644873c0da93fdc8a01",
@@ -1368,30 +1380,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1742,6 +1730,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "marqeta-blog-90db3b2ee015e64f2565",
+      "title": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits Article",
+      "link": "https://www.marqeta.com/blog/how-shoppers-use-credit-and-the-card-that-fits",
+      "summary": "Issuing/processing Consumer How Shoppers Use Credit, and the Card That Fits",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
       "title": "Wise Launches International Money Transfer Service in Chile",
       "link": "https://newsroom.wise.com/en-NAM/268425-wise-launches-international-money-transfer-service-in-chile/",
@@ -1788,18 +1788,6 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-0e0292955c83165e7030",
@@ -2088,18 +2076,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
@@ -2690,18 +2666,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2880,6 +2844,42 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2961,7 +2961,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 2,
+      "itemCount": 1,
       "message": "OK via official fallback RSS"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
