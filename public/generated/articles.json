@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-09-21T10:45:55.967623+00:00",
+  "generatedAt": "2026-09-21T17:06:27.606029+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-658f98e3c9afdd9e137e",
+      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice presid",
+      "publishedAt": "2026-09-21T16:00:10+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-3c53544af87c504f1065",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, war",
+      "publishedAt": "2026-09-21T16:00:00+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-e842b9d30e0870abdbcb",
+      "title": "Expanding free AI training for educators",
+      "link": "https://blog.google/products-and-platforms/products/education/digital-promise/",
+      "summary": "At the United Nations General Assembly in New York City, Google.org is committing $4 million to Digital Promise to help equip teachers and faculty with free, practical A…",
+      "publishedAt": "2026-09-21T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-2e097cc6d187d9509c4f",
+      "title": "How Amazon and Prime make everyday life more affordable for American families",
+      "link": "https://www.aboutamazon.com/news/retail/amazon-prime-affordable-everyday-savings?utm_source=rss",
+      "summary": "Amazon and Prime deliver billions in savings every year—averaging over $1,000 per customer for 100+ million customers—through everyday low prices, deals, time-saving free delivery, and fuel savings—plus prescription savings.",
+      "publishedAt": "2026-09-21T15:00:18+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-a34d58b87503fec2d9bc",
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Securi",
+      "publishedAt": "2026-09-21T14:51:34+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-81d5a6b08ab3a898f5e8",
+      "title": "Amazon Invests Another $1.9 Billion in the Delivery Service Partner Program with New Safety Initiatives and AI-Powered Technology",
+      "link": "https://press.aboutamazon.com/2026/9/amazon-invests-another-1-9-billion-in-the-delivery-service-partner-program-with-new-safety-initiatives-and-ai-powered-technology",
+      "summary": "Amazon has invested $21.7 billion to support DSPs and their Delivery Associates and their drivers throughout the eight-year program history",
+      "publishedAt": "2026-09-21T13:15:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-319062940350764e7438",
+      "title": "Amazon invests another $1.9 billion in the Delivery Service Partner program, launching new safety initiatives and AI-powered technology",
+      "link": "https://www.aboutamazon.com/news/transportation/amazon-dsp-program-investment-2026?utm_source=rss",
+      "summary": "Amazon has invested $21.7 billion to support DSPs and their Delivery Associates throughout the eight-year program history.",
+      "publishedAt": "2026-09-21T13:00:22+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-a4a1cb8e42779c00a33d",
+      "title": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/",
+      "summary": "With tools like a multimodal cursor, smart dictation, and more, Googlebook anticipates your needs to simplify your day.",
+      "publishedAt": "2026-09-21T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-edea6f83f0bb55124110",
+      "title": "Premium materials and striking design set Googlebook apart",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
+      "summary": "Discover a versatile collection of Googlebook devices featuring stunning displays, advanced processors, and premium design.",
+      "publishedAt": "2026-09-21T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-d8ee849e7061a0a782fb",
+      "title": "Googlebook: The laptop your Android phone has been waiting for",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+      "summary": "Googlebook pre-orders begin September 21, and they'll be on shelves October 4.",
+      "publishedAt": "2026-09-21T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-a4ae64181a9872478003",
       "title": "5 Companies Using NVIDIA AI for Clean Energy",
@@ -48,6 +168,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-0c19cd89ee6f7bddd2cc",
+      "title": "You can now participate in IPOs on Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PTGpEb1FpWVR0SVF4WXhBRFFwR1lRc3V4NGVOWW9URGFRWWZlcURsMVJ0Tm1lZE1aWkxaeTlZNFdkVGE4TEE2MF8yWTMyT202VGRkU0tvMmw1Sm4zS19GMzJGM2dGZUZFLVlMVXpLRVJiMTZBNGdzQ1FPZWJTUQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-21T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-a467573e4e0c85fbe9cb",
@@ -470,18 +602,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-54b52e1c51f32e2b5940",
-      "title": "What is the Amazon Influencer Program? Your questions answered.",
-      "link": "https://www.aboutamazon.com/news/retail/how-amazon-influencer-program-works?utm_source=rss",
-      "summary": "The program helps social media creators earn revenue by recommending products they love to their followers.",
-      "publishedAt": "2026-09-16T13:00:05+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "paypal-newsroom-998b82ebc692e8d515ed",
       "title": "Venmo Kicks Off 2026-2027 NIL Season with Nine Standout Student-Athletes and Introduces Money Moves",
       "link": "https://newsroom.paypal-corp.com/2026-09-16-Venmo-Kicks-Off-2026-2027-NIL-Season-with-Nine-Standout-Student-Athletes-and-Introduces-Money-Moves",
@@ -516,30 +636,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-e9ee6ea68a3ce82f7801",
-      "title": "Amazon's water conservation and replenishment efforts around the world",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
-      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
-      "publishedAt": "2026-09-16T09:19:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-e7e3b473a14c1d5f9c66",
-      "title": "Reimagining Chicago’s Thompson Center for the next generation",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
-      "summary": "Our new Chicago office at Thompson Center brings together art, community and architecture.",
-      "publishedAt": "2026-09-16T05:01:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-6745b6348540b9cd4470",
@@ -626,18 +722,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-2e5a96b7be79e261b6d2",
-      "title": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
-      "summary": "Our September Pixel Drop is here with an updated Pixel VIP widget, expanded chat Scam Detection, and more.",
-      "publishedAt": "2026-09-15T18:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-038154dcfad7a46146f8",
       "title": "Five-Service Streaming Bundle Launches on Prime Video in the U.S.",
       "link": "https://press.aboutamazon.com/prime-video/2026/9/five-service-streaming-bundle-launches-on-prime-video-in-the-u-s",
@@ -648,30 +732,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-9ac7b06b4a79ae03b6bc",
-      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
-      "summary": "A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
-      "publishedAt": "2026-09-15T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-850203855328faa9151f",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
-      "publishedAt": "2026-09-15T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-a8abc3d9008b168de462",
@@ -806,18 +866,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-e00f10b74c13b96d283e",
-      "title": "Ninth Wave's AI-Powered Compass with Amazon Bedrock Cuts API Integration Time Up to 95%",
-      "link": "https://press.aboutamazon.com/aws/2026/9/ninth-waves-ai-powered-compass-with-amazon-bedrock-cuts-api-integration-time-up-to-95",
-      "summary": "A new white paper co-written with AWS shows that Compass, built on Amazon Bedrock, replaces weeks of manual work with a self-service experience for banks, aggregators, and fintech partners. To download it, go here.",
-      "publishedAt": "2026-09-14T15:33:55.365000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-e44c55b1d936fc27e2d2",
       "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
       "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
@@ -830,16 +878,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "wise-newsroom-1822c7c186c5e8a8c40b",
+      "id": "wise-newsroom-953fac89d2238108e2a3",
       "title": "Wise launches Chequing Account as Canadians live increasingly global lives",
-      "link": "https://newsroom.wise.com/en-NAM/270647-wise-launches-chequing-account-as-canadians-live-increasingly-global-lives/",
-      "summary": "Wise Chequing Account has no monthly fees and comes with free Interac e-TransferⓇ* options, eligibility for CDIC insurance**, and Group Spend.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkFPTWd4cUV1Vk9nOHpPbWhVMnlmMjVQLVhrbkFONXFkRXU3YkJRdkQ3ZEJkV3ZFVnpWNUMzTEVyYVktMm4wN1kxYWlUSEQ2V0pPLVRSMjI1S3dTMFdYVUV5dkxBbmN6ZkJEdWxpMEdwRzJXOUw2VnRTSmdldXExVTAxaURkWE5DdVhXZkFpdkg1TUhWUjdMNzJ6OVRNZFpMc3BRRm8xalQtV2Y4MUxlY0tqbHFTQQ?oc=5",
+      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-14T14:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "klarna-press-e9770fda2cb872cf9ddf",
@@ -864,18 +912,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "wise-newsroom-b5cdab03f81bf5510ab8",
-      "title": "About Get to know us",
-      "link": "https://newsroom.wise.com/en-NAM/about/",
-      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
-      "publishedAt": "2026-09-14T00:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-55ccac68a722ba8e7fc4",
@@ -962,18 +998,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "nvidia-newsroom-c705d902c5bf7a4a6c86",
-      "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
-      "summary": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.",
-      "publishedAt": "2026-09-10T09:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -984,30 +1008,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "nvidia-newsroom-68312a7e6309c1c69d70",
-      "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
-      "summary": "NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX™ AI factories, supporting the nation’s growing demand for AI compute — with up t",
-      "publishedAt": "2026-09-10T00:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-35f3d5ec0662c6210cce",
-      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-      "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14",
-      "publishedAt": "2026-09-09T16:00:42+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "coinbase-blog-224e7601797ff9c6f203",
@@ -1176,18 +1176,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-36cfe43c94ba45e5b45f",
-      "title": "News archive Browse through all our news",
-      "link": "https://newsroom.wise.com/en-NAM/releases/",
-      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
-      "publishedAt": "2026-09-01T00:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-95fccf222f4743b5a382",
@@ -1416,18 +1404,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-f0f534e7989f6eb3e839",
@@ -1778,16 +1754,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
+      "id": "wise-newsroom-c6d0538c1bcd87bda872",
       "title": "Wise Launches International Money Transfer Service in Chile",
-      "link": "https://newsroom.wise.com/en-NAM/268425-wise-launches-international-money-transfer-service-in-chile/",
-      "summary": "New solution offers the ability to move money quickly, with 77% of global transfers on Wise completed in less than 20 seconds, and a digital and convenient experience for Chileans managing international payments.",
-      "publishedAt": "2026-07-21T13:33:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWQ5U0J2bWg0U0RmdTFiSHVUdndTWDBteWc3UDVON2g1Ulk4NXZuTl9sNVJDdWpZVERRTGt3NE43amtBWkdBRFcxN01kTkJQSjUzeVZnLXNwMWxUQUptRU9MYkpHTjFMRGExVzkwdDJFdXNJS3AySUd4dGRYV3lnaC12VTFxNXRUVHFWb3JJTUFwcUwtTk83WDg0V0ZvdDNMV1E?oc=5",
+      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "chime-newsroom-f78c3369235f8cfd9cee",
@@ -1824,18 +1800,6 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-0e0292955c83165e7030",
@@ -2126,18 +2090,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -2170,18 +2122,6 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2294,16 +2234,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-2ef29c9ab9323a54d566",
-      "title": "Featured",
-      "link": "https://newsroom.wise.com/en-NAM/265506-wise-debuts-us-listing-on-nasdaq/",
-      "summary": "May 11, 2026 Wise debuts US listing on Nasdaq Wise (Nasdaq:WSE, LSE:WISE), the global technology company building the best way to move and manage the world’s money, today announces its listing on Nasdaq. Read article",
-      "publishedAt": "2026-05-11T00:00:00+00:00",
+      "id": "wise-newsroom-4114b94598af81ede894",
+      "title": "Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FWTBxeTB6VHhQdFd5eTBvbTlGbVpZZ19RNERMZTBQS09oMHB2eWNfNi1qVUp5OC03M2J3MEtnR2Y3SHpLYzNQcA?oc=5",
+      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-11T07:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-a5454d306bd930dc2141",
@@ -2354,16 +2294,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "wise-newsroom-bd95ccd0ad36cf50271a",
+      "id": "wise-newsroom-d472d2055edc2a53110f",
       "title": "Wise introduces first-of-its-kind multi-currency Interest feature in Canada",
-      "link": "https://newsroom.wise.com/en-NAM/265034-wise-introduces-first-of-its-kind-multi-currency-interest-feature-in-canada/",
-      "summary": "Wise has announced the launch of its new Interest feature for people and businesses in Canada. Wise is the first provider in Canada to enable customers to earn a return on balances held across multiple currencies within one consolidated account.",
-      "publishedAt": "2026-05-04T09:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamJqZmRaRk94V2hkREFMeG5DbnZWb01JRUpybnhTblNreHVvUE9yNG9LNkJuS0JtZnZMSFFZWlVqSWthWEROUDJZcHNsTDlITDRVSWxMTFY4djAyUWFyd25YVWJ6dkZlckpzVTZQdV9SQXJzNEM4STFqWnJaVGJ6QTl2aVB5NVVrdXhkdmZoSFQxTXppbDg0TUtzSm9sQkZMdm1LSktrR2RZSUJfMTFRb2lHelRRMDA?oc=5",
+      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-04T07:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-b3d7a2148aa5458cc3ba",
@@ -2618,30 +2558,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "wise-newsroom-6eaeacbecb3ba12e3911",
-      "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
-      "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
-      "summary": "Cette étape marque la poursuite de la croissance de Wise au Canada et l’expansion de son infrastructure mondiale afin de permettre des paiements internationaux plus rapides et plus abordables",
-      "publishedAt": "2026-01-27T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b29909d6d454fbc97b10",
-      "title": "Wise strengthens its Canadian market investment with Payments Canada membership",
-      "link": "https://newsroom.wise.com/en-NAM/260024-wise-strengthens-its-canadian-market-investment-with-payments-canada-membership/",
-      "summary": "Milestone marks Wise’s continued growth in Canada and the expansion of its global infrastructure to enable faster, more affordable international payments",
-      "publishedAt": "2026-01-27T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2738,6 +2654,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2770,18 +2698,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-bb4d091ac1db0ddac185",
-      "title": "Wise Platform partners with Wealthsimple to offer enhanced international payments services for Canadians",
-      "link": "https://newsroom.wise.com/en-NAM/257478-wise-platform-partners-with-wealthsimple-to-offer-enhanced-international-payments-services-for-canadians/",
-      "summary": "Wealthsimple partners with Wise Platform to offer Canadians fast, low-fee international payments to 30 countries in 10+ currencies directly from the Wealthsimple app or website.",
-      "publishedAt": "2025-11-12T10:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2880,6 +2796,90 @@
       "company": "Dave",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-7d63ac24baea9146c737",
+      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
+      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
+      "publishedAt": "2025-09-29T14:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-8357fec8a7f961d6724e",
+      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
+      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
+      "publishedAt": "2025-09-17T13:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-4854a81e1c5d4a32c472",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFdZMEFNcFREWTNFbUpPVmgtSldndUNQa1hDRXQwOU9Zb0JLaGMwSzlQZ0xiR0RkSVhKTHJGeEdwRzZjalN5TzhGd1hiSDhxamNKNUx0MExNd3A1Mi1Uam9rUHMxYkRmYjc0N1NGWnJOQlk0emozQ1JGemljYmFOckltaFAwQ1FJOGVaWVJKampXSlNoYXlNalJ4bWNYTGNYSkRYNVFFcExPdjg2MkxZTll2a0tMSWYxdTdzWGpjWXBsVmtLbldSdDdZazR6MlZ2VnBTUUxLaFNnSDdlSnJz?oc=5",
+      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3eb1c05282167ed551ac",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BJTm5UQlpHWXFtTE4xZFoyOXYtd0YwVjQ2OFplcFlYakN1ajdocmtub1NGYTR3bFRPM252WG1rTFJvaXFZQkpURXZ4U3F0Q2xaQ0pVS3B3ekFjbWZMbEJfenlnSVVILVVZTjVZdXhRMG83OXRfel9pdkZRQTIyU0FZZmM0RWFZQm9aMER2QWNKU1lPempTT2V5XzY1dlpaT0FnTUN1YXp6NG0yMTE2VmhydDBHaE1INEsyNUEwSnViR3dM?oc=5",
+      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-08T07:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3f21a6fc638be1ef1b4d",
+      "title": "Media kits: Logos and Brand Assets",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zNFhycWkzZ2xndGJHQlM1YWtYSm5oajV2eXJfWnBpNGZuaVRiSWMxN2VlSF9LQl9Ucjc4ODltOFdWVHBLSEhQbk93MFVETnVyUVk3bFZsLXljeEVRSDF1QXRXaG90am8?oc=5",
+      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-28T07:02:14+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3004,10 +3004,10 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 18,
-      "message": "OK"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "klarna-press",
