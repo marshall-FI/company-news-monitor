@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-21T17:06:27.606029+00:00",
+  "generatedAt": "2026-09-21T21:07:04.680675+00:00",
   "articles": [
+    {
+      "id": "about-amazon-110d8e411a91bf1d4257",
+      "title": "Amazon’s carbon-free energy projects contribute $11 billion to US GDP, support nearly 22,000 jobs in local communities",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-carbon-free-energy-economic-impact-study-2026?utm_source=rss",
+      "summary": "Amazon's solar, wind, nuclear, and battery storage investments drove economic growth across the U.S. from 2023 through 2025, per an Oxford Economics study.",
+      "publishedAt": "2026-09-21T19:00:05+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-9d552a651ead7d3a495e",
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help ",
+      "publishedAt": "2026-09-21T18:00:07+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-658f98e3c9afdd9e137e",
       "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
@@ -173,6 +197,18 @@
       "id": "coinbase-blog-0c19cd89ee6f7bddd2cc",
       "title": "You can now participate in IPOs on Coinbase",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PTGpEb1FpWVR0SVF4WXhBRFFwR1lRc3V4NGVOWW9URGFRWWZlcURsMVJ0Tm1lZE1aWkxaeTlZNFdkVGE4TEE2MF8yWTMyT202VGRkU0tvMmw1Sm4zS19GMzJGM2dGZUZFLVlMVXpLRVJiMTZBNGdzQ1FPZWJTUQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-21T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-bd603ae9e5ecaf83907d",
+      "title": "Autopilot: engineering an agentic quality loop for support automation",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX1pWTUlEazdaLU1ybHNHTU1lWXkzc0cxM2xrY1hFMUl3Z0ZaZnlkNGFDTWUyQ21iTzdlZ3pnN1JSbGZxNWtNZWMzRS1GU1pjTk4xdmNfVXBUM1BWZEVZN0tZdnBIZzh0bWJtY2VSTi1BZVJlaHlmSk5USGpuZmRFWENmX2hCejJlQnlReExVU2hlMU4xWWk1UjRoQ3dPTnc?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-21T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -590,18 +626,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-7e6528728c0e0e796b07",
-      "title": "Amazon raises minimum starting pay for full-time core operations employees to $20/hour, with average pay reaching nearly $24/hour",
-      "link": "https://www.aboutamazon.com/news/workplace/amazon-raises-minimum-starting-pay-adds-grocery-banking-benefits?utm_source=rss",
-      "summary": "Amazon invests more than $1.5 billion in higher pay for U.S. core operations employees, alongside new benefits designed to help our teammates’ money go further.",
-      "publishedAt": "2026-09-16T13:00:07+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "paypal-newsroom-998b82ebc692e8d515ed",
       "title": "Venmo Kicks Off 2026-2027 NIL Season with Nine Standout Student-Athletes and Introduces Money Moves",
       "link": "https://newsroom.paypal-corp.com/2026-09-16-Venmo-Kicks-Off-2026-2027-NIL-Season-with-Nine-Standout-Student-Athletes-and-Introduces-Money-Moves",
@@ -878,16 +902,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "wise-newsroom-953fac89d2238108e2a3",
+      "id": "wise-newsroom-1822c7c186c5e8a8c40b",
       "title": "Wise launches Chequing Account as Canadians live increasingly global lives",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkFPTWd4cUV1Vk9nOHpPbWhVMnlmMjVQLVhrbkFONXFkRXU3YkJRdkQ3ZEJkV3ZFVnpWNUMzTEVyYVktMm4wN1kxYWlUSEQ2V0pPLVRSMjI1S3dTMFdYVUV5dkxBbmN6ZkJEdWxpMEdwRzJXOUw2VnRTSmdldXExVTAxaURkWE5DdVhXZkFpdkg1TUhWUjdMNzJ6OVRNZFpMc3BRRm8xalQtV2Y4MUxlY0tqbHFTQQ?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
+      "link": "https://newsroom.wise.com/en-NAM/270647-wise-launches-chequing-account-as-canadians-live-increasingly-global-lives/",
+      "summary": "Wise Chequing Account has no monthly fees and comes with free Interac e-TransferⓇ* options, eligibility for CDIC insurance**, and Group Spend.",
       "publishedAt": "2026-09-14T14:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "klarna-press-e9770fda2cb872cf9ddf",
@@ -912,6 +936,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "wise-newsroom-b5cdab03f81bf5510ab8",
+      "title": "About Get to know us",
+      "link": "https://newsroom.wise.com/en-NAM/about/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-09-14T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-55ccac68a722ba8e7fc4",
@@ -974,30 +1010,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "nvidia-newsroom-0bda131789ef5bde8345",
-      "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-      "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage […]",
-      "publishedAt": "2026-09-10T13:00:18+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -1007,6 +1019,18 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1058,18 +1082,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-493e33e2519a3f399c08",
       "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
@@ -1092,6 +1104,18 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-818f2287e609f6ec09d4",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7c95935eeb4bbe66c953",
@@ -1176,6 +1200,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-36cfe43c94ba45e5b45f",
+      "title": "News archive Browse through all our news",
+      "link": "https://newsroom.wise.com/en-NAM/releases/",
+      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
+      "publishedAt": "2026-09-01T00:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-95fccf222f4743b5a382",
@@ -1368,30 +1404,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1754,16 +1766,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-c6d0538c1bcd87bda872",
+      "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
       "title": "Wise Launches International Money Transfer Service in Chile",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWQ5U0J2bWg0U0RmdTFiSHVUdndTWDBteWc3UDVON2g1Ulk4NXZuTl9sNVJDdWpZVERRTGt3NE43amtBWkdBRFcxN01kTkJQSjUzeVZnLXNwMWxUQUptRU9MYkpHTjFMRGExVzkwdDJFdXNJS3AySUd4dGRYV3lnaC12VTFxNXRUVHFWb3JJTUFwcUwtTk83WDg0V0ZvdDNMV1E?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-21T07:00:00+00:00",
+      "link": "https://newsroom.wise.com/en-NAM/268425-wise-launches-international-money-transfer-service-in-chile/",
+      "summary": "New solution offers the ability to move money quickly, with 77% of global transfers on Wise completed in less than 20 seconds, and a digital and convenient experience for Chileans managing international payments.",
+      "publishedAt": "2026-07-21T13:33:38+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "chime-newsroom-f78c3369235f8cfd9cee",
@@ -1859,18 +1871,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2234,16 +2234,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-4114b94598af81ede894",
-      "title": "Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FWTBxeTB6VHhQdFd5eTBvbTlGbVpZZ19RNERMZTBQS09oMHB2eWNfNi1qVUp5OC03M2J3MEtnR2Y3SHpLYzNQcA?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-11T07:00:00+00:00",
+      "id": "wise-newsroom-2ef29c9ab9323a54d566",
+      "title": "Featured",
+      "link": "https://newsroom.wise.com/en-NAM/265506-wise-debuts-us-listing-on-nasdaq/",
+      "summary": "May 11, 2026 Wise debuts US listing on Nasdaq Wise (Nasdaq:WSE, LSE:WISE), the global technology company building the best way to move and manage the world’s money, today announces its listing on Nasdaq. Read article",
+      "publishedAt": "2026-05-11T00:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-a5454d306bd930dc2141",
@@ -2294,16 +2294,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "wise-newsroom-d472d2055edc2a53110f",
+      "id": "wise-newsroom-bd95ccd0ad36cf50271a",
       "title": "Wise introduces first-of-its-kind multi-currency Interest feature in Canada",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamJqZmRaRk94V2hkREFMeG5DbnZWb01JRUpybnhTblNreHVvUE9yNG9LNkJuS0JtZnZMSFFZWlVqSWthWEROUDJZcHNsTDlITDRVSWxMTFY4djAyUWFyd25YVWJ6dkZlckpzVTZQdV9SQXJzNEM4STFqWnJaVGJ6QTl2aVB5NVVrdXhkdmZoSFQxTXppbDg0TUtzSm9sQkZMdm1LSktrR2RZSUJfMTFRb2lHelRRMDA?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-04T07:00:00+00:00",
+      "link": "https://newsroom.wise.com/en-NAM/265034-wise-introduces-first-of-its-kind-multi-currency-interest-feature-in-canada/",
+      "summary": "Wise has announced the launch of its new Interest feature for people and businesses in Canada. Wise is the first provider in Canada to enable customers to earn a return on balances held across multiple currencies within one consolidated account.",
+      "publishedAt": "2026-05-04T09:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-b3d7a2148aa5458cc3ba",
@@ -2558,6 +2558,30 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "wise-newsroom-6eaeacbecb3ba12e3911",
+      "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
+      "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
+      "summary": "Cette étape marque la poursuite de la croissance de Wise au Canada et l’expansion de son infrastructure mondiale afin de permettre des paiements internationaux plus rapides et plus abordables",
+      "publishedAt": "2026-01-27T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b29909d6d454fbc97b10",
+      "title": "Wise strengthens its Canadian market investment with Payments Canada membership",
+      "link": "https://newsroom.wise.com/en-NAM/260024-wise-strengthens-its-canadian-market-investment-with-payments-canada-membership/",
+      "summary": "Milestone marks Wise’s continued growth in Canada and the expansion of its global infrastructure to enable faster, more affordable international payments",
+      "publishedAt": "2026-01-27T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2654,18 +2678,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2698,6 +2710,18 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-bb4d091ac1db0ddac185",
+      "title": "Wise Platform partners with Wealthsimple to offer enhanced international payments services for Canadians",
+      "link": "https://newsroom.wise.com/en-NAM/257478-wise-platform-partners-with-wealthsimple-to-offer-enhanced-international-payments-services-for-canadians/",
+      "summary": "Wealthsimple partners with Wise Platform to offer Canadians fast, low-fee international payments to 30 countries in 10+ currencies directly from the Wealthsimple app or website.",
+      "publishedAt": "2025-11-12T10:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2834,52 +2858,28 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-4854a81e1c5d4a32c472",
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
       "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFdZMEFNcFREWTNFbUpPVmgtSldndUNQa1hDRXQwOU9Zb0JLaGMwSzlQZ0xiR0RkSVhKTHJGeEdwRzZjalN5TzhGd1hiSDhxamNKNUx0MExNd3A1Mi1Uam9rUHMxYkRmYjc0N1NGWnJOQlk0emozQ1JGemljYmFOckltaFAwQ1FJOGVaWVJKampXSlNoYXlNalJ4bWNYTGNYSkRYNVFFcExPdjg2MkxZTll2a0tMSWYxdTdzWGpjWXBsVmtLbldSdDdZazR6MlZ2VnBTUUxLaFNnSDdlSnJz?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3eb1c05282167ed551ac",
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
       "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BJTm5UQlpHWXFtTE4xZFoyOXYtd0YwVjQ2OFplcFlYakN1ajdocmtub1NGYTR3bFRPM252WG1rTFJvaXFZQkpURXZ4U3F0Q2xaQ0pVS3B3ekFjbWZMbEJfenlnSVVILVVZTjVZdXhRMG83OXRfel9pdkZRQTIyU0FZZmM0RWFZQm9aMER2QWNKU1lPempTT2V5XzY1dlpaT0FnTUN1YXp6NG0yMTE2VmhydDBHaE1INEsyNUEwSnViR3dM?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-08T07:00:00+00:00",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3f21a6fc638be1ef1b4d",
-      "title": "Media kits: Logos and Brand Assets",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zNFhycWkzZ2xndGJHQlM1YWtYSm5oajV2eXJfWnBpNGZuaVRiSWMxN2VlSF9LQl9Ucjc4ODltOFdWVHBLSEhQbk93MFVETnVyUVk3bFZsLXljeEVRSDF1QXRXaG90am8?oc=5",
-      "summary": "Wise Newsroom published an update for Wise relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-28T07:02:14+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3004,10 +3004,10 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK"
     },
     {
       "sourceId": "klarna-press",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
