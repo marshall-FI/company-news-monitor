@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-22T18:57:28.658519+00:00",
+  "generatedAt": "2026-09-22T22:11:33.088568+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-8938e921227a2d8dd80e",
+      "title": "WorkWave Taps Amazon Web Services to Drive Cloud Modernization and AI Engine Across Key Markets",
+      "link": "https://press.aboutamazon.com/aws/2026/9/workwave-taps-amazon-web-services-to-drive-cloud-modernization-and-ai-engine-across-key-markets",
+      "summary": "WorkWave is building on Amazon Web Services to power its WAIve®AI engine, targeting up to 50 percent reduction in cloud costs and accelerating platform performance.",
+      "publishedAt": "2026-09-22T21:43:50.920000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "about-amazon-af812edf8fe57459382b",
       "title": "Inside a decade of Amazon chip design, built workload by workload",
@@ -24,6 +36,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-4172d9c7261bfbc8214e",
+      "title": "Accenture Edge Collaborates with AWS to Help Mid-Market Organizations Harness AI and Accelerate Business Impact",
+      "link": "https://press.aboutamazon.com/aws/2026/9/accenture-edge-collaborates-with-aws-to-help-mid-market-organizations-harness-ai-and-accelerate-business-impact",
+      "summary": "Accenture Edge and AWS collaboration includes six mid-market offerings available in AWS Marketplace",
+      "publishedAt": "2026-09-22T16:52:58.565000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-9af47c5f6082b36c326f",
@@ -854,30 +878,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-181860f56dd3812358f3",
-      "title": "Amazon podnosi pensje pracowników wynagradzanych godzinowo – od 6 472 zł do 8 404 zł brutto miesięcznie",
-      "link": "https://press.aboutamazon.com/pl/wiadomosci/praca-w-amazon/2026/9/amazon-podnosi-pensje-pracownikow-wynagradzanych-godzinowo-od-6-472-zl-do-8-404-zl-brutto-miesiecznie",
-      "summary": "Od 1 października Amazon podnosi pensje pracowników wynagradzanych stawką godzinową w 12 centrach logistycznych w Polsce. Pensje wynosić będą od 6 472 do 8 404 zł brutto miesięcznie, łącznie ze specjalną 15-proc. premią za regularną obecność zgodnie z grafikiem. Wysokość pensji zależy od stażu…",
-      "publishedAt": "2026-09-15T08:01:02.909000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-54b5fcc362a5098bbbcb",
-      "title": "La Festa delle Offerte Prime torna il 6 e 7 ottobre, due giorni di offerte esclusive dedicate ai clienti Prime per inaugurare la stagione autunnale",
-      "link": "https://press.aboutamazon.com/it/news/company-news/2026/9/festa-offerte-prime-6-7-ottobre-offerte-esclusive",
-      "summary": "Un’occasione unica per risparmiare grazie a centinaia di migliaia di offerte in tutte le categorie, tra cui casa, cucina, bellezza, salute e cura della persona, tecnologia e elettronica, moda e giocattoli, con grandi offerte su marchi popolari come Foppapedretti, ghd, Amazon Basics, Electrolux,…",
-      "publishedAt": "2026-09-15T05:11:11.921000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-85b21cd9d799d2d4e8d4",
       "title": "Costco UK members gain a new way to pay with Affirm",
       "link": "https://investors.affirm.com/news-releases/news-release-details/costco-uk-members-gain-new-way-pay-affirm",
@@ -998,23 +998,35 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-224e7601797ff9c6f203",
+      "title": "Coinbase and Morpho bring USDC earning to Brazil",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUHRxLUdkbjJrM0xnOVUzLUtVeFJJZ0tXTEIyaUlnN3RpeWFXaWNaYWZ4bDUzUXhjUmVNeUN6SWM2aUF2SU1jd2tLYWdpWUlWVGNVYXYtdVMxLU40dktsa2FlZFZoQUxoWnc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-09T12:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -1058,18 +1070,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-493e33e2519a3f399c08",
       "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
@@ -1092,6 +1092,18 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-818f2287e609f6ec09d4",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7c95935eeb4bbe66c953",
@@ -1380,30 +1392,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1814,18 +1802,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -1883,18 +1859,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2102,6 +2066,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "toast-product-news-03bc0f726b286c6bc6ec",
+      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-16T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-a0d5606912161961133e",
       "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGppUklmZmdvaEoyT1hKNVNHd3Blbm05eTB5c1JaWEpCaXdITHN4bkEtRndCUjh6UXdxbEM0b1BLUzlqZFA1UzR0U0FYV0hqSUNNWUNkNU1ZcS04ejNDQTJ6bkZDTUxrVFlLLU5NTzhSalJrMF9OM0JmR3k2bUxNbUp5SzhIYUVtRXVfMXFZVmdmLTlfcEx4S2xmNEJSVy1kd1p6WHJhRFJmLTdCNDEwSks1Tk9vNmlMWGY3WWFRZ3RBOVRBaTVoQUNOUEJ5azFjLS1pY0tvMWFlenJGWWx2SXBZOFVwc0ZCci05ZQ?oc=5",
@@ -2112,18 +2088,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
@@ -2158,18 +2122,6 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2880,6 +2832,54 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-8357fec8a7f961d6724e",
+      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
+      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
+      "publishedAt": "2025-09-17T13:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dave-press-190d95897f79b5b83005",
+      "title": "Dave Introduces CashAI v5.5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
