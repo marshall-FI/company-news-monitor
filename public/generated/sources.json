@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:00:29.013705+00:00",
+  "generatedAt": "2026-09-22T14:56:22.742360+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -140,10 +140,10 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 5,
-      "message": "OK"
+      "itemCount": 13,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "galileo-blog",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ]
 }
