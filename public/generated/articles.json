@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:07:04.680675+00:00",
+  "generatedAt": "2026-09-22T00:09:59.632058+00:00",
   "articles": [
     {
       "id": "about-amazon-110d8e411a91bf1d4257",
@@ -684,18 +684,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-15c2be817c3f38416a4f",
-      "title": "Coinbase and Stablecore bring stablecoin and digital asset services to community and regional banks and credit unions",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPckJvTHpCRnVNTUd0MDhzYXhTNHZfUDNweFpsUXlUZ2NTbGxGMG9KbzRBbGJhQ29vV1Q2cklhaUlLd3I1RTZ6ODlYRDVYMWhrZDhvUG5kREMtWlNRSllsNDllcXZXMktaVG5Ya0NSR2ZvS3pVUVBLS1ktZjRZQkc1MFljUjNwcHlZZ2hJSXV0OG50ZC1vMWtrWlhmM0RDaHZiYmtBWkZ4SVYyR1ZGclJNTl9DbHpfdy1RejlJcUVibWdFMDIxM1kwam5ZZTdDd0NmQ0wxT3Q4RE4tWnFZaFZVNA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-16T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-0dfad1614e4e7120b10b",
@@ -2558,6 +2546,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-7e092cfe4241063ee67f",
+      "title": "7 Leaves Cafe Plans Expansion, Chooses Square as its Commerce Technology Partner",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaHVpV0trVGdkV1dYTkY5amJPVklERkJqZTdUcHh3VFAwbTY5dWVkVjZHV1J1RDBCM3pfSmxueGJ2SC16VGh6UVNPbUZfU3p4Zm8xX2padGRuT0xrUVc3NE9wSnFPVHlleEY1ZGtHaWg2ZjAySVpZQ2lJbUdabmJJaVZUYzNaMklUNF9tWkRVdUI2QVdXV180ZkdMdmJHNVk0NXE3TlFDMU9FQ3pxVFNpSkV6Ujlld1QyaHFHaThPTTV3UFBKOC1KUmZ3R3FzR1VJNDB1NEpuckFSQUlYbzB0aktZR3lacHc?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-29T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
       "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
       "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
@@ -2870,16 +2870,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
