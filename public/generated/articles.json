@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-23T06:01:25.307054+00:00",
+  "generatedAt": "2026-09-23T11:38:03.750426+00:00",
   "articles": [
+    {
+      "id": "google-blog-4a8e51112542bedc72ae",
+      "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
+      "link": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
+      "summary": "We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages.",
+      "publishedAt": "2026-09-23T08:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-b47676cbdeb2ff770837",
+      "title": "How Amazon is preparing for the energy needs of the future",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-updates?utm_source=rss",
+      "summary": "Learn how we're supporting the transition to carbon-free energy and powering our business with sustainability in mind.",
+      "publishedAt": "2026-09-23T07:02:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-8adbfc6aa0bd150c41af",
       "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
@@ -60,6 +84,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-21ad8c4846799ccb69ed",
+      "title": "Amazon and Affirm partner to offer UK customers new instalment options",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/amazon-and-affirm-partner-offer-uk-customers-new-instalment",
+      "summary": "Amazon.co.uk customers can now apply for financing on eligible purchases in plans from 3 to 48 months, all with no late or hidden fees London, 23 September – Starting today, Amazon customers in the UK have a new way to pay for their purchases with the launch of instalment options from Affirm.",
+      "publishedAt": "2026-09-22T17:23:37+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "amazon-press-archive-4172d9c7261bfbc8214e",
@@ -458,18 +494,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-c8e573c2249a6a1921c5",
-      "title": "What AWS's chief AI and technology officer told employees about the future of AI",
-      "link": "https://www.aboutamazon.com/news/aws/aws-cto-future-of-ai?utm_source=rss",
-      "summary": "At the AWS Global Meeting, Matt Wood drew a parallel between AI today and cloud's early days—and brought a live demo to prove the future is already here.",
-      "publishedAt": "2026-09-17T22:40:57+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-590df77dc8c3726e2134",
       "title": "Making global data easier to explore",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
@@ -658,18 +682,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-69e6db2927494ad5568d",
-      "title": "5 things to know about teens' views on AI today",
-      "link": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/",
-      "summary": "Findings from our research with RXN show teens are thoughtful and curious about AI.",
-      "publishedAt": "2026-09-16T15:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -996,6 +1008,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
@@ -2018,18 +2042,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "affirm-news-1f305f2e51a1722fb245",
-      "title": "Backcountry and Affirm partner to give outdoor enthusiasts a transparent way to pay over time",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/backcountry-and-affirm-partner-give-outdoor-enthusiasts",
-      "summary": "SALT LAKE CITY & SAN FRANCISCO --(BUSINESS WIRE)--Jun. 25, 2026-- The best outdoor experiences often start long before the trailhead, with the gear that helps make them possible. That's why Backcountry and Affirm (NASDAQ: AFRM) have partnered to give outdoor enthusiasts a clearer, more flexible way",
-      "publishedAt": "2026-06-25T13:01:47+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shopify-pressroom-7b22495b4fef395ea821",
       "title": "Selling everything, everywhere, all at once: The Spring '26 Edition",
       "link": "https://www.shopify.com/news/spring-26-edition-merchant",
@@ -2064,18 +2076,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-03bc0f726b286c6bc6ec",
-      "title": "Toast Announces Toast Lab Initiative for Boston Restaurant Operators",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53RklueEF6Q3BYT0M5WTFhamRiSEVuVnlXem1HdGQxakhGemdKWXVSdElxbzhsQlVEQms2cmIxNXV1MUFwYi13Uk9IMXJuTzJX?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-16T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-a0d5606912161961133e",
@@ -2122,6 +2122,18 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2868,18 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 13,
+      "itemCount": 12,
       "message": "OK via official fallback RSS"
     },
     {
