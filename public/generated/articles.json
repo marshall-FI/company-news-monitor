@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-22T22:11:33.088568+00:00",
+  "generatedAt": "2026-09-23T00:35:28.050232+00:00",
   "articles": [
+    {
+      "id": "google-blog-7d7a743a99ea29b1b939",
+      "title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/",
+      "summary": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
+      "publishedAt": "2026-09-22T23:50:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "amazon-press-archive-8938e921227a2d8dd80e",
       "title": "WorkWave Taps Amazon Web Services to Drive Cloud Modernization and AI Engine Across Key Markets",
@@ -650,18 +662,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-a7d939384a73b06968e3",
-      "title": "Boost your holiday sales with these agentic commerce updates",
-      "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
-      "summary": "Help boost holiday sales with agentic commerce updates and product feed best practices from Google.",
-      "publishedAt": "2026-09-16T14:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "chime-newsroom-ae3731fb915fa8fc22b4",
       "title": "Chime Opens New Office in New York City",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-opens-new-office-new-york-city",
@@ -1019,18 +1019,6 @@
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-224e7601797ff9c6f203",
-      "title": "Coinbase and Morpho bring USDC earning to Brazil",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUHRxLUdkbjJrM0xnOVUzLUtVeFJJZ0tXTEIyaUlnN3RpeWFXaWNaYWZ4bDUzUXhjUmVNeUN6SWM2aUF2SU1jd2tLYWdpWUlWVGNVYXYtdVMxLU40dktsa2FlZFZoQUxoWnc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-09T12:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1438,18 +1426,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2880,6 +2856,30 @@
       "company": "Dave",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
