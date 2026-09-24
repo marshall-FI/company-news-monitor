@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:13:00.079694+00:00",
+  "generatedAt": "2026-09-24T22:26:53.022235+00:00",
   "articles": [
     {
       "id": "google-blog-318da1acec02e8b41e93",
@@ -183,9 +183,9 @@
     },
     {
       "id": "about-amazon-fce805888ecbe2e505c6",
-      "title": "Merchants can now offer Amazon Prime delivery on their own websites at no additional cost",
+      "title": "Merchants can now add fast, free Prime delivery to their own websites and save up to 25% on fulfillment fees with Amazon Supply Chain Services",
       "link": "https://www.aboutamazon.com/news/retail/amazon-mcf-prime-delivery-merchant-websites?utm_source=rss",
-      "summary": "Hundreds of thousands of merchants using Amazon's fulfillment network can activate fast, free Prime delivery in minutes—no changes to checkout, payments, or store policies required.",
+      "summary": "Amazon Supply Chain Services customers who enroll in Multichannel Fulfillment, along with merchants already using MCF, can now add the Prime badge and delivery to their websites and separately save 15-25% on fulfillment fees.",
       "publishedAt": "2026-09-24T09:58:21+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
@@ -624,18 +624,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-0c19cd89ee6f7bddd2cc",
@@ -1430,6 +1418,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "paypal-newsroom-40d67513bd2032afea57",
       "title": "Pay Your Way, Play Your Way: Venmo Is Now on Google Play",
       "link": "https://newsroom.paypal-corp.com/2026-08-10-Pay-Your-Way-Play-Your-Way-Venmo-Is-Now-on-Google-Play",
@@ -1907,6 +1907,18 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2498,18 +2510,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
-      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
-      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
-      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
-      "publishedAt": "2026-03-17T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
       "title": "Circle Appoints Kirk Koenigsbauer to Board of Directors",
       "link": "https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors",
@@ -2702,10 +2702,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "dlocal-blog-96838278262a996b466b",
+      "id": "dlocal-blog-66691f202143b52d970a",
       "title": "How global merchants can simplify Buy Now, Pay Later (BNPL) integrations in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
-      "summary": "Learn how a single Buy Now, Pay Later integration helps global merchants access millions of new buyers and increase sales in emerging markets.",
+      "link": "https://www.dlocal.com/blog/clarice-leaman/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
+      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-12-11T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2714,10 +2714,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "dlocal-blog-b9d6011303e510bd6453",
+      "id": "dlocal-blog-632f97748c7870dca937",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
-      "summary": "This year’s numbers confirm what we’re seeing across markets: payment preference is local, flexible, and mobile-first.",
+      "link": "https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
+      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-12-04T15:43:33+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2738,10 +2738,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "dlocal-blog-cbe8d54d26ffb21edcb4",
+      "id": "dlocal-blog-e05b68ca573ee5ff26fb",
       "title": "Latin America: How real-time and mobile rails are setting a new baseline",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/latin-america-how-real-time-and-mobile-rails-are-setting-a-new-baseline/",
-      "summary": "Real-time rails, mobile-first innovation, and hybrid payment ecosystems are transforming Latin America into one of the fastest-growing digital payments regions.",
+      "link": "https://www.dlocal.com/blog/clarice-leaman/latin-america-how-real-time-and-mobile-rails-are-setting-a-new-baseline/",
+      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-11-18T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2858,10 +2858,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "dlocal-blog-7d63ac24baea9146c737",
+      "id": "dlocal-blog-0ae716a1bd51cdae4a7f",
       "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
+      "link": "https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
+      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-09-29T14:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",

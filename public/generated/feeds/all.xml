@@ -4,7 +4,7 @@
     <title>Company News Monitor - All</title>
     <link>https://company-news-monitor.future-inves-2634.chatgpt-team.site</link>
     <description>Generated company news feed.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 19:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:26:53 +0000</lastBuildDate>
     <item>
       <title>5 ways to upgrade your study habits with Chrome</title>
       <link>https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</link>
@@ -126,10 +126,10 @@
       <source>Google Blog</source>
     </item>
     <item>
-      <title>Merchants can now offer Amazon Prime delivery on their own websites at no additional cost</title>
+      <title>Merchants can now add fast, free Prime delivery to their own websites and save up to 25% on fulfillment fees with Amazon Supply Chain Services</title>
       <link>https://www.aboutamazon.com/news/retail/amazon-mcf-prime-delivery-merchant-websites?utm_source=rss</link>
       <guid isPermaLink="false">about-amazon-fce805888ecbe2e505c6</guid>
-      <description>Hundreds of thousands of merchants using Amazon's fulfillment network can activate fast, free Prime delivery in minutes—no changes to checkout, payments, or store policies required.</description>
+      <description>Amazon Supply Chain Services customers who enroll in Multichannel Fulfillment, along with merchants already using MCF, can now add the Prime badge and delivery to their websites and separately save 15-25% on fulfillment fees.</description>
       <pubDate>Thu, 24 Sep 2026 09:58:21 +0000</pubDate>
       <source>About Amazon</source>
     </item>
@@ -420,14 +420,6 @@
       <description>Milano, 21 settembre 2026 – Amazon annuncia il lancio di "Aggiungi alla Consegna", una nuova funzionalità disponibile per i clienti Prime in Italia che consente di aggiungere prodotti idonei a una consegna Amazon già in arrivo, anche dopo aver completato un ordine. Pensata per offrire maggiore…</description>
       <pubDate>Mon, 21 Sep 2026 08:05:00 +0000</pubDate>
       <source>Amazon Press Archive</source>
-    </item>
-    <item>
-      <title>Quarterly Results</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5</link>
-      <guid isPermaLink="false">sofi-press-ee8fca9623ab4d9f800e</guid>
-      <description>SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.</description>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
-      <source>SoFi Press</source>
     </item>
     <item>
       <title>You can now participate in IPOs on Coinbase</title>
@@ -958,6 +950,14 @@
       <source>TSMC Latest News</source>
     </item>
     <item>
+      <title>2026/08/11 TSMC Board of Directors Meeting Resolutions</title>
+      <link>https://pr.tsmc.com/english/news/3332</link>
+      <guid isPermaLink="false">tsmc-news-b460603e59d7512c7373</guid>
+      <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+      <source>TSMC Latest News</source>
+    </item>
+    <item>
       <title>Pay Your Way, Play Your Way: Venmo Is Now on Google Play</title>
       <link>https://newsroom.paypal-corp.com/2026-08-10-Pay-Your-Way-Play-Your-Way-Venmo-Is-Now-on-Google-Play</link>
       <guid isPermaLink="false">paypal-newsroom-40d67513bd2032afea57</guid>
@@ -1276,6 +1276,14 @@
       <description>New data reveals the gap between feeling ready and actually starting, and what founders who crossed it want you to know.</description>
       <pubDate>Mon, 13 Jul 2026 13:57:32 +0000</pubDate>
       <source>Shopify Pressroom</source>
+    </item>
+    <item>
+      <title>2026/07/13 TSMC June 2026 Revenue Report</title>
+      <link>https://pr.tsmc.com/english/news/3323</link>
+      <guid isPermaLink="false">tsmc-news-765e336848670860124f</guid>
+      <description>TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.</description>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+      <source>TSMC Latest News</source>
     </item>
     <item>
       <title>Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article</title>
@@ -1670,14 +1678,6 @@
       <source>SoFi Press</source>
     </item>
     <item>
-      <title>Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article</title>
-      <link>https://www.marqeta.com/blog/the-future-of-payments-is-already-here</link>
-      <guid isPermaLink="false">marqeta-blog-5b9e10e4e72eca9105f0</guid>
-      <description>Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.</description>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <source>Marqeta Blog</source>
-    </item>
-    <item>
       <title>Circle Appoints Kirk Koenigsbauer to Board of Directors</title>
       <link>https://www.circle.com/pressroom/circle-appoints-kirk-koenigsbauer-to-board-of-directors</link>
       <guid isPermaLink="false">circle-pressroom-2fda7cb8a911589f5ba5</guid>
@@ -1807,17 +1807,17 @@
     </item>
     <item>
       <title>How global merchants can simplify Buy Now, Pay Later (BNPL) integrations in emerging markets</title>
-      <link>https://www.dlocal.com/blog/markets-and-consumers/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/</link>
-      <guid isPermaLink="false">dlocal-blog-96838278262a996b466b</guid>
-      <description>Learn how a single Buy Now, Pay Later integration helps global merchants access millions of new buyers and increase sales in emerging markets.</description>
+      <link>https://www.dlocal.com/blog/clarice-leaman/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/</link>
+      <guid isPermaLink="false">dlocal-blog-66691f202143b52d970a</guid>
+      <description>dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Thu, 11 Dec 2025 13:00:00 +0000</pubDate>
       <source>dLocal Blog</source>
     </item>
     <item>
       <title>Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next</title>
-      <link>https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/</link>
-      <guid isPermaLink="false">dlocal-blog-b9d6011303e510bd6453</guid>
-      <description>This year’s numbers confirm what we’re seeing across markets: payment preference is local, flexible, and mobile-first.</description>
+      <link>https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/</link>
+      <guid isPermaLink="false">dlocal-blog-632f97748c7870dca937</guid>
+      <description>dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Thu, 04 Dec 2025 15:43:33 +0000</pubDate>
       <source>dLocal Blog</source>
     </item>
@@ -1831,9 +1831,9 @@
     </item>
     <item>
       <title>Latin America: How real-time and mobile rails are setting a new baseline</title>
-      <link>https://www.dlocal.com/blog/markets-and-consumers/latin-america-how-real-time-and-mobile-rails-are-setting-a-new-baseline/</link>
-      <guid isPermaLink="false">dlocal-blog-cbe8d54d26ffb21edcb4</guid>
-      <description>Real-time rails, mobile-first innovation, and hybrid payment ecosystems are transforming Latin America into one of the fastest-growing digital payments regions.</description>
+      <link>https://www.dlocal.com/blog/clarice-leaman/latin-america-how-real-time-and-mobile-rails-are-setting-a-new-baseline/</link>
+      <guid isPermaLink="false">dlocal-blog-e05b68ca573ee5ff26fb</guid>
+      <description>dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Tue, 18 Nov 2025 13:00:00 +0000</pubDate>
       <source>dLocal Blog</source>
     </item>
@@ -1911,9 +1911,9 @@
     </item>
     <item>
       <title>Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail</title>
-      <link>https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/</link>
-      <guid isPermaLink="false">dlocal-blog-7d63ac24baea9146c737</guid>
-      <description>Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.</description>
+      <link>https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/</link>
+      <guid isPermaLink="false">dlocal-blog-0ae716a1bd51cdae4a7f</guid>
+      <description>dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.</description>
       <pubDate>Mon, 29 Sep 2025 14:00:00 +0000</pubDate>
       <source>dLocal Blog</source>
     </item>
