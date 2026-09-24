@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-09-24T10:03:54.238153+00:00",
+  "generatedAt": "2026-09-24T15:08:54.156379+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-d1e7107e863f4f8a8586",
+      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a coalition of global resear",
+      "publishedAt": "2026-09-24T14:00:50+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-508df2c327e989674eeb",
+      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a 12-month GeForce NOW Ultimate",
+      "publishedAt": "2026-09-24T13:00:36+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-7a64b7e7a178cb801e12",
+      "title": "Sellers can now manage sales across Amazon, eBay, Shopify, TikTok, and Walmart from Seller Central",
+      "link": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools?utm_source=rss",
+      "summary": "Multichannel selling tools are a new offering in Amazon’s Seller Central that connect orders, listings, and analytics across other channels, giving sellers one place to run their entire business.",
+      "publishedAt": "2026-09-24T13:00:11+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-9b80ee7ac31b902714cf",
+      "title": "Amazon announces new tools and services to help sellers go global from day one",
+      "link": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools?utm_source=rss",
+      "summary": "Only 30% of Amazon sellers list in more than one country. New capabilities spanning compliance, logistics, and the selling experience are designed to change that.",
+      "publishedAt": "2026-09-24T13:00:05+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-5e4e2324e77ceb852b04",
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "summary": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+      "publishedAt": "2026-09-24T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-dcc7aad233eb30ec99bd",
+      "title": "Helping 25,000 veterans and military families build careers in skilled trades",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
+      "summary": "Google.org is supporting organizations to help veterans and military families find careers in skilled trades.",
+      "publishedAt": "2026-09-24T12:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-520fc061f500db6ce42e",
+      "title": "Merchants Can Now Add Fast, Free Prime Delivery to Their Websites and Save Up to 25% on Fulfillment Fees with Amazon Supply Chain Services",
+      "link": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
+      "summary": "Available now, Amazon Supply Chain Services (ASCS) customers who enroll in Multichannel Fulfillment (MCF), along with the hundreds of thousands of U.S. merchants already using MCF, can add the Prime badge and delivery to their websites at no additional cost",
+      "publishedAt": "2026-09-24T10:01:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "google-blog-aa5f19b1f33587234978",
+      "title": "Turning cultural artifacts into interactive learning companions",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
+      "summary": "Uncover the history of nearly 200 historical objects, or put your visual recall to the test in a freshly hung exhibition.",
+      "publishedAt": "2026-09-24T10:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-fce805888ecbe2e505c6",
       "title": "Merchants can now offer Amazon Prime delivery on their own websites at no additional cost",
@@ -326,18 +422,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-d546cedf54ab522d80a1",
-      "title": "AWS becomes first cloud provider approved for NATO RESTRICTED workloads across all member nations",
-      "link": "https://www.aboutamazon.com/news/aws/aws-first-cloud-provider-nato-restricted-workloads?utm_source=rss",
-      "summary": "AWS is the first cloud provider to have its cloud capabilities approved for use by all NATO member nations when handling information at the NATO RESTRICTED level.",
-      "publishedAt": "2026-09-22T15:45:09+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "coinbase-blog-8bdca9fb39e4021646c2",
       "title": "Consumer Protection Tuesday: Taking Down Evil Tokens",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OUDZzVXF4U1RYX2hQNjFvLTNLdGxjSWdWUHNfUTFqT1c3WmlLWEtpQnlMUlgxaHZMUEQ0OWhYQkJyXzBWRFJrcEN6NHZVOHRjeGdQNEM5VE9Jb1cxSVB4R2Uydw?oc=5",
@@ -396,18 +480,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-1f964ab46108dab145ad",
-      "title": "Amazon Leo is bringing high-quality satellite internet to Uzbekistan",
-      "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-uzbekistan?utm_source=rss",
-      "summary": "Amazon Leo has partnered with telecoms leader Uztelecom to extend connectivity where it’s needed most.",
-      "publishedAt": "2026-09-22T08:30:16+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-9d552a651ead7d3a495e",
@@ -482,34 +554,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-a4a1cb8e42779c00a33d",
-      "title": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
-      "link": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/",
-      "summary": "With tools like a multimodal cursor, smart dictation, and more, Googlebook anticipates your needs to simplify your day.",
-      "publishedAt": "2026-09-21T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-edea6f83f0bb55124110",
       "title": "Premium materials and striking design set Googlebook apart",
       "link": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
       "summary": "Discover a versatile collection of Googlebook devices featuring stunning displays, advanced processors, and premium design.",
-      "publishedAt": "2026-09-21T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-d8ee849e7061a0a782fb",
-      "title": "Googlebook: The laptop your Android phone has been waiting for",
-      "link": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
-      "summary": "Googlebook pre-orders begin September 21, and they'll be on shelves October 4.",
       "publishedAt": "2026-09-21T13:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -612,18 +660,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "google-blog-43dae131a478eb983fa1",
-      "title": "Earn continuing education and college credits for AI educator training.",
-      "link": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
-      "summary": "Earn college or continuing education credits by taking the Google AI Educator Series courses.",
-      "publishedAt": "2026-09-18T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "amazon-press-archive-3ed06954b16e0ce9b04f",
@@ -794,6 +830,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-0dfad1614e4e7120b10b",
+      "title": "We’re lowering fees for many active traders on Coinbase Advanced",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDRFaWVKNXhLNXA2NV9LVERMekFOcndKb3Z5TVlxcUVEU1NvOGxiWlNGR29ycFFxcl9tbERzQ3FuSWdHZlUzNjBaUHJNVnNLeHpJUVAxUWtfeXNzZkI1SEdHMEk4Zmp4MVZmZndPSEtlN2tUSkZqdUFRcTFjYm1TczJqbnhBVllxdkpRUmQ4X05MTXhNdV9qbw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-16T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-6745b6348540b9cd4470",
       "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
       "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
@@ -816,18 +864,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-0dfad1614e4e7120b10b",
-      "title": "We’re lowering fees for many active traders on Coinbase Advanced",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDRFaWVKNXhLNXA2NV9LVERMekFOcndKb3Z5TVlxcUVEU1NvOGxiWlNGR29ycFFxcl9tbERzQ3FuSWdHZlUzNjBaUHJNVnNLeHpJUVAxUWtfeXNzZkI1SEdHMEk4Zmp4MVZmZndPSEtlN2tUSkZqdUFRcTFjYm1TczJqbnhBVllxdkpRUmQ4X05MTXhNdV9qbw?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-16T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "circle-pressroom-058cf6c116b6ceb27a12",
@@ -938,18 +974,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-92b7de7298e66a6db728",
-      "title": "AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day",
-      "link": "https://press.aboutamazon.com/aws/2026/9/aws-and-salesforce-put-crm-data-ai-agents-and-model-choice-into-the-tools-teams-use-every-day",
-      "summary": "New integrations bring Salesforce data, context, and actions into Amazon Quick, AWS agents into Slack, and Agent2Agent (A2A) support for real-time, bidirectional voice between Agentforce Voice and Amazon Connect Customer — putting AI where customers work, grounded in data they trust, without…",
-      "publishedAt": "2026-09-15T12:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-eccedc9ab942cbed56e8",
       "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
       "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
@@ -974,18 +998,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "nvidia-newsroom-e44c55b1d936fc27e2d2",
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, brin",
-      "publishedAt": "2026-09-14T15:00:52+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "wise-newsroom-1822c7c186c5e8a8c40b",
       "title": "Wise launches Chequing Account as Canadians live increasingly global lives",
       "link": "https://newsroom.wise.com/en-NAM/270647-wise-launches-chequing-account-as-canadians-live-increasingly-global-lives/",
@@ -1008,18 +1020,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "nvidia-newsroom-a8b35c3f4a14b2da3673",
-      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-      "summary": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.",
-      "publishedAt": "2026-09-14T13:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "wise-newsroom-b5cdab03f81bf5510ab8",
