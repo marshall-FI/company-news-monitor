@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:44:40.733173+00:00",
+  "generatedAt": "2026-09-24T04:52:20.781300+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -203,10 +203,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
-      "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "kind": "html",
+      "ok": false,
+      "itemCount": 0,
+      "message": "official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "trade-desk-press-room",
