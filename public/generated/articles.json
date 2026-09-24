@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-24T04:52:20.781300+00:00",
+  "generatedAt": "2026-09-24T10:03:54.238153+00:00",
   "articles": [
+    {
+      "id": "about-amazon-fce805888ecbe2e505c6",
+      "title": "Merchants can now offer Amazon Prime delivery on their own websites at no additional cost",
+      "link": "https://www.aboutamazon.com/news/retail/amazon-mcf-prime-delivery-merchant-websites?utm_source=rss",
+      "summary": "Hundreds of thousands of merchants using Amazon's fulfillment network can activate fast, free Prime delivery in minutes—no changes to checkout, payments, or store policies required.",
+      "publishedAt": "2026-09-24T09:58:21+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-0aaec4bdac416e81a1e8",
       "title": "Bee Private Compute: How Bee keeps your conversations private",
@@ -391,18 +403,6 @@
       "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-uzbekistan?utm_source=rss",
       "summary": "Amazon Leo has partnered with telecoms leader Uztelecom to extend connectivity where it’s needed most.",
       "publishedAt": "2026-09-22T08:30:16+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-110d8e411a91bf1d4257",
-      "title": "Amazon’s carbon-free energy projects contribute $11 billion to US GDP, support nearly 22,000 jobs in local communities",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-carbon-free-energy-economic-impact-study-2026?utm_source=rss",
-      "summary": "Amazon's solar, wind, nuclear, and battery storage investments drove economic growth across the U.S. from 2023 through 2025, per an Oxford Economics study.",
-      "publishedAt": "2026-09-21T19:00:05+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -3085,10 +3085,10 @@
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog",
       "category": "Big Tech Blogs",
-      "kind": "html",
-      "ok": false,
-      "itemCount": 0,
-      "message": "official_google_news: No official Google News fallback configured"
+      "kind": "google_news",
+      "ok": true,
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "trade-desk-press-room",
