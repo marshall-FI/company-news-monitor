@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:39:13.650332+00:00",
+  "generatedAt": "2026-09-25T22:22:43.800874+00:00",
   "articles": [
     {
       "id": "about-amazon-9c11e680d21854314f78",
@@ -24,6 +24,30 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-9140b4fb1857715233b9",
+      "title": "Square Integrates Apple Business to Help Local Businesses Stand Out on Apple Maps",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTlNjbWlaaU5vbFlhRUxXanVwWW1Ec2NlczdUUVNJVTUwSEZYZ3YwV3lYMjJ0UkVySWh2Ylp3R0h6M0trNGZQN3piNzVLZVluWFlkVWRZenhOazhJMmFhMXhub2NGckt6VUtUc25feW5EakdVZV9JbGZKeVNGMm13czFyTjd2STRQQW5hS0RpdHN5REFiN1dqcm5rNEdncUhZNmVzMENURnNZVi1MSkZQVkx1Z1BOeGpwR1Q5WHFXem04ZjV2ZVJ0ajZESl9kaW9COW16b0pfSXBXNW5taG1mMkVfMGwtNE9seUE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-25T05:44:13+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "circle-pressroom-40fdc15179335c4f9b8d",
+      "title": "Circle Announces CFO Transition Plan Jeremy Fox-Geen to step down as Chief Financial Officer and will support a smooth transition",
+      "link": "https://www.circle.com/pressroom/circle-announces-cfo-transition-plan",
+      "summary": "Jeremy Fox-Geen to step down as Chief Financial Officer and will support a smooth transition",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "sourceId": "circle-pressroom",
+      "sourceName": "Circle Pressroom",
+      "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "google-blog-318da1acec02e8b41e93",
@@ -1046,6 +1070,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -1055,18 +1091,6 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1106,6 +1130,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "block-investor-news-493e33e2519a3f399c08",
       "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
@@ -1128,18 +1164,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-818f2287e609f6ec09d4",
-      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7c95935eeb4bbe66c953",
@@ -1186,18 +1210,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-92e20149a9fa93f936fe",
-      "title": "Coinbase Launches Derivative Contracts in Canada",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnJnTERKSEtFOGRNNFp0MmJLX1dJMER2ajFnZXNFd0NVSzA4cXdPcGkzVGo2UU5kLTZyZFBfUnloX2tlQk1VNEFxZnluTjk2b3dDWE1pcktCMEUzVDFvdENYekFvanVyWFRIUmVTVnhCU2dkUWU0RmE3Z0RHLUpSVGxoMno?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1416,6 +1428,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -2126,6 +2150,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-7c228d86d73993aebdbe",
       "title": "Introducing SoFi Coach: An AI-Powered Financial Guide to Help Members Get Their Money Right",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR2dFQjM4TDRXNlJ2YXhjWFZDajRQTEVEMVpyZ2FFb3hLV1JYYkV3em1hY0g1NU51X29wUzBjOWVWOWZIMDgzQV9tS2VfcDhfcU8xbmtCTGRBRjdzcE5GVURDU1BmQ1JOcnFQLXc2SzhQb0lKVmhfR3ZzQUJXZ24yR2F5emI5UFdfbkxyeWdVUy1OclFqRTRzeExxblF3MWR3ODBWRTEtZDlDRUZyNUN4c0ZhdFVtd1FOTkJVblJLWndGQmR4NW1lRTVycFRUVHdDcnBMcFhiSUZLcEplX2xKak4wT24wQUpK?oc=5",
@@ -2690,6 +2726,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-632f97748c7870dca937",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2830,54 +2878,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-0ae716a1bd51cdae4a7f",
-      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-29T14:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
@@ -3051,7 +3051,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 7,
+      "itemCount": 8,
       "message": "OK"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
