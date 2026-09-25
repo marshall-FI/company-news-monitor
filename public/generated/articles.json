@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-25T13:49:42.600944+00:00",
+  "generatedAt": "2026-09-25T18:39:13.650332+00:00",
   "articles": [
+    {
+      "id": "about-amazon-9c11e680d21854314f78",
+      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+      "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+      "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+      "publishedAt": "2026-09-25T18:03:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-07b3aa223fcecd366517",
+      "title": "Coinbase Blog",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUZmOXRsSkRYa3VrREpSb09POUh3aFdtUE0zZHltRmttM1Z1VDNTeGpmS1J0S1ZaTWhoZG9FeTNfaE9yQnMySzR5NXBiS2NtYXJKUmZfcVR2dUtzbU4zQ2RScnJxdGNuZ1o3TWJhOXZZX29GTTNLaTBmdTNnRlppaS0yVzlKeU10R1dzelpXOGRPVEhuMnRzWG5qSUhTRklDQzE1SElteTNCc2FBZ2N6RG90Tzljd1VhWlRUNFFiX1NmS0VLQlNiX3JrQXNOMXVuSVhlaGRmOXViTEhVd0JYVlBKZlZwRWdWWUxHdXNNOExDQVJGbjJTVTE4WQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-25T12:28:13+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "google-blog-318da1acec02e8b41e93",
       "title": "5 ways to upgrade your study habits with Chrome",
@@ -60,18 +84,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-994e541be89a58e11307",
-      "title": "No results found for \"coinbase wallet support contact to get help 1-888-394-2105\"",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGVwYVdxQ0NEZS1jNGZFNl9vYkpIazl1WGFTQzEwWWF6dTJKd080NWltbUh5aXl3UEtvS3NEdkZJRzFlajM0OUpCUmtpSnFISUhUZ2tXdlI0cGplSzRKQkFLSnVGQUprU1g4YnRYeHdPYnRteVdQSzR0TkNxWTM2VTNwVGc1RC1NSmNGWVFibFBCSDEtMXo2RE5EV0JNS0pOTmx6UWNnRnp3cnN3X0cxbnZjUU4?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-24T15:18:10+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-d1e7107e863f4f8a8586",
@@ -326,18 +338,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-f201232fcdd6e174b256",
-      "title": "Amazon now offers nearly 30,000 pickup locations across the US",
-      "link": "https://www.aboutamazon.com/news/retail/amazon-pickup-locations-expansion?utm_source=rss",
-      "summary": "Customers are on track to collect more than 100 million packages from Amazon pickup locations this year.",
-      "publishedAt": "2026-09-23T13:00:12+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "about-amazon-f105153d7714bdf9aabe",
       "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude",
       "link": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude?utm_source=rss",
@@ -396,6 +396,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-23T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-843bac0942c1ab85b66e",
@@ -866,18 +878,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-15c2be817c3f38416a4f",
-      "title": "Coinbase and Stablecore bring stablecoin and digital asset services to community and regional banks and credit unions",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPckJvTHpCRnVNTUd0MDhzYXhTNHZfUDNweFpsUXlUZ2NTbGxGMG9KbzRBbGJhQ29vV1Q2cklhaUlLd3I1RTZ6ODlYRDVYMWhrZDhvUG5kREMtWlNRSllsNDllcXZXMktaVG5Ya0NSR2ZvS3pVUVBLS1ktZjRZQkc1MFljUjNwcHlZZ2hJSXV0OG50ZC1vMWtrWlhmM0RDaHZiYmtBWkZ4SVYyR1ZGclJNTl9DbHpfdy1RejlJcUVibWdFMDIxM1kwam5ZZTdDd0NmQ0wxT3Q4RE4tWnFZaFZVNA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-16T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "circle-pressroom-058cf6c116b6ceb27a12",
       "title": "Circle Launches Arc Mainnet, an Economic Operating System for the Internet Arc goes live with more than 100 institutional and ecosystem builders on day one",
       "link": "https://www.circle.com/pressroom/circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet",
@@ -1186,6 +1186,18 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-92e20149a9fa93f936fe",
+      "title": "Coinbase Launches Derivative Contracts in Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnJnTERKSEtFOGRNNFp0MmJLX1dJMER2ajFnZXNFd0NVSzA4cXdPcGkzVGo2UU5kLTZyZFBfUnloX2tlQk1VNEFxZnluTjk2b3dDWE1pcktCMEUzVDFvdENYekFvanVyWFRIUmVTVnhCU2dkUWU0RmE3Z0RHLUpSVGxoMno?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1558,18 +1570,6 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "circle-pressroom-682fc0f0a032d29d0c55",
-      "title": "Circle Reports Second Quarter 2026 Results Circle Internet Group, Inc. (NYSE: CRCL) today announced results for the second quarter of fiscal year 2026.",
-      "link": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
-      "summary": "Circle Internet Group, Inc. (NYSE: CRCL) today announced results for the second quarter of fiscal year 2026.",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "sourceId": "circle-pressroom",
-      "sourceName": "Circle Pressroom",
-      "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2582,6 +2582,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-547ee7d8199e477ccaa6",
+      "title": "Square Renews Corner Store Lease, Launching New Era of Local Business Support in the Mission District",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWVWRkhOS0c3dk9Kd1FnTlNPUWRvelFWNlM4Qmx6LXhNeFlDdjRkSXhQenpiUmxQWWY0bFFxanEzQjJiYTNtZzJBZEtidXAxNzJja0x2cEhlLVdtMFVPOU04Vk5wQXJVbHBoSW01Sk5UN1Znc0MtaW41SUs1VFA1bEpHeWhNMGcxMmh2ZFNFME1ONXFSUVRzUTNqdDZTTGNvSE80U2h0MTJxZXlaTG12Sno3TndKSXAyeG9nbVhyRjdibGVDR1EzQ0JCc0w0eUxuc0RHU0Q0VE1CSVhWVHlDYXVVUHpsWmZValNMZ0JVNzFDTk8xdDlkODVJdk1KQjItdkRR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-27T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
       "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
@@ -2868,18 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "dave-press-190d95897f79b5b83005",
-      "title": "Dave Introduces CashAI v5.5",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
-      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-10T07:00:00+00:00",
-      "sourceId": "dave-press",
-      "sourceName": "Dave Press",
-      "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3051,7 +3051,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 8,
+      "itemCount": 7,
       "message": "OK"
     },
     {
