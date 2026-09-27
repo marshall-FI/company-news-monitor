@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:00:57.694433+00:00",
+  "generatedAt": "2026-09-27T18:26:37.872535+00:00",
   "articles": [
     {
       "id": "about-amazon-9c11e680d21854314f78",
@@ -12,6 +12,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-9140b4fb1857715233b9",
@@ -425,18 +437,6 @@
       "id": "sofi-press-94504e23e78d674ea587",
       "title": "Investor Relations",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeVBmS05RSnJCNXVSRThwX1c3RWFuNC1Kd2lFVENyWDVjVHVTZkUtQVU3b0dkdUxXZU5FM0U1OFZ0dF9HU0FocjZkX2xVWC0teTIxSlB5Yl9SSE9E?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-23T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
       "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-23T07:00:00+00:00",
       "sourceId": "sofi-press",
@@ -1260,18 +1260,6 @@
       "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-f105af675a09b65bd0f2",
-      "title": "Klarna CEO Sebastian Siemiatkowski acquires 692,506 shares for $10 million",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXppTFYtY1I2RHY2eW5NX0xyeWJHdzJSVVlrdHNDaXY2ZUdfZG1lUGhzM3dVQ0ZFUk9odkpwU0ZWd2ViQUJOTTJtd1BnSF9sNGtaRVpwVXBVRERLREgxX2tHNWxQNVNrbVFDMXFuSlVBRU8xOHluR2dqcmpxUndrcmtwLTRvUHY1aHpZMXgzXzdTSmt4WWJVYUFfYURQNWliNXlpSEVIWmFacDJoMEhVWWpnTDdmblM2?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-28T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "affirm-news-f0118f759094b8279a46",
@@ -2875,6 +2863,18 @@
       "link": "https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
       "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-09-29T14:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-8357fec8a7f961d6724e",
+      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
+      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
+      "publishedAt": "2025-09-17T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
