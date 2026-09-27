@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T01:30:06.940956+00:00",
+  "generatedAt": "2026-09-27T08:12:42.964977+00:00",
   "articles": [
     {
       "id": "about-amazon-9c11e680d21854314f78",
@@ -425,6 +425,18 @@
       "id": "sofi-press-94504e23e78d674ea587",
       "title": "Investor Relations",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeVBmS05RSnJCNXVSRThwX1c3RWFuNC1Kd2lFVENyWDVjVHVTZkUtQVU3b0dkdUxXZU5FM0U1OFZ0dF9HU0FocjZkX2xVWC0teTIxSlB5Yl9SSE9E?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-23T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
       "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-23T07:00:00+00:00",
       "sourceId": "sofi-press",
@@ -1082,15 +1094,15 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
+      "id": "coinbase-blog-0ef6b8d55d4474214f10",
+      "title": "Moving Bitcoin’s Post-Quantum Readiness Forward",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTBMaDAwNWZkalVENVU2ZVpBR2ctWWJhcDJPNkNCUXp6aWJyU2dPdVdESll1czZGNjFBRFJwbWU2X0djRXRreEloLW8wZUJIaXJpdmVjczhBcWxqSkhCZ29mZndKYnBEWkQzOUNzYkx5OXRTYTZ6N3dPNnZKbVFjVTdn?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1130,6 +1142,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1140,18 +1164,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-818f2287e609f6ec09d4",
-      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7c95935eeb4bbe66c953",
@@ -1416,6 +1428,30 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1826,6 +1862,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -2122,6 +2170,18 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2460,6 +2520,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "marqeta-blog-5b9e10e4e72eca9105f0",
+      "title": "Issuing/processing All Industries The future of payments is already here: Key takeaways from Bloomberg’s Tech Disruptors Podcast Article",
+      "link": "https://www.marqeta.com/blog/the-future-of-payments-is-already-here",
+      "summary": "Marqeta CEO discusses what sets modern card issuing platforms apart: API flexibility, real-time processing, and embedded finance support.",
+      "publishedAt": "2026-03-17T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-2fda7cb8a911589f5ba5",
@@ -2808,78 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-7187026926ebefef292b",
-      "title": "Africa’s payment frontier: Connecting systems, people, and opportunity",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/africas-payment-frontier-connecting-systems-people-and-opportunity/",
-      "summary": "Mobile-first innovation, real-time rails, and new interoperability frameworks are turning Africa into one of the world’s most dynamic digital payment regions.",
-      "publishedAt": "2025-10-08T19:23:46+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-0ae716a1bd51cdae4a7f",
-      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-29T14:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dave-press-190d95897f79b5b83005",
-      "title": "Dave Introduces CashAI v5.5",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
-      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-10T07:00:00+00:00",
-      "sourceId": "dave-press",
-      "sourceName": "Dave Press",
-      "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
