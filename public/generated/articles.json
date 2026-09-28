@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-09-28T15:30:19.676308+00:00",
+  "generatedAt": "2026-09-28T22:03:20.370553+00:00",
   "articles": [
+    {
+      "id": "google-blog-db713ef86bd59ea8f7ba",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "summary": "Google Blog published an update for Google relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-7e05b6018b28031c33e0",
+      "title": "Michael Bublé and Drew Scott strive for hockey glory in Prime Video docuseries 'Hometown Giants,' coming October 16",
+      "link": "https://www.aboutamazon.com/news/entertainment/hometown-giants-hockey-michael-buble-drew-scott-prime-video?utm_source=rss",
+      "summary": "Watch the trailer for the new Prime Video series about Vancouver Giants junior hockey players chasing NHL dreams.",
+      "publishedAt": "2026-09-28T18:30:10+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-86453700a8c091300d70",
+      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+      "summary": "Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
+      "publishedAt": "2026-09-28T16:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-6078dfff0e3ea1d6f419",
+      "title": "See what 4 builders are making with Gemini 3.8 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
+      "summary": "See what developers have built with Gemini 3.8 Flash, our most intelligent workhorse model, launched in early September.",
+      "publishedAt": "2026-09-28T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-277ca605434b68b135e5",
+      "title": "Amazon Music y Shakira Celebran A Las Mujeres Que Impulsan La Música y La Cultura Latina",
+      "link": "https://press.aboutamazon.com/2026/9/amazon-music-y-shakira-celebran-a-las-mujeres-que-impulsan-la-musica-y-la-cultura-latina",
+      "summary": "La celebración global alcanza su momento culminante el 3 de octubre con Amazon Music Presenta Shakira En Vivo Desde Madrid, llevando una noche de su residencia en Madrid a audiencias de todo el mundo con la primera transmisión global en vivo de un concierto de Shakira. Más allá de la transmisión en…",
+      "publishedAt": "2026-09-28T15:29:29.121000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "amazon-press-archive-834741aac193f27936dd",
       "title": "Amazon Music and Shakira Celebrate The Women Shaping Latin Music and Culture",
@@ -398,18 +458,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-bd8061157af089d6a903",
-      "title": "6 new Google Flow Tools built by industry creatives",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
-      "summary": "Explore 6 new tools in Google Flow built by creatives, for creatives.",
-      "publishedAt": "2026-09-23T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-bafc49bea8fbb19fe4fb",
       "title": "A new wave of Connected Apps is rolling out to Gemini.",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
@@ -422,23 +470,11 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-286e0ad93167d24284dd",
-      "title": "MedGemma is helping global healthcare providers deliver better care",
-      "link": "https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/",
-      "summary": "Healthcare organizations are using Google’s tech to build tools that address unique local healthcare needs.",
+      "id": "google-blog-bd8061157af089d6a903",
+      "title": "6 new Google Flow Tools built by industry creatives",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+      "summary": "Explore 6 new tools in Google Flow built by creatives, for creatives.",
       "publishedAt": "2026-09-23T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-b1f9c7a504c77281d310",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "summary": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
-      "publishedAt": "2026-09-23T15:15:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
@@ -454,18 +490,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-d115383546b55a202c4a",
-      "title": "We’re honoring Latino culture this Hispanic Heritage Month.",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/",
-      "summary": "Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.",
-      "publishedAt": "2026-09-23T15:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -564,18 +588,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-af812edf8fe57459382b",
-      "title": "Inside a decade of Amazon chip design, built workload by workload",
-      "link": "https://www.aboutamazon.com/news/innovation-at-amazon/peter-desantis-amazon-ai-chips-design?utm_source=rss",
-      "summary": "At AI Infra Summit, Amazon SVP Peter DeSantis explained how real customer workloads guided every generation of Amazon's chips, from Nitro to Trainium.",
-      "publishedAt": "2026-09-22T18:42:38+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "affirm-news-21ad8c4846799ccb69ed",
@@ -1008,18 +1020,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-5ac21208050449304f5f",
-      "title": "UT College of Emerging and Collaborative Studies Partners with ETS and AWS to Help Students Design Careers for a Future Still Taking Shape",
-      "link": "https://press.aboutamazon.com/aws/2026/9/ut-college-of-emerging-and-collaborative-studies-partners-with-ets-and-aws-to-help-students-design-careers-for-a-future-still-taking-shape",
-      "summary": "The University of Tennessee College of Emerging and Collaborative Studies (CECS) has joined ETS’s Futurenav pilot program, bringing a data-informed career design platform to students preparing for careers that may not exist yet.",
-      "publishedAt": "2026-09-15T18:03:49.752000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-a8abc3d9008b168de462",
@@ -1584,6 +1584,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "marqeta-blog-e80c1c42c96bc9934b8c",
+      "title": "Risk & fraud B2B Platforms Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines Article",
+      "link": "https://www.marqeta.com/blog/riskified-and-marqeta-partner-to-sharpen-card-issuer-authorization-decisions-and-help-reduce-false-declines",
+      "summary": "The integration brings Riskified's pre-authorization risk intelligence into Marqeta's modern card issuing platform, helping issuers approve more easily.",
+      "publishedAt": "2026-08-05T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-2c0ac6dcba05aa98d965",
@@ -2866,18 +2878,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     }
