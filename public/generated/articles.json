@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:48:29.101274+00:00",
+  "generatedAt": "2026-09-28T06:56:12.423460+00:00",
   "articles": [
     {
       "id": "about-amazon-9c11e680d21854314f78",
@@ -432,6 +432,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-94504e23e78d674ea587",
+      "title": "Investor Relations",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeVBmS05RSnJCNXVSRThwX1c3RWFuNC1Kd2lFVENyWDVjVHVTZkUtQVU3b0dkdUxXZU5FM0U1OFZ0dF9HU0FocjZkX2xVWC0teTIxSlB5Yl9SSE9E?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-23T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-843bac0942c1ab85b66e",
@@ -1032,18 +1044,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-b5cdab03f81bf5510ab8",
-      "title": "About Get to know us",
-      "link": "https://newsroom.wise.com/en-NAM/about/",
-      "summary": "Wise is a global technology company, building the best way to move and manage the world's money. With Wise Account and Wise Business, people and businesses c...",
-      "publishedAt": "2026-09-14T00:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-55ccac68a722ba8e7fc4",
@@ -1778,18 +1778,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
-      "title": "Wise Launches International Money Transfer Service in Chile",
-      "link": "https://newsroom.wise.com/en-NAM/268425-wise-launches-international-money-transfer-service-in-chile/",
-      "summary": "New solution offers the ability to move money quickly, with 77% of global transfers on Wise completed in less than 20 seconds, and a digital and convenient experience for Chileans managing international payments.",
-      "publishedAt": "2026-07-21T13:33:38+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-f78c3369235f8cfd9cee",
       "title": "Introducing Chime Invest, Bringing Wealth Building to Millions Who Already Trust Chime with Their Money",
       "link": "https://investors.chime.com/news-releases/news-release-details/introducing-chime-invest-bringing-wealth-building-millions-who",
@@ -1903,18 +1891,6 @@
       "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
       "summary": "Stand-in processing keeps card transactions authorized during outages. See how Marqeta's Commando Mode helps issuers maintain uptime and customer trust.",
       "publishedAt": "2026-07-13T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-7c3d4d976547827c1ea1",
-      "title": "Risk & fraud All Industries New research: Cardholders want security, but 40% walk away when payment friction gets in the way Article",
-      "link": "https://www.marqeta.com/blog/new-research-cardholders-want-security",
-      "summary": "New UK survey data shows 40% of cardholders abandon purchases over payment friction, even as most want stronger fraud protection. See what issuers can do.",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -2880,6 +2856,30 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dave-press-190d95897f79b5b83005",
+      "title": "Dave Introduces CashAI v5.5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
