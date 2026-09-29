@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T15:54:00.765014+00:00",
+  "generatedAt": "2026-09-29T20:50:08.229415+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
@@ -20,6 +20,26 @@
       "summary": "Wise Group filed a current report (6-K) on 2026-09-29 for report date 2026-09-29. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/0001654954-26-008613-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/a6551w.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "TSLA-0001628280-26-063820",
+      "company": "Tesla",
+      "displayName": "Tesla",
+      "ticker": "TSLA",
+      "cik": "0001318605",
+      "category": "Big Tech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001628280-26-063820",
+      "filingDate": "2026-09-29",
+      "reportDate": "2026-09-29",
+      "acceptanceDateTime": "2026-09-29",
+      "primaryDocument": "tsla-20260929.htm",
+      "title": "Tesla 8-K for 2026-09-29",
+      "summary": "Tesla filed a current report (8-K) on 2026-09-29 for report date 2026-09-29. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026063820/0001628280-26-063820-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026063820/tsla-20260929.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -5580,26 +5600,6 @@
       "summary": "dLocal filed a current report (6-K) on 2025-12-15 for report date 2025-12-15. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1846832/000119312525319349/0001193125-25-319349-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1846832/000119312525319349/dlo-20251215.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "CHYM-0001795586-25-000023",
-      "company": "Chime",
-      "displayName": "Chime Financial",
-      "ticker": "CHYM",
-      "cik": "0001795586",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001795586-25-000023",
-      "filingDate": "2025-12-10",
-      "reportDate": "2025-12-08",
-      "acceptanceDateTime": "2025-12-10",
-      "primaryDocument": "chme-20251208.htm",
-      "title": "Chime 8-K for 2025-12-08",
-      "summary": "Chime Financial filed a current report (8-K) on 2025-12-10 for report date 2025-12-08. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1795586/000179558625000023/0001795586-25-000023-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1795586/000179558625000023/chme-20251208.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }

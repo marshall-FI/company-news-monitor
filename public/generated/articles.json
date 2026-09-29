@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-09-29T15:53:51.959145+00:00",
+  "generatedAt": "2026-09-29T20:49:58.758578+00:00",
   "articles": [
+    {
+      "id": "google-blog-29505f09b760cfc9bb2a",
+      "title": "Game on: Henry Cavill is putting Googlebook to the test",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/",
+      "summary": "Henry Cavill is partnering with Googlebook to build a video game, coming this November.",
+      "publishedAt": "2026-09-29T18:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-63f2f6dac9912d6a6333",
+      "title": "'Spider-Man: Brand New Day' is coming to Prime Video October 6. Here's how to watch.",
+      "link": "https://www.aboutamazon.com/news/entertainment/how-to-watch-spider-man-movie-series-prime-video?utm_source=rss",
+      "summary": "From Tom Holland, Andrew Garfield, and Tobey Maguire to the animated films and series, you can buy or rent the full ‘Spider-Man’ catalog on Prime Video.",
+      "publishedAt": "2026-09-29T16:01:06+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-dcb956296f1e366dcaf7",
+      "title": "Experience two artists’ perspectives on philosophy, science, and AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/",
+      "summary": "Artists Xin Liu and Eunjo Lee used Google AI to create new artworks with LAS Art Foundation and Google Arts & Culture Lab.",
+      "publishedAt": "2026-09-29T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-083f12333f3b8f8bf273",
+      "title": "Amazon Ads presenta Amazon Ads Agent, su nueva solución publicitaria unificada impulsada por IA agéntica",
+      "link": "https://press.aboutamazon.com/es/news/advertising/2026/9/amazon-ads-presenta-amazon-ads-agent",
+      "summary": "29/09/2026 | Madrid Amazon Ads ha presentado Amazon Ads Agent en su última edición del evento unBoxed 2026. Esta nueva solución integra Amazon DSP y la consola publicitaria en una única experiencia. Además, incorpora un asistente conversacional de IA que permite crear y optimizar campañas a escala, definir audiencias y",
+      "publishedAt": "2026-09-29T15:57:12.808000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "google-blog-8f2bc5604cfb952c2b87",
       "title": "Google is a technology partner for the launch of America.gov.",
@@ -15,9 +63,9 @@
     },
     {
       "id": "amazon-press-archive-78612e47ed640386e535",
-      "title": "Nasdaq Calypso Launches Framework to Scale AI Adoption Across the Trade Lifecycle",
+      "title": "Nasdaq Calypso Launches Agentic Capabilities to Scale AI Adoption Across the Trade Lifecycle",
       "link": "https://press.aboutamazon.com/aws/2026/9/nasdaq-calypso-launches-framework-to-scale-ai-adoption-across-the-trade-lifecycle",
-      "summary": "Marks a major milestone in Nasdaq Calypso’s strategy to serve as the trusted orchestration layer connecting agents across capital market and treasury workflows Introduces agentic capabilities, including a natural language assistant to automate analysis of the platform’s system-of-record data",
+      "summary": "Marks a major milestone in Nasdaq Calypso’s strategy to serve as the trusted orchestration layer connecting agents across capital market and treasury workflowsIntroduces agentic capabilities, including a natural language assistant to automate analysis of the platform’s system-of-record data",
       "publishedAt": "2026-09-29T14:10:08.067000+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -86,18 +134,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-11093ab38a4cdea11b04",
-      "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
-      "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
-      "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-205cb25737f6515ad92a",
       "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
       "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
@@ -126,6 +162,18 @@
       "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
       "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
       "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-11093ab38a4cdea11b04",
+      "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
+      "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
+      "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -614,30 +662,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-7889cc934a0a9b872e23",
-      "title": "6 ways Android Enterprise is evolving for the modern workforce",
-      "link": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
-      "summary": "The latest updates from Android Enterprise are designed to help IT teams safeguard corporate data while giving workers room to innovate.",
-      "publishedAt": "2026-09-23T18:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-bafc49bea8fbb19fe4fb",
-      "title": "A new wave of Connected Apps is rolling out to Gemini.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
-      "summary": "Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.",
-      "publishedAt": "2026-09-23T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-4ab32af44318036a6678",
       "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
       "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -679,18 +703,6 @@
       "link": "https://www.aboutamazon.com/news/sustainability/amazon-climate-pledge-sustainability-fashion-coalition?utm_source=rss",
       "summary": "Launched with Amazon, Stella McCartney, Canopy, and the World Economic Forum, The Climate Pledge Fashion Coalition connects over 60 industry leaders to accelerate climate innovation.",
       "publishedAt": "2026-09-23T12:46:14+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-b47676cbdeb2ff770837",
-      "title": "How Amazon is preparing for the energy needs of the future",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-updates?utm_source=rss",
-      "summary": "Learn how we're supporting the transition to carbon-free energy and powering our business with sustainability in mind.",
-      "publishedAt": "2026-09-23T07:02:00+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -792,18 +804,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-ee95cc43c664640ee9e3",
-      "title": "The Biological Computing Co. Partners with AWS to Bring World’s First Neuron-Derived AI Video Model to Market",
-      "link": "https://press.aboutamazon.com/aws/2026/9/the-biological-computing-co-partners-with-aws-to-bring-worlds-first-neuron-derived-ai-video-model-to-market",
-      "summary": "[MEDIA ALERT] TBC’s neuron-derived optimization delivers 5x faster inference at 80% lower cost, with plans to scale across AWS Trainium, Amazon SageMaker AI, and AWS Marketplace.",
-      "publishedAt": "2026-09-22T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-9d552a651ead7d3a495e",
@@ -2006,18 +2006,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "toast-product-news-c0c8d04c8bcc00e9bdfd",
-      "title": "Toast Announces 2026 - 2027 Independent Customer Advisory Board to Drive the Future of Hospitality",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzdYNmNVcHFLaVJ5ZG5BTEZoU2FmeGxScFV3VWl4Tk9wcnppWTlITXhGMDMzVGJhLTNCUTl3VUdnUUFheGJkbS1CM1pXTkZfTmFqVUsxSUF4ZHhFMXh6NGNsTGRnMnNmQkhPbF9xaE52dFUzbEdCNl8ySW5saDZieUM2MmhVTjc4?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-c5ad4ad1f16366953b61",
       "title": "Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-acquires-adaptive-ml-accelerate-its-investment-ai",
@@ -2880,6 +2868,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dave-press-190d95897f79b5b83005",
+      "title": "Dave Introduces CashAI v5.5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
