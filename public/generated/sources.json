@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T02:00:13.218825+00:00",
+  "generatedAt": "2026-09-29T08:33:22.864875+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -77,10 +77,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
-      "ok": true,
-      "itemCount": 1,
-      "message": "OK via official fallback RSS"
+      "kind": "html",
+      "ok": false,
+      "itemCount": 0,
+      "message": "official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "paypal-newsroom",

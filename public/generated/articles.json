@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T02:00:13.218825+00:00",
+  "generatedAt": "2026-09-29T08:33:22.864875+00:00",
   "articles": [
     {
       "id": "google-blog-db713ef86bd59ea8f7ba",
@@ -1550,18 +1550,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "toast-product-news-2011890f73d6bb346821",
-      "title": "Arriving Now: AI-Powered Toast Ordering on Google Maps",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTlcxdmpBYWpWa0NsR3VxRmxfSHlKU01sTFRRTVNJTnptQUJ6X3g1c1c4Ml94OU03SlZ3ZUFqREZfQzU3RWZmcDRCLXNuZk9FNGRFbEVTdGIzR0NyM1doUzJNZWYtX2FEWG5RNm5NdUc?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-06T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "coinbase-blog-3424e4f9d11def8ed727",
       "title": "Coinbase UK Launches 24/5 US Stock Trading",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NndpRUpYM29PWmwxaHFCWVRQSzhlbVFlaWZPemtMX1llSHh0X0RmQ2RQQW52Z0tnQ25YMWZic2VQdWRZdGljU2hqYUxkV0JmV1VyTTBKRzdwLWRDdW9pNEU3ZDFtcUtWMmlod1BKRzlPd01vb1E?oc=5",
@@ -1596,18 +1584,6 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-e80c1c42c96bc9934b8c",
-      "title": "Risk & fraud B2B Platforms Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines Article",
-      "link": "https://www.marqeta.com/blog/riskified-and-marqeta-partner-to-sharpen-card-issuer-authorization-decisions-and-help-reduce-false-declines",
-      "summary": "The integration brings Riskified's pre-authorization risk intelligence into Marqeta's modern card issuing platform, helping issuers approve more easily.",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "upstart-press-2c0ac6dcba05aa98d965",
@@ -2880,6 +2856,30 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dave-press-190d95897f79b5b83005",
+      "title": "Dave Introduces CashAI v5.5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2959,10 +2959,10 @@
       "sourceId": "nubank-newsroom",
       "sourceName": "Nubank Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
-      "ok": true,
-      "itemCount": 1,
-      "message": "OK via official fallback RSS"
+      "kind": "html",
+      "ok": false,
+      "itemCount": 0,
+      "message": "official_google_news: No official Google News fallback configured"
     },
     {
       "sourceId": "paypal-newsroom",
