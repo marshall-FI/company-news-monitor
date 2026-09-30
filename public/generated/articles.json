@@ -1,6 +1,138 @@
 {
-  "generatedAt": "2026-09-30T13:46:02.772027+00:00",
+  "generatedAt": "2026-09-30T19:24:42.021377+00:00",
   "articles": [
+    {
+      "id": "about-amazon-d30b92a579ccc1abcb0d",
+      "title": "Amazon in the community: Service, community, and commitment at HQ2",
+      "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
+      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region.",
+      "publishedAt": "2026-09-30T18:41:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-d0594e3e3d8b36eb294a",
+      "title": "Google is supporting water resilience in Chile.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
+      "summary": "Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
+      "publishedAt": "2026-09-30T18:34:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-646e2d3c8e8ea51471b2",
+      "title": "More partners are joining the Alliance for America’s Skilled Trades.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/",
+      "summary": "The Alliance for America’s Skilled Trades is expanding, welcoming 14 new partners to accelerate training and career access nationwide.For every 100 skilled trades worker…",
+      "publishedAt": "2026-09-30T18:15:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-0b5e363622340260d6f6",
+      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+      "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+      "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doin",
+      "publishedAt": "2026-09-30T17:00:21+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-381da076c8f84d9c12b5",
+      "title": "Supporting AI readiness in higher education",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
+      "summary": "At the EDUCAUSE annual conference, Google.org announced its support of three higher education initiatives to scale ethical AI readiness, modernize institutional planning…",
+      "publishedAt": "2026-09-30T16:43:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-68cbabc2cd02fa79182c",
+      "title": "Let skills in Gemini tackle your most repetitive tasks",
+      "link": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "summary": "Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems.",
+      "publishedAt": "2026-09-30T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-7d86a3be0efc594f2dfb",
+      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
+      "link": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
+      "summary": "On International Translation Day, learn how members of our team bring cultural nuance to Translate to connect people globally.",
+      "publishedAt": "2026-09-30T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-3bb5d00e7f71dbaf43fc",
+      "title": "Waze rolls out new features to support Breast Cancer Awareness Month.",
+      "link": "https://blog.google/waze/breast-cancer-awareness-month/",
+      "summary": "This October, Waze will help drivers find screening clinics, assess their health risks, and schedule routine checkups.",
+      "publishedAt": "2026-09-30T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-532f254b17e03693cf54",
+      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave",
+      "publishedAt": "2026-09-30T15:00:00+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-91ae618daae2a7b8c160",
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
+      "summary": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "publishedAt": "2026-09-30T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-9dc1fe71a3658cea21d8",
+      "title": "Amazon und Microsoft kündigen gemeinsames Projekt zur Wasserrückführung mit dem NABU in Deutschland an",
+      "link": "https://press.aboutamazon.com/de/2026/9/amazon-und-microsoft-kuendigen-gemeinsames-projekt-zur-wasserrueckfuehrung-mit-dem-nabu-in-deutschland-an",
+      "summary": "Neubildung von Grundwasser und Renaturierung von Feuchtgebieten auf 40 Hektar in der hessischen Vogelsberg-Region, einem zentralen Trinkwasserreservoir der Stadt FrankfurtNaturbasierte Lösung, die voraussichtlich jährlich mehr als 750 Millionen Liter Wasser zurückführen und so zur langfristigen…",
+      "publishedAt": "2026-09-30T13:15:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "about-amazon-e9ee6ea68a3ce82f7801",
       "title": "Amazon's water conservation and replenishment efforts around the world",
@@ -242,6 +374,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
+      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
+      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
+      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-11093ab38a4cdea11b04",
       "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
       "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
@@ -270,18 +414,6 @@
       "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
       "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
       "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -566,6 +698,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "google-blog-10091e6a622a266c7369",
+      "title": "Our new health and safety tools are live in the Google Health app.",
+      "link": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "summary": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+      "publishedAt": "2026-09-24T17:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-318da1acec02e8b41e93",
       "title": "5 ways to upgrade your study habits with Chrome",
       "link": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
@@ -583,42 +727,6 @@
       "link": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
       "summary": "Five updates in Google Photos that will help you make the most of your summer memories.",
       "publishedAt": "2026-09-24T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-10091e6a622a266c7369",
-      "title": "Our new health and safety tools are live in the Google Health app.",
-      "link": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
-      "summary": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
-      "publishedAt": "2026-09-24T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-bd67bc53dbc871b7daf0",
-      "title": "Turn discovery into action with September’s Demand Gen Drop.",
-      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
-      "summary": "Turn discovery into action with new seamless experiences and integrations from YouTube’s September Demand Gen Drop.",
-      "publishedAt": "2026-09-24T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-583ce5a62ee40551c009",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
-      "summary": "Google Blog published an update for Google relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-24T15:30:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
@@ -662,42 +770,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-7a64b7e7a178cb801e12",
-      "title": "Sellers can now manage sales across Amazon, eBay, Shopify, TikTok, and Walmart from Seller Central",
-      "link": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools?utm_source=rss",
-      "summary": "Multichannel selling tools are a new offering in Amazon’s Seller Central that connect orders, listings, and analytics across other channels, giving sellers one place to run their entire business.",
-      "publishedAt": "2026-09-24T13:00:11+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-5e4e2324e77ceb852b04",
-      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "summary": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
-      "publishedAt": "2026-09-24T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-dcc7aad233eb30ec99bd",
-      "title": "Helping 25,000 veterans and military families build careers in skilled trades",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
-      "summary": "Google.org is supporting organizations to help veterans and military families find careers in skilled trades.",
-      "publishedAt": "2026-09-24T12:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-520fc061f500db6ce42e",
       "title": "Merchants Can Now Add Fast, Free Prime Delivery to Their Websites and Save Up to 25% on Fulfillment Fees with Amazon Supply Chain Services",
       "link": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
@@ -708,42 +780,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-aa5f19b1f33587234978",
-      "title": "Turning cultural artifacts into interactive learning companions",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
-      "summary": "Uncover the history of nearly 200 historical objects, or put your visual recall to the test in a freshly hung exhibition.",
-      "publishedAt": "2026-09-24T10:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-c52229f1bfad317c0788",
-      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
-      "summary": "Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids.",
-      "publishedAt": "2026-09-23T19:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-1ccf342131e2aeec4f4f",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "publishedAt": "2026-09-23T18:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-4ab32af44318036a6678",
@@ -818,18 +854,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-4172d9c7261bfbc8214e",
-      "title": "Accenture Edge Collaborates with AWS to Help Mid-Market Organizations Harness AI and Accelerate Business Impact",
-      "link": "https://press.aboutamazon.com/aws/2026/9/accenture-edge-collaborates-with-aws-to-help-mid-market-organizations-harness-ai-and-accelerate-business-impact",
-      "summary": "Accenture Edge and AWS collaboration includes six mid-market offerings available in AWS Marketplace",
-      "publishedAt": "2026-09-22T16:52:58.565000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-8bdca9fb39e4021646c2",
       "title": "Consumer Protection Tuesday: Taking Down Evil Tokens",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OUDZzVXF4U1RYX2hQNjFvLTNLdGxjSWdWUHNfUTFqT1c3WmlLWEtpQnlMUlgxaHZMUEQ0OWhYQkJyXzBWRFJrcEN6NHZVOHRjeGdQNEM5VE9Jb1cxSVB4R2Uydw?oc=5",
@@ -838,18 +862,6 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-2dcb6e26a18e07cc15a3",
-      "title": "Klarna adds free unlimited mobile plan to app for UK Max members",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnpDaEszZzZETUd5MjdsdGQyc2VCVDgzc2dWbHhjeTdDMmNuLW9tZVZhTFBMTmdjMF80MXdMcFdjMWlKU0lwaC1aa25zVGhHUU10R1lBaTFzRFRuZTh0Q2pDN0hVQ1E5ZVgyV1NlRHd1RXByRTVLajNLMEluS3VES2RfNVFBaWo0bVVKMHhHVWsxNC1PM0VVbTcyQWZ1bVQyNi1ROWNFQ0lJdWIz?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-22T12:21:49+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -864,6 +876,30 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-7b08bfd538b9237e27dd",
+      "title": "SoFi Becomes First National Bank to Go Live with Stablecoin Settlement across Mastercard’s Global Payments Network",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOGstbTlTOVlGX0pybGlDYkpPR0ZDT29EdGJpX3IzRktxYW4ycHJ2dW9aVnQzYW45ellVWG55TDhleG9qWTFSdjhic2pibVBWSkdiVmtIOVIyeThTczZiWjhRR3FueDRZSFpxZ2VsUEg5bjFILV9jSTMwUzZJZlI1MUZfa0U5dkthQ2FoWUVaMGVFUzJpYkpRbG9OUTRNaGxLd1d3NS1XMV90UDA3Q3VEblZmZ1VwMTZqSUJlUFM1OEItRzRvdmF6NXc4Ym04S1lKVmhNTmRya1ZwdEV0U1Y1dHRqeGhMRnEwcktUT1VPUDNlTXlkbzN2ZzFxdUpRVlVjQmNYSTVlOA?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-22T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-2dcb6e26a18e07cc15a3",
+      "title": "Klarna adds free unlimited mobile plan to app for UK Max members",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnpDaEszZzZETUd5MjdsdGQyc2VCVDgzc2dWbHhjeTdDMmNuLW9tZVZhTFBMTmdjMF80MXdMcFdjMWlKU0lwaC1aa25zVGhHUU10R1lBaTFzRFRuZTh0Q2pDN0hVQ1E5ZVgyV1NlRHd1RXByRTVLajNLMEluS3VES2RfNVFBaWo0bVVKMHhHVWsxNC1PM0VVbTcyQWZ1bVQyNi1ROWNFQ0lJdWIz?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-22T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-9d552a651ead7d3a495e",
@@ -986,18 +1022,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-1cf5bacaf6a1489f131b",
-      "title": "Klarna teams up with Alza.at, bringing flexible payments to Austrian shoppers",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDhpVXlPUnNmeWFPTUxOT1B1cmRxZWlIQVJmQWVCNUxnelpvaXNOYm5iNndidlk5ZEJZUXppVkU1X2RQb0Q0Ymx6UzU2SU5rYU5CaVZKRFFmY1hicnZtVlRncU16RHAwc3duNlByODdrWTVlLV9yc25fY3VNR1FoeXBPMWh0X01GRkpXSUNrNmNJcWRLcURPd0pXaHl0NXJ5aGNDQnZWNlRRZndxT1laYVl4YUk4WkJKMkd2Wg?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-17T00:46:37+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-c3d97aa56d2a48ddda2a",
       "title": "Risk & fraud Financial Services Disputes and chargebacks explained: What it takes to manage them at scale Article",
       "link": "https://www.marqeta.com/blog/disputes-and-chargebacks-explained-what-it-takes-to-manage-them-at-scale",
@@ -1070,6 +1094,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "klarna-press-1cf5bacaf6a1489f131b",
+      "title": "Klarna teams up with Alza.at, bringing flexible payments to Austrian shoppers",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDhpVXlPUnNmeWFPTUxOT1B1cmRxZWlIQVJmQWVCNUxnelpvaXNOYm5iNndidlk5ZEJZUXppVkU1X2RQb0Q0Ymx6UzU2SU5rYU5CaVZKRFFmY1hicnZtVlRncU16RHAwc3duNlByODdrWTVlLV9yc25fY3VNR1FoeXBPMWh0X01GRkpXSUNrNmNJcWRLcURPd0pXaHl0NXJ5aGNDQnZWNlRRZndxT1laYVl4YUk4WkJKMkd2Wg?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-16T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-6745b6348540b9cd4470",
       "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
       "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
@@ -1104,30 +1140,6 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "nvidia-newsroom-ed34d148788e5d6f51fa",
-      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "link": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "summary": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just tak",
-      "publishedAt": "2026-09-15T22:24:34+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-a8abc3d9008b168de462",
-      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
-      "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, enginee",
-      "publishedAt": "2026-09-15T16:55:59+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "affirm-news-85b21cd9d799d2d4e8d4",
@@ -1190,16 +1202,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-9379bcfd0ca01db08c91",
-      "title": "Whit’s Frozen Custard Brings its 100 Locations to Square’s Unified Commerce Platform",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnBDdjh6eE8wa1pLNVNKWGhhSmxfam5Qa3djYlludmhibjNfMzVfSEFrcG40OWVTTkFOU3FDM1JyMURiUU82QzJwY29FbUpJY0owTVUwNVFlYlFVWjNZZGJQa3laaENjeUI5R21lOGNKUjB1WUpDR2JnTmNQeldsZzFZOGNMd3pubEIxQ2ZuQXhjS194WmRNR2tZRk00V2JDbHlDYXZnekNHcW0wTmhqR0FnaXZ2UUVKd3M1ejI5cGxrd1ZrS1ZlMGloZWZhNEZNTnhhNWFMUW51anNhZXZOY2lIV285YnFaWFBV?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T13:39:38+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
@@ -1211,18 +1223,6 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1262,6 +1262,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1283,18 +1295,6 @@
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-818f2287e609f6ec09d4",
-      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1538,6 +1538,30 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "paypal-newsroom-40d67513bd2032afea57",
       "title": "Pay Your Way, Play Your Way: Venmo Is Now on Google Play",
       "link": "https://newsroom.paypal-corp.com/2026-08-10-Pay-Your-Way-Play-Your-Way-Venmo-Is-Now-on-Google-Play",
@@ -1548,6 +1572,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-faff4fb821b9c9495d97",
+      "title": "2026/08/10 TSMC July 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3329",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -1970,6 +2006,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "marqeta-blog-5be6ad160600f107b941",
       "title": "Issuing/processing All Industries Keeping transactions moving: The critical role of stand-in processing (STIP) in modern card payments Article",
       "link": "https://www.marqeta.com/blog/keeping-transactions-moving-the-critical-role-of-stand-in-processing-stip-in-modern-card-payments",
@@ -2126,6 +2174,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -2158,6 +2218,18 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2570,18 +2642,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-7e092cfe4241063ee67f",
-      "title": "7 Leaves Cafe Plans Expansion, Chooses Square as its Commerce Technology Partner",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaHVpV0trVGdkV1dYTkY5amJPVklERkJqZTdUcHh3VFAwbTY5dWVkVjZHV1J1RDBCM3pfSmxueGJ2SC16VGh6UVNPbUZfU3p4Zm8xX2padGRuT0xrUVc3NE9wSnFPVHlleEY1ZGtHaWg2ZjAySVpZQ2lJbUdabmJJaVZUYzNaMklUNF9tWkRVdUI2QVdXV180ZkdMdmJHNVk0NXE3TlFDMU9FQ3pxVFNpSkV6Ujlld1QyaHFHaThPTTV3UFBKOC1KUmZ3R3FzR1VJNDB1NEpuckFSQUlYbzB0aktZR3lacHc?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-29T08:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
       "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
       "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
@@ -2815,66 +2875,6 @@
       "link": "https://www.dlocal.com/blog/markets-and-consumers/payments-in-the-middle-east-a-blend-of-heritage-and-modern-innovation/",
       "summary": "National payment networks, real-time rails, and mobile-driven consumers are transforming the Middle East into a hub of digital payment innovation.",
       "publishedAt": "2025-10-21T19:53:30+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-6e1e6bd0fd3a09b620bb",
-      "title": "eWallets: The digital gateway transforming payments in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/ewallets-the-digital-gateway-transforming-payments-in-emerging-markets/",
-      "summary": "Blending local trust with digital speed, eWallets—a cornerstone of the alternative payment methods (APMs) ecosystem, are revolutionizing payments in emerging markets and driving inclusion at scale.",
-      "publishedAt": "2025-10-17T12:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-7187026926ebefef292b",
-      "title": "Africa’s payment frontier: Connecting systems, people, and opportunity",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/africas-payment-frontier-connecting-systems-people-and-opportunity/",
-      "summary": "Mobile-first innovation, real-time rails, and new interoperability frameworks are turning Africa into one of the world’s most dynamic digital payment regions.",
-      "publishedAt": "2025-10-08T19:23:46+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-0ae716a1bd51cdae4a7f",
-      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-29T14:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-8357fec8a7f961d6724e",
-      "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
-      "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
-      "publishedAt": "2025-09-17T13:00:00+00:00",
-      "sourceId": "dlocal-blog",
-      "sourceName": "dLocal Blog",
-      "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dlocal-blog-520c9f5309d7a7b5defd",
-      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
-      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
-      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
-      "publishedAt": "2025-09-16T19:11:38+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
