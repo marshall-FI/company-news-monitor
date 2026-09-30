@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-30T06:45:40.370554+00:00",
+  "generatedAt": "2026-09-30T13:46:02.772027+00:00",
   "articles": [
+    {
+      "id": "about-amazon-e9ee6ea68a3ce82f7801",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+      "summary": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "publishedAt": "2026-09-30T13:06:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-27f8edf48b4103959f8b",
+      "title": "Arnold Schwarzenegger is Santa in Prime Video's 'The Man with the Bag' teaser trailer, coming this Christmas",
+      "link": "https://www.aboutamazon.com/news/entertainment/the-man-with-the-bag-arnold-schwarzenegger-christmas-movie-prime-video?utm_source=rss",
+      "summary": "Schwarzenegger stars alongside Alan Ritchson in this holiday heist movie premiering on Prime Video December 2.",
+      "publishedAt": "2026-09-30T13:00:29+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-3aac1505fa10a596dd0d",
+      "title": "Fire TV launches all-new, faster 4K stick and new remote design",
+      "link": "https://www.aboutamazon.com/news/devices/fire-tv-stick-4k-new-remote?utm_source=rss",
+      "summary": "The new Fire TV Stick 4K gets customers to content fast, and the redesigned Fire TV Remote features more tactile controls.",
+      "publishedAt": "2026-09-30T13:00:17+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-d811dab8e25f8fdfe3cd",
+      "title": "Alexa+ is making Fire TV smarter, from your TV to your phone",
+      "link": "https://www.aboutamazon.com/news/devices/alexa-plus-fire-tv-hub-mobile-app-updates?utm_source=rss",
+      "summary": "New software updates introduce smarter search that understands more complex questions, a dedicated Alexa+ hub, and an upgraded Fire TV mobile app.",
+      "publishedAt": "2026-09-30T13:00:15+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-1f8761df5ef26f2879f4",
+      "title": "It's Time for Brazil to Lead the Change to the Future of Finance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNcS14WGlKYlFrUE14ZF91OTNQc2FQaWZBTkhhdXhQUGgySkdxTmdNbEt2MGpVYVFYTzI3NzduYkpPQVpmVXBkckNoaDJTaHRSU3dDWndDR1J0MjZPZll4TGdFZw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "paypal-newsroom-ed89651a4ec110eb35ea",
+      "title": "PayPal Survey Reveals Holiday Spending Isn't Slowing Down, But Shoppers Are Changing How They Spend",
+      "link": "https://newsroom.paypal-corp.com/2026-09-30-PayPal-Survey-Reveals-Holiday-Spending-Isnt-Slowing-Down,-But-Shoppers-Are-Changing-How-They-Spend",
+      "summary": "As shoppers start earlier, seek more value and prioritize flexibility, PayPal offers more ways to help them make the most of their holiday budgets.",
+      "publishedAt": "2026-09-30T12:32:00+00:00",
+      "sourceId": "paypal-newsroom",
+      "sourceName": "PayPal Newsroom",
+      "company": "PayPal",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-eb937ee7e10c453a257a",
       "title": "Prime Big Deal Days: Our biggest deals to kick off fall and holiday shopping October 6-7",
@@ -602,18 +674,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-9b80ee7ac31b902714cf",
-      "title": "Amazon announces new tools and services to help sellers go global from day one",
-      "link": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools?utm_source=rss",
-      "summary": "Only 30% of Amazon sellers list in more than one country. New capabilities spanning compliance, logistics, and the selling experience are designed to change that.",
-      "publishedAt": "2026-09-24T13:00:05+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-5e4e2324e77ceb852b04",
       "title": "Behind Project Suncatcher, our moonshot to put AI in space",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
@@ -662,30 +722,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-fce805888ecbe2e505c6",
-      "title": "Merchants can now add fast, free Prime delivery to their own websites and save up to 25% on fulfillment fees with Amazon Supply Chain Services",
-      "link": "https://www.aboutamazon.com/news/retail/amazon-mcf-prime-delivery-merchant-websites?utm_source=rss",
-      "summary": "Amazon Supply Chain Services customers who enroll in Multichannel Fulfillment, along with merchants already using MCF, can now add the Prime badge and delivery to their websites and separately save 15-25% on fulfillment fees.",
-      "publishedAt": "2026-09-24T09:58:21+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-0aaec4bdac416e81a1e8",
-      "title": "Bee Private Compute: How Bee keeps your conversations private",
-      "link": "https://www.aboutamazon.com/news/devices/bee-private-compute-data-protection?utm_source=rss",
-      "summary": "Bee doesn't store your audio and encrypts transcripts, summaries, and to-dos with keys only you control. Learn how Bee Private Compute protects your data.",
-      "publishedAt": "2026-09-23T22:30:07+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-c52229f1bfad317c0788",
       "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
@@ -718,18 +754,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-f105153d7714bdf9aabe",
-      "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude",
-      "link": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude?utm_source=rss",
-      "summary": "Sellers can now automate routine tasks 24/7 with Seller Assistant and bring their Amazon data and Seller Central insights into the AI tools they already use.",
-      "publishedAt": "2026-09-23T13:00:08+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -1766,18 +1790,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "paypal-newsroom-c87882f68c2742acb6ef",
-      "title": "PayPal and Amazon Launch Buy Now, Pay Later for Customers in Germany and Austria",
-      "link": "https://newsroom.paypal-corp.com/2026-07-PayPal-and-Amazon-Launch-Buy-Now-Pay-Later-for-Customers-in-Germany-and-Austria",
-      "summary": "PayPal Newsroom published an update for PayPal relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-28T14:00:00+00:00",
-      "sourceId": "paypal-newsroom",
-      "sourceName": "PayPal Newsroom",
-      "company": "PayPal",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "shopify-pressroom-6d021a71bd96aed54a52",
       "title": "The next era of commerce, built by partners",
       "link": "https://www.shopify.com/news/a-world-with-more-builders",
@@ -2040,18 +2052,6 @@
       "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-c0c8d04c8bcc00e9bdfd",
-      "title": "Toast Announces 2026 - 2027 Independent Customer Advisory Board to Drive the Future of Hospitality",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzdYNmNVcHFLaVJ5ZG5BTEZoU2FmeGxScFV3VWl4Tk9wcnppWTlITXhGMDMzVGJhLTNCUTl3VUdnUUFheGJkbS1CM1pXTkZfTmFqVUsxSUF4ZHhFMXh6NGNsTGRnMnNmQkhPbF9xaE52dFUzbEdCNl8ySW5saDZieUM2MmhVTjc4?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "datadog-investor-news-c5ad4ad1f16366953b61",
