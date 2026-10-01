@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-10-01T05:54:24.467538+00:00",
+  "generatedAt": "2026-10-01T13:15:02.799311+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
+    {
+      "id": "TOST-0001650164-26-000191",
+      "company": "Toast",
+      "displayName": "Toast",
+      "ticker": "TOST",
+      "cik": "0001650164",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001650164-26-000191",
+      "filingDate": "2026-10-01",
+      "reportDate": "2026-09-28",
+      "acceptanceDateTime": "2026-10-01",
+      "primaryDocument": "tost-20260928.htm",
+      "title": "Toast 8-K for 2026-09-28",
+      "summary": "Toast filed a current report (8-K) on 2026-10-01 for report date 2026-09-28. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000191/0001650164-26-000191-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000191/tost-20260928.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
     {
       "id": "NU-0001292814-26-004752",
       "company": "Nubank",
@@ -5580,26 +5600,6 @@
       "summary": "Affirm Holdings filed a current report (8-K) on 2025-12-18 for report date 2025-12-15. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025057930/0001628280-25-057930-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828025057930/afrm-20251215.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "DLO-0001193125-25-319349",
-      "company": "dLocal",
-      "displayName": "dLocal",
-      "ticker": "DLO",
-      "cik": "0001846832",
-      "category": "Fintech Blogs",
-      "form": "6-K",
-      "accessionNumber": "0001193125-25-319349",
-      "filingDate": "2025-12-15",
-      "reportDate": "2025-12-15",
-      "acceptanceDateTime": "2025-12-15",
-      "primaryDocument": "dlo-20251215.htm",
-      "title": "dLocal 6-K for 2025-12-15",
-      "summary": "dLocal filed a current report (6-K) on 2025-12-15 for report date 2025-12-15. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1846832/000119312525319349/0001193125-25-319349-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1846832/000119312525319349/dlo-20251215.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     }

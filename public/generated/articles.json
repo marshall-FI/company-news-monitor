@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-01T05:54:14.382588+00:00",
+  "generatedAt": "2026-10-01T13:14:54.314471+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-162f06b35f5ef3d05b04",
+      "title": "Fall Into 25 New Games on GeForce NOW This October",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+      "summary": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance and Ultimate members to The Witcher 3: Wild Hunt – Remastered joining the cloud, ",
+      "publishedAt": "2026-10-01T13:00:54+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-c2600e87db69552d07dc",
+      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+      "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year",
+      "publishedAt": "2026-10-01T13:00:49+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-7dfd7742d3b966f344bf",
+      "title": "Amazon introduces a completely redesigned Kindle family",
+      "link": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026?utm_source=rss",
+      "summary": "The all-new Kindle, Kindle Paperwhite, and Kindle Colorsoft are thinner and lighter with a new display stack and seamless edge-to-edge color across the lineup.",
+      "publishedAt": "2026-10-01T12:50:13+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-e906eb509aba220428fc",
+      "title": "Amazon gibt die Vorauswahl des Kindle Storyteller Awards 2026 bekannt",
+      "link": "https://press.aboutamazon.com/de/2026/10/amazon-gibt-die-vorauswahl-des-kindle-storyteller-awards-2026-bekannt",
+      "summary": "Amazon Deutschland verkündet, welche drei Selfpublishing Bücher es ins Finale des Kindle Storyteller Awards 2026 geschafft haben. Die Gewinnerin oder der Gewinner des Literaturpreises, der mit einem Preisgeld von 17.500 Euro dotiert ist, wird im November gekürt.",
+      "publishedAt": "2026-10-01T10:27:23+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "marqeta-blog-05f6870c82edd529eb4d",
       "title": "Announcement The foundation the world's leading payment programs are built on Article",
@@ -434,18 +482,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-11093ab38a4cdea11b04",
       "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
       "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
@@ -482,6 +518,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
+      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
+      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
+      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-e1eb72239a98ab3cabdd",
       "title": "TCBS Goes All-In With Kiro, Amazon Web Services’ Agentic Coding Environment",
       "link": "https://press.aboutamazon.com/aws/2026/9/tcbs-goes-all-in-with-kiro-amazon-web-services-agentic-coding-environment",
@@ -506,6 +554,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "sofi-press-94504e23e78d674ea587",
+      "title": "Investor Relations",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeVBmS05RSnJCNXVSRThwX1c3RWFuNC1Kd2lFVENyWDVjVHVTZkUtQVU3b0dkdUxXZU5FM0U1OFZ0dF9HU0FocjZkX2xVWC0teTIxSlB5Yl9SSE9E?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "robinhood-blog-319cbecc684ea72a0ed9",
       "title": "Robinhood Puts the Power of Hedge Funds in Every Trader's Pocket",
       "link": "https://robinhood.com/us/en/newsroom/hood-summit-2026",
@@ -523,18 +583,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFhoY1R5UFpXWXlBNEtSSkhSWDV1cThGZTdJNlNKS2lDUHN3TkVfMG9Yd0hBdWZMY21nLUloYTAxeW5haXg2ZW10eXJMTVdHNFZVYWwxTkNpeTR0NFptODlFTGlzUl9uNU5ybVpLVWpMRFBMd0lIeDVpQkQxTXJiQnlMbTZXZmE1WURMdjBBTXQzT3pWSFppSzF1Qi1Od0YxeWRYbHNHTDBWRUJzRmlGWFhLRHlYQ1liLU5fUEpiNDYzOU9yaWQyQmxScExfUFNwTlJ2blhqMXdMMUN2ZXJ3?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-29T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
-      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-28T22:05:48+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -674,16 +722,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-9619b1a100734a696027",
-      "title": "How to stream Shakira's Madrid concert, exclusively with Amazon Music",
-      "link": "https://www.aboutamazon.com/news/entertainment/shakira-livestream-amazon-music-prime-video?utm_source=rss",
-      "summary": "Shakira's October 3 Madrid performance as part of her 'Las Mujeres Ya No Lloran' world tour will stream live exclusively via Amazon.",
-      "publishedAt": "2026-09-28T08:00:19+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
+      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
+      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-28T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-344cdaa5e860bea9e9ed",
@@ -840,18 +888,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-8938e921227a2d8dd80e",
-      "title": "WorkWave Taps Amazon Web Services to Drive Cloud Modernization and AI Engine Across Key Markets",
-      "link": "https://press.aboutamazon.com/aws/2026/9/workwave-taps-amazon-web-services-to-drive-cloud-modernization-and-ai-engine-across-key-markets",
-      "summary": "WorkWave is building on Amazon Web Services to power its WAIve®AI engine, targeting up to 50 percent reduction in cloud costs and accelerating platform performance.",
-      "publishedAt": "2026-09-22T21:43:50.920000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-21ad8c4846799ccb69ed",
@@ -1082,18 +1118,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "nvidia-newsroom-ac7aaae20f69b83a2a70",
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers t",
-      "publishedAt": "2026-09-16T13:00:33+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "paypal-newsroom-998b82ebc692e8d515ed",
       "title": "Venmo Kicks Off 2026-2027 NIL Season with Nine Standout Student-Athletes and Introduces Money Moves",
       "link": "https://newsroom.paypal-corp.com/2026-09-16-Venmo-Kicks-Off-2026-2027-NIL-Season-with-Nine-Standout-Student-Athletes-and-Introduces-Money-Moves",
@@ -1128,18 +1152,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "nvidia-newsroom-6745b6348540b9cd4470",
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a",
-      "publishedAt": "2026-09-16T05:00:42+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "robinhood-blog-29f4ecf787f1ff0e644c",
@@ -1238,6 +1250,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "block-investor-news-7f3459690f24c51f576d",
       "title": "Whit’s Frozen Custard Brings its 100 Locations to Square’s Unified Commerce Platform",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Whits-Frozen-Custard-Brings-its-100-Locations-to-Squares-Unified-Commerce-Platform/default.aspx",
@@ -1286,18 +1310,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1319,6 +1331,18 @@
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-818f2287e609f6ec09d4",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1354,6 +1378,18 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-5904ad19cf808f11c82f",
+      "title": "Welcoming Anthony Armstrong to Coinbase's Board of Directors",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDJETVl0UGhHbE9jNkoxR2R5UGlFc1gxMDVjN2RYYURiWmxwckRaRXpsX3VpSDljaUpxWjBCNVQtWEs2cDU3MWxiWXVIS09UX3R0WFB5eVVWdE1YdjNiTjBqbFphNjFDQktDdjBwNU1lOW84cVJxbFZ0R1dyclNFNzJLRjUzZnpTRzF5dlN1Qng5elE?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1644,30 +1680,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-062287b6cadf174cd697",
@@ -2006,18 +2018,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-e3d7700622e291df64b8",
-      "title": "Consumer Protection Tuesday: A Fake IRS \"Digital Asset Compliance Portal\" Letter Is Targeting Crypto Holders",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LQll1M2JZZEVuOWh5dExBdDlGNTZFUGNtQUw0VFRwd0NwV2dzLUQtS0tRWjYxZ1dvbzZVSGZHX1ZYLWdLOTFsUEJYRmJxYkdmN3FnTC1PbGh0aXQ5VkpmUnUyVVFxcTRSbnZ6MVgzdjJsdm10RGRnVVlMOA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-28T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-127710ecc139b055cd65",
       "title": "Issuing & processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
       "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
@@ -2174,18 +2174,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -2338,18 +2326,6 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-3a98bc88202c9f655fdc",
-      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3317",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-04T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -2798,18 +2774,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-632f97748c7870dca937",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2878,6 +2842,42 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dlocal-blog-85656d296df85e155069",
+      "title": "Yape, Peru’s SuperApp is now on-file and redefining mobile conversion",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/yape-perus-superapp-is-now-on-file-and-redefining-mobile-conversion/",
+      "summary": "Discover how Yape, Peru’s leading super app, is now on file and transforming mobile conversion, offering merchants a frictionless and more inclusive payment experience.",
+      "publishedAt": "2025-10-31T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-68bbbf6c3fd4d2f2af5c",
+      "title": "Toast Expands Toast IQ from Smart Features to Smart AI Assistant",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zakl6endKOUVSMnZuVWdDTzAyQmswa2V5UFM3VUJFWjA4QlNjS2ZZSjVLR045Y1NtTUlIUzMtaWNpQVIxWFVCaXluTFNsTlJma0N2dldIY0JtUm5fVDF4UHF3YlBFU0EtbDBiSE8yVGFCT1dKbWxXVG80bw?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-10-29T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-cb9d11daf56f307f7e05",
+      "title": "SoFi Reports Third Quarter 2025 with Record Net Revenue of $962 Million, Record Member and Product Growth, Net Income of $139 Million",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUklCMExtU0pMX1hBM2c0OXBQa0YxMndyVjZNTXVyQkUyeVpsTkpuS2cya0EzRnpXRjlmbWpKbUxhLXlydDh1Z3k3ZUNZdzFscmJadWhYeWRPTEo3eHk4X2wwOC1NR3BRLVk0TlBqZEtLUEJrVTktVVd2R090SEVkNnJ1SHllM0pxTXM0Z1h0VkIyVENzWmJYZ3dCaXZDRWxXOGV2QTM2SElDQVNtdTl1YTBEZGI2S1VFV3dKem16SmVDVEtDVS1lTmNCeUc0REVzMTBucmd1dkM1TU1yZnJxRnIyMm5CbGNtU0pSU2VtWDExdGN4a1BSc2wzaTF3dDMzaDIyVl95ZmJyTGpsS1NJZXVrd19QQmR3OEVIbA?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-10-28T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
