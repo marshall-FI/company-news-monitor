@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-01T18:56:23.379839+00:00",
+  "generatedAt": "2026-10-01T23:14:49.630469+00:00",
   "articles": [
+    {
+      "id": "about-amazon-d30b92a579ccc1abcb0d",
+      "title": "Amazon in the community: Service, community, and commitment at HQ2",
+      "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
+      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region.",
+      "publishedAt": "2026-10-01T21:44:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-33e9d331a372cba4ad1b",
       "title": "Turn your existing social assets into high-impact YouTube ads.",
@@ -146,6 +158,30 @@
       "sourceKind": "html"
     },
     {
+      "id": "robinhood-blog-79348e3e5d96b18f32da",
+      "title": "Robinhood Ventures Fund II (RVII) Invests More than $15 Million in Y Combinator Summer 2026 Batch (YC S26)",
+      "link": "https://robinhood.com/us/en/newsroom/rvii-yc-s26",
+      "summary": "Robinhood Ventures Fund II (NYSE: RVII) announced approximately $15.75 million in new investments across 46 companies from Y Combinator's Summer 2026 (YC S26) batch with individual investments ranging from $100,000 to $600,000 per company.",
+      "publishedAt": "2026-10-01T05:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-e46068edf515c5d74165",
+      "title": "Migrating 300+ namespaces from self-hosted Temporal to Temporal Cloud",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTQ2cUtkWlRQSW9TQUZKWWkyV1owNXFtS2ctLU1FX0hVZ2hfQXM2RXZ5MTExenpUTFhzTkYtNEdsMkNieEFTTm9tdVRFc0xuVTJEeXc3U3k3WE55dVdfMWZPRS0xUDZpRThSUjZ3NmtGZkk4Q0VZSWxxUE1adVFYSDcya1lOMXRtOVZ0S0c1WVpZSmlfRlZwdEpn?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "marqeta-blog-05f6870c82edd529eb4d",
       "title": "Announcement The foundation the world's leading payment programs are built on Article",
       "link": "https://www.marqeta.com/blog/the-foundation-the-worlds-leading-payment-programs-are-built-on",
@@ -178,18 +214,6 @@
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-d30b92a579ccc1abcb0d",
-      "title": "Amazon in the community: Service, community, and commitment at HQ2",
-      "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
-      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region.",
-      "publishedAt": "2026-09-30T18:41:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -360,18 +384,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-1f8761df5ef26f2879f4",
-      "title": "It's Time for Brazil to Lead the Change to the Future of Finance",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNcS14WGlKYlFrUE14ZF91OTNQc2FQaWZBTkhhdXhQUGgySkdxTmdNbEt2MGpVYVFYTzI3NzduYkpPQVpmVXBkckNoaDJTaHRSU3dDWndDR1J0MjZPZll4TGdFZw?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-30T13:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "paypal-newsroom-ed89651a4ec110eb35ea",
@@ -638,9 +650,9 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-94504e23e78d674ea587",
-      "title": "Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LeVBmS05RSnJCNXVSRThwX1c3RWFuNC1Kd2lFVENyWDVjVHVTZkUtQVU3b0dkdUxXZU5FM0U1OFZ0dF9HU0FocjZkX2xVWC0teTIxSlB5Yl9SSE9E?oc=5",
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
       "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-29T07:00:00+00:00",
       "sourceId": "sofi-press",
@@ -1970,18 +1982,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "robinhood-blog-931182f67cf1751e2004",
-      "title": "Robinhood Reports Second Quarter 2026 Results",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-reports-second-quarter-2026-results",
-      "summary": "Robinhood Markets, Inc. (Nasdaq: HOOD) today reported financial results for the quarter ended June 30, 2026.",
-      "publishedAt": "2026-07-29T04:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0889fe58b5bf34e0919c",
       "title": "When new tires can't wait, confidence at checkout matters",
       "link": "https://investors.affirm.com/news-releases/news-release-details/when-new-tires-cant-wait-confidence-checkout-matters",
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 13,
+      "itemCount": 12,
       "message": "OK via official fallback RSS"
     },
     {
