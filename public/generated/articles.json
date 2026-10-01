@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-10-01T13:14:54.314471+00:00",
+  "generatedAt": "2026-10-01T18:56:23.379839+00:00",
   "articles": [
+    {
+      "id": "google-blog-33e9d331a372cba4ad1b",
+      "title": "Turn your existing social assets into high-impact YouTube ads.",
+      "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+      "summary": "In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
+      "publishedAt": "2026-10-01T20:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-e52a00e910f4eaa92bbe",
+      "title": "Kodiak AI Chooses AWS for AI-Powered Autonomous Trucking Technology Development Ahead of Driverless Highway Launch",
+      "link": "https://press.aboutamazon.com/aws/2026/10/kodiak-ai-chooses-aws-for-ai-powered-autonomous-trucking-technology-development-ahead-of-driverless-highway-launch",
+      "summary": "MEDIA ALERTAWS supports Kodiak's AI-powered safety validation system, cloud-based simulation, and AI model developmentMEDIA ALERT",
+      "publishedAt": "2026-10-01T16:23:19.213000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "google-blog-058f1d37f378336cfe6d",
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "summary": "Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
+      "publishedAt": "2026-10-01T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-ceb3576a6bbdd8c15087",
+      "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
+      "summary": "1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon. Watch the on-demand sessions on YouTube and claim your first badge today.",
+      "publishedAt": "2026-10-01T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-9d1f0dd7e17af9cad07f",
+      "title": "5 ways Amazon is investing in New Jersey",
+      "link": "https://www.aboutamazon.com/news/community/amazon-investment-new-jersey-jobs-infrastructure-small-business?utm_source=rss",
+      "summary": "Amazon's investments are boosting the Garden State's economy while creating opportunities for New Jersey residents.",
+      "publishedAt": "2026-10-01T15:29:41+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "shopify-pressroom-a88fdd5e12e85060318b",
+      "title": "Introducing Canvas: Opening the aperture on online store design",
+      "link": "https://www.shopify.com/news/introducing-canvas",
+      "summary": "Move across every page, zoom into any detail, and work with Sidekick to turn any idea into a fully custom store.",
+      "publishedAt": "2026-10-01T13:45:05+00:00",
+      "sourceId": "shopify-pressroom",
+      "sourceName": "Shopify Pressroom",
+      "company": "Shopify",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-99916bf2a9fc567acb83",
+      "title": "What’s new on Prime Video in October 2026, including ‘Carrie,’ ‘The Terminal List,’ and NBA games",
+      "link": "https://www.aboutamazon.com/news/entertainment/prime-video-october-films-shows-sports-2026?utm_source=rss",
+      "summary": "Prime Video’s October lineup also features new originals like ‘Masterplan’ and ‘Apocalypse Z 2.’",
+      "publishedAt": "2026-10-01T13:15:32+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-162f06b35f5ef3d05b04",
       "title": "Fall Into 25 New Games on GeForce NOW This October",
@@ -22,6 +106,18 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-ed59254a0e36ad070ae8",
+      "title": "5 ways Search can help you perfect your at-home coffee routine",
+      "link": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+      "summary": "Learn how Google Search can help you improve your morning cup of coffee.",
+      "publishedAt": "2026-10-01T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -350,18 +446,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-63f2f6dac9912d6a6333",
-      "title": "'Spider-Man: Brand New Day' is coming to Prime Video October 6. Here's how to watch.",
-      "link": "https://www.aboutamazon.com/news/entertainment/how-to-watch-spider-man-movie-series-prime-video?utm_source=rss",
-      "summary": "From Tom Holland, Andrew Garfield, and Tobey Maguire to the animated films and series, you can buy or rent the full ‘Spider-Man’ catalog on Prime Video.",
-      "publishedAt": "2026-09-29T16:01:06+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-dcb956296f1e366dcaf7",
       "title": "Experience two artists’ perspectives on philosophy, science, and AI",
       "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/",
@@ -482,6 +566,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
+      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
+      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
+      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-11093ab38a4cdea11b04",
       "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
       "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
@@ -510,18 +606,6 @@
       "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
       "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
       "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -602,35 +686,11 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-7e05b6018b28031c33e0",
-      "title": "Michael Bublé and Drew Scott strive for hockey glory in Prime Video docuseries 'Hometown Giants,' coming October 16",
-      "link": "https://www.aboutamazon.com/news/entertainment/hometown-giants-hockey-michael-buble-drew-scott-prime-video?utm_source=rss",
-      "summary": "Watch the trailer for the new Prime Video series about Vancouver Giants junior hockey players chasing NHL dreams.",
-      "publishedAt": "2026-09-28T18:30:10+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-86453700a8c091300d70",
       "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
       "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
       "summary": "Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
       "publishedAt": "2026-09-28T16:30:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-6078dfff0e3ea1d6f419",
-      "title": "See what 4 builders are making with Gemini 3.8 Flash",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
-      "summary": "See what developers have built with Gemini 3.8 Flash, our most intelligent workhorse model, launched in early September.",
-      "publishedAt": "2026-09-28T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
@@ -662,18 +722,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-125e7efcafb005bcbebf",
-      "title": "3 ways this grocer cooks for 200 guests with Gemini",
-      "link": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/",
-      "summary": "Edy Massih uses Gemini to transform regular recipes into massive catering spreads, automate grocery orders, and adapt menus for dietary restrictions.",
-      "publishedAt": "2026-09-28T15:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-aef832843603f0b19066",
       "title": "The Nature Conservancy’s Brightstorm Program and AWS Collaborate to Scale Data-Driven Stormwater Management",
       "link": "https://press.aboutamazon.com/aws/2026/9/the-nature-conservancys-brightstorm-program-and-aws-collaborate-to-scale-data-driven-stormwater-management",
@@ -684,18 +732,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-b0cb14ac6f5de968d9e3",
-      "title": "Introducing Vertical Video Unification with Display & Video 360.",
-      "link": "https://blog.google/products/marketingplatform/360/vertical-video-unification/",
-      "summary": "Unify vertical video buys with Google Display & Video 360. See how Unilever boosted reach by 24% using Gemini-powered measurement. Get the details.",
-      "publishedAt": "2026-09-28T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-f2e568286410bb47e274",
@@ -770,18 +806,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-318da1acec02e8b41e93",
-      "title": "5 ways to upgrade your study habits with Chrome",
-      "link": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
-      "summary": "From managing complex research projects to minimizing digital distractions, Chrome has the tools you need to succeed this school year.",
-      "publishedAt": "2026-09-24T17:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-d1e7107e863f4f8a8586",
       "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
       "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
@@ -816,18 +840,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "amazon-press-archive-520fc061f500db6ce42e",
-      "title": "Merchants Can Now Add Fast, Free Prime Delivery to Their Websites and Save Up to 25% on Fulfillment Fees with Amazon Supply Chain Services",
-      "link": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
-      "summary": "Available now, Amazon Supply Chain Services (ASCS) customers who enroll in Multichannel Fulfillment (MCF), along with the hundreds of thousands of U.S. merchants already using MCF, can add the Prime badge and delivery to their websites at no additional cost",
-      "publishedAt": "2026-09-24T10:01:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-47f6cc6a59c8f392c0f0",
@@ -1128,18 +1140,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-0dfad1614e4e7120b10b",
-      "title": "We’re lowering fees for many active traders on Coinbase Advanced",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDRFaWVKNXhLNXA2NV9LVERMekFOcndKb3Z5TVlxcUVEU1NvOGxiWlNGR29ycFFxcl9tbERzQ3FuSWdHZlUzNjBaUHJNVnNLeHpJUVAxUWtfeXNzZkI1SEdHMEk4Zmp4MVZmZndPSEtlN2tUSkZqdUFRcTFjYm1TczJqbnhBVllxdkpRUmQ4X05MTXhNdV9qbw?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-16T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "klarna-press-1cf5bacaf6a1489f131b",
@@ -2018,6 +2018,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-e3d7700622e291df64b8",
+      "title": "Consumer Protection Tuesday: A Fake IRS \"Digital Asset Compliance Portal\" Letter Is Targeting Crypto Holders",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LQll1M2JZZEVuOWh5dExBdDlGNTZFUGNtQUw0VFRwd0NwV2dzLUQtS0tRWjYxZ1dvbzZVSGZHX1ZYLWdLOTFsUEJYRmJxYkdmN3FnTC1PbGh0aXQ5VkpmUnUyVVFxcTRSbnZ6MVgzdjJsdm10RGRnVVlMOA?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-28T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "marqeta-blog-127710ecc139b055cd65",
       "title": "Issuing & processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
       "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
@@ -2274,18 +2286,6 @@
       "title": "Agentic commerce for every developer: The Spring '26 Edition",
       "link": "https://www.shopify.com/news/spring-26-edition-dev",
       "summary": "Anyone can now build end-to-end agentic commerce on Shopify, and the platform underneath every app gets a foundational rebuild.",
-      "publishedAt": "2026-06-17T08:00:00+00:00",
-      "sourceId": "shopify-pressroom",
-      "sourceName": "Shopify Pressroom",
-      "company": "Shopify",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "shopify-pressroom-c989a52acdfcded985c7",
-      "title": "Spring '26 Edition: Five apps that show what Catalog API and UCP make possible",
-      "link": "https://www.shopify.com/news/spring-26-edition-design",
-      "summary": "Five shopping demos that show what becomes possible with commerce infrastructure anyone can build on.",
       "publishedAt": "2026-06-17T08:00:00+00:00",
       "sourceId": "shopify-pressroom",
       "sourceName": "Shopify Pressroom",
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
+      "itemCount": 13,
       "message": "OK via official fallback RSS"
     },
     {
