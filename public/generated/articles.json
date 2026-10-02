@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T15:51:07.781854+00:00",
+  "generatedAt": "2026-10-02T20:46:55.821193+00:00",
   "articles": [
     {
       "id": "google-blog-6a7bb4e3e69d69f535f5",
@@ -48,6 +48,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "block-investor-news-e466446b98236838f285",
+      "title": "Block to Announce Third Quarter 2026 Results",
+      "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-to-Announce-Third-Quarter-2026-Results/default.aspx",
+      "summary": "Block, Inc. (NYSE: XYZ) will release financial results for the third quarter of 2026 on Tuesday, November 3, 2026, after market close. Block will also host a conference call and earnings webcast at 2:00 p.m. Pacific Time / 5:00 p.m. Eastern Time on the same day to discuss these results. To register to participate in th",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-5395303ce74d411ba3f8",
@@ -456,6 +468,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-1f8761df5ef26f2879f4",
+      "title": "It's Time for Brazil to Lead the Change to the Future of Finance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNcS14WGlKYlFrUE14ZF91OTNQc2FQaWZBTkhhdXhQUGgySkdxTmdNbEt2MGpVYVFYTzI3NzduYkpPQVpmVXBkckNoaDJTaHRSU3dDWndDR1J0MjZPZll4TGdFZw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "paypal-newsroom-ed89651a4ec110eb35ea",
@@ -1250,18 +1274,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -1694,18 +1706,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-062287b6cadf174cd697",
       "title": "Square Credit Card Levels Up: Rewards Built for Small Businesses and a New Way to Pay Vendors",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Credit-Card-Levels-Up-Rewards-Built-for-Small-Businesses-and-a-New-Way-to-Pay-Vendors/default.aspx",
@@ -1728,18 +1728,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -2042,18 +2030,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-e3d7700622e291df64b8",
-      "title": "Consumer Protection Tuesday: A Fake IRS \"Digital Asset Compliance Portal\" Letter Is Targeting Crypto Holders",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LQll1M2JZZEVuOWh5dExBdDlGNTZFUGNtQUw0VFRwd0NwV2dzLUQtS0tRWjYxZ1dvbzZVSGZHX1ZYLWdLOTFsUEJYRmJxYkdmN3FnTC1PbGh0aXQ5VkpmUnUyVVFxcTRSbnZ6MVgzdjJsdm10RGRnVVlMOA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-28T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-127710ecc139b055cd65",
       "title": "Issuing & processing Consumer Buy Now, Pay Later Moved Into the Weekly Shop Article",
       "link": "https://www.marqeta.com/blog/buy-now-pay-later-moved-into-the-weekly-shop",
@@ -2088,18 +2064,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-65179d5eda7dc1dec48a",
-      "title": "Dimassi’s Mediterranean Buffet Leverages Square as It Expands Twenty-Four Location Portfolio",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Dimassis-Mediterranean-Buffet-Leverages-Square-as-It-Expands-Twenty-Four-Location-Portfolio/default.aspx",
-      "summary": "The family-owned, halal Mediterranean buffet chain is deepening its use of Square’s platform as it opens new restaurants in Texas and California Square today announced that Dimassi’s Mediterranean Buffet , a prominent Mediterranean buffet concept in the United States, has expanded its longstanding partnership with Squa",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
@@ -2148,6 +2112,18 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "affirm-news-0e0292955c83165e7030",
@@ -2810,6 +2786,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-632f97748c7870dca937",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2880,6 +2868,18 @@
       "company": "Dave",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "dlocal-blog-85656d296df85e155069",
+      "title": "Yape, Peru’s SuperApp is now on-file and redefining mobile conversion",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/yape-perus-superapp-is-now-on-file-and-redefining-mobile-conversion/",
+      "summary": "Discover how Yape, Peru’s leading super app, is now on file and transforming mobile conversion, offering merchants a frictionless and more inclusive payment experience.",
+      "publishedAt": "2025-10-31T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
