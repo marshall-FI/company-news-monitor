@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-01T23:14:49.630469+00:00",
+  "generatedAt": "2026-10-02T02:17:47.878696+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-5395303ce74d411ba3f8",
+      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation ",
+      "publishedAt": "2026-10-01T23:44:13+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-8fc038c2bf5754130094",
+      "title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "summary": "Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.",
+      "publishedAt": "2026-10-01T23:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-d30b92a579ccc1abcb0d",
       "title": "Amazon in the community: Service, community, and commitment at HQ2",
@@ -578,30 +602,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-11093ab38a4cdea11b04",
-      "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
-      "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
-      "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-205cb25737f6515ad92a",
       "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
       "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
@@ -618,6 +618,30 @@
       "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
       "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
       "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
+      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
+      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
+      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-11093ab38a4cdea11b04",
+      "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
+      "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
+      "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -691,18 +715,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "summary": "Google Blog published an update for Google relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-09-28T19:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-86453700a8c091300d70",
-      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
-      "summary": "Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
-      "publishedAt": "2026-09-28T16:30:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
@@ -1116,18 +1128,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "nvidia-newsroom-046432880ec75ff50cbb",
-      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-      "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fe",
-      "publishedAt": "2026-09-16T15:00:48+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "chime-newsroom-ae3731fb915fa8fc22b4",
@@ -1860,18 +1860,6 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "marqeta-blog-e80c1c42c96bc9934b8c",
-      "title": "Risk & fraud Financial Services Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines Article",
-      "link": "https://www.marqeta.com/blog/riskified-and-marqeta-partner-to-sharpen-card-issuer-authorization-decisions-and-help-reduce-false-declines",
-      "summary": "The integration brings Riskified's pre-authorization risk intelligence into Marqeta's modern card issuing platform, helping issuers approve more easily.",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-30be5a67c9524d71c4a4",
@@ -2880,6 +2868,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "dlocal-blog-240988e232d77a710a65",
+      "title": "Payments in the Middle East: A blend of heritage and modern innovation",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/payments-in-the-middle-east-a-blend-of-heritage-and-modern-innovation/",
+      "summary": "National payment networks, real-time rails, and mobile-driven consumers are transforming the Middle East into a hub of digital payment innovation.",
+      "publishedAt": "2025-10-21T19:53:30+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 12,
+      "itemCount": 13,
       "message": "OK via official fallback RSS"
     },
     {
