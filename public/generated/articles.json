@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-02T08:37:08.112240+00:00",
+  "generatedAt": "2026-10-02T15:51:07.781854+00:00",
   "articles": [
+    {
+      "id": "google-blog-6a7bb4e3e69d69f535f5",
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "publishedAt": "2026-10-02T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-cecaa627e24bd9730bc2",
+      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer",
+      "publishedAt": "2026-10-02T13:00:39+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-c4e91bcfdc04a3e7db43",
+      "title": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments",
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together?utm_source=rss",
+      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-02T08:55:14+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-a81d6d41c12e8d610b7d",
+      "title": "How Amazon is helping communities impacted by the Nepal flash floods",
+      "link": "https://www.aboutamazon.com/news/community/nepal-floods-amazon-disaster-relief?utm_source=rss",
+      "summary": "Amazon is working with aid organizations to help communities recover following flooding and landslides along the Nepal border.",
+      "publishedAt": "2026-10-02T08:34:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-5395303ce74d411ba3f8",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
@@ -422,30 +470,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-b47676cbdeb2ff770837",
-      "title": "How Amazon is preparing for the energy needs of the future",
-      "link": "https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-updates?utm_source=rss",
-      "summary": "Learn how we're supporting the transition to carbon-free energy and powering our business with sustainability in mind.",
-      "publishedAt": "2026-09-30T08:00:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-eb937ee7e10c453a257a",
-      "title": "Prime Big Deal Days: Our biggest deals to kick off fall and holiday shopping October 6-7",
-      "link": "https://www.aboutamazon.com/news/retail/prime-big-deal-days-best-deals-savings-2026?utm_source=rss",
-      "summary": "Prime members can shop millions of deals during the 48-hour event, from fall fashion and trending beauty to holiday gifting, and everyday essentials.",
-      "publishedAt": "2026-09-30T04:30:12+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "block-investor-news-c93e3fb0204bd2e3641c",
       "title": "Ètra and Café Telegrama Run Two Restaurants with One Kitchen on Square",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/tra-and-Caf-Telegrama-Run-Two-Restaurants-with-One-Kitchen-on-Square/default.aspx",
@@ -602,18 +626,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-11093ab38a4cdea11b04",
       "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
       "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
@@ -642,6 +654,18 @@
       "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
       "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
       "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
+      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
+      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
+      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -710,18 +734,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "google-blog-db713ef86bd59ea8f7ba",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "summary": "Google Blog published an update for Google relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-28T19:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-277ca605434b68b135e5",
       "title": "Amazon Music y Shakira Celebran A Las Mujeres Que Impulsan La Música y La Cultura Latina",
       "link": "https://press.aboutamazon.com/2026/9/amazon-music-y-shakira-celebran-a-las-mujeres-que-impulsan-la-musica-y-la-cultura-latina",
@@ -782,9 +794,9 @@
       "sourceKind": "rss"
     },
     {
-      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
-      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
+      "id": "coinbase-blog-344cdaa5e860bea9e9ed",
+      "title": "Coinbase brings bank-grade fiat and stablecoin payments to businesses, in collaboration with Citi",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUtkQzFkVnhSRVpVOWVtMV9PZmNPVEdXRnROTzVTWXZVQWRtX2kxb3B5VVRBUTdYeURBSldlVVlYZmVWajVCYlNiMmd5ZlJ2eDN2bml5ZFB5YU8xckxoV1BBd1lhTzliSHNfSnR0Wl9kNWxsUHhrWExhOTdzRGV0d0pwY2luN3dpYVlIbUk0ZEZMZ2stYnQtWERkX1oxbEpwNERqNzBTSzd1WUJPR1lCYkMzNjNSa3FXM0NZal9vM0ZsVEk0?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-28T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -794,9 +806,9 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-344cdaa5e860bea9e9ed",
-      "title": "Coinbase brings bank-grade fiat and stablecoin payments to businesses, in collaboration with Citi",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUtkQzFkVnhSRVpVOWVtMV9PZmNPVEdXRnROTzVTWXZVQWRtX2kxb3B5VVRBUTdYeURBSldlVVlYZmVWajVCYlNiMmd5ZlJ2eDN2bml5ZFB5YU8xckxoV1BBd1lhTzliSHNfSnR0Wl9kNWxsUHhrWExhOTdzRGV0d0pwY2luN3dpYVlIbUk0ZEZMZ2stYnQtWERkX1oxbEpwNERqNzBTSzd1WUJPR1lCYkMzNjNSa3FXM0NZal9vM0ZsVEk0?oc=5",
+      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
+      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-28T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -1082,18 +1094,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "nvidia-newsroom-facc38f4ce798f87b53a",
-      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
-      "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashin",
-      "publishedAt": "2026-09-17T13:00:55+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "affirm-news-5c4bd524e53bf6c693e6",
       "title": "Affirm launches transformer-based machine learning model for real-time underwriting",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-launches-transformer-based-machine-learning-model-real",
@@ -1250,6 +1250,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -1390,18 +1402,6 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-8eea6350220fe6345de4",
-      "title": "Klarna and Rare Carat team up to bring flexible payments to engagement ring shopping",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHdFcktUMWgtOEVfaFEzMEozanVPYUNTQzJWNzJqWkE4ZmlRbWljWEZXQUJGU3RoT1lodFFISDE4NmxlRTZqMmJwNWRmYW9PZml2d3hvWWdtVU5PN2tSbVo5U1k2TFBRN0tMTGMtS0NhN0RtdWp2WWVkUzJFQ3ZVMDhIY3A0NjJoUGczYXJUbzJqaGU5RS1abW5IM0x1cGRqaXJrc1M1Mmk2RnA5dENFeGpya2NrWGJoUXJSUWI5QTBYakhTOGdr?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1728,6 +1728,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-faff4fb821b9c9495d97",
+      "title": "2026/08/10 TSMC July 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3329",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -2198,18 +2210,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -2318,18 +2318,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -2362,6 +2350,18 @@
       "sourceId": "trade-desk-press-room",
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-3a98bc88202c9f655fdc",
+      "title": "2026/06/04 TSMC Shareholders’ Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3317",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
