@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:32:45.418011+00:00",
+  "generatedAt": "2026-10-03T06:34:59.505146+00:00",
   "articles": [
     {
       "id": "shift4-news-b259404b2ca1716270fe",
@@ -1874,18 +1874,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "marqeta-blog-e80c1c42c96bc9934b8c",
-      "title": "Risk & fraud Financial Services Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines Article",
-      "link": "https://www.marqeta.com/blog/riskified-and-marqeta-partner-to-sharpen-card-issuer-authorization-decisions-and-help-reduce-false-declines",
-      "summary": "The integration brings Riskified's pre-authorization risk intelligence into Marqeta's modern card issuing platform, helping issuers approve more easily.",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "block-investor-news-30be5a67c9524d71c4a4",
       "title": "Block Announces Second Quarter 2026 Results",
       "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-Announces-Second-Quarter-2026-Results/default.aspx",
@@ -2880,6 +2868,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6e1e6bd0fd3a09b620bb",
+      "title": "eWallets: The digital gateway transforming payments in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/ewallets-the-digital-gateway-transforming-payments-in-emerging-markets/",
+      "summary": "Blending local trust with digital speed, eWallets—a cornerstone of the alternative payment methods (APMs) ecosystem, are revolutionizing payments in emerging markets and driving inclusion at scale.",
+      "publishedAt": "2025-10-17T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2898,7 +2898,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 18,
+      "itemCount": 17,
       "message": "OK via official fallback RSS"
     },
     {
