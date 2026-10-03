@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:00:03.088966+00:00",
+  "generatedAt": "2026-10-03T23:06:00.253309+00:00",
   "articles": [
     {
       "id": "shift4-news-b259404b2ca1716270fe",
@@ -266,18 +266,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-e46068edf515c5d74165",
-      "title": "Migrating 300+ namespaces from self-hosted Temporal to Temporal Cloud",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTQ2cUtkWlRQSW9TQUZKWWkyV1owNXFtS2ctLU1FX0hVZ2hfQXM2RXZ5MTExenpUTFhzTkYtNEdsMkNieEFTTm9tdVRFc0xuVTJEeXc3U3k3WE55dVdfMWZPRS0xUDZpRThSUjZ3NmtGZkk4Q0VZSWxxUE1adVFYSDcya1lOMXRtOVZ0S0c1WVpZSmlfRlZwdEpn?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-01T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-05f6870c82edd529eb4d",
       "title": "Announcement The foundation the world's leading payment programs are built on Article",
       "link": "https://www.marqeta.com/blog/the-foundation-the-worlds-leading-payment-programs-are-built-on",
@@ -482,6 +470,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-1f8761df5ef26f2879f4",
+      "title": "It's Time for Brazil to Lead the Change to the Future of Finance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNcS14WGlKYlFrUE14ZF91OTNQc2FQaWZBTkhhdXhQUGgySkdxTmdNbEt2MGpVYVFYTzI3NzduYkpPQVpmVXBkckNoaDJTaHRSU3dDWndDR1J0MjZPZll4TGdFZw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "paypal-newsroom-ed89651a4ec110eb35ea",
       "title": "PayPal Survey Reveals Holiday Spending Isn't Slowing Down, But Shoppers Are Changing How They Spend",
       "link": "https://newsroom.paypal-corp.com/2026-09-30-PayPal-Survey-Reveals-Holiday-Spending-Isnt-Slowing-Down,-But-Shoppers-Are-Changing-How-They-Spend",
@@ -650,18 +650,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-11093ab38a4cdea11b04",
-      "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
-      "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
-      "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-205cb25737f6515ad92a",
       "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
       "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
@@ -690,6 +678,18 @@
       "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
       "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
       "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-11093ab38a4cdea11b04",
+      "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
+      "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
+      "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
