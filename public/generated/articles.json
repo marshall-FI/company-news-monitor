@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:19:07.453832+00:00",
+  "generatedAt": "2026-10-03T20:00:03.088966+00:00",
   "articles": [
     {
       "id": "shift4-news-b259404b2ca1716270fe",
@@ -482,18 +482,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "coinbase-blog-1f8761df5ef26f2879f4",
-      "title": "It's Time for Brazil to Lead the Change to the Future of Finance",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNcS14WGlKYlFrUE14ZF91OTNQc2FQaWZBTkhhdXhQUGgySkdxTmdNbEt2MGpVYVFYTzI3NzduYkpPQVpmVXBkckNoaDJTaHRSU3dDWndDR1J0MjZPZll4TGdFZw?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-30T13:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "paypal-newsroom-ed89651a4ec110eb35ea",
       "title": "PayPal Survey Reveals Holiday Spending Isn't Slowing Down, But Shoppers Are Changing How They Spend",
       "link": "https://newsroom.paypal-corp.com/2026-09-30-PayPal-Survey-Reveals-Holiday-Spending-Isnt-Slowing-Down,-But-Shoppers-Are-Changing-How-They-Spend",
@@ -662,18 +650,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-11093ab38a4cdea11b04",
       "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
       "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
@@ -702,6 +678,18 @@
       "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
       "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
       "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
+      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
+      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
+      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -1274,18 +1262,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -1295,6 +1271,18 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1346,18 +1334,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1379,6 +1355,18 @@
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-818f2287e609f6ec09d4",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1680,30 +1668,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "block-investor-news-062287b6cadf174cd697",
@@ -2126,18 +2090,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -2291,18 +2243,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-c4f3b13e47702c65ced0",
-      "title": "2026/06/10 TSMC May 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3320",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2820,66 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-cb9d11daf56f307f7e05",
+      "title": "SoFi Reports Third Quarter 2025 with Record Net Revenue of $962 Million, Record Member and Product Growth, Net Income of $139 Million",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUklCMExtU0pMX1hBM2c0OXBQa0YxMndyVjZNTXVyQkUyeVpsTkpuS2cya0EzRnpXRjlmbWpKbUxhLXlydDh1Z3k3ZUNZdzFscmJadWhYeWRPTEo3eHk4X2wwOC1NR3BRLVk0TlBqZEtLUEJrVTktVVd2R090SEVkNnJ1SHllM0pxTXM0Z1h0VkIyVENzWmJYZ3dCaXZDRWxXOGV2QTM2SElDQVNtdTl1YTBEZGI2S1VFV3dKem16SmVDVEtDVS1lTmNCeUc0REVzMTBucmd1dkM1TU1yZnJxRnIyMm5CbGNtU0pSU2VtWDExdGN4a1BSc2wzaTF3dDMzaDIyVl95ZmJyTGpsS1NJZXVrd19QQmR3OEVIbA?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-10-28T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dlocal-blog-240988e232d77a710a65",
+      "title": "Payments in the Middle East: A blend of heritage and modern innovation",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/payments-in-the-middle-east-a-blend-of-heritage-and-modern-innovation/",
+      "summary": "National payment networks, real-time rails, and mobile-driven consumers are transforming the Middle East into a hub of digital payment innovation.",
+      "publishedAt": "2025-10-21T19:53:30+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-6e1e6bd0fd3a09b620bb",
+      "title": "eWallets: The digital gateway transforming payments in emerging markets",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/ewallets-the-digital-gateway-transforming-payments-in-emerging-markets/",
+      "summary": "Blending local trust with digital speed, eWallets—a cornerstone of the alternative payment methods (APMs) ecosystem, are revolutionizing payments in emerging markets and driving inclusion at scale.",
+      "publishedAt": "2025-10-17T12:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-7187026926ebefef292b",
+      "title": "Africa’s payment frontier: Connecting systems, people, and opportunity",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/africas-payment-frontier-connecting-systems-people-and-opportunity/",
+      "summary": "Mobile-first innovation, real-time rails, and new interoperability frameworks are turning Africa into one of the world’s most dynamic digital payment regions.",
+      "publishedAt": "2025-10-08T19:23:46+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-0ae716a1bd51cdae4a7f",
+      "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
+      "link": "https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
+      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-29T14:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
