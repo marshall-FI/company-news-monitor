@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T19:39:34.596096+00:00",
+  "generatedAt": "2026-10-04T23:12:08.982021+00:00",
   "articles": [
     {
       "id": "shift4-news-b259404b2ca1716270fe",
@@ -60,18 +60,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-e466446b98236838f285",
-      "title": "Block to Announce Third Quarter 2026 Results",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-to-Announce-Third-Quarter-2026-Results/default.aspx",
-      "summary": "Block, Inc. (NYSE: XYZ) will release financial results for the third quarter of 2026 on Tuesday, November 3, 2026, after market close. Block will also host a conference call and earnings webcast at 2:00 p.m. Pacific Time / 5:00 p.m. Eastern Time on the same day to discuss these results. To register to participate in th",
-      "publishedAt": "2026-10-02T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-5395303ce74d411ba3f8",
@@ -326,6 +314,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "block-investor-news-cbf4f2a03dd62563b0e5",
+      "title": "Ètra and Café Telegrama Run Two Restaurants with One Kitchen on Square",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQREpSOWhvS2l3akdmdXRoTy1qUEgzZWY5aUNmanhESHdWT3IzSlVsdjJZa0V6NmNOX2pSYUtseklfTGJLNmVoVy1xel9tUnMyTEVUaGhOZVZQRzFZNzBWT1VNaFpjcjdMbDBCUFY0cmV5OEktQUp1Q21tSWc5a3FsQW00TEs0WXctNEdENml3M2dKdkE5RzUyaGkwdDZINEY3eTN5clExOEpJYW9OODVQM1RVZmpHd3FmWmN5RnZUWGRmVWxHVFgxUlFKc1R2UmJyX19LUFdmVlI?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-30T17:47:43+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-0b5e363622340260d6f6",
       "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
       "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
@@ -492,18 +492,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-c93e3fb0204bd2e3641c",
-      "title": "Ètra and Café Telegrama Run Two Restaurants with One Kitchen on Square",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/tra-and-Caf-Telegrama-Run-Two-Restaurants-with-One-Kitchen-on-Square/default.aspx",
-      "summary": "The Melrose Hill sister concepts move to Square’s unified commerce platform as they eye community-centric growth Square today announced that Ètra and Café Telegrama , sister restaurants in Los Angeles' Melrose Hill neighborhood, have moved both concepts onto Square's unified commerce platform. The two restaurants opera",
-      "publishedAt": "2026-09-30T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "toast-product-news-c18b888faf47f5e538dd",
@@ -830,6 +818,30 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-9140b4fb1857715233b9",
+      "title": "Square Integrates Apple Business to Help Local Businesses Stand Out on Apple Maps",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTlNjbWlaaU5vbFlhRUxXanVwWW1Ec2NlczdUUVNJVTUwSEZYZ3YwV3lYMjJ0UkVySWh2Ylp3R0h6M0trNGZQN3piNzVLZVluWFlkVWRZenhOazhJMmFhMXhub2NGckt6VUtUc25feW5EakdVZV9JbGZKeVNGMm13czFyTjd2STRQQW5hS0RpdHN5REFiN1dqcm5rNEdncUhZNmVzMENURnNZVi1MSkZQVkx1Z1BOeGpwR1Q5WHFXem04ZjV2ZVJ0ajZESl9kaW9COW16b0pfSXBXNW5taG1mMkVfMGwtNE9seUE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-25T05:44:13+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-0061d8d1927194d4761b",
+      "title": "Cash App Partners with Workday to Bring Direct Deposit to More Modern Earners",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXlvaWlZUGZZNks4d3lNMXQzX3RvZVpVeDNTVGtQU1llcGFuX0NFOEtCbG5ObDhSOWs2MDE3aUhaVFJaMkNhWC1QXzJ5RHhKS1NXUFhiQnlfMnVUcTlKWnJtNm0wMEo3YkMxbzlUR3ZfUXdrOWdFLTF5d3Z6ajlpUkNGamc1bGxXakN2REZjU20zNnd3ZWQzODhWbGZ4Wmt0d2RCa1RGak15M3NUdW05N000cVVJWFcxMG9Oelkwb042RlNiVlIwb3ZYVEFvTlNTLVNQZXNDQTFMWXdKUDFEdlNRT0M?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-25T03:11:25+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "circle-pressroom-40fdc15179335c4f9b8d",
       "title": "Circle Announces CFO Transition Plan Jeremy Fox-Geen to step down as Chief Financial Officer and will support a smooth transition",
       "link": "https://www.circle.com/pressroom/circle-announces-cfo-transition-plan",
@@ -876,30 +888,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-47f6cc6a59c8f392c0f0",
-      "title": "Cash App Partners with Workday to Bring Direct Deposit to More Modern Earners",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Cash-App-Partners-with-Workday-to-Bring-Direct-Deposit-to-More-Modern-Earners/default.aspx",
-      "summary": "New integration will help employees connect their pay to Cash App during direct deposit election, supporting Cash App’s broader strategy to serve as the money app for modern earners Cash App today announced a new partnership with Workday that will make it easier for eligible employees in the U.S. to select Cash App as ",
-      "publishedAt": "2026-09-24T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-becf05310fd869de34ae",
-      "title": "Square Integrates Apple Business to Help Local Businesses Stand Out on Apple Maps",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Integrates-Apple-Business-to-Help-Local-Businesses-Stand-Out-on-Apple-Maps/default.aspx",
-      "summary": "Square sellers can now easily connect to Apple Business to manage their presence across Apple Maps, Siri AI, Apple Wallet, and other Apple apps, keeping their business details in sync from Square Dashboard Square today announced a new integration with Apple that enables Square sellers to connect their locations to Appl",
-      "publishedAt": "2026-09-24T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-4ab32af44318036a6678",
@@ -998,18 +986,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-dd0aa8aed834de20105b",
-      "title": "Afterpay Named Fanatics’ Preferred Buy Now, Pay Later Partner",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Afterpay-Named-Fanatics-Preferred-Buy-Now-Pay-Later-Partner/default.aspx",
-      "summary": "Afterpay today announced it was named the preferred Buy Now, Pay Later partner of Fanatics expanding its relationship with the digital sports platform and giving fans more flexibility when shopping for their favorite teams, leagues, and players. Through the partnership, eligible shoppers can use Afterpay’s Pay in 4 1 a",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "nvidia-newsroom-9d552a651ead7d3a495e",
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
       "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
@@ -1080,18 +1056,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-ac7d31d703b4f5e8fc64",
-      "title": "Ideal Nutrition Renews and Expands Its Partnership with Square as It Scales Booming Franchise Brand",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Ideal-Nutrition-Renews-and-Expands-Its-Partnership-with-Square-as-It-Scales-Booming-Franchise-Brand/default.aspx",
-      "summary": "The Florida-based, prepared meal brand has renewed and expanded its commitment to Square as it scales from 17 locations to a national footprint Square today announced that Ideal Nutrition , the Florida-based healthy prepared meal concept, has renewed and expanded its partnership as it eyes national franchise expansion.",
-      "publishedAt": "2026-09-18T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-5c4bd524e53bf6c693e6",
@@ -1274,18 +1238,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-7f3459690f24c51f576d",
-      "title": "Whit’s Frozen Custard Brings its 100 Locations to Square’s Unified Commerce Platform",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Whits-Frozen-Custard-Brings-its-100-Locations-to-Squares-Unified-Commerce-Platform/default.aspx",
-      "summary": "The household-favorite custard concept selected Square to streamline complex franchise operations for continued national expansion Square today announced that Whit’s Frozen Custard , the quick-service restaurant (QSR) brand known for its fresh-made frozen custard and loyal fan base, has selected Square as its unified c",
-      "publishedAt": "2026-09-10T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "coinbase-blog-0ef6b8d55d4474214f10",
       "title": "Moving Bitcoin’s Post-Quantum Readiness Forward",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTBMaDAwNWZkalVENVU2ZVpBR2ctWWJhcDJPNkNCUXp6aWJyU2dPdVdESll1czZGNjFBRFJwbWU2X0djRXRreEloLW8wZUJIaXJpdmVjczhBcWxqSkhCZ29mZndKYnBEWkQzOUNzYkx5OXRTYTZ6N3dPNnZKbVFjVTdn?oc=5",
@@ -1358,18 +1310,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-79955cce3d174d58c067",
-      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-Applies-to-Establish-Builders-Bank-a-National-Trust-Bank/default.aspx",
-      "summary": "Block, Inc. (NYSE: XYZ) today announced that it has submitted an application to the Office of the Comptroller of the Currency (“OCC”) to establish Builders Bank Trust, N.A. (“Builders Bank”), an uninsured national trust bank. If approved, Builders Bank would operate as a federally regulated national trust bank under OC",
-      "publishedAt": "2026-09-08T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-e98e06720988c1bfbc15",
       "title": "Upstart Publishes August 2026 Originations and Latest UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-august-2026-originations-and-latest-umi",
@@ -1380,30 +1320,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-df6449a1bd4945781104",
-      "title": "Parsons Bakery Turns to Square to Run Its Business on One Platform",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Parsons-Bakery-Turns-to-Square-to-Run-Its-Business-on-One-Platform/default.aspx",
-      "summary": "The century-old South West bakery chain has selected Square for point-of-sale and payment processing to bring operations together in one place Square, the global payments platform, today announced that Parsons Bakery, the South West England and Wales bakery chain, has adopted Square’s point-of-sale and payment processi",
-      "publishedAt": "2026-09-02T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-0d1994ca2436b3cb1db4",
-      "title": "Block Will Open Its Cash App Score to Lenders with Nova Credit’s Cash Flow Intelligence Platform as Partner",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-Will-Open-Its-Cash-App-Score-to-Lenders-with-Nova-Credits-Cash-Flow-Intelligence-Platform-as-Partner/default.aspx",
-      "summary": "Cash App Score, the real-time credit signal at the center of how Block manages its consumer lending portfolio, will be distributed to lenders through Nova Credit’s Cash Flow Intelligence Platform, expanding responsible credit access without requiring consumers to link accounts or share new credentials Block, Inc. (NYSE",
-      "publishedAt": "2026-09-01T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-36cfe43c94ba45e5b45f",
@@ -1478,18 +1394,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-768f4c65a74f23e987aa",
-      "title": "Cascadia Pizza Co. Returns to Square to Power Its Next Chapter of National Franchise Growth",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Cascadia-Pizza-Co--Returns-to-Square-to-Power-Its-Next-Chapter-of-National-Franchise-Growth/default.aspx",
-      "summary": "The Pacific Northwest wood-fired pizza brand spanning corporate restaurants, franchises, food trucks, and event catering has consolidated its entire operation on Square as it nationally scales Square today announced that Cascadia Pizza Co. , the American Crafted Wood Fired Pizza ™ brand founded in Washington state in 2",
-      "publishedAt": "2026-08-26T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-674a94cff69466925dcc",
       "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Goldman Sachs Communacopia and Technology Conference 2026",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-co-founder-and-ceo-participate-fireside-chat-goldman",
@@ -1500,18 +1404,6 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-97ff3b3de8f202ebc8ce",
-      "title": "Block’s Neighborhoods Adds 30,000 More Sellers as Square and Cash App Help Build Local Commerce Network",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Blocks-Neighborhoods-Adds-30000-More-Sellers-as-Square-and-Cash-App-Help-Build-Local-Commerce-Network/default.aspx",
-      "summary": "More local businesses are turning everyday transactions into repeat business, with top Neighborhoods sellers seeing 110% more transactions from followers1 Block, Inc. (NYSE: XYZ) today announced that Neighborhoods, the experience that connects Square sellers with Cash App customers to drive discovery, repeat visits, an",
-      "publishedAt": "2026-08-25T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "marqeta-blog-d992f2d9c8d768337eca",
@@ -1574,18 +1466,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-77ae3be081cbe9afad8b",
-      "title": "Square and OpenTable Deepen Strategic Partnership for Unified Dining, Guest and Payment Insights",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-and-OpenTable-Deepen-Strategic-Partnership-for-Unified-Dining-Guest-and-Payment-Insights/default.aspx",
-      "summary": "Connecting guest preferences with real spending data to make it easier for restaurants to keep regulars happy and spot new ways to grow Square today announced an expanded, preferred partnership with OpenTable , a global leader in restaurant tech, bringing reservations, payments, and guest data together in one connected",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "affirm-news-c29cab27ac3eeda37796",
       "title": "Affirm to participate in upcoming investor conferences",
       "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-participate-upcoming-investor-conferences-19",
@@ -1622,18 +1502,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-f9eefd05739e5844daf0",
-      "title": "The Baked Bear Eyes Further Growth with Square as the Cookie Ice Cream Sandwich Brand Continues to Expand",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/The-Baked-Bear-Eyes-Further-Growth-with-Square-as-the-Cookie-Ice-Cream-Sandwich-Brand-Continues-to-Expand/default.aspx",
-      "summary": "The handcrafted ice cream sandwich concept plans to add at least five locations to its 36-location national portfolio over the coming year Square today announced that The Baked Bear , the beloved handcrafted cookie ice cream sandwich concept founded in San Diego in 2013, is continuing to grow on Square as it expands it",
-      "publishedAt": "2026-08-13T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-ea4919037fc01ea8e0f7",
       "title": "Chime Scholars Foundation Announces 2026–2027 Cohort",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-scholars-foundation-announces-2026-2027-cohort",
@@ -1656,18 +1524,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-062287b6cadf174cd697",
-      "title": "Square Credit Card Levels Up: Rewards Built for Small Businesses and a New Way to Pay Vendors",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-Credit-Card-Levels-Up-Rewards-Built-for-Small-Businesses-and-a-New-Way-to-Pay-Vendors/default.aspx",
-      "summary": "New Bill Pay capabilities pair with an expanded, refreshed Square Credit Card to give more sellers a simpler way to manage every outflow from one platform Square today announced a significant expansion of its Square Credit Card program and a new Square Bill Pay capability that enables sellers to fund vendor payments wi",
-      "publishedAt": "2026-08-11T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "paypal-newsroom-40d67513bd2032afea57",
@@ -1790,18 +1646,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-8b4e8f12096561d3d592",
-      "title": "Square and Google Deepen Collaboration to Support the Future of Food Ordering",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Square-and-Google-Deepen-Collaboration-to-Support-the-Future-of-Food-Ordering/default.aspx",
-      "summary": "Square sellers gain new discovery and ordering capabilities through Ask Maps, Google’s newest AI experience in Google Maps Square today announced an expansion of its relationship with Google, bringing U.S. food and beverage (FB) sellers into Ask Maps, a conversational AI experience within Google Maps where customers di",
-      "publishedAt": "2026-08-06T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "chime-newsroom-62345efc8589b0a0f1c1",
       "title": "Chime Reports Second Quarter 2026 Financial Results",
       "link": "https://investors.chime.com/news-releases/news-release-details/chime-reports-second-quarter-2026-financial-results",
@@ -1834,18 +1678,6 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-30be5a67c9524d71c4a4",
-      "title": "Block Announces Second Quarter 2026 Results",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Block-Announces-Second-Quarter-2026-Results/default.aspx",
-      "summary": "Block, Inc. (NYSE: XYZ) has posted its results for the second quarter of 2026 on the Financials section of its Investor Relations website at investors.block.xyz . Block will host a conference call and earnings webcast at 2:00 p.m. Pacific Time / 5:00 p.m. Eastern Time today to discuss these financial results. To regist",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1918,18 +1750,6 @@
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-4ce8c2f3554961053a15",
-      "title": "Vibrant Los Angeles Health Spot, Kreation Organic, Deepens Its Partnership with Square Across Its 25-Location Footprint",
-      "link": "https://investors.block.xyz/investor-news/news-details/2026/Vibrant-Los-Angeles-Health-Spot-Kreation-Organic-Deepens-Its-Partnership-with-Square-Across-Its-25-Location-Footprint/default.aspx",
-      "summary": "The popular Southern California cold-pressed juice and healthy foods brand is expanding its use of Square’s platform as it scales Square today announced that Kreation Organic , the cold-pressed juice and healthy QSR (quick-service restaurant) brand, has renewed and expanded its partnership with Square across all 25 of ",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2234,6 +2054,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-a0d5606912161961133e",
+      "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGppUklmZmdvaEoyT1hKNVNHd3Blbm05eTB5c1JaWEpCaXdITHN4bkEtRndCUjh6UXdxbEM0b1BLUzlqZFA1UzR0U0FYV0hqSUNNWUNkNU1ZcS04ejNDQTJ6bkZDTUxrVFlLLU5NTzhSalJrMF9OM0JmR3k2bUxNbUp5SzhIYUVtRXVfMXFZVmdmLTlfcEx4S2xmNEJSVy1kd1p6WHJhRFJmLTdCNDEwSks1Tk9vNmlMWGY3WWFRZ3RBOVRBaTVoQUNOUEJ5azFjLS1pY0tvMWFlenJGWWx2SXBZOFVwc0ZCci05ZQ?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
       "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
@@ -2462,6 +2294,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "block-investor-news-b7aad5c939878451dc5c",
+      "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-28T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "circle-pressroom-b6aa8d3ea5c0ee99150d",
       "title": "Kyriba and Circle Bring USDC Capabilities to Enterprise Treasury, Unlocking a Path Toward More Intelligent Treasury Decisioning",
       "link": "https://www.circle.com/pressroom/kyriba-and-circle-bring-usdc-capabilities-to-enterprise-treasury-unlocking-a-path-toward-more-intelligent-treasury-decisioning",
@@ -2628,6 +2472,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-6ee9a3f0832bc52d5cf9",
+      "title": "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers, Continuing to Address Global Lending Gaps",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUFGU3BYQl9sVzg0OGhhWmNxZ3AyQVctc1YwektiUzJLZE9JTllvNUxrX3gzVVczOWdUd3NUR0RDUkJ2MlIzUXZseUpyeGJ0TUJtckhFN2RlTVRpNEZkUkJYUnZjVnY5WlY1RFlYRnlXRUg5Q09JYXVPTHFaczdVWXh2ZXhwdXBtRTd5RURXZVphUnU4U0Jpc3lNYTNnTTViblZpbk1ORndfVFdJNUVLMWgxUzdTYlE0WXB2SExxYll4bzJOcGNkdTNvYkVqYmdlNmpkQmJRN1hzUjRWTnZKMXBzSFpCSDlnS01MRWNVSmNHNkFDRGdXZFZ4MXNGVnZhQUNQRmpBazE4RUU?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-20T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-52da2bed2699fbca9aa9",
@@ -2870,6 +2726,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-e13e97f1c36dab78d9f1",
+      "title": "Square Financial Services, Inc. Launches 25 Squared Grant Initiative to Drive Community Development in Utah",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUC01cFVvUk5lV2loM1pFd0NGNHVaUU9HQ0RkNzNTQmxKbVFBa2l4RmNYV3hYdFBucEtlRWVCQ3RsLW8xaVZJSERCWU1WQUlvZzVNY21PRXFzRHR0ZVBDWWRVV0JZTWpxMlpCRzJVNDVBdC1xSzIycm5pWlZaVkR0QlAwYnltSFlFal9mcHBSNGVhSlpfUnA4LV9oZlF5NzRzYnRMTkVKZk1LMnlFcDNvRWtKSVdlb09oTE9QaG9XV0x2aGVDeHM0VjZmX0I2NnNCakRPV3pNS0FRVGRiLU1yT3NfaU9fWHlIREgtQWJhb09sUkNwZm55RDRRamw2aUV0alhvcDE2RDdzQkE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-24T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-8357fec8a7f961d6724e",
       "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
@@ -2880,6 +2748,138 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "dlocal-blog-520c9f5309d7a7b5defd",
+      "title": "dLocal joins forces with Google to help define Agent Payments Protocol (AP2): the open standard for AI‑agent payments",
+      "link": "https://www.dlocal.com/blog/dlocal-viewpoint/dlocal-joins-forces-with-google-to-help-define-agent-payments-protocol-ap2-the-open-standard-for-aiagent-payments/",
+      "summary": "dLocal is collaborating with Google on the Agent Payments Protocol (AP2), an open standard that secures agent‑led payments across cards, bank transfers, and digital assets—advancing AI‑first commerce with verifiable intent, privacy, and interoperability.",
+      "publishedAt": "2025-09-16T19:11:38+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "wise-newsroom-b2b26b97399791c9ad1d",
+      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
+      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
+      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
+      "publishedAt": "2025-09-10T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "dave-press-190d95897f79b5b83005",
+      "title": "Dave Introduces CashAI v5.5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-2343c3607e7c8273a3fb",
+      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
+      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
+      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
+      "publishedAt": "2025-09-08T14:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-906d798c5b95f5509932",
+      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-466599b9abbc40fccaf0",
+      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-08T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-0e5051ae773bb20f22c0",
+      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-25T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-2226f61adf7d292adf5a",
+      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-21T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-c22901d5296e709477b9",
+      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-20T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dave-press-e6d46e6b0aa4c4ed3909",
+      "title": "Dave Reports First Quarter 2025 Financial Results",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2NvcjdONlVpck04cXhXU0MzZ1lqanRyZXFwdjBkVGs0QnJSeGdhdmZaX01JaEowVC1NeHRyVER4RzBXUkdBQ2hWcXBIb3BNSmRhNzRMNXVyWGR0VW5ad2FydDNFQlhVWW9fdGRRVFRWU3RwcmRUTUNmWkZ6NlA2MmJyTllzNmFvY3I4Z21ueldnS2FPM1hPLXdLUG9lTkNIeEJKVG1zaUxlQk0?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-15T21:03:21+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2914,10 +2914,10 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via rendered HTML"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "affirm-news",
