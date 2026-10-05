@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:12:08.982021+00:00",
+  "generatedAt": "2026-10-05T02:03:48.953220+00:00",
   "articles": [
     {
       "id": "shift4-news-b259404b2ca1716270fe",
@@ -60,6 +60,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-02T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-5395303ce74d411ba3f8",
@@ -2866,18 +2878,6 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "dave-press-e6d46e6b0aa4c4ed3909",
-      "title": "Dave Reports First Quarter 2025 Financial Results",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2NvcjdONlVpck04cXhXU0MzZ1lqanRyZXFwdjBkVGs0QnJSeGdhdmZaX01JaEowVC1NeHRyVER4RzBXUkdBQ2hWcXBIb3BNSmRhNzRMNXVyWGR0VW5ad2FydDNFQlhVWW9fdGRRVFRWU3RwcmRUTUNmWkZ6NlA2MmJyTllzNmFvY3I4Z21ueldnS2FPM1hPLXdLUG9lTkNIeEJKVG1zaUxlQk0?oc=5",
-      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-15T21:03:21+00:00",
-      "sourceId": "dave-press",
-      "sourceName": "Dave Press",
-      "company": "Dave",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
