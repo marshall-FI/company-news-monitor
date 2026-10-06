@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-10-06T15:14:25.658335+00:00",
+  "generatedAt": "2026-10-06T20:22:35.235362+00:00",
   "articles": [
+    {
+      "id": "upstart-press-e60c7399a2299a1d8476",
+      "title": "Upstart to Announce Third Quarter 2026 Results on November 3, 2026",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announce-third-quarter-2026-results-november-3-2026",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Oct. 6, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, will host a live video webcast to discuss its third quarter 2026 financial results on Tuesday, November 3, 2026, at 5:00 a.m. PT / 8:00 a.m. ET.",
+      "publishedAt": "2026-10-06T20:05:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-b28cac5d3529e5b13bad",
+      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+      "summary": "By pairing AI with “blind sweep” ultrasounds, Google researchers found a way to get more people the prenatal ultrasounds they need.",
+      "publishedAt": "2026-10-06T18:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-9c11e680d21854314f78",
+      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+      "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+      "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+      "publishedAt": "2026-10-06T18:00:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-674996c75e34a9de4f2f",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "publishedAt": "2026-10-06T16:47:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-186442aeaf00c1e5da43",
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "publishedAt": "2026-10-06T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-e6e1d2a9f0a4e91a5d1f",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "publishedAt": "2026-10-06T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-bfd32a520d61cca41953",
+      "title": "5 ways Amazon is investing in Massachusetts",
+      "link": "https://www.aboutamazon.com/news/community/amazon-investment-massachusetts-jobs-infrastructure-small-business?utm_source=rss",
+      "summary": "Amazon's investments are boosting the Bay State's economy while creating opportunities for those who call Massachusetts home.",
+      "publishedAt": "2026-10-06T15:58:11+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-b73463783dff2ee013de",
+      "title": "5 ways Amazon is investing in Missouri",
+      "link": "https://www.aboutamazon.com/news/community/amazon-investment-missouri-jobs-infrastructure-small-business?utm_source=rss",
+      "summary": "Amazon's investments are boosting Missouri’s economy while creating opportunities for Missourians.",
+      "publishedAt": "2026-10-06T15:56:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-64a6575063ff0fdc5b1b",
       "title": "Making global public health more proactive with Google Earth AI",
@@ -86,8 +182,20 @@
       "sourceKind": "rss"
     },
     {
+      "id": "shopify-pressroom-a51554a5e67dbeb72767",
+      "title": "Welcome to the first holiday season of the agentic era",
+      "link": "https://www.shopify.com/news/agentic-holiday-2026",
+      "summary": "AI is rewriting how shoppers discover and purchase this holiday. Merchants spent the year preparing to be found.",
+      "publishedAt": "2026-10-06T07:44:18+00:00",
+      "sourceId": "shopify-pressroom",
+      "sourceName": "Shopify Pressroom",
+      "company": "Shopify",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
-      "title": "Prime Big Deal Days 2026 is here: 105+ of the best deals to shop now through October 7",
+      "title": "Prime Big Deal Days 2026 is here: 150 of the best deals to shop now through October 7",
       "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
       "summary": "From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop during the 48-hour event, running through 11:59 p.m. PDT on Wednesday, Oct. 7.",
       "publishedAt": "2026-10-06T07:22:02+00:00",
@@ -108,6 +216,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-e93f810c72c735611398",
+      "title": "Part 1/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHFXbmxPNjVXT2Z5bUZUYjhhVVhYWUZHMl8yVFlUN19pUm9ieGl2aG50U1ZUMFJ6NUkxU2VTQVBIb1JndUIyaTRDbXpyRTM3cGYzS3M4NGs2SUpxQzZNSk9EMF9IQUEtYTdHeEcxRVdBVnBvMDNVTG4zeFNDUXZJWFhqUW4td1VMLVl1TTE4VmlNY1NicW5NaXAwZW9mSjg?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "affirm-news-9c446e3410a792e0df1e",
@@ -134,18 +254,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-cd0e05b27e96e3cea4ef",
-      "title": "I teach my students that in the AI era, critical thinking comes first.",
-      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-0a87ba260f515b8c572b",
       "title": "I use technology to give students a voice and become critical digital citizens.",
       "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
@@ -158,10 +266,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6ac1d30f4cbf6f9faae8",
-      "title": "Gemini helps me give a voice to students who cannot write.",
-      "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
-      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
+      "id": "google-blog-e19c9e6ee550c24438cc",
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -206,46 +314,34 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-6ac1d30f4cbf6f9faae8",
+      "title": "Gemini helps me give a voice to students who cannot write.",
+      "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-cd0e05b27e96e3cea4ef",
+      "title": "I teach my students that in the AI era, critical thinking comes first.",
+      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
+      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-366d9f4e5a40d0265e48",
       "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
       "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
       "summary": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-1fc121c6836d1abed79a",
-      "title": "Gemini helps me bring hands-on learning into the classroom.",
-      "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
-      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-ce114c8ceafbd37630c0",
-      "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-      "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
-      "summary": "Teachers use Gemini to build custom K-6 math worksheets and save hours of prep time. See how Google AI transforms classroom instruction.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-e19c9e6ee550c24438cc",
-      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
-      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -266,23 +362,35 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-ce114c8ceafbd37630c0",
+      "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
+      "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
+      "summary": "Teachers use Gemini to build custom K-6 math worksheets and save hours of prep time. See how Google AI transforms classroom instruction.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-1fc121c6836d1abed79a",
+      "title": "Gemini helps me bring hands-on learning into the classroom.",
+      "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
+      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "about-amazon-aac51acdf568caf15f56",
       "title": "Inside the AWS lab that makes everything you do online feel effortless",
       "link": "https://www.aboutamazon.com/stories/inside-aws-networking-lab-cupertino?utm_source=rss",
       "summary": "In a nondescript building in Cupertino, California, a team of engineers is quietly designing the networking technology that keeps the modern world connected—one wavelength of light at a time.",
       "publishedAt": "2026-10-05T15:37:49+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-674996c75e34a9de4f2f",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
-      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "publishedAt": "2026-10-05T15:26:00+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -326,18 +434,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-707c259045bccf332873",
-      "title": "Wheels up: Trends and tips for 2026 holiday travel",
-      "link": "https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/",
-      "summary": "Explore this year’s trends and tips for holiday travel — from insights on booking the lowest fare to trending destinations for Thanksgiving and Christmas.",
-      "publishedAt": "2026-10-05T12:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "upstart-press-54c5448ecc425ab4e7b2",
       "title": "Upstart Publishes September 2026 Originations and Latest UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-september-2026-originations-and-latest-umi",
@@ -350,16 +446,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-95eb6c8a3e94753a6eb7",
-      "title": "Making AI training available to UK and Ireland educators",
-      "link": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
-      "summary": "Google's AI tools aim to help educators achieve their teaching goals and provide students with personalized learning experiences.",
+      "id": "block-investor-news-89ce9e4798f929cd00eb",
+      "title": "Seattle Icon Pike Place Fish Market Modernizes Its High Foot-Traffic Operations with Square",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPelNZY2ZCX3lsYjZGNG5nZjV1VVdMMFV0dlM2cFZ0ck45cUw5WVRELUdFZW5SMmtCR3h3VF9pWlI4c2hwQ0xETFRKVmNKS2RvZW5QV1ljdXBJaGd4SjBwaHJ0X1lmaThwNFFUR2RhdlRqUEpTQmRXdzRnMFowMF9Kd3kxaDUwUlEtUkJOQlhROUdNd2FZV1FJNnZySzNFY1hiM2ZtUl9xRjY3d0Z4aWpOY1o4R191ckwycWtwb0MyOEZZZEZfb0JySk84QlMybVRLUU42S1B3d21vLTRLY0tkUGxKMXhKcW5XMi15bEtKSmZCZzMyamdr?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-05T07:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-b259404b2ca1716270fe",
@@ -371,18 +467,6 @@
       "sourceName": "Shift4 News",
       "company": "Shift4",
       "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-6a7bb4e3e69d69f535f5",
-      "title": "The latest AI news we announced in September 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "publishedAt": "2026-10-02T15:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
     {
@@ -410,30 +494,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-a81d6d41c12e8d610b7d",
-      "title": "How Amazon is helping communities impacted by the Nepal flash floods",
-      "link": "https://www.aboutamazon.com/news/community/nepal-floods-amazon-disaster-relief?utm_source=rss",
-      "summary": "Amazon is working with aid organizations to help communities recover following flooding and landslides along the Nepal border.",
-      "publishedAt": "2026-10-02T08:34:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "nvidia-newsroom-5395303ce74d411ba3f8",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
       "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
@@ -442,18 +502,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-d30b92a579ccc1abcb0d",
-      "title": "Amazon in the community: Service, community, and commitment at HQ2",
-      "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
-      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region.",
-      "publishedAt": "2026-10-01T21:44:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -468,18 +516,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-9d1f0dd7e17af9cad07f",
-      "title": "5 ways Amazon is investing in New Jersey",
-      "link": "https://www.aboutamazon.com/news/community/amazon-investment-new-jersey-jobs-infrastructure-small-business?utm_source=rss",
-      "summary": "Amazon's investments are boosting the Garden State's economy while creating opportunities for New Jersey residents.",
-      "publishedAt": "2026-10-01T15:29:41+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "shopify-pressroom-a88fdd5e12e85060318b",
@@ -1274,6 +1310,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-be2681e0afc0ccce66be",
       "title": "Coinbase brings stablecoin payments and custody to community banks and credit unions, in partnership with Moov",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER0N0lmTjg4dkgtbjQ0YVMwRU54MlQyZ2I2XzF4VjZxYXJIWVlFM0RQVGhEenR3N09PVUR6UkNsN2QzanNvS1I5UUZDUllVOXE1eXBmNUJFMjNLTDdfWXBsam9tZVR3LWFqdmZvajFUaXBKRmxOMlZSMU9RbDBUb2J2T3VIQjBUcFRVdHhtelBOMXVwbVRBY2ZseVQ5ZmprLWt3WXlOREhveHZHV3p6YzBwdnc?oc=5",
@@ -1283,18 +1331,6 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1334,6 +1370,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1355,18 +1403,6 @@
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-818f2287e609f6ec09d4",
-      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1584,6 +1620,42 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-faff4fb821b9c9495d97",
+      "title": "2026/08/10 TSMC July 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3329",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -1946,6 +2018,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "affirm-news-0e0292955c83165e7030",
       "title": "A higher standard for credit—without fees",
       "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
@@ -2006,16 +2090,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "upstart-press-13309aa0c83c92b03ef7",
-      "title": "Upstart Streamlines UMI Reporting",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
-      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Jul. 8, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced changes to how and when it publishes its Upstart Macro Index (UMI), along with the latest UMI reading.",
-      "publishedAt": "2026-07-08T20:05:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "dlocal-blog-75192036b7133c452e69",
@@ -2028,6 +2112,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-c0c8d04c8bcc00e9bdfd",
+      "title": "Toast Announces 2026 - 2027 Independent Customer Advisory Board to Drive the Future of Hospitality",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzdYNmNVcHFLaVJ5ZG5BTEZoU2FmeGxScFV3VWl4Tk9wcnppWTlITXhGMDMzVGJhLTNCUTl3VUdnUUFheGJkbS1CM1pXTkZfTmFqVUsxSUF4ZHhFMXh6NGNsTGRnMnNmQkhPbF9xaE52dFUzbEdCNl8ySW5saDZieUM2MmhVTjc4?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "datadog-investor-news-c5ad4ad1f16366953b61",
@@ -2059,18 +2155,6 @@
       "link": "https://www.shopify.com/news/spring-26-edition-merchant",
       "summary": "Shopify's Spring '26 Edition: 150+ updates that put your products everywhere people are buying.",
       "publishedAt": "2026-06-17T16:16:00+00:00",
-      "sourceId": "shopify-pressroom",
-      "sourceName": "Shopify Pressroom",
-      "company": "Shopify",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "shopify-pressroom-c9c6e9e10de12b93cfd0",
-      "title": "Agentic commerce for every developer: The Spring '26 Edition",
-      "link": "https://www.shopify.com/news/spring-26-edition-dev",
-      "summary": "Anyone can now build end-to-end agentic commerce on Shopify, and the platform underneath every app gets a foundational rebuild.",
-      "publishedAt": "2026-06-17T08:00:00+00:00",
       "sourceId": "shopify-pressroom",
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
@@ -2158,18 +2242,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "toast-product-news-97e1a87d9306e6e911e1",
-      "title": "Toast News and Press Releases",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IdDZqakxYUXhUbUVfVWhWVXRzWFJ2dVYxVWUzc09vTkZqbHBwRkJOLXdhRXRQdVFoZWxIeFhISnp1dGVHSXlSM0tXTHE?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-22T06:51:49+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2606,6 +2678,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-632f97748c7870dca937",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2796,90 +2880,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "wise-newsroom-b2b26b97399791c9ad1d",
-      "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
-      "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
-      "summary": "Innovative integration will power faster transfers to select South American, APAC and European currencies",
-      "publishedAt": "2025-09-10T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "dave-press-190d95897f79b5b83005",
-      "title": "Dave Introduces CashAI v5.5",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVvXzY2cXlCZkxNTE9LN2ZHN0RqOFJWVThtX3hSXzl5UVN1S0tWLWdxWGtHSEdmOUhFY2VfNFE0MGJwTVhFNEpmaWs3b3FVQjl4aFRZeFZsODB1QXBweHV2VDVvS0dzelFidXlfSlVwaG9oZnB0SE43dzI1TXQ1YU80M1J0MnBaVHhHWg?oc=5",
-      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-10T07:00:00+00:00",
-      "sourceId": "dave-press",
-      "sourceName": "Dave Press",
-      "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-466599b9abbc40fccaf0",
-      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-08T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2898,7 +2898,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 17,
+      "itemCount": 18,
       "message": "OK via official fallback RSS"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 9,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
