@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-05T18:30:00.247028+00:00",
+  "generatedAt": "2026-10-06T00:52:01.193998+00:00",
   "articles": [
+    {
+      "id": "affirm-news-9c446e3410a792e0df1e",
+      "title": "Affirm to announce first quarter fiscal year 2027 results on November 5, 2026",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-announce-first-quarter-fiscal-year-2027-results-november",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Oct. 5, 2026-- Affirm Holdings, Inc. (NASDAQ: AFRM) today announced it will publish its first quarter fiscal year 2027 shareholder letter, including its financial results, on its investor relations website at https://investors.affirm.com/ on Thursday, November 5,",
+      "publishedAt": "2026-10-05T20:07:30+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "about-amazon-7acc3213d856df332e41",
       "title": "5 ways Amazon is investing in Connecticut",
@@ -1586,6 +1598,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-faff4fb821b9c9495d97",
+      "title": "2026/08/10 TSMC July 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3329",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
       "title": "Robinhood Presents: HOOD Summit ‘26 - Engines of Creation",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation",
@@ -2042,18 +2066,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "affirm-news-089b1ac59aba827976ee",
-      "title": "Affirm now available across Bed Bath & Beyond's brands, giving shoppers more flexibility for the purchases that make a house feel like home",
-      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-now-available-across-bed-bath-beyonds-brands-giving",
-      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Jul. 1, 2026-- A home comes together one decision at a time, from the everyday essentials people rely on to the larger purchases that make a space more comfortable, functional, and personal. Now, eligible customers shopping across Bed Bath & Beyond brands –",
-      "publishedAt": "2026-07-01T13:00:57+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "datadog-investor-news-c5ad4ad1f16366953b61",
       "title": "Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-acquires-adaptive-ml-accelerate-its-investment-ai",
@@ -2112,6 +2124,18 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-c4f3b13e47702c65ced0",
+      "title": "2026/06/10 TSMC May 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3320",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-06-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
@@ -2186,11 +2210,11 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "toast-product-news-2b0041e2a523338c68c8",
+      "id": "toast-product-news-97e1a87d9306e6e911e1",
       "title": "Toast News and Press Releases",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XT3h3NjBNenBiMHNvVTBaM0VNS2JMay02ZmNzWDNac2Y4TUxjZmNkV3BtZUFUbFhNZGpkTEliYW0xOEUxVktzOE1mRUI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IdDZqakxYUXhUbUVfVWhWVXRzWFJ2dVYxVWUzc09vTkZqbHBwRkJOLXdhRXRQdVFoZWxIeFhISnp1dGVHSXlSM0tXTHE?oc=5",
       "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-22T07:20:06+00:00",
+      "publishedAt": "2026-05-22T06:51:49+00:00",
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
@@ -2854,30 +2878,6 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-2343c3607e7c8273a3fb",
-      "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
-      "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
-      "summary": "Wise has announced a significant expansion of its North American office hub in Austin. The company will increase its current office space by 200% to 90,000 square feet in total to occupy three floors in Domain Tower II, a tech innovation center in North Austin.",
-      "publishedAt": "2025-09-08T14:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-906d798c5b95f5509932",
-      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
