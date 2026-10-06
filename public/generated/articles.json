@@ -1,11 +1,95 @@
 {
-  "generatedAt": "2026-10-06T07:36:54.126153+00:00",
+  "generatedAt": "2026-10-06T15:14:25.658335+00:00",
   "articles": [
     {
+      "id": "google-blog-64a6575063ff0fdc5b1b",
+      "title": "Making global public health more proactive with Google Earth AI",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
+      "summary": "Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
+      "publishedAt": "2026-10-06T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-8eaa8bd3569d741177a8",
+      "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
+      "summary": "Discover the pioneering global startups joining us in Mountain View this November to shape the future of AI.",
+      "publishedAt": "2026-10-06T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-317a166e36b7b086709c",
+      "title": "Meet the artist who built a giant spider for a virtual world",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
+      "summary": "Theo Triantafyllidis won the 2026 Frieze Artist Award, which is supported by Google Arts & Culture.",
+      "publishedAt": "2026-10-06T13:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-e0eb1f7c6ab809eed864",
+      "title": "Affirm partners with Ant International's Antom to bring pay-over-time to US customers",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-partners-ant-internationals-antom-bring-pay-over-time-us",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Oct. 6, 2026-- Antom, Ant International's global merchant payment and digitisation platform, is bringing Affirm (NASDAQ: AFRM) to its merchants in the US, giving them a simple way to offer US customers a pay-over-time option those customers already know and trust.",
+      "publishedAt": "2026-10-06T13:01:04+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "nvidia-newsroom-ffaa7d5210e63e20b90a",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "summary": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications",
+      "publishedAt": "2026-10-06T13:00:19+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-b990e8724e60e48e7a01",
+      "title": "Prime Video and the Television Academy announce 6-year deal to exclusively stream the Emmy Awards globally",
+      "link": "https://www.aboutamazon.com/news/entertainment/prime-video-emmy-awards-deal?utm_source=rss",
+      "summary": "Beginning in 2027, the Emmy Awards will stream live and free on Prime Video in more than 240 countries and territories—the first time the ceremony has had a single, dedicated home.",
+      "publishedAt": "2026-10-06T12:58:12+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-27215d831bbe09a339df",
+      "title": "Why we're backing America's existing nuclear plants",
+      "link": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
+      "summary": "Our new agreement with Constellation Energy brings the total new nuclear capacity we’ve enabled for the U.S. energy system from uprates and restarts to over 1.5 GW.",
+      "publishedAt": "2026-10-06T10:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
-      "title": "Prime Big Deal Days 2026 is here: Check out 95+ of the best deals to shop now",
+      "title": "Prime Big Deal Days 2026 is here: 105+ of the best deals to shop now through October 7",
       "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
-      "summary": "From trending beauty and fall fashion to holiday gifting and everyday essentials, here are some of the top deals to grab during the 48-hour event.",
+      "summary": "From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop during the 48-hour event, running through 11:59 p.m. PDT on Wednesday, Oct. 7.",
       "publishedAt": "2026-10-06T07:22:02+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
@@ -50,10 +134,34 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-cd0e05b27e96e3cea4ef",
+      "title": "I teach my students that in the AI era, critical thinking comes first.",
+      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
+      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-0a87ba260f515b8c572b",
       "title": "I use technology to give students a voice and become critical digital citizens.",
       "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
       "summary": "Empower students using Google Sites, Gemini, and Vids to build critical thinking skills. See how these tools help kids find their voice today.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-6ac1d30f4cbf6f9faae8",
+      "title": "Gemini helps me give a voice to students who cannot write.",
+      "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -98,10 +206,34 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-cd0e05b27e96e3cea4ef",
-      "title": "I teach my students that in the AI era, critical thinking comes first.",
-      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
+      "id": "google-blog-366d9f4e5a40d0265e48",
+      "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+      "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
+      "summary": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-1fc121c6836d1abed79a",
+      "title": "Gemini helps me bring hands-on learning into the classroom.",
+      "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
+      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-ce114c8ceafbd37630c0",
+      "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
+      "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
+      "summary": "Teachers use Gemini to build custom K-6 math worksheets and save hours of prep time. See how Google AI transforms classroom instruction.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -126,54 +258,6 @@
       "title": "My students use Gemini to brainstorm creative ideas.",
       "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/",
       "summary": "Fifth graders use Google Gemini to write songs about history and create art. See how this teacher integrates AI into the classroom.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-ce114c8ceafbd37630c0",
-      "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-      "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
-      "summary": "Teachers use Gemini to build custom K-6 math worksheets and save hours of prep time. See how Google AI transforms classroom instruction.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-1fc121c6836d1abed79a",
-      "title": "Gemini helps me bring hands-on learning into the classroom.",
-      "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
-      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-366d9f4e5a40d0265e48",
-      "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-      "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
-      "summary": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-6ac1d30f4cbf6f9faae8",
-      "title": "Gemini helps me give a voice to students who cannot write.",
-      "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
-      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -362,18 +446,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-8fc038c2bf5754130094",
-      "title": "Our Project Suncatcher prototype satellite is in orbit.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-      "summary": "Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.",
-      "publishedAt": "2026-10-01T23:30:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "about-amazon-d30b92a579ccc1abcb0d",
       "title": "Amazon in the community: Service, community, and commitment at HQ2",
       "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
@@ -382,18 +454,6 @@
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-33e9d331a372cba4ad1b",
-      "title": "Turn your existing social assets into high-impact YouTube ads.",
-      "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
-      "summary": "In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
-      "publishedAt": "2026-10-01T20:30:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -408,30 +468,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-058f1d37f378336cfe6d",
-      "title": "Guided Vision in Gemini Live: built for accessibility",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
-      "summary": "Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
-      "publishedAt": "2026-10-01T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-ceb3576a6bbdd8c15087",
-      "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
-      "link": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
-      "summary": "1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon. Watch the on-demand sessions on YouTube and claim your first badge today.",
-      "publishedAt": "2026-10-01T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "about-amazon-9d1f0dd7e17af9cad07f",
@@ -456,18 +492,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-99916bf2a9fc567acb83",
-      "title": "What’s new on Prime Video in October 2026, including ‘Carrie,’ ‘The Terminal List,’ and NBA games",
-      "link": "https://www.aboutamazon.com/news/entertainment/prime-video-october-films-shows-sports-2026?utm_source=rss",
-      "summary": "Prime Video’s October lineup also features new originals like ‘Masterplan’ and ‘Apocalypse Z 2.’",
-      "publishedAt": "2026-10-01T13:15:32+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-162f06b35f5ef3d05b04",
@@ -854,11 +878,11 @@
       "sourceKind": "rss"
     },
     {
-      "id": "coinbase-blog-344cdaa5e860bea9e9ed",
-      "title": "Coinbase brings bank-grade fiat and stablecoin payments to businesses, in collaboration with Citi",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUtkQzFkVnhSRVpVOWVtMV9PZmNPVEdXRnROTzVTWXZVQWRtX2kxb3B5VVRBUTdYeURBSldlVVlYZmVWajVCYlNiMmd5ZlJ2eDN2bml5ZFB5YU8xckxoV1BBd1lhTzliSHNfSnR0Wl9kNWxsUHhrWExhOTdzRGV0d0pwY2luN3dpYVlIbUk0ZEZMZ2stYnQtWERkX1oxbEpwNERqNzBTSzd1WUJPR1lCYkMzNjNSa3FXM0NZal9vM0ZsVEk0?oc=5",
+      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
+      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-28T04:00:00+00:00",
+      "publishedAt": "2026-09-28T07:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -866,9 +890,9 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
-      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
+      "id": "coinbase-blog-344cdaa5e860bea9e9ed",
+      "title": "Coinbase brings bank-grade fiat and stablecoin payments to businesses, in collaboration with Citi",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUtkQzFkVnhSRVpVOWVtMV9PZmNPVEdXRnROTzVTWXZVQWRtX2kxb3B5VVRBUTdYeURBSldlVVlYZmVWajVCYlNiMmd5ZlJ2eDN2bml5ZFB5YU8xckxoV1BBd1lhTzliSHNfSnR0Wl9kNWxsUHhrWExhOTdzRGV0d0pwY2luN3dpYVlIbUk0ZEZMZ2stYnQtWERkX1oxbEpwNERqNzBTSzd1WUJPR1lCYkMzNjNSa3FXM0NZal9vM0ZsVEk0?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-28T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -1075,18 +1099,6 @@
       "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
       "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, war",
       "publishedAt": "2026-09-21T16:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-a34d58b87503fec2d9bc",
-      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-      "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Securi",
-      "publishedAt": "2026-09-21T14:51:34+00:00",
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
@@ -2018,18 +2030,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "toast-product-news-c0c8d04c8bcc00e9bdfd",
-      "title": "Toast Announces 2026 - 2027 Independent Customer Advisory Board to Drive the Future of Hospitality",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzdYNmNVcHFLaVJ5ZG5BTEZoU2FmeGxScFV3VWl4Tk9wcnppWTlITXhGMDMzVGJhLTNCUTl3VUdnUUFheGJkbS1CM1pXTkZfTmFqVUsxSUF4ZHhFMXh6NGNsTGRnMnNmQkhPbF9xaE52dFUzbEdCNl8ySW5saDZieUM2MmhVTjc4?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-c5ad4ad1f16366953b61",
       "title": "Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development",
       "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-acquires-adaptive-ml-accelerate-its-investment-ai",
@@ -2162,11 +2162,11 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "toast-product-news-2b0041e2a523338c68c8",
+      "id": "toast-product-news-97e1a87d9306e6e911e1",
       "title": "Toast News and Press Releases",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XT3h3NjBNenBiMHNvVTBaM0VNS2JMay02ZmNzWDNac2Y4TUxjZmNkV3BtZUFUbFhNZGpkTEliYW0xOEUxVktzOE1mRUI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IdDZqakxYUXhUbUVfVWhWVXRzWFJ2dVYxVWUzc09vTkZqbHBwRkJOLXdhRXRQdVFoZWxIeFhISnp1dGVHSXlSM0tXTHE?oc=5",
       "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-22T07:20:06+00:00",
+      "publishedAt": "2026-05-22T06:51:49+00:00",
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
@@ -2925,7 +2925,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 14,
+      "itemCount": 15,
       "message": "OK"
     },
     {
