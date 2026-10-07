@@ -1,12 +1,96 @@
 {
-  "generatedAt": "2026-10-07T07:17:21.153506+00:00",
+  "generatedAt": "2026-10-07T14:33:36.366459+00:00",
   "articles": [
+    {
+      "id": "google-blog-d6233baa7d5321cb0fc7",
+      "title": "We're making it easier to identify AI-generated content globally.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "summary": "We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+      "publishedAt": "2026-10-07T14:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-e847fbf2549a56d6335e",
+      "title": "Ring ends smart lock anxiety with a lock you can recharge by hand",
+      "link": "https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge?utm_source=rss",
+      "summary": "Ring's first-ever smart lock eliminates the need for a key with a built-in power dial and four ways in.",
+      "publishedAt": "2026-10-07T13:55:11+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-704fe8fb39806059e591",
+      "title": "Ring introduces four new 4K cameras and a pan-tilt indoor cam",
+      "link": "https://www.aboutamazon.com/news/devices/ring-4k-cameras-pan-tilt-cam?utm_source=rss",
+      "summary": "Ring’s expanded camera lineup gives you more ways to see and protect your home, indoors and out.",
+      "publishedAt": "2026-10-07T13:55:09+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "upstart-press-b5d4defd7fdbb9e4b85e",
+      "title": "Credit Union of Denver Partners with Upstart to Expand Access to Personal Lending",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/credit-union-denver-partners-upstart-expand-access-personal",
+      "summary": "LAKEWOOD, Colo. & BURLINGAME, Calif. --(BUSINESS WIRE)--Oct. 7, 2026-- Credit Union of Denver (C∙U∙D), Colorado's oldest state-chartered credit union, announced its partnership with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to expand access to affordable",
+      "publishedAt": "2026-10-07T13:00:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
+      "title": "Prime Big Deal Days 2026 is here: 165+ of the best deals to shop now through October 7",
+      "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
+      "summary": "From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop during the 48-hour event, running through 11:59 p.m. PDT on Wednesday, October 7.",
+      "publishedAt": "2026-10-07T12:38:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-b6aec8c05cfc3e2f0fe3",
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "klarna-press-63637a0cebffb24104a2",
+      "title": "Wayfair and Klarna deepen ties with more flexible payment options across U.S. and Canada",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWDJWQ2ZtWEVrRElwTG9lek5hM2dqcUlQMXAzdDVBVkR4cTRNQUlhY1YzMkpaeDBNaE5QZVNURlJ4N3NPV2ZwWlYyYjVXYVRnWVZYc1BvLTF6VHUzdlV3NkFYbTktRF9yNWVSeUFnVDFDUm5qT1h3?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-07T08:08:08+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
       "title": "Coinbase Is Building the Most Complete Trading Platform",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T03:16:09+00:00",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -74,10 +158,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "google-blog-186442aeaf00c1e5da43",
-      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
-      "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "id": "google-blog-e6e1d2a9f0a4e91a5d1f",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
       "publishedAt": "2026-10-06T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -86,10 +170,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-e6e1d2a9f0a4e91a5d1f",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "id": "google-blog-186442aeaf00c1e5da43",
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
       "publishedAt": "2026-10-06T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -218,18 +302,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
-      "title": "Prime Big Deal Days 2026 is here: 165 of the best deals to shop now through October 7",
-      "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
-      "summary": "From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop during the 48-hour event, running through 11:59 p.m. PDT on Wednesday, October 7.",
-      "publishedAt": "2026-10-06T07:22:02+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-50ffc1d8ae9881dd71ec",
       "title": "Heute geht’s los: Die Prime Deal Days bieten Prime-Mitgliedern über eine Million Angebote",
       "link": "https://press.aboutamazon.com/de/2026/10/heute-gehts-los-die-prime-deal-days-bieten-prime-mitgliedern-ueber-eine-million-angebote",
@@ -278,10 +350,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-e19c9e6ee550c24438cc",
-      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
-      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+      "id": "google-blog-cd0e05b27e96e3cea4ef",
+      "title": "I teach my students that in the AI era, critical thinking comes first.",
+      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
+      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -326,30 +398,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-6ac1d30f4cbf6f9faae8",
-      "title": "Gemini helps me give a voice to students who cannot write.",
-      "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
-      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-cd0e05b27e96e3cea4ef",
-      "title": "I teach my students that in the AI era, critical thinking comes first.",
-      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-366d9f4e5a40d0265e48",
       "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
       "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
@@ -362,34 +410,34 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-73af55ea587bec41cd98",
-      "title": "My students use Gemini to brainstorm creative ideas.",
-      "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/",
-      "summary": "Fifth graders use Google Gemini to write songs about history and create art. See how this teacher integrates AI into the classroom.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-ce114c8ceafbd37630c0",
-      "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-      "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
-      "summary": "Teachers use Gemini to build custom K-6 math worksheets and save hours of prep time. See how Google AI transforms classroom instruction.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-1fc121c6836d1abed79a",
       "title": "Gemini helps me bring hands-on learning into the classroom.",
       "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
       "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-6ac1d30f4cbf6f9faae8",
+      "title": "Gemini helps me give a voice to students who cannot write.",
+      "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
+      "publishedAt": "2026-10-05T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-e19c9e6ee550c24438cc",
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -422,18 +470,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-46ae150baacf7455f4a5",
-      "title": "Amazon's Holiday Kids Gift Book is back with 600+ toys, games, and gifts for every age",
-      "link": "https://www.aboutamazon.com/news/retail/amazon-2026-holiday-kids-gift-book?utm_source=rss",
-      "summary": "From an interactive Alexa+ story to exclusive Forest Friends gifts, this year's edition has something for everyone on your list.",
-      "publishedAt": "2026-10-05T13:00:05+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "paypal-newsroom-5a9e668213457d072c8c",
       "title": "The Venmo Credit Card Now Pays Up to 4% Cash Back When You Split with Friends",
       "link": "https://newsroom.paypal-corp.com/2026-10-05-The-Venmo-Credit-Card-Now-Pays-Up-to-4-Cash-Back-When-You-Split-with-Friends",
@@ -456,6 +492,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-89ce9e4798f929cd00eb",
@@ -490,18 +538,6 @@
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-c4e91bcfdc04a3e7db43",
-      "title": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments",
-      "link": "https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together?utm_source=rss",
-      "summary": "About Amazon published an update for Amazon relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-02T08:55:14+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -758,18 +794,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-300c7fe45a34adc3513a",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1hoNHlwNzBmMUY2bzY4dWhwS3VGNmNxQURZOGZvZDJBclQ0eTJOX0c5MklEc2JJUXQycTdYNmU0enpfeGl5RXhLU3VNMjBpVXh1NVpXSTQ4c3hENDZtYjlZTjNfQk9rZm9qdS1NSTQxUTFpT0RJblpPNUF4eVVVelBXZ0MyWmdjdkhFUnhDQklINHVpcENCY1Buam11UjJPU1hKRzJyVFBIZU1uQW4tbWVTUmU0WEh4WHZMOQ?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-29T12:04:46+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "amazon-press-archive-2883c2c32730ed0baad4",
       "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
       "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
@@ -840,6 +864,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-300c7fe45a34adc3513a",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1hoNHlwNzBmMUY2bzY4dWhwS3VGNmNxQURZOGZvZDJBclQ0eTJOX0c5MklEc2JJUXQycTdYNmU0enpfeGl5RXhLU3VNMjBpVXh1NVpXSTQ4c3hENDZtYjlZTjNfQk9rZm9qdS1NSTQxUTFpT0RJblpPNUF4eVVVelBXZ0MyWmdjdkhFUnhDQklINHVpcENCY1Buam11UjJPU1hKRzJyVFBIZU1uQW4tbWVTUmU0WEh4WHZMOQ?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-319cbecc684ea72a0ed9",
@@ -1046,6 +1082,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "klarna-press-7e4bdc5b73b7b0a04fe9",
+      "title": "700,000 shoppers, 13,000 merchant partners: Klarna celebrates four years in Greece",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUG1OdWZHZVp2UE1VMzFjQXpUWjdDdnlhNmphUUt0WUU1aHFfTzhMcEVFWVBOUERfbW1jaWxuZl9nN2kwYWRKcWw5bmdmeEtLNWRKMm5uUk9MU3NlU1NIS005bzI5SkN5aDlzZW82TjZfd3FDQzRWdGZYbXN4SWZwek92aHFNUTVGX0lva1B2SlBSUEk5YXF1SFFtbFkzV1VwX0UzMWpwOXZETVduMjA5UXlBMkhFbEpBSC1FM1BrMU1BQQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-22T18:52:17+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "affirm-news-21ad8c4846799ccb69ed",
       "title": "Amazon and Affirm partner to offer UK customers new instalment options",
       "link": "https://investors.affirm.com/news-releases/news-release-details/amazon-and-affirm-partner-offer-uk-customers-new-instalment",
@@ -1212,18 +1260,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "circle-pressroom-058cf6c116b6ceb27a12",
-      "title": "Circle Launches Arc Mainnet, an Economic Operating System for the Internet Arc goes live with more than 100 institutional and ecosystem builders on day one",
-      "link": "https://www.circle.com/pressroom/circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet",
-      "summary": "Arc goes live with more than 100 institutional and ecosystem builders on day one",
-      "publishedAt": "2026-09-16T00:00:00+00:00",
-      "sourceId": "circle-pressroom",
-      "sourceName": "Circle Pressroom",
-      "company": "Circle",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "affirm-news-85b21cd9d799d2d4e8d4",
@@ -1886,18 +1922,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "upstart-press-9b031b52818f911fd4f8",
-      "title": "Upstart Receives Conditional Approval from the OCC to Establish Upstart Bank",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-receives-conditional-approval-occ-establish-upstart-bank",
-      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Jul. 23, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that the Office of the Comptroller of the Currency (OCC) has granted conditional approval for the company to establish Upstart",
-      "publishedAt": "2026-07-23T23:51:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "shift4-news-f38f70e64e369c82414c",
       "title": "Shift4 Announces Date of Second Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/305/shift4-announces-date-of-second-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -2172,18 +2196,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-cc17036a11e7185dc13b",
-      "title": "Worldline and Klarna partner to enable flexible, online and in-store payments everywhere",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNExvMkxFaTZHb21NZ2tvdndIc2VPLTNDVEZ2N1NCRTE0Ym1pWUZWYmZyaWZLazlLLXdPU1ZlcnhXcXI1Y2otMnBCZHVKbFpfQmVhYTV0V1lGSmIzVHJQNkV6b0tSQzRrMjRQeWppSWVwbTRONkg5ZXFvZldZUGdPMmM0MDRWN2RuWjBqc1h3ZTlZbVJXNFc1SnR0d3BsX1U4bVZfWmVPMEREMkF2Q0ZFbExUMHUyMHpVNmxab1QxbnU2X2ExVUdYVGotZw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-19T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
@@ -2868,18 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 13,
+      "itemCount": 12,
       "message": "OK via official fallback RSS"
     },
     {
@@ -3051,7 +3051,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 8,
+      "itemCount": 7,
       "message": "OK"
     },
     {
