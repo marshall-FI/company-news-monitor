@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-07T14:33:36.366459+00:00",
+  "generatedAt": "2026-10-07T20:45:07.087012+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-e85b9e2ad448ed75ecf9",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "summary": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look at the entire journey of",
+      "publishedAt": "2026-10-07T18:45:28+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-262c24173872fb11698c",
+      "title": "'Clarkson's Farm' special 'Jeremy Grows a Car' coming to Prime Video in 2027",
+      "link": "https://www.aboutamazon.com/news/entertainment/clarksons-farm-special-jeremy-grows-a-car-prime-video?utm_source=rss",
+      "summary": "Jeremy Clarkson is going back to his automotive roots by building his own car using produce from his farm.",
+      "publishedAt": "2026-10-07T18:00:06+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-d6233baa7d5321cb0fc7",
       "title": "We're making it easier to identify AI-generated content globally.",
@@ -51,7 +75,7 @@
     },
     {
       "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
-      "title": "Prime Big Deal Days 2026 is here: 165+ of the best deals to shop now through October 7",
+      "title": "Prime Big Deal Days 2026 is here: 185 of the best deals to shop now",
       "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
       "summary": "From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop during the 48-hour event, running through 11:59 p.m. PDT on Wednesday, October 7.",
       "publishedAt": "2026-10-07T12:38:00+00:00",
@@ -78,7 +102,7 @@
       "title": "Wayfair and Klarna deepen ties with more flexible payment options across U.S. and Canada",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWDJWQ2ZtWEVrRElwTG9lek5hM2dqcUlQMXAzdDVBVkR4cTRNQUlhY1YzMkpaeDBNaE5QZVNURlJ4N3NPV2ZwWlYyYjVXYVRnWVZYc1BvLTF6VHUzdlV3NkFYbTktRF9yNWVSeUFnVDFDUm5qT1h3?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T08:08:08+00:00",
+      "publishedAt": "2026-10-07T08:07:24+00:00",
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
@@ -96,6 +120,42 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-7130fc62ca777403ee6b",
+      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "adyen-newsroom-e854ede69a10bb52e69e",
+      "title": "Resolution adopted at Adyen N.V.’s 2026 EGM Amsterdam · October 7th, 2026",
+      "link": "https://www.adyen.com/press-and-media/resolution-adopted-at-adyen-2026-egm",
+      "summary": "Amsterdam, October 7, 2026 - Adyen N.V. (AMS: ADYEN) announces that its shareholders approved the appointment of Chris Vogelzang as a member of the Supervisory Board at the Extraordinary General Meeting (EGM), held on October 7, 2026.",
+      "publishedAt": "2026-10-07T00:00:00+00:00",
+      "sourceId": "adyen-newsroom",
+      "sourceName": "Adyen Newsroom",
+      "company": "Adyen",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "circle-pressroom-ceb9247e32d6cc2cae32",
+      "title": "Circle to Announce Q3 2026 Financial Results on November 4, 2026 Circle to Announce Q3 2026 Financial Results on November 4, 2026",
+      "link": "https://www.circle.com/pressroom/circle-to-announce-q3-2026-financial-results-on-november-4-2026",
+      "summary": "Circle to Announce Q3 2026 Financial Results on November 4, 2026",
+      "publishedAt": "2026-10-07T00:00:00+00:00",
+      "sourceId": "circle-pressroom",
+      "sourceName": "Circle Pressroom",
+      "company": "Circle",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-e60c7399a2299a1d8476",
@@ -442,18 +502,6 @@
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
       "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-aac51acdf568caf15f56",
-      "title": "Inside the AWS lab that makes everything you do online feel effortless",
-      "link": "https://www.aboutamazon.com/stories/inside-aws-networking-lab-cupertino?utm_source=rss",
-      "summary": "In a nondescript building in Cupertino, California, a team of engineers is quietly designing the networking technology that keeps the modern world connected—one wavelength of light at a time.",
-      "publishedAt": "2026-10-05T15:37:49+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
@@ -998,18 +1046,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-9140b4fb1857715233b9",
-      "title": "Square Integrates Apple Business to Help Local Businesses Stand Out on Apple Maps",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTlNjbWlaaU5vbFlhRUxXanVwWW1Ec2NlczdUUVNJVTUwSEZYZ3YwV3lYMjJ0UkVySWh2Ylp3R0h6M0trNGZQN3piNzVLZVluWFlkVWRZenhOazhJMmFhMXhub2NGckt6VUtUc25feW5EakdVZV9JbGZKeVNGMm13czFyTjd2STRQQW5hS0RpdHN5REFiN1dqcm5rNEdncUhZNmVzMENURnNZVi1MSkZQVkx1Z1BOeGpwR1Q5WHFXem04ZjV2ZVJ0ajZESl9kaW9COW16b0pfSXBXNW5taG1mMkVfMGwtNE9seUE?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-25T05:44:13+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "circle-pressroom-40fdc15179335c4f9b8d",
       "title": "Circle Announces CFO Transition Plan Jeremy Fox-Geen to step down as Chief Financial Officer and will support a smooth transition",
       "link": "https://www.circle.com/pressroom/circle-announces-cfo-transition-plan",
@@ -1171,18 +1207,6 @@
       "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice presid",
       "publishedAt": "2026-09-21T16:00:10+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-3c53544af87c504f1065",
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, war",
-      "publishedAt": "2026-09-21T16:00:00+00:00",
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
@@ -2856,30 +2880,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-8ce62c7331842ca65c71",
-      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
-      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
-      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
-      "publishedAt": "2025-05-21T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3051,7 +3051,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 7,
+      "itemCount": 8,
       "message": "OK"
     },
     {
