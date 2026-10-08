@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-07T20:45:07.087012+00:00",
+  "generatedAt": "2026-10-08T01:03:08.037354+00:00",
   "articles": [
+    {
+      "id": "google-blog-3fc6c28d446192a47f72",
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "summary": "Find the cheapest petrol and diesel prices in the UK using Google Maps and Waze. Search for fuel stations near you to save money. See the latest rates.",
+      "publishedAt": "2026-10-08T00:01:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-09fbd8a716bb51243c0d",
+      "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T00:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "about-amazon-674996c75e34a9de4f2f",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "publishedAt": "2026-10-07T22:05:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-e85b9e2ad448ed75ecf9",
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
@@ -75,9 +111,9 @@
     },
     {
       "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
-      "title": "Prime Big Deal Days 2026 is here: 185 of the best deals to shop now",
+      "title": "Prime Big Deal Days 2026 ends tonight: 200 of the best deals to shop now",
       "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
-      "summary": "From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop during the 48-hour event, running through 11:59 p.m. PDT on Wednesday, October 7.",
+      "summary": "Prime Big Deal Days ends tonight at 11:59 p.m. PDT (2:59 a.m. EDT Thursday). From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop before the 48-hour event ends.",
       "publishedAt": "2026-10-07T12:38:00+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
@@ -108,6 +144,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "robinhood-blog-f0834c0f4dba06bfc0d3",
+      "title": "A Look Back on HOOD Summit: Engines of Creation",
+      "link": "https://robinhood.com/us/en/newsroom/a-look-backon-hood-summit-engines-of-creation",
+      "summary": "This year’s HOOD Summit was Robinhood's biggest event yet, drawing a record 1,500+ in-person attendees, 46+ million livestreams, and two action-packed days of content with 40+ sessions from 60+ speakers.",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
@@ -194,18 +242,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-674996c75e34a9de4f2f",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
-      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "publishedAt": "2026-10-06T16:47:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "coinbase-blog-e93f810c72c735611398",
       "title": "Part 1/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHFXbmxPNjVXT2Z5bUZUYjhhVVhYWUZHMl8yVFlUN19pUm9ieGl2aG50U1ZUMFJ6NUkxU2VTQVBIb1JndUIyaTRDbXpyRTM3cGYzS3M4NGs2SUpxQzZNSk9EMF9IQUEtYTdHeEcxRVdBVnBvMDNVTG4zeFNDUXZJWFhqUW4td1VMLVl1TTE4VmlNY1NicW5NaXAwZW9mSjg?oc=5",
@@ -218,10 +254,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "google-blog-e6e1d2a9f0a4e91a5d1f",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "id": "google-blog-186442aeaf00c1e5da43",
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
       "publishedAt": "2026-10-06T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -230,10 +266,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-186442aeaf00c1e5da43",
-      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
-      "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "id": "google-blog-e6e1d2a9f0a4e91a5d1f",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
       "publishedAt": "2026-10-06T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -410,10 +446,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-cd0e05b27e96e3cea4ef",
-      "title": "I teach my students that in the AI era, critical thinking comes first.",
-      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
+      "id": "google-blog-e19c9e6ee550c24438cc",
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -422,10 +458,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-02712f54e967f63bf882",
-      "title": "Technology helps my students balance big creative ideas with tight deadlines.",
-      "link": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
-      "summary": "Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
+      "id": "google-blog-1fc121c6836d1abed79a",
+      "title": "Gemini helps me bring hands-on learning into the classroom.",
+      "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
+      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -458,22 +494,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-366d9f4e5a40d0265e48",
-      "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-      "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
-      "summary": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-1fc121c6836d1abed79a",
-      "title": "Gemini helps me bring hands-on learning into the classroom.",
-      "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
-      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
+      "id": "google-blog-02712f54e967f63bf882",
+      "title": "Technology helps my students balance big creative ideas with tight deadlines.",
+      "link": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
+      "summary": "Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -494,10 +518,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-e19c9e6ee550c24438cc",
-      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
-      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+      "id": "google-blog-cd0e05b27e96e3cea4ef",
+      "title": "I teach my students that in the AI era, critical thinking comes first.",
+      "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
+      "summary": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -1838,18 +1862,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "robinhood-blog-4076bf9cb49cffd284ec",
-      "title": "Introducing Robinhood Ventures Fund II (RVII)",
-      "link": "https://robinhood.com/us/en/newsroom/introducing-rvii",
-      "summary": "Robinhood Ventures Fund II (RVII), the second fund from Robinhood Ventures, is expected to IPO on August 13 on the New York Stock Exchange (NYSE) under the symbol RVII at an expected price of $25 per share.",
-      "publishedAt": "2026-08-03T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-734bfda51cb56285b144",
       "title": "Issuing & processing Consumer The retail loyalty squeeze Article",
       "link": "https://www.marqeta.com/blog/the-retail-loyalty-squeeze",
@@ -1920,18 +1932,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-e3d7700622e291df64b8",
-      "title": "Consumer Protection Tuesday: A Fake IRS \"Digital Asset Compliance Portal\" Letter Is Targeting Crypto Holders",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LQll1M2JZZEVuOWh5dExBdDlGNTZFUGNtQUw0VFRwd0NwV2dzLUQtS0tRWjYxZ1dvbzZVSGZHX1ZYLWdLOTFsUEJYRmJxYkdmN3FnTC1PbGh0aXQ5VkpmUnUyVVFxcTRSbnZ6MVgzdjJsdm10RGRnVVlMOA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-28T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-127710ecc139b055cd65",
