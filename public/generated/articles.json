@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-08T21:23:56.634703+00:00",
+  "generatedAt": "2026-10-09T02:12:34.177135+00:00",
   "articles": [
+    {
+      "id": "google-blog-605cee19632e07cf4d3a",
+      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+      "link": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+      "summary": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+      "publishedAt": "2026-10-08T22:30:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-c0410d8d9959c1e8e2d3",
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -158,15 +170,15 @@
       "sourceKind": "rss"
     },
     {
-      "id": "coinbase-blog-1c50411fc2e22bad3237",
-      "title": "Part 3/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMjJCOGhqSV8zUnJQODg5a1NmMTdldmRkNjJ1bFFtcFcwOW1jYUpjY0VmVzFWdFVTTzNiLXJJZXB1YWVTeS1XZHBwWG1GZG1yTU05a1dTSWZ2WGFId0JwUmRsSVc3VXFNejBSN1ZKOHc1SVBTV0E?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
+      "id": "tsmc-news-08e150ffd16729f7cf22",
+      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -290,6 +302,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "upstart-press-b5d4defd7fdbb9e4b85e",
+      "title": "Credit Union of Denver Partners with Upstart to Expand Access to Personal Lending",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/credit-union-denver-partners-upstart-expand-access-personal",
+      "summary": "LAKEWOOD, Colo. & BURLINGAME, Calif. --(BUSINESS WIRE)--Oct. 7, 2026-- Credit Union of Denver (C∙U∙D), Colorado's oldest state-chartered credit union, announced its partnership with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to expand access to affordable",
+      "publishedAt": "2026-10-07T13:00:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
       "title": "Prime Big Deal Days 2026 ends tonight: 200 of the best deals to shop now",
       "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
@@ -386,6 +410,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "upstart-press-e60c7399a2299a1d8476",
+      "title": "Upstart to Announce Third Quarter 2026 Results on November 3, 2026",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announce-third-quarter-2026-results-november-3-2026",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Oct. 6, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, will host a live video webcast to discuss its third quarter 2026 financial results on Tuesday, November 3, 2026, at 5:00 a.m. PT / 8:00 a.m. ET.",
+      "publishedAt": "2026-10-06T20:05:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "toast-product-news-5ad3a56d10ed822a57be",
       "title": "Toast Fall Release 2026: New Toast IQ Team & Expanded Grow",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kc0EycHhXUjFtOGJqM1BOdzcyN1owSTVOMTRBZm1DcXJ2RVFtUVYzLXJvWEFMMWF2ZlVIbUctUWN1QWpYY25ZS3VmN2JJeHdmTVA2Z1U3QVhKTHNKaURuWjMxaw?oc=5",
@@ -434,10 +470,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "google-blog-e6e1d2a9f0a4e91a5d1f",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "id": "google-blog-186442aeaf00c1e5da43",
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
       "publishedAt": "2026-10-06T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -446,10 +482,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-186442aeaf00c1e5da43",
-      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
-      "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "id": "google-blog-e6e1d2a9f0a4e91a5d1f",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
       "publishedAt": "2026-10-06T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -492,6 +528,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-e0eb1f7c6ab809eed864",
+      "title": "Affirm partners with Ant International's Antom to bring pay-over-time to US customers",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-partners-ant-internationals-antom-bring-pay-over-time-us",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Oct. 6, 2026-- Antom, Ant International's global merchant payment and digitisation platform, is bringing Affirm (NASDAQ: AFRM) to its merchants in the US, giving them a simple way to offer US customers a pay-over-time option those customers already know and trust.",
+      "publishedAt": "2026-10-06T13:01:04+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-ffaa7d5210e63e20b90a",
@@ -542,6 +590,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "affirm-news-9c446e3410a792e0df1e",
+      "title": "Affirm to announce first quarter fiscal year 2027 results on November 5, 2026",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-announce-first-quarter-fiscal-year-2027-results-november",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Oct. 5, 2026-- Affirm Holdings, Inc. (NASDAQ: AFRM) today announced it will publish its first quarter fiscal year 2027 shareholder letter, including its financial results, on its investor relations website at https://investors.affirm.com/ on Thursday, November 5,",
+      "publishedAt": "2026-10-05T20:07:30+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "google-blog-0a87ba260f515b8c572b",
       "title": "I use technology to give students a voice and become critical digital citizens.",
       "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
@@ -554,22 +614,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-366d9f4e5a40d0265e48",
-      "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-      "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
-      "summary": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
-      "publishedAt": "2026-10-05T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-02712f54e967f63bf882",
-      "title": "Technology helps my students balance big creative ideas with tight deadlines.",
-      "link": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
-      "summary": "Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
+      "id": "google-blog-e19c9e6ee550c24438cc",
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
       "publishedAt": "2026-10-05T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -598,6 +646,18 @@
       "sourceId": "paypal-newsroom",
       "sourceName": "PayPal Newsroom",
       "company": "PayPal",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "upstart-press-54c5448ecc425ab4e7b2",
+      "title": "Upstart Publishes September 2026 Originations and Latest UMI",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-september-2026-originations-and-latest-umi",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Oct. 5, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for September 2026 along with the latest Upstart Macro Index (UMI) reading.",
+      "publishedAt": "2026-10-05T11:45:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
     },
@@ -842,6 +902,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "affirm-news-0d6a66ded7ea06708a3d",
+      "title": "Crate & Barrel Holdings partners with Affirm to offer flexible ways to pay",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/crate-barrel-holdings-partners-affirm-offer-flexible-ways-pay",
+      "summary": "CHICAGO & SAN FRANCISCO & TORONTO --(BUSINESS WIRE)--Sep. 29, 2026-- Today Crate & Barrel Holdings, Inc., comprising Crate & Barrel, Crate & Barrel Kids and CB2, announced a strategic partnership with Affirm (NASDAQ: AFRM). Eligible customers now have the option to pay over time, which can give",
+      "publishedAt": "2026-09-29T13:01:34+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-2883c2c32730ed0baad4",
       "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
       "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
@@ -1082,6 +1154,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "upstart-press-c7d2adb84ae078a63ce6",
+      "title": "Commonwealth Credit Union Expands Partnership with Upstart into HELOC and Indirect Auto Lending",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/commonwealth-credit-union-expands-partnership-upstart-heloc-and",
+      "summary": "FRANKFORT, Ky. & BURLINGAME, Calif. --(BUSINESS WIRE)--Sep. 23, 2026-- Commonwealth Credit Union, the largest Kentucky -headquartered credit union, serving more than 140,000 members, today announced the recent expansion of its partnership with Upstart (NASDAQ: UPST), the leading artificial",
+      "publishedAt": "2026-09-23T13:00:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "nvidia-newsroom-8adbfc6aa0bd150c41af",
       "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
       "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
@@ -1104,6 +1188,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "affirm-news-21ad8c4846799ccb69ed",
+      "title": "Amazon and Affirm partner to offer UK customers new instalment options",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/amazon-and-affirm-partner-offer-uk-customers-new-instalment",
+      "summary": "Amazon.co.uk customers can now apply for financing on eligible purchases in plans from 3 to 48 months, all with no late or hidden fees London, 23 September – Starting today, Amazon customers in the UK have a new way to pay for their purchases with the launch of instalment options from Affirm.",
+      "publishedAt": "2026-09-22T17:23:37+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-8bdca9fb39e4021646c2",
@@ -1142,6 +1238,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "affirm-news-5c4bd524e53bf6c693e6",
+      "title": "Affirm launches transformer-based machine learning model for real-time underwriting",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-launches-transformer-based-machine-learning-model-real",
+      "summary": "New model builds on 14 years of transaction-level underwriting experience and data to approve more eligible consumers at comparable levels of risk SAN FRANCISCO --(BUSINESS WIRE)--Sep. 17, 2026-- For 14 years, Affirm (NASDAQ: AFRM) has underwritten every purchase individually, in real time, using",
+      "publishedAt": "2026-09-17T10:55:30+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-0f91bbb34cc4af0f1796",
       "title": "Robinhood Ventures Fund I (RVI) Invests $25M in Crusoe",
       "link": "https://robinhood.com/us/en/newsroom/rvi-crusoe",
@@ -1166,6 +1274,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "chime-newsroom-ae3731fb915fa8fc22b4",
+      "title": "Chime Opens New Office in New York City",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-opens-new-office-new-york-city",
+      "summary": "New Flatiron hub puts Chime at the heart of its largest metropolitan market NEW YORK --(BUSINESS WIRE)--Sep. 16, 2026-- Chime ® (Nasdaq: CHYM), America’s #1 choice for banking 1, today opened its new office at 122 Fifth Avenue, establishing its East Coast hub in Manhattan’s Flatiron District and",
+      "publishedAt": "2026-09-16T13:05:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "paypal-newsroom-998b82ebc692e8d515ed",
       "title": "Venmo Kicks Off 2026-2027 NIL Season with Nine Standout Student-Athletes and Introduces Money Moves",
       "link": "https://newsroom.paypal-corp.com/2026-09-16-Venmo-Kicks-Off-2026-2027-NIL-Season-with-Nine-Standout-Student-Athletes-and-Introduces-Money-Moves",
@@ -1188,6 +1308,18 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "affirm-news-85b21cd9d799d2d4e8d4",
+      "title": "Costco UK members gain a new way to pay with Affirm",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/costco-uk-members-gain-new-way-pay-affirm",
+      "summary": "Costco is expanding its partnership with Affirm to give its members in the UK a new way to pay over time with no late or hidden fees. Whether stocking up on household essentials or investing in the latest technology, eligible Costco members shopping online can now choose Affirm at checkout and",
+      "publishedAt": "2026-09-15T00:29:52+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-1822c7c186c5e8a8c40b",
@@ -1250,6 +1382,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "coinbase-blog-0ef6b8d55d4474214f10",
       "title": "Moving Bitcoin’s Post-Quantum Readiness Forward",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTBMaDAwNWZkalVENVU2ZVpBR2ctWWJhcDJPNkNCUXp6aWJyU2dPdVdESll1czZGNjFBRFJwbWU2X0djRXRreEloLW8wZUJIaXJpdmVjczhBcWxqSkhCZ29mZndKYnBEWkQzOUNzYkx5OXRTYTZ6N3dPNnZKbVFjVTdn?oc=5",
@@ -1274,16 +1418,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "id": "chime-newsroom-7a9252ad52f7934555fb",
+      "title": "Chime Announces Agreement to Acquire Stride Bank",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-announces-agreement-acquire-stride-bank",
+      "summary": "Advances Chime’s vision to become the leading consumer technology company built to bank mainstream America Bank subsidiary to add foundational piece to Chime’s vertically integrated platform Expected to be immediately accretive to Chime’s EPS, with more than $100 million in net synergies SAN",
+      "publishedAt": "2026-09-08T20:05:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
@@ -1313,13 +1457,13 @@
       "id": "upstart-press-e98e06720988c1bfbc15",
       "title": "Upstart Publishes August 2026 Originations and Latest UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-august-2026-originations-and-latest-umi",
-      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Sep. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for August 2026 and its latest Upstart Macro Index (UMI) reading. For historical data and more information, see upstart.",
-      "publishedAt": "2026-09-03T11:45:19+00:00",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Sep. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for August 2026 and its latest Upstart Macro Index (UMI) reading.",
+      "publishedAt": "2026-09-03T11:45:00+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "rss"
     },
     {
       "id": "wise-newsroom-36cfe43c94ba45e5b45f",
@@ -1330,6 +1474,42 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "chime-newsroom-95fccf222f4743b5a382",
+      "title": "Chime Expands Trump Account Benefit for Employees’ Children and Helps More American Families Start Building Wealth",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-expands-trump-account-benefit-employees-children-and-helps",
+      "summary": "Chime will contribute $250 when a Trump Account is opened for any child of a Chime employee, building on its early commitment to match the federal government’s $1,000 seed Chime will bring its Compound Combine ™ financial education series to Texas in 2027, following events in Jersey City,",
+      "publishedAt": "2026-08-31T19:45:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-f0118f759094b8279a46",
+      "title": "Affirm reports fourth fiscal quarter 2026 results",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-reports-fourth-fiscal-quarter-2026-results",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Aug. 27, 2026-- Affirm Holdings, Inc. (NASDAQ: AFRM) (“Affirm”) today reported financial results for its fiscal 2026 fourth quarter ended June 30, 2026. The results, which include a shareholder letter furnished to the U.S.",
+      "publishedAt": "2026-08-27T20:33:18+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "affirm-news-055b1b63d1ccc8a16497",
+      "title": "Affirm and Shopify launch Shop Pay Installments in Australia",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-and-shopify-launch-shop-pay-installments-australia",
+      "summary": "Australian merchants on Shopify can now give their customers a flexible way to pay over time, with no late fees. SYDNEY --(BUSINESS WIRE)--Aug. 27, 2026-- Affirm expands its global partnership with Shopify to launch Shop Pay Installments in Australia.",
+      "publishedAt": "2026-08-27T20:10:21+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1358,6 +1538,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "upstart-press-674a94cff69466925dcc",
+      "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Goldman Sachs Communacopia and Technology Conference 2026",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-co-founder-and-ceo-participate-fireside-chat-goldman",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Aug. 25, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that Paul Gu, Co-founder and CEO, will participate in a fireside chat at the Goldman Sachs Communacopia and Technology",
+      "publishedAt": "2026-08-25T20:05:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "marqeta-blog-d992f2d9c8d768337eca",
       "title": "Credit Commercial The cost of keeping business credit simple Article",
       "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
@@ -1368,6 +1560,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "chime-newsroom-5b794e6546545b5645ff",
+      "title": "Chime to Participate in Goldman Sachs Communacopia + Technology Conference",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-participate-goldman-sachs-communacopia-technology",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Aug. 19, 2026-- Chime ® (Nasdaq: CHYM) announced today that CEO and Co-founder Chris Britt will participate in a fireside chat at the Goldman Sachs Communacopia + Technology Conference in San Francisco on Wednesday, September 9, 2026 at 10:50 a.m.",
+      "publishedAt": "2026-08-19T20:05:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "paypal-newsroom-9c5b9cc873ed17a3015b",
@@ -1406,6 +1610,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "affirm-news-c29cab27ac3eeda37796",
+      "title": "Affirm to participate in upcoming investor conferences",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-participate-upcoming-investor-conferences-19",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Aug. 13, 2026-- Affirm Holdings, Inc. (NASDAQ: AFRM) today announced it will participate in the following investor conferences: On September 8 and 9, 2026, Max Levchin (Founder and Chief Executive Officer), Rob O’Hare (Chief Financial Officer), and Zane Keller (Head",
+      "publishedAt": "2026-08-13T20:07:26+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shopify-pressroom-7b0b1510811570bf575b",
       "title": "Commerce now moves at the speed of culture. And anyone can move with it.",
       "link": "https://www.shopify.com/news/culture-becomes-commerce",
@@ -1430,6 +1646,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "chime-newsroom-ea4919037fc01ea8e0f7",
+      "title": "Chime Scholars Foundation Announces 2026–2027 Cohort",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-scholars-foundation-announces-2026-2027-cohort",
+      "summary": "Foundation Awards Nearly $10 Million in Scholarships to Nearly 1,500 Scholars Since 2022 SAN FRANCISCO --(BUSINESS WIRE)--Aug. 12, 2026-- Chime ® (Nasdaq: CHYM), America’s #1 choice for banking 1, today announced its 2026–2027 Chime Scholars Foundation ® (CSF) cohort, awarding $3 million in",
+      "publishedAt": "2026-08-12T13:01:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "paypal-newsroom-cccfa8c5c952c9483c9d",
       "title": "PayPal World Enables US Travelers to Pay Like a Local at Weixin Pay Merchants Across China",
       "link": "https://newsroom.paypal-corp.com/2026-08-11-PayPal-World-Enables-US-Travelers-to-Pay-Like-a-Local-at-Weixin-Pay-Merchants-Across-China",
@@ -1440,42 +1668,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -1526,6 +1718,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "affirm-news-d8149b7801e5d57d1af3",
+      "title": "Affirm to announce fourth quarter fiscal year 2026 results on August 27, 2026",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-announce-fourth-quarter-fiscal-year-2026-results-august",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Aug. 6, 2026-- Affirm Holdings, Inc. (NASDAQ: AFRM) today announced it will publish its fourth quarter fiscal year 2026 shareholder letter, including its financial results, on its investor relations website at https://investors.affirm.com/ on Thursday, August 27,",
+      "publishedAt": "2026-08-06T20:07:26+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-d8c93b0d72d0bc5d78c1",
       "title": "Shift4 Announces Second Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/306/shift4-announces-second-quarter-2026-results",
@@ -1535,6 +1739,18 @@
       "sourceName": "Shift4 News",
       "company": "Shift4",
       "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "datadog-investor-news-1180a213f4efe436ad7c",
+      "title": "Datadog Announces Second Quarter 2026 Financial Results",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-second-quarter-2026-financial-results",
+      "summary": "Second quarter revenue grew 36% year-over-year to $1.12 billion Robust growth of larger customers, with about 4,720 $100k+ ARR customers, up from about 3,850 a year ago Launched AI-powered Bits Code, Bits Chat, and Bits Agent Builder for general availability NEW YORK, Aug.",
+      "publishedAt": "2026-08-06T11:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
       "sourceKind": "rss"
     },
     {
@@ -1562,6 +1778,30 @@
       "sourceKind": "html"
     },
     {
+      "id": "chime-newsroom-62345efc8589b0a0f1c1",
+      "title": "Chime Reports Second Quarter 2026 Financial Results",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-reports-second-quarter-2026-financial-results",
+      "summary": "27% year-over-year revenue growth exceeds guidance Chime Prime™ launch fuels accelerating growth in Active Members, Purchase Volume, and ARPAM Achieves second consecutive quarter of GAAP profitability and raises full-year outlook SAN FRANCISCO --(BUSINESS WIRE)--Aug.",
+      "publishedAt": "2026-08-05T20:05:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "datadog-investor-news-9034e34e20624bd514a9",
+      "title": "Datadog to Present at Upcoming Investor Conferences",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-present-upcoming-investor-conferences-18",
+      "summary": "NEW YORK, Aug. 05, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ:DDOG), the leading AI-powered observability and security platform, today announced that management will present at the following investor conferences: Canaccord Genuity’s 46th Annual Growth Conference.",
+      "publishedAt": "2026-08-05T20:05:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "marqeta-blog-e80c1c42c96bc9934b8c",
       "title": "Risk & fraud Financial Services Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines Article",
       "link": "https://www.marqeta.com/blog/riskified-and-marqeta-partner-to-sharpen-card-issuer-authorization-decisions-and-help-reduce-false-declines",
@@ -1577,25 +1817,37 @@
       "id": "upstart-press-2c0ac6dcba05aa98d965",
       "title": "Upstart Announces Second Quarter 2026 Results",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-second-quarter-2026-results",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-08-04T00:00:00+00:00",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Aug. 4, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2026. Upstart will host a conference call and webcast at 1:30 p.m.",
+      "publishedAt": "2026-08-04T20:05:00+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "rss"
+    },
+    {
+      "id": "chime-newsroom-6d79bad85486189e6159",
+      "title": "Allied Universal Partners with Chime to Deliver Fee-Free Financial Solutions to Hundreds of Thousands of Employees",
+      "link": "https://investors.chime.com/news-releases/news-release-details/allied-universal-partners-chime-deliver-fee-free-financial",
+      "summary": "One of the nation's largest employers joins a growing roster of companies adopting Chime Workplace over legacy point solutions NEW YORK --(BUSINESS WIRE)--Aug. 3, 2026-- Chime ® (NASDAQ: CHYM) today announced Allied Universal, a global leader in security and facility services, as its newest",
+      "publishedAt": "2026-08-03T13:00:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "upstart-press-b79cb7c3add26b18cd25",
       "title": "Upstart Publishes July 2026 Originations and Latest UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-july-2026-originations-and-latest-umi",
-      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Aug. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for July 2026 and its latest Upstart Macro Index (UMI) reading. For historical data and more information, see upstart.co",
-      "publishedAt": "2026-08-03T11:55:18+00:00",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Aug. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for July 2026 and its latest Upstart Macro Index (UMI) reading.",
+      "publishedAt": "2026-08-03T11:55:00+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "rss"
     },
     {
       "id": "marqeta-blog-734bfda51cb56285b144",
@@ -1610,28 +1862,40 @@
       "sourceKind": "html"
     },
     {
-      "id": "affirm-news-d1ab4988cc8fb641dec6",
-      "title": "Events and presentations | Affirm Holdings, Inc.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0YTNORjVub3FNTnViNTdwaGI5WkF3RHpKd0M4RTEzcWlZUW1WRWhYT3duWXp1bXBDZHozUzdHUTVzUUhKNHI2dldlSkc2T2pubWtyNTlrcU9yY3VBQXhLVjJNTVlHamlQTHZjOUZn?oc=5",
-      "summary": "Affirm News published an update for Affirm relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-01T01:15:51+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "upstart-press-0194b791576ca9bad557",
       "title": "Upstart Announces Multi-Year $4 Billion Forward Flow Agreement with Castlelake",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-multi-year-4-billion-forward-flow-agreement",
-      "summary": "_Agreement represents one of Upstart's largest institutional funding commitments and further expands its relationship with Castlelake_",
-      "publishedAt": "2026-07-29T12:45:24+00:00",
+      "summary": "Agreement represents one of Upstart's largest institutional funding commitments and further expands its relationship with Castlelake BURLINGAME, Calif. --(BUSINESS WIRE)--Jul. 29, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today",
+      "publishedAt": "2026-07-29T12:45:00+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
       "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-0889fe58b5bf34e0919c",
+      "title": "When new tires can't wait, confidence at checkout matters",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/when-new-tires-cant-wait-confidence-checkout-matters",
+      "summary": "Discount Tire and Tire Rack partnered with Affirm to help customers replace tires with confidence, driving approximately 3x higher conversion and 21% higher average order values on TireRack.com, and 24% year-over-year payment volume growth at Discount Tire.",
+      "publishedAt": "2026-07-28T23:50:00+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "upstart-press-460d734079716b2e21cc",
+      "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Bank of America 2026 SMID Cap Conference",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-co-founder-and-ceo-participate-fireside-chat-bank",
+      "summary": "BURLINGAME, Calif. --(BUSINESS WIRE)--Jul. 28, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that Paul Gu, Co-founder and CEO, will participate in a fireside chat at the Bank of America 2026 SMID Cap Conference on",
+      "publishedAt": "2026-07-28T20:05:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "shopify-pressroom-6d021a71bd96aed54a52",
@@ -1658,18 +1922,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "upstart-press-9b031b52818f911fd4f8",
-      "title": "Upstart Receives Conditional Approval from the OCC to Establish Upstart Bank",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-receives-conditional-approval-occ-establish-upstart-bank",
-      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Jul. 23, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that the Office of the Comptroller of the Currency (OCC) has granted conditional approval for the company to establish Upstart Bank, N.A.",
-      "publishedAt": "2026-07-23T23:51:27+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-f38f70e64e369c82414c",
       "title": "Shift4 Announces Date of Second Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/305/shift4-announces-date-of-second-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -1694,6 +1946,66 @@
       "sourceKind": "html"
     },
     {
+      "id": "chime-newsroom-f78c3369235f8cfd9cee",
+      "title": "Introducing Chime Invest, Bringing Wealth Building to Millions Who Already Trust Chime with Their Money",
+      "link": "https://investors.chime.com/news-releases/news-release-details/introducing-chime-invest-bringing-wealth-building-millions-who",
+      "summary": "Commission-free investing with no account minimums, built into the Chime app to make it easy for millions of Americans to start investing SAN FRANCISCO --(BUSINESS WIRE)--Jul. 20, 2026-- Chime, America’s #1 choice for banking 1, today announced the launch of Chime Invest™, bringing investing to the",
+      "publishedAt": "2026-07-20T13:05:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "chime-newsroom-740358f1ae86a1ff1be1",
+      "title": "Chime to Announce Second Quarter 2026 Financial Results on August 5, 2026",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-announce-second-quarter-2026-financial-results-august-5",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Jul. 16, 2026-- Chime ® (Nasdaq: CHYM) will release financial results for the second quarter 2026 on August 5, 2026 after market close. Chime will hold a conference call to discuss the results at 3:00 p.m. Pacific Time ( 6:00 p.m. Eastern Time) on the same day.",
+      "publishedAt": "2026-07-16T21:15:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
+      "category": "Fintech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "datadog-investor-news-4c1ef44dc5580a18760b",
+      "title": "Datadog Announces Date of Second Quarter Fiscal Year 2026 Earnings Call",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-date-second-quarter-fiscal-year-2026-earnings",
+      "summary": "NEW YORK, July 16, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ:DDOG), the leading AI-powered observability and security platform, today announced that it will report its second quarter fiscal year 2026 financial results before the U.S. financial markets open on Thursday, August 6, 2026.",
+      "publishedAt": "2026-07-16T20:05:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-0e0292955c83165e7030",
+      "title": "A higher standard for credit—without fees",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/higher-standard-credit-without-fees",
+      "summary": "By John Pitts, VP of Government Relations, Public Policy, and Social Impact, Affirm The hidden costs of the consumer credit system are under fire at the moment and for good reason. Too many people are paying extra costs they never agreed to, through fees that they don’t expect but can’t avoid.",
+      "publishedAt": "2026-07-16T01:27:42+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "datadog-investor-news-b6513a8b96f759b45ece",
+      "title": "Datadog Named a Leader in the 2026 Gartner® Magic Quadrant™ For Observability Platforms For Sixth Consecutive Year",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-named-leader-2026-gartnerr-magic-quadranttm",
+      "summary": "Positioned highest for Ability to Execute among all vendors evaluated NEW YORK, July 15, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ: DDOG), the leading AI-powered observability and security platform, today announced it has been named a Leader in the Gartner Magic Quadrant for Observability",
+      "publishedAt": "2026-07-15T17:13:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1706,6 +2018,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "affirm-news-da9126c3a7644c6957bd",
+      "title": "Small businesses aren't waiting for Washington to catch up",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/small-businesses-arent-waiting-washington-catch",
+      "summary": "By John Pitts The conversation in Washington is dominated by two issues: helping consumers in a changing economy and helping American businesses compete. Affirm plays a role in both. We offer products that let eligible consumers pay for major purchases over time, often at no added cost to them and",
+      "publishedAt": "2026-07-13T17:30:18+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shopify-pressroom-45a99c80b9590ce0281d",
       "title": "The preparedness paradox: Wait for “ready,” and it might never come",
       "link": "https://www.shopify.com/news/preparedness-paradox",
@@ -1714,42 +2038,6 @@
       "sourceId": "shopify-pressroom",
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "upstart-press-13309aa0c83c92b03ef7",
-      "title": "Upstart Streamlines UMI Reporting",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-08T20:05:29+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "upstart-press-6debac466261a59e0c9b",
-      "title": "Upstart Publishes June 2026 Origination Volume",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-june-2026-origination-volume",
-      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Jul. 6, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for June 2026. For historical data see upstart.com/volume.",
-      "publishedAt": "2026-07-06T11:49:29+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1778,6 +2066,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "datadog-investor-news-c5ad4ad1f16366953b61",
+      "title": "Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-acquires-adaptive-ml-accelerate-its-investment-ai",
+      "summary": "Adaptive ML will join Datadog’s AI lab to build frontier AI infrastructure to address cutting-edge research challenges within observability and security NEW YORK, June 30, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ: DDOG), the leading AI-powered observability and security platform, today",
+      "publishedAt": "2026-06-30T20:05:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "sofi-press-2431a1c21a66f2c14e49",
       "title": "SoFi Introduces Small Business Loans to Help Members Pursue Their Business Ambitions",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnU4b3J1VGZhcVJ1a0lxYUVJTHF3NHNTT1EyN0Z2cFFtbXZ1eFdqVWp2dDNXZUZZTnVmaXVMZnJfSW9lakJKTDVHVXBjNXB6RFFCQ0ZjWVBVc2w1RERaVEEtN3JMVlpQaDJnRjI3Vnd1clk3bENOak94ZjFHeTMyOVFRaUdvQU50YUdTbWZ4RXdzdzRwakplaWFZaEpBQ1Vrc0k0SUNPZ0drTFZjUldEM2pCTTlOSnF0S1pWazRsZkd5bzQ0QU5WR0N4MnFnWk81eWJHWTFZUDdqRThlbVBYcg?oc=5",
@@ -1788,30 +2088,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-1a6c069fbf432d9b29dc",
-      "title": "Upstart Publishes May 2026 UMI",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
-      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Jun. 25, 2026--Upstart Holdings, Inc.(NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today updated the Upstart Macro Index (UMI) to include May 2026 data. For historical data and information about how the index is calculated, see upstart.com/umi.",
-      "publishedAt": "2026-06-25T22:03:30+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "upstart-press-4c3da7e2f08947e60227",
-      "title": "Upstart Announces Agreement with Neuberger Specialty Finance for Investment in up to $600M of Consumer Loans",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-agreement-neuberger-specialty-finance",
-      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Jun. 24, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced its renewal of its forward-flow agreement with Neuberger Specialty Finance, the dedicated asset-based investment team within Neuberger, a global invest",
-      "publishedAt": "2026-06-24T12:45:21+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "shopify-pressroom-7b22495b4fef395ea821",
@@ -1850,6 +2126,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "datadog-investor-news-e922ca60a820127d36ce",
+      "title": "Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-launches-100-capabilities-help-customers-drive-autonomy",
+      "summary": "New Bits AI, log management and security capabilities give customers the visibility and autonomous operations they need to detect, investigate and resolve issues across the development loop and data lifecycle NEW YORK, June 09, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc., (NASDAQ: DDOG), the leading",
+      "publishedAt": "2026-06-09T14:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "trade-desk-press-room-9888080e0df1cd8f2982",
       "title": "The Trade Desk Reports Second Quarter 2026 Financial Results Press Release August 06, 2026",
       "link": "https://www.thetradedesk.com/press-room/the-trade-desk-reports-second-quarter-2026-financial-results",
@@ -1859,18 +2147,6 @@
       "sourceName": "The Trade Desk Press Room",
       "company": "The Trade Desk",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "upstart-press-c81acb168b52e388eeb4",
-      "title": "Upstart Publishes May 2026 Origination Volume",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-origination-volume",
-      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Jun. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for May 2026. For historical data see upstart.com/volume.",
-      "publishedAt": "2026-06-03T11:55:15+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1886,28 +2162,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "upstart-press-213080f6ebf47c9687cf",
-      "title": "Upstart Publishes April 2026 UMI",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-april-2026-umi",
-      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 28, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today updated the Upstart Macro Index (UMI) to include April 2026 data. For historical data and information about how the index is calculated, see upstart.com/umi.",
-      "publishedAt": "2026-05-28T20:08:32+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
+      "id": "chime-newsroom-e1e21d8bd67712329d06",
+      "title": "Chime and Invest America Launch the Compound Combine™ Series to Help All American Families Build Wealth Early",
+      "link": "https://investors.chime.com/news-releases/news-release-details/chime-and-invest-america-launch-compound-combinetm-series-help",
+      "summary": "JERSEY CITY, N.J. --(BUSINESS WIRE)--May 29, 2026-- Chime® (Nasdaq: CHYM), The #1 Most Loved Banking app 1, and Invest America kicked off the Compound Combine yesterday in Jersey City, N.J. The event is the first in a new series of financial education community events designed to help families",
+      "publishedAt": "2026-05-29T13:00:00+00:00",
+      "sourceId": "chime-newsroom",
+      "sourceName": "Chime Newsroom",
+      "company": "Chime",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "upstart-press-672e1f1b5a283f4df5b5",
-      "title": "Community Choice Credit Union Selects Upstart for Personal Lending",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/community-choice-credit-union-selects-upstart-personal-lending",
-      "summary": "FARMINGTON HILLS, Mich.&SAN MATEO, Calif.--(BUSINESS WIRE)--May 27, 2026-- Community Choice Credit Union (CCCU), a member-owned financial institution with more than 114,000 members and over $2 billion in assets, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to ",
-      "publishedAt": "2026-05-27T13:01:03+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "rss"
     },
     {
       "id": "sofi-press-dedda780f9896cf24a34",
@@ -1934,18 +2198,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "upstart-press-62cb26466aa973695e29",
-      "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
-      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 19, 2026-- Upstart (NASDAQ: UPST), the leading AI lending marketplace, today announced that Tim Wennes has been appointed to the company’s Board of Directors, effective May 28, 2026.",
-      "publishedAt": "2026-05-19T13:01:03+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
       "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW5CTklPRHFtTVlIajVQNXNPMmZpRW1lSW5RZXUzYml3dm01Q282X0xWZFdRVlNubGpJU2lSZWNBcDV1ZXlkMFAzOV9JVm5pOHVxOHNSeEVzQl9ERXd3ZU42THAtX2wyYTdUd0k4OVQ2dWVraXpadGNzS01uVjEtMnhIX2dNc1RTTzRna3RzcjQzRFY5azZRcUctSzJ5WV9hRklQaQ?oc=5",
@@ -1970,28 +2222,28 @@
       "sourceKind": "rss"
     },
     {
-      "id": "upstart-press-b6b859e69800301b7ce9",
-      "title": "USF Credit Union Selects Upstart for Personal Lending",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/usf-credit-union-selects-upstart-personal-lending",
-      "summary": "TAMPA, Fla.&SAN MATEO, Calif.--(BUSINESS WIRE)--May 13, 2026-- USF Credit Union (USF CU), a member-owned financial cooperative with over $1.4 billion in assets serving over 80,000 members, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to offer personal loans to",
-      "publishedAt": "2026-05-13T13:01:17+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "datadog-investor-news-b16a1e443205dea56dcf",
+      "id": "datadog-investor-news-673f9d7fab98b74f3ebc",
       "title": "Datadog to Present at Upcoming Investor Conference",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3Ryd1FIWXM2VFZPbXpudWpSTUxXU0pld0k3cmoxWGYzM2VVUEJNY3Z0TUJTRUxDYnk0cFEwLWxLZnhDRUNGMXlMMUt1R0VMRmx1bm5jb094aVVBazIxZEotcEhEaVFQVk5qcEtZZWJrRjVwLXVSaFFCa3dEQmZjYnQtdGdiWHFHbXV4OXpEX2xLOGxVXzFmS1NHS0pMQ3lORUhtcnplQkV4VVRVUVV3aVk0NFQ?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-05-12T07:00:00+00:00",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-present-upcoming-investor-conference-8",
+      "summary": "NEW YORK, May 12, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ:DDOG), the leading AI-powered observability and security platform, today announced that management will present at the following investor conferences: The J.P. Morgan Global Technology, Media and Communications Conference.",
+      "publishedAt": "2026-05-12T20:05:00+00:00",
       "sourceId": "datadog-investor-news",
       "sourceName": "Datadog Investor News",
       "company": "Datadog",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
+    },
+    {
+      "id": "affirm-news-822e6ef542c72a2fe9e3",
+      "title": "Affirm survey: 90% of small businesses are confident in growth outlook and turning to flexible payments to compete",
+      "link": "https://investors.affirm.com/news-releases/news-release-details/affirm-survey-90-small-businesses-are-confident-growth-outlook",
+      "summary": "Finds business owners see Buy Now, Pay Later as a growth tool, a trust signal, and a way to level the playing field with bigger businesses SAN FRANCISCO --(BUSINESS WIRE)--May 11, 2026-- Affirm (NASDAQ: AFRM) today released results from its inaugural Small Business Sentiment Survey.",
+      "publishedAt": "2026-05-11T13:00:54+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-2ef29c9ab9323a54d566",
@@ -2018,6 +2270,30 @@
       "sourceKind": "rss"
     },
     {
+      "id": "datadog-investor-news-8c0f5dd3bea76948f107",
+      "title": "Datadog Announces First Quarter 2026 Financial Results",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-first-quarter-2026-financial-results",
+      "summary": "First quarter revenue grew 32% year-over-year to $1,006 million Robust growth of larger customers, with about 4,550 $100k+ ARR customers, up from about 3,770 a year ago Launched MCP Server, Bits AI Security Agent, GPU Monitoring, and Experiments for general availability NEW YORK, May 07, 2026",
+      "publishedAt": "2026-05-07T11:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "datadog-investor-news-1ab3734ffc90ee4ebc8a",
+      "title": "Datadog for Government Achieves FedRAMP® High Certification",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-government-achieves-fedrampr-high-certification",
+      "summary": "The certification strengthens Datadog’s commitment and ability to meet the unique needs of federal organizations NEW YORK, May 06, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced it has achieved FedRAMP (Federal",
+      "publishedAt": "2026-05-06T20:05:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "toast-product-news-c31e36ba8dd2dec5af42",
       "title": "Toast IQ Grow: AI Marketing & Demand Tools for Restaurants and Retailers",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1NuV3VzOW8yZmo5alAzbTNEaWhZZ2tJdkgtb3RwR2Jib1VCSEJROGJVZXNCdDJGdmpiRWlZdTJpNnhFMGxYVmJuQWNmWmhyU2tXcl9ZbnozSVVvbk5JajRKWElTZHFwX0ZQQ0w1Qk1wVHl4NlZKd1NaempWUnZ0ZWx3?oc=5",
@@ -2030,18 +2306,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "upstart-press-956df450e7959ffc3af9",
-      "title": "Upstart Announces First Quarter 2026 Results",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-05-05T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "wise-newsroom-bd95ccd0ad36cf50271a",
       "title": "Wise introduces first-of-its-kind multi-currency Interest feature in Canada",
       "link": "https://newsroom.wise.com/en-NAM/265034-wise-introduces-first-of-its-kind-multi-currency-interest-feature-in-canada/",
@@ -2050,18 +2314,6 @@
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "upstart-press-6a9fd900515f78fd0095",
-      "title": "Justice Federal Credit Union Selects Upstart to Expand Personal Lending",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/justice-federal-credit-union-selects-upstart-expand-personal",
-      "summary": "CHANTILLY, Va.&SAN MATEO, Calif.--(BUSINESS WIRE)--Apr. 30, 2026-- Justice Federal Credit Union (Justice Federal), based in Chantilly, Virginia, with assets of $1.2 billion, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to broaden its reach and effectively addr",
-      "publishedAt": "2026-04-30T13:01:37+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2102,16 +2354,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "datadog-investor-news-cba544823fedfe53d9e2",
+      "id": "datadog-investor-news-1aac76ae18add1f9daf5",
       "title": "Datadog Announces GPU Monitoring to Help Businesses Optimize Spend and Performance as They Aim to Scale AI Projects",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkkzRHdyZTNYLWItVXFSUVlLLTdMUGtfckpmOEU3dVAxSnpOTVRsUXFJWDhfWV9Uemc3QllLeVVZeDFpVkU1M0V0R0JSdnowY3NibzZOalNiY1ZZWFFrUmkzT095dnBpdU1EcUZWZ1pCRjhsbXkwVTNiOTVsTnEtc2U0RzhMOERENHBBX3c5SzlaR2N2NGNFNjlIOEFiOUNSU3RXbURRcGdMWEhRdUNGVFlZblZMYmFOLVZrT09KT0JQaDlwVnp6TGhHNA?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-04-22T07:00:00+00:00",
+      "link": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-gpu-monitoring-help-businesses-optimize-spend",
+      "summary": "The launch of Datadog’s GPU Monitoring helps teams plan capacity, troubleshoot issues quickly, prevent costly failures and avoid wasted spend NEW YORK, April 22, 2026 (GLOBE NEWSWIRE) -- Datadog, Inc., (NASDAQ: DDOG), the leading AI-powered observability and security platform, today announced that",
+      "publishedAt": "2026-04-22T13:00:00+00:00",
       "sourceId": "datadog-investor-news",
       "sourceName": "Datadog Investor News",
       "company": "Datadog",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "rss"
     },
     {
       "id": "circle-pressroom-bbac0ddb01555e237de4",
@@ -2222,30 +2474,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "datadog-investor-news-3941f78ade610f975f9d",
-      "title": "Datadog Launches MCP Server to Provide AI Agents with Secure, Real-Time Access to Unified Observability Data",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcU1lenBSaGt6NGg1MmdyVlFXMHZrajlYMmdnQXhoTnNuY05PT2Z5bkp5X3lMYjRPUG9uR3U0Q1pESzdhUVF1Z0RUU0syN3hhN1dYMy00RGlRREFTMm82aS12QUVuWW1iVGlBUGRETmdXMENHc2xqZ0FLem1URGUwNWM5RFpLRlR3eFF1ajdCdjFDM0ZjUVpHRXNOWDM1QkFpTGx6OTF2NHdMalo1QUh1MDN1VGlJV2ozbTJaMXhRRWV5SXBSd0thczJR?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-03-09T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "datadog-investor-news-272d0eba88b59d44ef0e",
-      "title": "Datadog Announces DASH 2026: the AI and Observability Event of the Year",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXdKSGFqZHJQMXc5OUU5U2xWeTM2bWJYcGtJbV9qQ2NaZ0plZUtRRnhIMThGRE9hUGhlQzBEeWZpYjBJNmJnRmlKY2t5cUFLaXZQZzFLSHg0X1ptV2c1T2ZoZ0p2UG9yczhUbjkwVGtWUHExSkdUWGNIclJlWW4xU2YyOXRENzhTQ1p1Vm1NTVlkLVNHSDlsd3BoQ2FsOGdiWlQ0akVTSV9fWDBHUVdvTXN6M2kwSlNDUDFKenp4N1ZCVWtic0E?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-02-18T08:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-8654935da5de6a888ba0",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q4 & FY 2025 Earnings Conference Call",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZOWmlBRmhOcEV5NFpFaFdvTXdpdF9sbHFtMmptY2REaGI1Q0hFYW9tc2pFMmJ3dDNzcTc1WkxoZ0hHZXh6ZGo2UndaVGtKRkVvVTFyd3BndXV4U0xYWXoxWDYxRmRJU2p6SFAyRUlnNFpFbUQ1RjFMeXdjUFNjTDJMV2drSlk1cXFGS1BRUzliYXFZTEJIM2djSk1NbjRiY0xSY29iX1l0NU9VdXlyRGF4VGhBNjNkY1dmRThlUGVseGc?oc=5",
@@ -2291,18 +2519,6 @@
       "sourceName": "Block Investor News",
       "company": "Block",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "datadog-investor-news-f1242fe1c761e554d0c6",
-      "title": "Datadog Announces Upcoming Investor Day",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMy11QnVtVW5GWk8wQzlfc3k2c2xkYnZlWnZYc3FTUUVab1htaERlbVVNa0ItemYtNnBJSGYzanBkSzA0dU1BRVZWSTQ3MUl5SmZSandqN3BndFVtNVM1UEtjSXBnV25DakktdmFKNmtEVzk0YXg1NzBpYzk0d2RVZjNJT3RlMFE2NUsxMzVyemlZbW5GVlgtSHJEYVI3OThlZWM5OUd1YlFnMzJLU3c?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-01-20T08:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -2438,18 +2654,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "datadog-investor-news-161018daaf220877e984",
-      "title": "Datadog to Present at Upcoming Investor Conferences",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzNDWGI3b19XVk5ydm1mamx5RW1JZDJXYWdra0tONkY2dWdSUU5QbFduRFR6WWtabEV2cWVWZ2J2Vld6UzlId2VEMU80LV9LQlY5cjBoWERlN0pmNkp2NFpGRE1hMENDRmJtSll3dmg2UjVFdUJ1M1NxeDBFU1FHa1hmTHhjN2stdUFJOVVlOHdHZmRZVmEzTmhqbzNIMEQ5N3BLcFFJU1hzRFdvWklZSkdmOXFOWm8?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-11-11T08:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-0b5deb4b6cc8f6140ce3",
       "title": "El Buen Fin 2025: Mexico’s USD $9B sales weekend",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/el-buen-fin-2025-mexicos-usd-9b-sales-weekend/",
@@ -2458,18 +2662,6 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "upstart-press-a922f6b3519aa94f3dca",
-      "title": "Upstart Announces Results for Third Quarter 2025",
-      "link": "https://www.businesswire.com/news/home/20251104631583/en/Upstart-Announces-Results-for-Third-Quarter-2025",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-11-06T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2544,18 +2736,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "datadog-investor-news-9084200f83bca378fdb5",
-      "title": "Datadog Announces Expanded Support for Oracle Cloud Infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnozNGdYMkFwaG9XaTFoa0lzNlRlZzJhTjIwMGxuOFA0aHFvTWd4am40S3NxU29LNzkzWlRFYnBkaVZQXzFiOWFnOFNWZkplNnp1emkxQU4tNjN1TkJpOWlNanZ0NGJzTGU4ZlNRZVktOUhtZjFLR3hKLTh6UHJsZHBJWHVUeEFDemFLZEFhYnJPWU9FZzlCRXVhLXJVM0xHdE1zc0NCNlpoTzhQX2pUcWNkSEx1UmdvVlRTRVNleUJ0MGVfU3ZQcjVB?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-10-13T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-7187026926ebefef292b",
@@ -2654,18 +2834,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "upstart-press-cdf395b045fca44aa8ea",
-      "title": "Upstart Announces Results for Second Quarter 2025",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-results-second-quarter-2025",
-      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Aug. 5, 2025-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2025. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pres",
-      "publishedAt": "2025-08-05T20:06:16+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-906d798c5b95f5509932",
       "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
@@ -2675,18 +2843,6 @@
       "sourceName": "SoFi Press",
       "company": "SoFi",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "datadog-investor-news-2cb14a9124b42201dbde",
-      "title": "Datadog Announces Date of Second Quarter Fiscal Year 2025 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSThudER4dGdIV0tpb19PdTZkNzQwV0lBMk11bS1CSzRISG13Zk9McGxlRzhEcWhvaHIyUDVuc09NRE1nS0hqc0psRTlWTmd6eV9RS1Z4RG45Mk44MmdZUDY5Yk03cTFSREZwTlRLRHhZU3cxMlVDemVLX0Z2TlZKN3dPeUlNaDlwWjVjUFFMNUV4Tmh1cUNUcklCakE2Ny1zTlFzRnhsUE5hWUItVUwxMHNGQllOVmdEeWtJd0l4MmZqd3pLZjhPeEoxRQ?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-07-17T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -2714,18 +2870,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "datadog-investor-news-af5fc8626d18fe674c35",
-      "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-06-10T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-8ce62c7331842ca65c71",
       "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
       "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
@@ -2736,150 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2226f61adf7d292adf5a",
-      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "datadog-investor-news-c153de9ceb23b46d20a8",
-      "title": "Datadog AI Research Launches New Open-Weights AI Foundation Model and Observability Benchmark",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc3ZkRmcxVE4zOXJyVTFIeXE5SVBQQ05QaU5XNDRaZEFpamVOMGJwYmJOd0VHNUVKejZ2ZGJ6VU1CVlhvR2ZnQ2hvUE51RURnRFJfQy1wSzNUdUVLYzNIYlFUbHl3c1cyRjgzRVhONmEweTF6YW1wOVk0d2N4VlkxMDYtM2p5czNSb2ZoeTFiNnA0eVdYM0trRUdET09SMmUyWC0yNU5yeGJSQUZrYUlyX3dCdzZHUU04Y0VOYkZZeDBkSzdnd0E?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c22901d5296e709477b9",
-      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-20T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "dave-press-e6d46e6b0aa4c4ed3909",
-      "title": "Dave Reports First Quarter 2025 Financial Results",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2NvcjdONlVpck04cXhXU0MzZ1lqanRyZXFwdjBkVGs0QnJSeGdhdmZaX01JaEowVC1NeHRyVER4RzBXUkdBQ2hWcXBIb3BNSmRhNzRMNXVyWGR0VW5ad2FydDNFQlhVWW9fdGRRVFRWU3RwcmRUTUNmWkZ6NlA2MmJyTllzNmFvY3I4Z21ueldnS2FPM1hPLXdLUG9lTkNIeEJKVG1zaUxlQk0?oc=5",
-      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-15T21:03:21+00:00",
-      "sourceId": "dave-press",
-      "sourceName": "Dave Press",
-      "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-cb14def83d56d17b84d2",
-      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-13T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T12:52:42+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "affirm-news-2cfc6b1ebba8ebbd8972",
-      "title": "Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBudURRSlp1SEZWRkdVWHFkMkdIQWdhc1VwTHJyNDJDV3hzWWFuNzFGbjh1UHlTWExTMko1MFJWenp3c2t2WjZ2b21LdEE5QVV6a0lucDViYUc2ckx2MXc?oc=5",
-      "summary": "Affirm News published an update for Affirm relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-11T19:35:13+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "datadog-investor-news-55b845c9f597e22ce6b6",
-      "title": "Datadog Adds to Its Google Cloud Observability Capabilities with Expanded BigQuery Monitoring",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQV9URnVRV0lnaU5QMVhWLWNEUGczYkpHRjhHTkhfb0ViTUh4enFLc3ZzSU1LZmZTLVdPQTVGLTJ5anowMlJCNURpMXBFSUxNRk1wak9nMzlMTlhoY3ZrVUx4Z1RSWVE4bGdkQ3dUTi1TejJUNlhqeXVxc1pEZUw1SUxxRWs3SzJ4djdDMThPS2NqZjNXalpGMWp6d2dzUmRJdXlKMHVRTC1yQUhpaE9CenFkbndOcVlfd2Q0MkFTQTM1dw?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-04-09T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-4f5f17b464c2bd52c3eb",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q1 2025 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmhPVzl4bGJKcUpaNlU5YjFwT3lKb3Z1NU5HRVc2UnZHWXh0b05yWUEtNUdmLURES3ZBUjhtWHZIRlZ1SGJIbVR2d296aEluaUdSLWY5MnJHQkVvNjhHelp1LXE1ZzVOOUZrbUV2VUw1cGdqbVdBM2VaRVR4bzRUaWZRWFl6eHZCQ3hIRjFKVmtLYXctVjBJcllKaVBRdG1hZXlUOGMxQ3huLV9ySk04dkJWdDZKT2x1V01ITg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-04T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
-      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
-      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
-      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
-      "publishedAt": "2025-03-26T12:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-74a3e89360e2448fd6f4",
-      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-03-17T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2923,10 +2923,10 @@
       "sourceId": "affirm-news",
       "sourceName": "Affirm News",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 2,
-      "message": "OK via official fallback RSS"
+      "itemCount": 15,
+      "message": "OK"
     },
     {
       "sourceId": "shift4-news",
@@ -2995,10 +2995,10 @@
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "category": "Fintech Blogs",
-      "kind": "rendered_html",
+      "kind": "rss",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via rendered HTML"
+      "itemCount": 10,
+      "message": "OK"
     },
     {
       "sourceId": "wise-newsroom",
@@ -3040,10 +3040,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "rendered_html",
       "ok": true,
-      "itemCount": 14,
-      "message": "OK"
+      "itemCount": 10,
+      "message": "OK via rendered HTML + official supplemental RSS"
     },
     {
       "sourceId": "circle-pressroom",
@@ -3076,10 +3076,10 @@
       "sourceId": "datadog-investor-news",
       "sourceName": "Datadog Investor News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "rss",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     },
     {
       "sourceId": "tesla-blog",
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
