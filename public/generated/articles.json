@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-09T16:15:52.507444+00:00",
+  "generatedAt": "2026-10-09T20:58:04.372197+00:00",
   "articles": [
+    {
+      "id": "about-amazon-a6f9891ec622700c6e8a",
+      "title": "Watch the teaser trailer for ‘Bloodaxe,’ the epic Viking drama coming to Prime Video January 20, 2027",
+      "link": "https://www.aboutamazon.com/news/entertainment/bloodaxe-vikings-prime-video?utm_source=rss",
+      "summary": "The highly anticipated new series is helmed by the creator of ‘Vikings’ and has already been renewed for a second season.",
+      "publishedAt": "2026-10-09T18:15:34+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-496325708f383d3173ce",
       "title": "'Love Me Love Me 3,' the next sequel in the hit romantic drama series, coming to Prime Video",
@@ -182,6 +194,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-2e461f2ac6e5c44a50c2",
+      "title": "2026/10/08 TSMC September 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3343",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-09fbd8a716bb51243c0d",
       "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
@@ -295,18 +319,6 @@
       "link": "https://www.aboutamazon.com/news/devices/ring-4k-cameras-pan-tilt-cam?utm_source=rss",
       "summary": "Ring’s expanded camera lineup gives you more ways to see and protect your home, indoors and out.",
       "publishedAt": "2026-10-07T13:55:09+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-42cb2bf2c5fc2aeb8b29",
-      "title": "Prime Big Deal Days 2026 ends tonight: 200 of the best deals to shop now",
-      "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
-      "summary": "Prime Big Deal Days ends tonight at 11:59 p.m. PDT (2:59 a.m. EDT Thursday). From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop before the 48-hour event ends.",
-      "publishedAt": "2026-10-07T12:38:00+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -1010,18 +1022,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
-      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-28T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-2608d99108a84b6379d1",
       "title": "Digital banking All Industries Marqeta unifies card and non-card payments on a single platform Article",
       "link": "https://www.marqeta.com/blog/marqeta-unifies-card-and-non-card-payments-on-a-single-platform",
@@ -1682,6 +1682,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1703,18 +1715,6 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2654,6 +2654,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "coinbase-blog-8027488bdcfba2c1ed57",
+      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-09T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-2343c3607e7c8273a3fb",
       "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
       "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
@@ -2868,18 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-74a3e89360e2448fd6f4",
-      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-03-17T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
