@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:54:10.005619+00:00",
+  "generatedAt": "2026-10-10T07:10:19.872702+00:00",
   "articles": [
     {
       "id": "about-amazon-a6f9891ec622700c6e8a",
@@ -342,7 +342,7 @@
       "title": "Wayfair and Klarna deepen ties with more flexible payment options across U.S. and Canada",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWDJWQ2ZtWEVrRElwTG9lek5hM2dqcUlQMXAzdDVBVkR4cTRNQUlhY1YzMkpaeDBNaE5QZVNURlJ4N3NPV2ZwWlYyYjVXYVRnWVZYc1BvLTF6VHUzdlV3NkFYbTktRF9yNWVSeUFnVDFDUm5qT1h3?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T08:07:24+00:00",
+      "publishedAt": "2026-10-07T08:08:09+00:00",
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
@@ -365,18 +365,6 @@
       "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
       "title": "Coinbase Is Building the Most Complete Trading Platform",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T04:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-7130fc62ca777403ee6b",
-      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-07T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -444,18 +432,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-e93f810c72c735611398",
-      "title": "Part 1/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHFXbmxPNjVXT2Z5bUZUYjhhVVhYWUZHMl8yVFlUN19pUm9ieGl2aG50U1ZUMFJ6NUkxU2VTQVBIb1JndUIyaTRDbXpyRTM3cGYzS3M4NGs2SUpxQzZNSk9EMF9IQUEtYTdHeEcxRVdBVnBvMDNVTG4zeFNDUXZJWFhqUW4td1VMLVl1TTE4VmlNY1NicW5NaXAwZW9mSjg?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-06T16:21:48+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-186442aeaf00c1e5da43",
@@ -564,6 +540,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-e93f810c72c735611398",
+      "title": "Part 1/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHFXbmxPNjVXT2Z5bUZUYjhhVVhYWUZHMl8yVFlUN19pUm9ieGl2aG50U1ZUMFJ6NUkxU2VTQVBIb1JndUIyaTRDbXpyRTM3cGYzS3M4NGs2SUpxQzZNSk9EMF9IQUEtYTdHeEcxRVdBVnBvMDNVTG4zeFNDUXZJWFhqUW4td1VMLVl1TTE4VmlNY1NicW5NaXAwZW9mSjg?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-0a87ba260f515b8c572b",
@@ -1262,18 +1250,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1968,6 +1944,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "datadog-investor-news-54ad697864a61a5260d7",
+      "title": "Datadog for Government Achieves FedRAMP® High Certification",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMVdOb2FoZGZvOGhVMlNKNi1LRkhkWHVCemptandaTXhiMjBRdUNYQmFHQUJHVEhpTjJ5NElzaUx3enFyeGRqZTlEVzhEaW8yd1ppWm5wWHgyZkt4aEtqR1pjMGJ5WlNWRGNBcVhLOGNQUnhOeUppMW5VN1BrTVdfS0wwMndWeHJ3a0hEUUhWNEFWV2RKWFQwdjAwaWoyVHQtVXZkdVdaQVMtcUJzdjlSeWZ2cW5fcnZkYTFnMTdFbHI?oc=5",
+      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-06T07:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-956df450e7959ffc3af9",
@@ -2714,18 +2702,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "datadog-investor-news-c153de9ceb23b46d20a8",
-      "title": "Datadog AI Research Launches New Open-Weights AI Foundation Model and Observability Benchmark",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc3ZkRmcxVE4zOXJyVTFIeXE5SVBQQ05QaU5XNDRaZEFpamVOMGJwYmJOd0VHNUVKejZ2ZGJ6VU1CVlhvR2ZnQ2hvUE51RURnRFJfQy1wSzNUdUVLYzNIYlFUbHl3c1cyRjgzRVhONmEweTF6YW1wOVk0d2N4VlkxMDYtM2p5czNSb2ZoeTFiNnA0eVdYM0trRUdET09SMmUyWC0yNU5yeGJSQUZrYUlyX3dCdzZHUU04Y0VOYkZZeDBkSzdnd0E?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-05-21T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-c22901d5296e709477b9",
       "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
@@ -2770,6 +2746,18 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-bacdd251daca40559e7e",
+      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-18T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2855,6 +2843,18 @@
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-8a1ef3a8486d3bbf5a26",
+      "title": "The Standard in Crypto Custody",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JeW5lajgxZVlLd2Vac3N1ckxuMHgxSjhFYU4zV2VONWxmMTdjQXdfc2FLMzFBa1NrUGkxVXp0RFgzTVRKVFFPby1sUnlYdGhER2owekEwckxvYksxb3Y2QmxaTUhKZlJCX1llTDdETW9RbDBTd2U0eQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-02-26T08:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
