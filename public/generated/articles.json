@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:58:04.372197+00:00",
+  "generatedAt": "2026-10-10T00:54:10.005619+00:00",
   "articles": [
     {
       "id": "about-amazon-a6f9891ec622700c6e8a",
@@ -194,16 +194,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-2e461f2ac6e5c44a50c2",
-      "title": "2026/10/08 TSMC September 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3343",
+      "id": "tsmc-news-08e150ffd16729f7cf22",
+      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-10-08T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-09fbd8a716bb51243c0d",
@@ -1106,18 +1106,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "klarna-press-7e4bdc5b73b7b0a04fe9",
-      "title": "700,000 shoppers, 13,000 merchant partners: Klarna celebrates four years in Greece",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUG1OdWZHZVp2UE1VMzFjQXpUWjdDdnlhNmphUUt0WUU1aHFfTzhMcEVFWVBOUERfbW1jaWxuZl9nN2kwYWRKcWw5bmdmeEtLNWRKMm5uUk9MU3NlU1NIS005bzI5SkN5aDlzZW82TjZfd3FDQzRWdGZYbXN4SWZwek92aHFNUTVGX0lva1B2SlBSUEk5YXF1SFFtbFkzV1VwX0UzMWpwOXZETVduMjA5UXlBMkhFbEpBSC1FM1BrMU1BQQ?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-22T18:52:17+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "coinbase-blog-8bdca9fb39e4021646c2",
       "title": "Consumer Protection Tuesday: Taking Down Evil Tokens",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OUDZzVXF4U1RYX2hQNjFvLTNLdGxjSWdWUHNfUTFqT1c3WmlLWEtpQnlMUlgxaHZMUEQ0OWhYQkJyXzBWRFJrcEN6NHZVOHRjeGdQNEM5VE9Jb1cxSVB4R2Uydw?oc=5",
@@ -1145,6 +1133,18 @@
       "id": "klarna-press-2dcb6e26a18e07cc15a3",
       "title": "Klarna adds free unlimited mobile plan to app for UK Max members",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnpDaEszZzZETUd5MjdsdGQyc2VCVDgzc2dWbHhjeTdDMmNuLW9tZVZhTFBMTmdjMF80MXdMcFdjMWlKU0lwaC1aa25zVGhHUU10R1lBaTFzRFRuZTh0Q2pDN0hVQ1E5ZVgyV1NlRHd1RXByRTVLajNLMEluS3VES2RfNVFBaWo0bVVKMHhHVWsxNC1PM0VVbTcyQWZ1bVQyNi1ROWNFQ0lJdWIz?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-22T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-7e4bdc5b73b7b0a04fe9",
+      "title": "700,000 shoppers, 13,000 merchant partners: Klarna celebrates four years in Greece",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUG1OdWZHZVp2UE1VMzFjQXpUWjdDdnlhNmphUUt0WUU1aHFfTzhMcEVFWVBOUERfbW1jaWxuZl9nN2kwYWRKcWw5bmdmeEtLNWRKMm5uUk9MU3NlU1NIS005bzI5SkN5aDlzZW82TjZfd3FDQzRWdGZYbXN4SWZwek92aHFNUTVGX0lva1B2SlBSUEk5YXF1SFFtbFkzV1VwX0UzMWpwOXZETVduMjA5UXlBMkhFbEpBSC1FM1BrMU1BQQ?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-22T07:00:00+00:00",
       "sourceId": "klarna-press",
@@ -1262,28 +1262,16 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "klarna-press-2d891049b5967b53729a",
-      "title": "Klarna is now available in HubSpot's new Checkout experience for merchants in the U.S. and Canada",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa2hreENtLW1MalpOZHh5czh2OEN3TEJKYmhoc0FLdHpIdFRvLVRQUzV0bkdOYkZkSFFKeEI5aTllcEZ4cnBucVBZdXliTDM4bXMzSFQ5Z3E1bkdBZzlRQmdIaFJNcnRsbklzRXloVjVuY1U0ak1KY0R2NXVHRUlPRUd2aVZsZDRNREwxSlpraGs1SHhWcTk3ZEdMMTFvazl6dlQwZG5HYnQ5eTVxY2duUzlaMnhuOS1TR3lZekFPQnFwWHRZR014NGY3N2pKXzFoNVJOb1ln?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-09T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
@@ -1440,30 +1428,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -1679,18 +1643,6 @@
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2390,18 +2342,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-632f97748c7870dca937",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2880,6 +2820,66 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-74a3e89360e2448fd6f4",
+      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-17T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dave-press-0707b01dfbcef283a547",
+      "title": "Dave Inc. Announces $50 Million Share Repurchase Authorization",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUFSSEVtaDFJUXZHYTRWdExwa0xXN29XNG5UNGNVQmFPUWV4cmlVX2d4SlBwZDlYeEhVRFB0VTRkZVBBMmlBSHg2QmxmZEFBYVlFMHJ2YTlJWmhETlRhWjlrRVU5eUs4MXA5SExYRDJGOFBpaDFtNDBjZnhhRFhGSmVzVjh5c3E0X25FZlBodFd5cmhJNFNFdTRGMndocGlid0VWY0s5dzRYWUFSOTJDZTRxWmhNSnBiY1E?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-38fd1ddc6250bb7b6931",
+      "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91bXFLYkdJenNBeWZtN0lWYXBxbm5kTUhDazNOaDJSYURXdUhVNl9mSkVRNl9JQW1NcVdGaDk0aWd4bE1jR0pnWE9sd1Q1QQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-03-04T08:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-1290adaef7c4f7d6d12e",
+      "title": "Hidden Growth Tax on US Small Businesses is Hindering Development and Expansion",
+      "link": "https://newsroom.wise.com/en-NAM/247279-hidden-growth-tax-on-us-small-businesses-is-hindering-development-and-expansion/",
+      "summary": "A new Wise study reveals that US small businesses lose $153B to hidden fees in financial transactions. These fees act as an unfair 'growth tax' limiting small businesses' ability to plan ahead and remain competitive in today's digital economy.",
+      "publishedAt": "2025-02-25T17:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-2a9ab5db2b4b98e0d9d1",
+      "title": "Block Names Anthony Eisen, Co-Founder of Afterpay and CEO of Reshop, to Board of Directors",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNem5rV2g5MWxwbUFQbFJmanhxMTQzbWxFcVhfTjFtWkh0T1ZMaXFySlB2dXJiMUJ6aHg5N2hlQ2QzbGlNbzlFNG94VWRxdlVQVnlZakxUNzQ1X3R3X2Vjcm5qUEVqMU04MkxnZ3hQck9GLW93Wjk3SzBkS3lYMmNmWXdFaDQ5VEF2ck9uUTM3enRWV2pNNjIzUVFrSjVjYnlGOHZpYWZ1UkRfZDE2SHZzM2dpbU1hXzF2dWp1akVtOThVVGRnRXNMVFdnNldIa2NSMy1DSzBPX003Wm5SdFBzMzNSNjZkdmZsVDlEdUVUQ1NUSDA?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-02-06T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
