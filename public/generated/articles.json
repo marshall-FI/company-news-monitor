@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T01:57:04.186864+00:00",
+  "generatedAt": "2026-10-11T08:52:43.469380+00:00",
   "articles": [
     {
       "id": "about-amazon-a6f9891ec622700c6e8a",
@@ -206,30 +206,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-08e150ffd16729f7cf22",
-      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "google-blog-3fc6c28d446192a47f72",
       "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
@@ -358,6 +334,18 @@
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -854,30 +842,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-2883c2c32730ed0baad4",
-      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
-      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
-      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-205cb25737f6515ad92a",
-      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
-      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
-      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-e1eb72239a98ab3cabdd",
       "title": "TCBS Goes All-In With Kiro, Amazon Web Services’ Agentic Coding Environment",
       "link": "https://press.aboutamazon.com/aws/2026/9/tcbs-goes-all-in-with-kiro-amazon-web-services-agentic-coding-environment",
@@ -906,6 +870,30 @@
       "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
       "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
       "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-2883c2c32730ed0baad4",
+      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
+      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
+      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-205cb25737f6515ad92a",
+      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
+      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
+      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -1238,6 +1226,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1392,6 +1392,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -1631,6 +1643,18 @@
       "sourceName": "Shopify Pressroom",
       "company": "Shopify",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1958,6 +1982,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "upstart-press-956df450e7959ffc3af9",
+      "title": "Upstart Announces First Quarter 2026 Results",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 5, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended March 31, 2026. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pres",
+      "publishedAt": "2026-05-05T20:06:02+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "toast-product-news-c31e36ba8dd2dec5af42",
       "title": "Toast IQ Grow: AI Marketing & Demand Tools for Restaurants and Retailers",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1NuV3VzOW8yZmo5alAzbTNEaWhZZ2tJdkgtb3RwR2Jib1VCSEJROGJVZXNCdDJGdmpiRWlZdTJpNnhFMGxYVmJuQWNmWmhyU2tXcl9ZbnozSVVvbk5JajRKWElTZHFwX0ZQQ0w1Qk1wVHl4NlZKd1NaempWUnZ0ZWx3?oc=5",
@@ -1968,18 +2004,6 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-956df450e7959ffc3af9",
-      "title": "Upstart Announces First Quarter 2026 Results",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-05-05T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-bd95ccd0ad36cf50271a",
@@ -2522,18 +2546,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-e13e97f1c36dab78d9f1",
-      "title": "Square Financial Services, Inc. Launches 25 Squared Grant Initiative to Drive Community Development in Utah",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUC01cFVvUk5lV2loM1pFd0NGNHVaUU9HQ0RkNzNTQmxKbVFBa2l4RmNYV3hYdFBucEtlRWVCQ3RsLW8xaVZJSERCWU1WQUlvZzVNY21PRXFzRHR0ZVBDWWRVV0JZTWpxMlpCRzJVNDVBdC1xSzIycm5pWlZaVkR0QlAwYnltSFlFal9mcHBSNGVhSlpfUnA4LV9oZlF5NzRzYnRMTkVKZk1LMnlFcDNvRWtKSVdlb09oTE9QaG9XV0x2aGVDeHM0VjZmX0I2NnNCakRPV3pNS0FRVGRiLU1yT3NfaU9fWHlIREgtQWJhb09sUkNwZm55RDRRamw2aUV0alhvcDE2RDdzQkE?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-24T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-8357fec8a7f961d6724e",
       "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
@@ -2654,6 +2666,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-c0b9058e955cdd2a814c",
+      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-18T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "datadog-investor-news-af5fc8626d18fe674c35",
       "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
@@ -2750,6 +2774,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "coinbase-blog-bacdd251daca40559e7e",
+      "title": "Oregon Is Trying To Revive Regulation by Enforcement",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKZ2RCMU9GWUd6clQzWEVKMXI4a0ZHRS1MeWlDQzFIblkzRFV5SmdpMjNxZ3dBOXNFWTlyQ2ZFeVdZRThUU3BySy1qQUFIaUN0Vlc4UjM4Y1R4X3h6MmxudXg5OUFnWUUySk1Eby1iYmpVUzN3U0I3alRON3ZKVEN1TXlsQTRjTmc?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-18T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "affirm-news-2cfc6b1ebba8ebbd8972",
       "title": "Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBudURRSlp1SEZWRkdVWHFkMkdIQWdhc1VwTHJyNDJDV3hzWWFuNzFGbjh1UHlTWExTMko1MFJWenp3c2t2WjZ2b21LdEE5QVV6a0lucDViYUc2ckx2MXc?oc=5",
@@ -2822,18 +2858,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-38fd1ddc6250bb7b6931",
-      "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91bXFLYkdJenNBeWZtN0lWYXBxbm5kTUhDazNOaDJSYURXdUhVNl9mSkVRNl9JQW1NcVdGaDk0aWd4bE1jR0pnWE9sd1Q1QQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-03-04T08:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "coinbase-blog-8a1ef3a8486d3bbf5a26",
       "title": "The Standard in Crypto Custody",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JeW5lajgxZVlLd2Vac3N1ckxuMHgxSjhFYU4zV2VONWxmMTdjQXdfc2FLMzFBa1NrUGkxVXp0RFgzTVRKVFFPby1sUnlYdGhER2owekEwckxvYksxb3Y2QmxaTUhKZlJCX1llTDdETW9RbDBTd2U0eQ?oc=5",
@@ -2856,30 +2880,6 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-2a9ab5db2b4b98e0d9d1",
-      "title": "Block Names Anthony Eisen, Co-Founder of Afterpay and CEO of Reshop, to Board of Directors",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNem5rV2g5MWxwbUFQbFJmanhxMTQzbWxFcVhfTjFtWkh0T1ZMaXFySlB2dXJiMUJ6aHg5N2hlQ2QzbGlNbzlFNG94VWRxdlVQVnlZakxUNzQ1X3R3X2Vjcm5qUEVqMU04MkxnZ3hQck9GLW93Wjk3SzBkS3lYMmNmWXdFaDQ5VEF2ck9uUTM3enRWV2pNNjIzUVFrSjVjYnlGOHZpYWZ1UkRfZDE2SHZzM2dpbU1hXzF2dWp1akVtOThVVGRnRXNMVFdnNldIa2NSMy1DSzBPX003Wm5SdFBzMzNSNjZkdmZsVDlEdUVUQ1NUSDA?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-02-06T08:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tesla-blog-acfb4a019ce79f886852",
-      "title": "Standardizing Automotive Connectivity",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5penZjMUVZNkdkUTY1TEgwbGtwajFwa0tjNUhlWEZKR0RoTmlKeC1sZnVvMUlNUnQ5eDRpQmhiNjNSaGdtYThjNnJqRk1OMGNzbVhmY19zYmU0RW9nVDVyZ3BWVkdFU2NHYVAxVU5zeW5MUQ?oc=5",
-      "summary": "Tesla Blog published an update for Tesla relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2024-10-27T07:00:00+00:00",
-      "sourceId": "tesla-blog",
-      "sourceName": "Tesla Blog",
-      "company": "Tesla",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 9,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
