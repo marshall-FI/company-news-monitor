@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T20:19:50.800598+00:00",
+  "generatedAt": "2026-10-11T23:45:45.619975+00:00",
   "articles": [
     {
       "id": "about-amazon-a6f9891ec622700c6e8a",
@@ -206,15 +206,15 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-08e150ffd16729f7cf22",
-      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
+      "id": "sofi-press-ee8fca9623ab4d9f800e",
+      "title": "Quarterly Results",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -350,18 +350,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "sofi-press-ee8fca9623ab4d9f800e",
-      "title": "Quarterly Results",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "robinhood-blog-f0834c0f4dba06bfc0d3",
       "title": "A Look Back on HOOD Summit: Engines of Creation",
       "link": "https://robinhood.com/us/en/newsroom/a-look-backon-hood-summit-engines-of-creation",
@@ -384,6 +372,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "adyen-newsroom-e854ede69a10bb52e69e",
+      "title": "Resolution adopted at Adyen N.V.’s 2026 EGM Amsterdam · October 7th, 2026",
+      "link": "https://www.adyen.com/press-and-media/resolution-adopted-at-adyen-2026-egm",
+      "summary": "Amsterdam, October 7, 2026 - Adyen N.V. (AMS: ADYEN) announces that its shareholders approved the appointment of Chris Vogelzang as a member of the Supervisory Board at the Extraordinary General Meeting (EGM), held on October 7, 2026.",
+      "publishedAt": "2026-10-07T00:00:00+00:00",
+      "sourceId": "adyen-newsroom",
+      "sourceName": "Adyen Newsroom",
+      "company": "Adyen",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-ceb9247e32d6cc2cae32",
@@ -1226,6 +1226,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1382,6 +1394,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
       "title": "Robinhood Presents: HOOD Summit ‘26 - Engines of Creation",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation",
@@ -1481,8 +1505,8 @@
       "id": "upstart-press-2c0ac6dcba05aa98d965",
       "title": "Upstart Announces Second Quarter 2026 Results",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-second-quarter-2026-results",
-      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Aug. 4, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2026. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pre",
-      "publishedAt": "2026-08-04T20:06:07+00:00",
+      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
+      "publishedAt": "2026-08-04T00:00:00+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1649,7 +1673,7 @@
       "id": "dlocal-blog-75192036b7133c452e69",
       "title": "Pix and UPI : the same real-time payment universe, 14,000 km apart",
       "link": "https://www.dlocal.com/blog/paymentpedia/pix-and-upi-the-same-real-time-payment-universe-14000-km-apart/",
-      "summary": "Simplify your cross-border payment operations in high-growth markets. Send and receive funds locally, reaching new customers. One easy integration, unlimited secure transactions.",
+      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
       "publishedAt": "2026-07-03T06:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -1838,18 +1862,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "upstart-press-62cb26466aa973695e29",
-      "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
-      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 19, 2026-- Upstart (NASDAQ: UPST), the leading AI lending marketplace, today announced that Tim Wennes has been appointed to the company’s Board of Directors, effective May 28, 2026.",
-      "publishedAt": "2026-05-19T13:01:03+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "klarna-press-cc17036a11e7185dc13b",
       "title": "Worldline and Klarna partner to enable flexible, online and in-store payments everywhere",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNExvMkxFaTZHb21NZ2tvdndIc2VPLTNDVEZ2N1NCRTE0Ym1pWUZWYmZyaWZLazlLLXdPU1ZlcnhXcXI1Y2otMnBCZHVKbFpfQmVhYTV0V1lGSmIzVHJQNkV6b0tSQzRrMjRQeWppSWVwbTRONkg5ZXFvZldZUGdPMmM0MDRWN2RuWjBqc1h3ZTlZbVJXNFc1SnR0d3BsX1U4bVZfWmVPMEREMkF2Q0ZFbExUMHUyMHpVNmxab1QxbnU2X2ExVUdYVGotZw?oc=5",
@@ -1872,6 +1884,18 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "upstart-press-62cb26466aa973695e29",
+      "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
+      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
+      "publishedAt": "2026-05-19T00:00:00+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-4aa2768249283bac4fd4",
@@ -2309,7 +2333,7 @@
       "id": "dlocal-blog-66691f202143b52d970a",
       "title": "How global merchants can simplify Buy Now, Pay Later (BNPL) integrations in emerging markets",
       "link": "https://www.dlocal.com/blog/clarice-leaman/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
+      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
       "publishedAt": "2025-12-11T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2510,6 +2534,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-e13e97f1c36dab78d9f1",
+      "title": "Square Financial Services, Inc. Launches 25 Squared Grant Initiative to Drive Community Development in Utah",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUC01cFVvUk5lV2loM1pFd0NGNHVaUU9HQ0RkNzNTQmxKbVFBa2l4RmNYV3hYdFBucEtlRWVCQ3RsLW8xaVZJSERCWU1WQUlvZzVNY21PRXFzRHR0ZVBDWWRVV0JZTWpxMlpCRzJVNDVBdC1xSzIycm5pWlZaVkR0QlAwYnltSFlFal9mcHBSNGVhSlpfUnA4LV9oZlF5NzRzYnRMTkVKZk1LMnlFcDNvRWtKSVdlb09oTE9QaG9XV0x2aGVDeHM0VjZmX0I2NnNCakRPV3pNS0FRVGRiLU1yT3NfaU9fWHlIREgtQWJhb09sUkNwZm55RDRRamw2aUV0alhvcDE2RDdzQkE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-24T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-8357fec8a7f961d6724e",
       "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
@@ -2702,18 +2738,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-cb14def83d56d17b84d2",
-      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-13T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-3aed8c2dde6ade06a126",
       "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
       "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
@@ -2810,18 +2834,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-38fd1ddc6250bb7b6931",
-      "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91bXFLYkdJenNBeWZtN0lWYXBxbm5kTUhDazNOaDJSYURXdUhVNl9mSkVRNl9JQW1NcVdGaDk0aWd4bE1jR0pnWE9sd1Q1QQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-03-04T08:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-1290adaef7c4f7d6d12e",
       "title": "Hidden Growth Tax on US Small Businesses is Hindering Development and Expansion",
       "link": "https://newsroom.wise.com/en-NAM/247279-hidden-growth-tax-on-us-small-businesses-is-hindering-development-and-expansion/",
@@ -2867,18 +2879,6 @@
       "sourceName": "Tesla Blog",
       "company": "Tesla",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-8151074b481cf216a5a5",
-      "title": "SoFi Expands Loan Platform Business with $2 Billion Agreement with Fortress Investment Group",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYlQyYzVPU1lXaV9sMGpTWV8telZBdkZkMV82bk5vOWtybWFiOGlJQ3l6cEFOcHdNVWkzRkxUc2VCd1VncEFDSE1VR01NTHJ0Vkl3eXdqOHFWTEtkZHBOZ1Q2YUlsVlRESnhfVzJGNmdfYnJvTFJUdzVXdTViLVpTZmFoUW45RVFhMm94alVvbXZnOWszOThkUVZHMDRrcTNvbE5DY3JyY1BhblVnc2VsdE9aWldUMlpSVDRnbXdUU2lHMFNPZXYtVHBwOGtianR2TTB1YU4tVlFxYkVkTGZyUHBfdVlDeS1VYnc?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2024-10-14T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
   ],
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 9,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
