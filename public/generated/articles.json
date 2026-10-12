@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T23:45:45.619975+00:00",
+  "generatedAt": "2026-10-12T05:59:42.957388+00:00",
   "articles": [
     {
       "id": "about-amazon-a6f9891ec622700c6e8a",
@@ -24,18 +24,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-09fbd8a716bb51243c0d",
-      "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-09T04:09:35+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-605cee19632e07cf4d3a",
@@ -206,6 +194,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-08e150ffd16729f7cf22",
+      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "sofi-press-ee8fca9623ab4d9f800e",
       "title": "Quarterly Results",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5",
@@ -214,6 +214,18 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-09fbd8a716bb51243c0d",
+      "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T00:11:53+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -365,6 +377,18 @@
       "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
       "title": "Coinbase Is Building the Most Complete Trading Platform",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-7130fc62ca777403ee6b",
+      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-07T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -854,30 +878,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-2883c2c32730ed0baad4",
-      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
-      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
-      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-205cb25737f6515ad92a",
-      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
-      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
-      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-e1eb72239a98ab3cabdd",
       "title": "TCBS Goes All-In With Kiro, Amazon Web Services’ Agentic Coding Environment",
       "link": "https://press.aboutamazon.com/aws/2026/9/tcbs-goes-all-in-with-kiro-amazon-web-services-agentic-coding-environment",
@@ -906,6 +906,30 @@
       "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
       "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
       "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-2883c2c32730ed0baad4",
+      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
+      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
+      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-205cb25737f6515ad92a",
+      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
+      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
+      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -1226,18 +1250,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1394,18 +1406,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
       "title": "Robinhood Presents: HOOD Summit ‘26 - Engines of Creation",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation",
@@ -1505,8 +1505,8 @@
       "id": "upstart-press-2c0ac6dcba05aa98d965",
       "title": "Upstart Announces Second Quarter 2026 Results",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-second-quarter-2026-results",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-08-04T00:00:00+00:00",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Aug. 4, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2026. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pre",
+      "publishedAt": "2026-08-04T20:06:07+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1673,7 +1673,7 @@
       "id": "dlocal-blog-75192036b7133c452e69",
       "title": "Pix and UPI : the same real-time payment universe, 14,000 km apart",
       "link": "https://www.dlocal.com/blog/paymentpedia/pix-and-upi-the-same-real-time-payment-universe-14000-km-apart/",
-      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
+      "summary": "Simplify your cross-border payment operations in high-growth markets. Send and receive funds locally, reaching new customers. One easy integration, unlimited secure transactions.",
       "publishedAt": "2026-07-03T06:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -1752,18 +1752,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-a0d5606912161961133e",
-      "title": "Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGppUklmZmdvaEoyT1hKNVNHd3Blbm05eTB5c1JaWEpCaXdITHN4bkEtRndCUjh6UXdxbEM0b1BLUzlqZFA1UzR0U0FYV0hqSUNNWUNkNU1ZcS04ejNDQTJ6bkZDTUxrVFlLLU5NTzhSalJrMF9OM0JmR3k2bUxNbUp5SzhIYUVtRXVfMXFZVmdmLTlfcEx4S2xmNEJSVy1kd1p6WHJhRFJmLTdCNDEwSks1Tk9vNmlMWGY3WWFRZ3RBOVRBaTVoQUNOUEJ5azFjLS1pY0tvMWFlenJGWWx2SXBZOFVwc0ZCci05ZQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-11T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "toast-product-news-146f0c8e3e86536f7c51",
@@ -1862,6 +1850,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "upstart-press-62cb26466aa973695e29",
+      "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 19, 2026-- Upstart (NASDAQ: UPST), the leading AI lending marketplace, today announced that Tim Wennes has been appointed to the company’s Board of Directors, effective May 28, 2026.",
+      "publishedAt": "2026-05-19T13:01:03+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "klarna-press-cc17036a11e7185dc13b",
       "title": "Worldline and Klarna partner to enable flexible, online and in-store payments everywhere",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNExvMkxFaTZHb21NZ2tvdndIc2VPLTNDVEZ2N1NCRTE0Ym1pWUZWYmZyaWZLazlLLXdPU1ZlcnhXcXI1Y2otMnBCZHVKbFpfQmVhYTV0V1lGSmIzVHJQNkV6b0tSQzRrMjRQeWppSWVwbTRONkg5ZXFvZldZUGdPMmM0MDRWN2RuWjBqc1h3ZTlZbVJXNFc1SnR0d3BsX1U4bVZfWmVPMEREMkF2Q0ZFbExUMHUyMHpVNmxab1QxbnU2X2ExVUdYVGotZw?oc=5",
@@ -1884,18 +1884,6 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-62cb26466aa973695e29",
-      "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-05-19T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "shift4-news-4aa2768249283bac4fd4",
@@ -2309,7 +2297,7 @@
       "id": "dlocal-blog-3fbf725fa285668570e7",
       "title": "From local to interoperable: dLocal's 5 predictions for payments in 2026",
       "link": "https://www.dlocal.com/blog/dlocal-viewpoint/from-local-to-interoperable-dlocals-5-predictions-for-payments-in-2026/",
-      "summary": "Get valuable insights from dLocal's experts' viewpoints.",
+      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
       "publishedAt": "2025-12-22T14:25:37+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2333,7 +2321,7 @@
       "id": "dlocal-blog-66691f202143b52d970a",
       "title": "How global merchants can simplify Buy Now, Pay Later (BNPL) integrations in emerging markets",
       "link": "https://www.dlocal.com/blog/clarice-leaman/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
-      "summary": "Simplify cross-border payments in emerging markets. Send and receive funds via one API. Scale in LATAM, Asia, and Africa with secure, unlimited transactions.",
+      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-12-11T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2424,6 +2412,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-9a181f28da19afe9017a",
+      "title": "Financial Specialist Vivian Tu, Your Rich BFF, Named SoFi’s First Chief of Financial Empowerment",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVDhsY2tCWWR2TnJUbk1wVEFkR0gtN1FXOERCakJiSjQ2N0l2c0JzbWtnM21FZ24tbklIbmZRS2Z3WTh1V1FqZXUwSlNRXzdlLUJLeUFneUlQMUdrN0ZUd0NrenpMcExkLUpmdW5DS3EwU1FyQjMyaC1fVDFDN3hHNmcxTjhEclNWSGpRUGVyWEZ3a0RJc2N6R0MtU2loQlNZTW5rLXBjUGZCVjIxMWt4V1dRSTA4RVJuQWYtS3E1OFp6ZFVwSC1yM1otZnpPdU9XNGx1dmN6N0VUNEJNdldTUWFwZVc4S1pYYllmNg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-11-05T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dave-press-390f7dc1c13f813cce53",
@@ -2594,18 +2594,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-8027488bdcfba2c1ed57",
-      "title": "Coinbase acquires team to accelerate onchain consumer roadmap: Building the #1 financial app",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhBbmx6TXBvYUJOdzZrdC1mbk1DY3BQZnp1NFRzcE9XQ241bEVaQkNVd2VMNHBldGVtbUNqYkctY0JYWWlaUW82dEdIZUk4UkJndGF0Sks5TXE1blBvYm5iaml5NmxRYlRiTWF2SlBJRm9PcG5NbkRtT3BRcnQ2RDZKZlF1cHloN25WaGVfVWdUd2hKRmc?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-09T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-2343c3607e7c8273a3fb",
       "title": "Wise Expands North American Hub in Austin, Accelerating Regional Growth and Innovation",
       "link": "https://newsroom.wise.com/en-NAM/254079-wise-expands-north-american-hub-in-austin-accelerating-regional-growth-and-innovation/",
@@ -2651,18 +2639,6 @@
       "sourceName": "Datadog Investor News",
       "company": "Datadog",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "sofi-press-466599b9abbc40fccaf0",
-      "title": "SoFi Expands Access to Private Markets with Funds from Cashmere, Fundrise and Liberty Street Advisors",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEE3Sm5jbEhKVXhnREpFZ05zWHpfdVduX2pTSTRKeGFNZVJKNVhqX2xoakNES3ZVMTZrNXFQa0hyOU81THM0NXA2c05vZDh1czdBMFBGOEFlMEoyYVVzd3hkWGg3R1oxcUpadGF0T1NKMjZvbTQxcmI3QTZ0UmtYSS1rX1dHTVNBN2dRdjJYaFpXWlFZbzdRX3JmNG1oSFRaSFRKaTVROU9KakJNU3NXYnZPbHd0V05zLTBlb0RiRVVpVzdUS1dQbTFTYkZEd3dVTGg5NGx3QXFBQ3FhOEtSWkJUWUhwUFoxS21jTm1vTkZ5YVE2WVE?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-07-08T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -2734,6 +2710,18 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-cb14def83d56d17b84d2",
+      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2831,6 +2819,18 @@
       "sourceName": "Dave Press",
       "company": "Dave",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-38fd1ddc6250bb7b6931",
+      "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91bXFLYkdJenNBeWZtN0lWYXBxbm5kTUhDazNOaDJSYURXdUhVNl9mSkVRNl9JQW1NcVdGaDk0aWd4bE1jR0pnWE9sd1Q1QQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-03-04T08:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
