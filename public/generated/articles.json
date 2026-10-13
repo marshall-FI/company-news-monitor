@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-13T03:37:40.961308+00:00",
+  "generatedAt": "2026-10-13T11:50:13.745110+00:00",
   "articles": [
+    {
+      "id": "coinbase-blog-95e3f174b2a6193e2cf7",
+      "title": "Singapore Sees 43% Drop in Crypto Scam Losses and Partnerships Like Ours Are Helping Drive the Change",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93NTBURW5UZEg5WkJlQzB5aHgyUUZmN0ZFOWp1RndtbXVkdDJWSzkzYk9GNmRTWUc2QjZhT0Jiem1KbjZleFhPZnJSZzNVSnltc016MVV3RzBUbV9qaEJHZjRnR3NhckQ1V21aYm04ZERpbzl5OXFyd0ZHdw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-13T08:45:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "amazon-press-archive-185aebffe1d3fd11f665",
+      "title": "Amazon zatrudni ponad 10 000 pracowników sezonowych w swoich centrach logistycznych w Polsce na okres przedświąteczny",
+      "link": "https://press.aboutamazon.com/pl/wiadomosci/praca-w-amazon/2026/10/amazon-zatrudni-ponad-10-000-pracownikow-sezonowych-w-swoich-centrach-logistycznych-w-polsce-na-okres-przedswiateczny",
+      "summary": "Amazon planuje zatrudnić za pośrednictwem agencji pracy tymczasowej ponad 10 000 pracowników sezonowych w centrach logistyki e-commerce w całej Polsce. Firma przygotowuje się w ten sposób na okres wzmożonych zakupów, kiedy klienci Amazon.pl składają najwięcej zamówień. Wszyscy pracownicy będą mogli…",
+      "publishedAt": "2026-10-13T08:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "nvidia-newsroom-1574231a9f5e340e95da",
+      "title": "NVIDIA Lands in Europe for GTC Berlin",
+      "link": "https://blogs.nvidia.com/gtc-berlin-2026-news/",
+      "summary": "NVIDIA is in Europe, showcasing the future of technology together with the region’s developers, researchers and industry leaders.",
+      "publishedAt": "2026-10-13T05:13:00+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-293b85c97d55fe8c4e9e",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 an",
+      "publishedAt": "2026-10-13T05:00:31+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-8c74b81f618ade177a20",
       "title": "Applying technology to understand and treat disease",
@@ -902,30 +950,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-2883c2c32730ed0baad4",
-      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
-      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
-      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-205cb25737f6515ad92a",
-      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
-      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
-      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "amazon-press-archive-e1eb72239a98ab3cabdd",
       "title": "TCBS Goes All-In With Kiro, Amazon Web Services’ Agentic Coding Environment",
       "link": "https://press.aboutamazon.com/aws/2026/9/tcbs-goes-all-in-with-kiro-amazon-web-services-agentic-coding-environment",
@@ -954,6 +978,30 @@
       "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
       "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
       "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-2883c2c32730ed0baad4",
+      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
+      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
+      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-205cb25737f6515ad92a",
+      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
+      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
+      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -996,18 +1044,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-277ca605434b68b135e5",
-      "title": "Amazon Music y Shakira Celebran A Las Mujeres Que Impulsan La Música y La Cultura Latina",
-      "link": "https://press.aboutamazon.com/2026/9/amazon-music-y-shakira-celebran-a-las-mujeres-que-impulsan-la-musica-y-la-cultura-latina",
-      "summary": "La celebración global alcanza su momento culminante el 3 de octubre con Amazon Music Presenta Shakira En Vivo Desde Madrid, llevando una noche de su residencia en Madrid a audiencias de todo el mundo con la primera transmisión global en vivo de un concierto de Shakira. Más allá de la transmisión en…",
-      "publishedAt": "2026-09-28T15:29:29.121000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-f2e568286410bb47e274",
@@ -1080,30 +1116,6 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "nvidia-newsroom-d1e7107e863f4f8a8586",
-      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-      "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a coalition of global resear",
-      "publishedAt": "2026-09-24T14:00:50+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-508df2c327e989674eeb",
-      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a 12-month GeForce NOW Ultimate",
-      "publishedAt": "2026-09-24T13:00:36+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "coinbase-blog-8bdca9fb39e4021646c2",
@@ -1838,6 +1850,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "upstart-press-672e1f1b5a283f4df5b5",
+      "title": "Community Choice Credit Union Selects Upstart for Personal Lending",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/community-choice-credit-union-selects-upstart-personal-lending",
+      "summary": "FARMINGTON HILLS, Mich.&SAN MATEO, Calif.--(BUSINESS WIRE)--May 27, 2026-- Community Choice Credit Union (CCCU), a member-owned financial institution with more than 114,000 members and over $2 billion in assets, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to ",
+      "publishedAt": "2026-05-27T13:01:03+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-dedda780f9896cf24a34",
       "title": "SoFiUSD Becomes the First Stablecoin Issued by a US National Bank to Launch on a Banking Platform",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRVUzeHhJT3ZrSlVHSjFPNjlvZjdZaVcxRldwNVBYbkhVLUVUUkd4TFRfX0l5akZPNkdIMExnZjFQelpRU1phREtzcFhkUkNvVE1DTUpKVkpaWGdPdk5Fd0tVX0pZX1VCV2M2dzBUdmRDZnFXSUUzVGF1N0YwaWJTYkhmTV92dk85RFBLV1dscFlJbWttVGhOY09kMnhZUndOM1N2cFY1V3Uxa0tKZmR3WDhDWDN2dkpOcE1Ga3piOGZEMnFBMnR5R1BBMmtnWTlGWkV6WkRNR29lODFWSmh5U1dzbHNuaTMzN3o0LW9hVk12dw?oc=5",
@@ -1848,18 +1872,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-672e1f1b5a283f4df5b5",
-      "title": "Community Choice Credit Union Selects Upstart for Personal Lending",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/community-choice-credit-union-selects-upstart-personal-lending",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-05-27T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "shift4-news-3467846013eb2e4f3850",
@@ -2867,18 +2879,6 @@
       "sourceName": "Block Investor News",
       "company": "Block",
       "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tesla-blog-acfb4a019ce79f886852",
-      "title": "Standardizing Automotive Connectivity",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5penZjMUVZNkdkUTY1TEgwbGtwajFwa0tjNUhlWEZKR0RoTmlKeC1sZnVvMUlNUnQ5eDRpQmhiNjNSaGdtYThjNnJqRk1OMGNzbVhmY19zYmU0RW9nVDVyZ3BWVkdFU2NHYVAxVU5zeW5MUQ?oc=5",
-      "summary": "Tesla Blog published an update for Tesla relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2024-10-27T07:00:00+00:00",
-      "sourceId": "tesla-blog",
-      "sourceName": "Tesla Blog",
-      "company": "Tesla",
-      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     }
   ],
