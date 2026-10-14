@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-14T13:47:04.822437+00:00",
+  "generatedAt": "2026-10-14T18:41:33.473991+00:00",
   "articles": [
+    {
+      "id": "google-blog-e2d194ea6676ff63d9ca",
+      "title": "Research@ 2026: Novel capabilities and intelligence",
+      "link": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+      "summary": "We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.",
+      "publishedAt": "2026-10-14T16:15:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-e43508c4c22acdd3becf",
+      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+      "summary": "NVIDIA today announced semiconductor leaders are adopting NVIDIA CUDA-X™ libraries — including the new NVIDIA cuPotential library, which developers can use to build AI agents that simulate how atoms and molecules interact — to advance AI-defined fabs.",
+      "publishedAt": "2026-10-14T16:10:00+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-178eb71e063016b1212f",
+      "title": "Watch the trailer for ‘The Greatest,’ the Muhammad Ali series coming to Prime Video November 4",
+      "link": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video?utm_source=rss",
+      "summary": "The biopic is the first authorized scripted series about the boxing champion, humanitarian, and global icon.",
+      "publishedAt": "2026-10-14T15:00:06+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-be6c37dce88bdd992500",
+      "title": "Guide your campaign spending with new priority and allocation features",
+      "link": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+      "summary": "New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated",
+      "publishedAt": "2026-10-14T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "amazon-press-archive-85908c5545129a1277af",
       "title": "Whole Foods Market Reveals Its Top Food and Beverage Trend Predictions for 2027",
@@ -134,6 +182,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "coinbase-blog-6079a5b31b6c78157758",
+      "title": "An Update to Our Asset Listings Announcements",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BeVNaYWFRODY4eEExaGNGUEQwY1dMMG9nTDBEa1VLalVmNVJGdGJJUmFwTUhNV0hDUGZqbVdYdXFJMnpvODlGeXh3MWFjck1UVWxwa1d5aUtjNmlFYm4tcktpVjg1ckFNVVF2T01RQXhIam1OSzBZUmYzSXo?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "google-blog-624d8c9f06fd047f9da4",
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
@@ -252,6 +312,18 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-797a8045689319d5debd",
+      "title": "Working Together on Bitcoin’s Post-Quantum Readiness",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUtjY3pOQ1hOS2FNc3pIRjJHOEw2VTJEODNFRmQ3emFuV0I1R0FmMlZLNGlSazRtRVVIWm13anI1Mm9pY0o3N2FiVzNxNW9tSWtVOFhoSWVfMXl3cXNldmdlcGs4RUVjaW1nNXhkenlSOE5UNm0wYnZXck5BXzVGUnhB?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-13T15:09:24+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "klarna-press-82ce411a2ff0ecd9db7b",
@@ -422,18 +494,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "google-blog-8480f2f9df3680b91e1a",
-      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
-      "link": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
-      "summary": "See the athletes, creators, and wellness experts who are using Google Health to help make our technology better for everyone.",
-      "publishedAt": "2026-10-12T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-005adc0cbed04e408ac0",
       "title": "We’re partnering with Flo Health to elevate women’s health",
       "link": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
@@ -450,18 +510,6 @@
       "title": "How we’re making Google Health and Fitbit Air smarter than ever",
       "link": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
       "summary": "Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.",
-      "publishedAt": "2026-10-12T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-7137d7cc9af98a47f08e",
-      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
-      "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
-      "summary": "Pre-order our newest fitness tracker and get access to our most advanced health tools — plus, a week of battery life from a single charge.",
       "publishedAt": "2026-10-12T13:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -578,18 +626,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-00b0a87e3507a23b37a5",
-      "title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
-      "link": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus?utm_source=rss",
-      "summary": "An all-new lineup of tablets with world-class hardware, personalized intelligence from Alexa+, and full Google Play Store access.",
-      "publishedAt": "2026-10-08T12:55:12+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "tsmc-news-08e150ffd16729f7cf22",
       "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
@@ -614,18 +650,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-09fbd8a716bb51243c0d",
-      "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T00:11:53+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-0e2417c5544e0ddbf8f8",
       "title": "Marqeta Recognized in Juniper Research's 2026 Embedded Finance Leaderboard Article",
       "link": "https://www.marqeta.com/blog/marqeta-recognized-in-juniper-research-2026-embedded-finance-leaderboard",
@@ -636,6 +660,30 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-052aa140a61b7b4c00fa",
+      "title": "Everything you won’t want to miss at Money20/20, from Marqeta Article",
+      "link": "https://www.marqeta.com/blog/everything-you-wont-want-to-miss-at-money2020-from-marqeta",
+      "summary": "Join Marqeta at Money20/20 Las Vegas. See CEO Mike Milotich on the MoneyPot Stage, book a meeting at Wakuda, and hear what’s next in payments.",
+      "publishedAt": "2026-10-08T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-09fbd8a716bb51243c0d",
+      "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T00:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-e85b9e2ad448ed75ecf9",
@@ -674,9 +722,9 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
-      "title": "Coinbase Is Building the Most Complete Trading Platform",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
+      "id": "coinbase-blog-7130fc62ca777403ee6b",
+      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-07T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -686,9 +734,9 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-7130fc62ca777403ee6b",
-      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
+      "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
+      "title": "Coinbase Is Building the Most Complete Trading Platform",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-07T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -902,18 +950,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "nvidia-newsroom-c2600e87db69552d07dc",
-      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year",
-      "publishedAt": "2026-10-01T13:00:49+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-e906eb509aba220428fc",
       "title": "Amazon gibt die Vorauswahl des Kindle Storyteller Awards 2026 bekannt",
       "link": "https://press.aboutamazon.com/de/2026/10/amazon-gibt-die-vorauswahl-des-kindle-storyteller-awards-2026-bekannt",
@@ -1046,6 +1082,30 @@
       "sourceKind": "html"
     },
     {
+      "id": "amazon-press-archive-2883c2c32730ed0baad4",
+      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
+      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
+      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-205cb25737f6515ad92a",
+      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
+      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
+      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-e1eb72239a98ab3cabdd",
       "title": "TCBS Goes All-In With Kiro, Amazon Web Services’ Agentic Coding Environment",
       "link": "https://press.aboutamazon.com/aws/2026/9/tcbs-goes-all-in-with-kiro-amazon-web-services-agentic-coding-environment",
@@ -1062,30 +1122,6 @@
       "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
       "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
       "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-2883c2c32730ed0baad4",
-      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
-      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
-      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
       "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
@@ -1308,6 +1344,18 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
@@ -1577,8 +1625,8 @@
       "id": "upstart-press-2c0ac6dcba05aa98d965",
       "title": "Upstart Announces Second Quarter 2026 Results",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-second-quarter-2026-results",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-08-04T00:00:00+00:00",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Aug. 4, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2026. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pre",
+      "publishedAt": "2026-08-04T20:06:07+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2827,54 +2875,6 @@
       "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
       "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
       "publishedAt": "2025-03-26T12:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-74a3e89360e2448fd6f4",
-      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-03-17T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "dave-press-0707b01dfbcef283a547",
-      "title": "Dave Inc. Announces $50 Million Share Repurchase Authorization",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUFSSEVtaDFJUXZHYTRWdExwa0xXN29XNG5UNGNVQmFPUWV4cmlVX2d4SlBwZDlYeEhVRFB0VTRkZVBBMmlBSHg2QmxmZEFBYVlFMHJ2YTlJWmhETlRhWjlrRVU5eUs4MXA5SExYRDJGOFBpaDFtNDBjZnhhRFhGSmVzVjh5c3E0X25FZlBodFd5cmhJNFNFdTRGMndocGlid0VWY0s5dzRYWUFSOTJDZTRxWmhNSnBiY1E?oc=5",
-      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-03-10T07:00:00+00:00",
-      "sourceId": "dave-press",
-      "sourceName": "Dave Press",
-      "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-38fd1ddc6250bb7b6931",
-      "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91bXFLYkdJenNBeWZtN0lWYXBxbm5kTUhDazNOaDJSYURXdUhVNl9mSkVRNl9JQW1NcVdGaDk0aWd4bE1jR0pnWE9sd1Q1QQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-03-04T08:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-1290adaef7c4f7d6d12e",
-      "title": "Hidden Growth Tax on US Small Businesses is Hindering Development and Expansion",
-      "link": "https://newsroom.wise.com/en-NAM/247279-hidden-growth-tax-on-us-small-businesses-is-hindering-development-and-expansion/",
-      "summary": "A new Wise study reveals that US small businesses lose $153B to hidden fees in financial transactions. These fees act as an unfair 'growth tax' limiting small businesses' ability to plan ahead and remain competitive in today's digital economy.",
-      "publishedAt": "2025-02-25T17:00:00+00:00",
       "sourceId": "wise-newsroom",
       "sourceName": "Wise Newsroom",
       "company": "Wise",
