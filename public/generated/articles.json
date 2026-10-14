@@ -1,17 +1,53 @@
 {
-  "generatedAt": "2026-10-14T02:01:31.895350+00:00",
+  "generatedAt": "2026-10-14T07:42:07.566267+00:00",
   "articles": [
     {
-      "id": "chime-newsroom-f557cf2867e904c231d2",
-      "title": "3 Things We Learned Building Chime Invest",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMlB5YVg4SWdzb0dmU042aFhERWkwRF90M0VzUmc2dThtYXB6eGJ5VWgtcXVEeGNydjRBYm41ZldEYVdPY1JpOEZxT0JVVVVhOThIdlBkWXhVUlpiOG45ZE5UTzhBZVg4SVpsQlU0ampCTlpnV1V5T01pSlc5QQ?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T21:28:49+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
+      "id": "google-blog-45457a9fbb94c90033c1",
+      "title": "Enabling an AI-first European economy",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/",
+      "summary": "Announcing Google’s European Economic Impact Report",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-eee6cc87fc10c5839674",
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "summary": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commi",
+      "publishedAt": "2026-10-14T06:04:15+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-f18761cbf6e7439367b5",
+      "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+      "summary": "NVIDIA today announced a five-year compute donation valued at $250 million to strengthen the United Kingdom’s agentic safety and security research capability.",
+      "publishedAt": "2026-10-14T06:01:00+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "nvidia-newsroom-8323b3b7fc78f153da00",
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twin",
+      "publishedAt": "2026-10-14T06:00:28+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
     },
     {
       "id": "google-blog-624d8c9f06fd047f9da4",
@@ -38,10 +74,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-61915a37127b98c44231",
-      "title": "New on Google Play: More ways to create, discover, and play",
-      "link": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
-      "summary": "Take a look at everything that’s new across Google Play.",
+      "id": "google-blog-1143b1c433b3a84fd0ca",
+      "title": "A new app experience is coming to cars with Google built-in",
+      "link": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+      "summary": "Discover apps and download them faster with upgrades coming to Google Play — plus, a new parked-to-drive feature and more.",
       "publishedAt": "2026-10-13T17:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -50,10 +86,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-1143b1c433b3a84fd0ca",
-      "title": "A new app experience is coming to cars with Google built-in",
-      "link": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
-      "summary": "Discover apps and download them faster with upgrades coming to Google Play — plus, a new parked-to-drive feature and more.",
+      "id": "google-blog-61915a37127b98c44231",
+      "title": "New on Google Play: More ways to create, discover, and play",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+      "summary": "Take a look at everything that’s new across Google Play.",
       "publishedAt": "2026-10-13T17:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -74,10 +110,22 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-bc084cc78ed3792c091e",
-      "title": "Gemini 4 Argon comes to the Gemini app.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
-      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
+      "id": "google-blog-4a7c0627614787f810cf",
+      "title": "Build your data strength with October’s Demand Gen drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+      "summary": "Boost your measurement and ROI with YouTube’s October Demand Gen Drop.",
+      "publishedAt": "2026-10-13T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-3f244126e9d6ab8745ea",
+      "title": "We're helping Indiana communities save with clean energy investments.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/",
+      "summary": "The Monroe-Gregg School District and Morgan County Public Library will benefit from Google’s $10M clean energy investment in Indiana.",
       "publishedAt": "2026-10-13T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -98,22 +146,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-4a7c0627614787f810cf",
-      "title": "Build your data strength with October’s Demand Gen drop.",
-      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
-      "summary": "Boost your measurement and ROI with YouTube’s October Demand Gen Drop.",
-      "publishedAt": "2026-10-13T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-3f244126e9d6ab8745ea",
-      "title": "We're helping Indiana communities save with clean energy investments.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/",
-      "summary": "The Monroe-Gregg School District and Morgan County Public Library will benefit from Google’s $10M clean energy investment in Indiana.",
+      "id": "google-blog-bc084cc78ed3792c091e",
+      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
       "publishedAt": "2026-10-13T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -166,18 +202,6 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "chime-newsroom-32bd07b492cbd9ffc83b",
-      "title": "Chime and Invest America's Compound Combine Comes to Pittsburgh with Steelers Legend Jerome Bettis",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSGVEQ0xYRUh3QUEzSzVlbDk3TDZFLVQ4Nm5wS0FlemhCZVExa25MdEFLdFJSZzlrN29UTmhUQ21PTVVZVDh0YXhpd1hweTl4WU1oVklnNjdTVC15cVhZR1MtZ2lSSUgxWU53aVJJNlVxQTZ4QjFLeEhWcmlaMG04eXQ2ZU04cjBaQ0dSTFE3NjBHMmdjMVljZjVOeDNlN3BYZTk1OVNRdklYX0x1Wk9pMEdIcy1pVHRnN0NKV1pxaGpyM0dRd0E?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T13:35:24+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -530,18 +554,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-5a6c4821fe4b8d3aa5cb",
-      "title": "Google Cloud introduces the Gemini agent.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-      "summary": "Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.",
-      "publishedAt": "2026-10-08T12:05:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "tsmc-news-08e150ffd16729f7cf22",
       "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
@@ -624,18 +636,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "chime-newsroom-1e4df43ecd06df3a992e",
-      "title": "American Banker: Chris Britt still says banking is broken, but Chime can fix it",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHZHdzh3WFQxcVJad19ZaXprZHdDSEc4R2xPTlpoVVI0cXZSWC1CeG1XOEFhNWYtazNwaUZ4Nlh2M21aLXdQTW9UemVwcEJJTTdlNlhGN0hyaVdHVk5YdnZIZzlfWnI0Q0Vqd3NBLTJwOFhNXzJYRFFWVm43T1hFOVRLenY0cGRYbnRsZ1NsaXZwSmtzWlpZeXV2SnBnMUxUdkpQcW13?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T11:18:44+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "klarna-press-63637a0cebffb24104a2",
@@ -730,18 +730,6 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "chime-newsroom-e2e75eccd45fc316be3d",
-      "title": "Chime® Partners with Son Heung-min to Launch New “It Pays to Switch” Campaign",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpBUE9fT2MyR0FBUE1FZTNrNWJkSGNaNnN5X1U1dEFQV0RyU01CMXFfQlQzaTB2QzF0T0FxNkpnTldscGt0U1hCX3JhdVUwZFU2bU82ZnB5T1VjZzdQdVJWS0tTVjZpLXA3SEFsWGs0RnBIVzExNmp5N2lSdGIxbVBEb3I1dVN2bFJOeW9CNXJhMm5Vd2FGZGEyUm5FazI4cHJzZjl0bXl4QQ?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-06T15:29:54+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -962,30 +950,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "nvidia-newsroom-0b5e363622340260d6f6",
-      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-      "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-      "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doin",
-      "publishedAt": "2026-09-30T17:00:21+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-532f254b17e03693cf54",
-      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-      "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave",
-      "publishedAt": "2026-09-30T15:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-9dc1fe71a3658cea21d8",
       "title": "Amazon und Microsoft kündigen gemeinsames Projekt zur Wasserrückführung mit dem NABU in Deutschland an",
       "link": "https://press.aboutamazon.com/de/2026/9/amazon-und-microsoft-kuendigen-gemeinsames-projekt-zur-wasserrueckfuehrung-mit-dem-nabu-in-deutschland-an",
@@ -1070,6 +1034,30 @@
       "sourceKind": "html"
     },
     {
+      "id": "amazon-press-archive-2883c2c32730ed0baad4",
+      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
+      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
+      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-205cb25737f6515ad92a",
+      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
+      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
+      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "amazon-press-archive-e1eb72239a98ab3cabdd",
       "title": "TCBS Goes All-In With Kiro, Amazon Web Services’ Agentic Coding Environment",
       "link": "https://press.aboutamazon.com/aws/2026/9/tcbs-goes-all-in-with-kiro-amazon-web-services-agentic-coding-environment",
@@ -1106,30 +1094,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-2883c2c32730ed0baad4",
-      "title": "How VTV Digital Tackled Vietnam's Live Streaming Bottleneck Using AWS",
-      "link": "https://press.aboutamazon.com/aws/2026/9/how-vtv-digital-tackled-vietnams-live-streaming-bottleneck-using-aws",
-      "summary": "Running on Amazon Web Services, VTV Digital delivered high-definition, multi-channel live streaming to over 22 million Vietnamese viewers",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-205cb25737f6515ad92a",
-      "title": "GoTyme Cuts Customer Disruption Time By Reducing Incident Diagnosis 3.5 Times Faster With AI-Powered Operations Solution Built On Amazon Web Services",
-      "link": "https://press.aboutamazon.com/aws/2026/9/gotyme-cuts-customer-disruption-time-by-reducing-incident-diagnosis-3-5-times-faster-with-ai-powered-operations-solution-built-on-amazon-web-services",
-      "summary": "The digital banking group's new AI solution, powered by AWS DevOps Agent, automatically investigates incidents across more than 100 AWS accounts and 3,000 microservices",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "robinhood-blog-319cbecc684ea72a0ed9",
       "title": "Robinhood Puts the Power of Hedge Funds in Every Trader's Pocket",
       "link": "https://robinhood.com/us/en/newsroom/hood-summit-2026",
@@ -1152,18 +1116,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "nvidia-newsroom-f2e568286410bb47e274",
-      "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
-      "summary": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company’s existing share repurchase program, increasing the total remaining amount authorized to $235 billion.",
-      "publishedAt": "2026-09-28T11:00:00+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "coinbase-blog-344cdaa5e860bea9e9ed",
@@ -1368,18 +1320,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "chime-newsroom-28fd989ed43a98cb6d09",
-      "title": "From Tabular to Transformers: Event Sequence Models for Financial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVlOUWdyekFhQU1XODZLM3JLYWFPOF9UeGs0WHdWOFFOS1FONE5MZThTZ2tLVzUwQzZiZTZsR2NoZDRDZjN2OTJ2eE9RTnVxREpxeXFSdGJnend2LTF1NGJscnF1Vk1tT1JLQ29mWHBmQllFYWhLVzJlTFFLVzBuQXBRM1dSR2xOYWFHeGpXNXh4ZXU3YXJtSzNYMEh3S3BhbmlNd1Q3d0tYcUMtUEE?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T20:08:51+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
@@ -1778,18 +1718,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "chime-newsroom-c175bdba9e444c1638ff",
-      "title": "Chime and Lindsay Lohan Welcome the Last Millennials to Their Thirties for a Financial ‘Glow Up’",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdzY2lPNHNQMEpQNWMwQS0zOUdZbGxXX29oVEpTTDN0RjBJS0ZDM1lySGhOc3dRV253VnFQSFBLdm5ITU1XajgyLU82ay1XUDVBMDJlZFprbzFxTmdnYUxMdmpYelhvSFdhNFVzUzZRTnVzdTZMM19ObGduczhFWUk5blhONFNXVkVUbC1feDdTd3BIeUJaWFllNlhoQ1dBMkVteFIzeVI5R0UyM3VWbjNyU3NxbTNJYktGdTAxT1R1R2hT?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T15:22:24+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "shopify-pressroom-45a99c80b9590ce0281d",
       "title": "The preparedness paradox: Wait for “ready,” and it might never come",
       "link": "https://www.shopify.com/news/preparedness-paradox",
@@ -1800,18 +1728,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "chime-newsroom-6ff33d90ef3339865690",
-      "title": "Product & AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMmVINDZxV2dYUnhVWm5TNmJ0MDdVSThUNzZfaXNrU0ZZeVRPWnMxVkpHenlfTlRkb093NGNSNkJ4TjFkTkNwd0FSTWtab1lPVlVCbg?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-08T23:39:59+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1925,8 +1841,8 @@
       "id": "upstart-press-c81acb168b52e388eeb4",
       "title": "Upstart Publishes May 2026 Origination Volume",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-origination-volume",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-06-03T00:00:00+00:00",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Jun. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for May 2026. For historical data see upstart.com/volume.",
+      "publishedAt": "2026-06-03T11:55:15+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2033,8 +1949,8 @@
       "id": "upstart-press-b6b859e69800301b7ce9",
       "title": "USF Credit Union Selects Upstart for Personal Lending",
       "link": "https://ir.upstart.com/news-releases/news-release-details/usf-credit-union-selects-upstart-personal-lending",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-05-13T00:00:00+00:00",
+      "summary": "TAMPA, Fla.&SAN MATEO, Calif.--(BUSINESS WIRE)--May 13, 2026-- USF Credit Union (USF CU), a member-owned financial cooperative with over $1.4 billion in assets serving over 80,000 members, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to offer personal loans to",
+      "publishedAt": "2026-05-13T13:01:17+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2090,6 +2006,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "upstart-press-956df450e7959ffc3af9",
+      "title": "Upstart Announces First Quarter 2026 Results",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 5, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended March 31, 2026. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pres",
+      "publishedAt": "2026-05-05T20:06:02+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "toast-product-news-c31e36ba8dd2dec5af42",
       "title": "Toast IQ Grow: AI Marketing & Demand Tools for Restaurants and Retailers",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1NuV3VzOW8yZmo5alAzbTNEaWhZZ2tJdkgtb3RwR2Jib1VCSEJROGJVZXNCdDJGdmpiRWlZdTJpNnhFMGxYVmJuQWNmWmhyU2tXcl9ZbnozSVVvbk5JajRKWElTZHFwX0ZQQ0w1Qk1wVHl4NlZKd1NaempWUnZ0ZWx3?oc=5",
@@ -2100,18 +2028,6 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-956df450e7959ffc3af9",
-      "title": "Upstart Announces First Quarter 2026 Results",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-05-05T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-bd95ccd0ad36cf50271a",
@@ -2198,18 +2114,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "chime-newsroom-35f7d9c7d0007465983d",
-      "title": "2025 Letter to Shareholders",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yRUh5Z0ZqRDh0Ynk0TDczQk5XOEc4S1c2bU01VnlKREhYUlo1LWhoNUl6OVJuQk1sS1pHQV80dXdtVWsxNGpTVDNqM3AyMVVTQjAxSnB5bjdHTVc4VDE0QkM3STZXWUtDYUdj?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-17T07:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "toast-product-news-e98b0f16ba78bfb2b939",
       "title": "Toast Launches Unified Drive-Thru Solution for Enterprise QSRs",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JOW9TN3JKTmR0TTJoel8wanZidXB5ZnNaVWpyVmhQVlNWU0hJRWVXUW1sVUlxNFRaOG1JSkNzN19aYVNRMXBpVlJwXzR2TGc3SWVUS1o5d195RHRJYXdLSGdFXzV6VFBwR1E?oc=5",
@@ -2244,18 +2148,6 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "chime-newsroom-0a11538799729c862e42",
-      "title": "Chime Named Among America’s Most Trustworthy Companies in 2026",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGRmTE9GZTdaYmxlYmdEUzBJRTZadElaUC1MdFl2TUJZelZFLVNOTHR0ei1rb0l5LV9DYV9UaU1tX2ozVl9QUGswTFo3ZWRHaEN2OGEzT09NN0xRYUpFUTFEcFB1TlZDWTM2Z1JTVXVEMUQyb3A1V2p4RjRVS3paVDZGM21hajRHbTlhTFhNbXNWTEJ0SURxTg?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-07T07:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
@@ -2330,18 +2222,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "chime-newsroom-68b802c2e1ea107efff0",
-      "title": "Chime Brings Together Chime Employees and Community Leaders to Advance Financial Progress at Second Annual Agents of Change Event",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWlBhRGNkNHhmSEMtcjA0UU9wVFJYLTFDTXV5Um5NN2RlNDJhTDJ3aWRkXzVEZXBCUEpZU08wQ3BndmdGTWh1Y3VOWTlNRzZQa004eDkzT2p0T2tTYlFpVzd3WFBpdUttRVF5VWZwbG11cHdUR3dkeEtVWEFBSWdxZUYyRnZRZkl5SV9OUlk5cmtxMDVLNER4OUs2eXJuSW5CRUI1SXQtalExV2lqN1I1aWxYQXhLdGF4bjFCTlNHNnFJMDR5VjVlYlFOdE5RbUJVNUxjMTQ5d3p2TmZvdy1ZT19iX05QU0ZDSGVCSEI2cHE2VDg?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-23T08:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-272d0eba88b59d44ef0e",
       "title": "Datadog Announces DASH 2026: the AI and Observability Event of the Year",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXdKSGFqZHJQMXc5OUU5U2xWeTM2bWJYcGtJbV9qQ2NaZ0plZUtRRnhIMThGRE9hUGhlQzBEeWZpYjBJNmJnRmlKY2t5cUFLaXZQZzFLSHg0X1ptV2c1T2ZoZ0p2UG9yczhUbjkwVGtWUHExSkdUWGNIclJlWW4xU2YyOXRENzhTQ1p1Vm1NTVlkLVNHSDlsd3BoQ2FsOGdiWlQ0akVTSV9fWDBHUVdvTXN6M2kwSlNDUDFKenp4N1ZCVWtic0E?oc=5",
@@ -2351,18 +2231,6 @@
       "sourceName": "Datadog Investor News",
       "company": "Datadog",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "chime-newsroom-40fc29926e736c242f2c",
-      "title": "Making Marketing More Human: How Chime Is Building an AI-Powered Brand With Empathy at the Center",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHY4NU5zaGIyaXRmZGpHWkppdVdrenZRMTRwcDNxNkJsQzJwR3pGTl9LVFhsalYxS3AwNklzR0MxZzZZYWN6bHFDNjFMSldyMlpoc0kxYWZ3VC0xNzJqOWJqY01lcTQ0cTBiQkVWd2VDeE1CU1VucFpRaG1jZE9xYkFmajdBcTR4U1QxNzdFbEg4TGpvbzFIQi1Ed3M3SWdQUzVZYkUxT2Y4YXlhcTBVcHJabW9RSnozY3lUOHkyenJkbWgwS3hj?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-11T08:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -2717,7 +2585,7 @@
       "id": "dlocal-blog-8357fec8a7f961d6724e",
       "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
-      "summary": "Stablecoins are transforming how global companies operate in emerging markets, offering stability, instant cross-border transfers, and a practical workaround to FX and banking limits.",
+      "summary": "Markets and consumers Sep 17, 2025 4 min. read",
       "publishedAt": "2025-09-17T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2880,6 +2748,138 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "dave-press-e6d46e6b0aa4c4ed3909",
+      "title": "Dave Reports First Quarter 2025 Financial Results",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2NvcjdONlVpck04cXhXU0MzZ1lqanRyZXFwdjBkVGs0QnJSeGdhdmZaX01JaEowVC1NeHRyVER4RzBXUkdBQ2hWcXBIb3BNSmRhNzRMNXVyWGR0VW5ad2FydDNFQlhVWW9fdGRRVFRWU3RwcmRUTUNmWkZ6NlA2MmJyTllzNmFvY3I4Z21ueldnS2FPM1hPLXdLUG9lTkNIeEJKVG1zaUxlQk0?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-15T21:03:21+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-cb14def83d56d17b84d2",
+      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-c5dd2458ae5bcb36e7d8",
+      "title": "Part 3/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2NtNjFpeUlWaUlDejZ6QjRURHZpSWYxZnFBVVVwN09JR2Rjem5ocFZFanVyZTNPY0dkMUVsRGp0bXpWSGxudUJmc0hTLVNDWmdyYmtKWGh6V3kzSEh5RV8zLTJ0RTRsRXZGQ1Z6blFLcHlmTXdka1ZnRlFhZlo1Wm41UlF5M1IwUmNMWlhiejNxUzBzWWVNR2VWV2dPUUZXVGJzZ0ZWYVdtYmZqQkJoMG9GS3AwWHNDX2dobk5B?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-12T21:59:07+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-f1edeecf1136f3bc7b45",
+      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-01T12:52:42+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "affirm-news-2cfc6b1ebba8ebbd8972",
+      "title": "Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBudURRSlp1SEZWRkdVWHFkMkdIQWdhc1VwTHJyNDJDV3hzWWFuNzFGbjh1UHlTWExTMko1MFJWenp3c2t2WjZ2b21LdEE5QVV6a0lucDViYUc2ckx2MXc?oc=5",
+      "summary": "Affirm News published an update for Affirm relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-11T19:35:13+00:00",
+      "sourceId": "affirm-news",
+      "sourceName": "Affirm News",
+      "company": "Affirm",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "datadog-investor-news-55b845c9f597e22ce6b6",
+      "title": "Datadog Adds to Its Google Cloud Observability Capabilities with Expanded BigQuery Monitoring",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQV9URnVRV0lnaU5QMVhWLWNEUGczYkpHRjhHTkhfb0ViTUh4enFLc3ZzSU1LZmZTLVdPQTVGLTJ5anowMlJCNURpMXBFSUxNRk1wak9nMzlMTlhoY3ZrVUx4Z1RSWVE4bGdkQ3dUTi1TejJUNlhqeXVxc1pEZUw1SUxxRWs3SzJ4djdDMThPS2NqZjNXalpGMWp6d2dzUmRJdXlKMHVRTC1yQUhpaE9CenFkbndOcVlfd2Q0MkFTQTM1dw?oc=5",
+      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-04-09T07:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-4f5f17b464c2bd52c3eb",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q1 2025 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmhPVzl4bGJKcUpaNlU5YjFwT3lKb3Z1NU5HRVc2UnZHWXh0b05yWUEtNUdmLURES3ZBUjhtWHZIRlZ1SGJIbVR2d296aEluaUdSLWY5MnJHQkVvNjhHelp1LXE1ZzVOOUZrbUV2VUw1cGdqbVdBM2VaRVR4bzRUaWZRWFl6eHZCQ3hIRjFKVmtLYXctVjBJcllKaVBRdG1hZXlUOGMxQ3huLV9ySk04dkJWdDZKT2x1V01ITg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-04T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
+      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
+      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
+      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
+      "publishedAt": "2025-03-26T12:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-74a3e89360e2448fd6f4",
+      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-17T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dave-press-0707b01dfbcef283a547",
+      "title": "Dave Inc. Announces $50 Million Share Repurchase Authorization",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUFSSEVtaDFJUXZHYTRWdExwa0xXN29XNG5UNGNVQmFPUWV4cmlVX2d4SlBwZDlYeEhVRFB0VTRkZVBBMmlBSHg2QmxmZEFBYVlFMHJ2YTlJWmhETlRhWjlrRVU5eUs4MXA5SExYRDJGOFBpaDFtNDBjZnhhRFhGSmVzVjh5c3E0X25FZlBodFd5cmhJNFNFdTRGMndocGlid0VWY0s5dzRYWUFSOTJDZTRxWmhNSnBiY1E?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3040,10 +3040,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 14,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
