@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-15T18:22:28.412801+00:00",
+  "generatedAt": "2026-10-15T21:33:05.996502+00:00",
   "articles": [
+    {
+      "id": "about-amazon-ed3380644fc3ec867374",
+      "title": "Amazon will share its Q3 2026 earnings on October 29",
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report?utm_source=rss",
+      "summary": "On October 29, Amazon is set to hold a conference call to discuss its Q3 2026 financial results.",
+      "publishedAt": "2026-10-15T20:14:12+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-0de20af469ca9ab119f6",
+      "title": "Amazon.com to Webcast Third Quarter 2026 Financial Results Conference Call",
+      "link": "https://press.aboutamazon.com/2026/10/amazon-com-to-webcast-third-quarter-2026-financial-results-conference-call",
+      "summary": "SEATTLE--(BUSINESS WIRE)-- Amazon.com, Inc. (NASDAQ: AMZN) announced today that it will hold a conference call to discuss its third quarter 2026 financial results on Thursday, October 29, 2026, at 2:00 p.m. PT/5:00 p.m. ET.",
+      "publishedAt": "2026-10-15T20:01:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
     {
       "id": "google-blog-30b77afd86fd20a8f096",
       "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
@@ -288,6 +312,18 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "block-investor-news-acffffc660cd6c7b854e",
+      "title": "Introducing the New Square Kiosk: Reimagining Self-Service with Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSWtMQ3ZoSjNHeGNfQlJwZE5NOUk4Q3BBTFUyVG5wMzBENHlvU3hxS2RUdTdzNG9DSUdNUVdKRlJISHhrWGFQN2VlcnZDYmRCNW9pVkVvZ2lvSXc2cC1qb3liMGhmYTJDOWppQjVzRzZIZjJpU1FtcmpqODhSZ0E3UXI2bE03U1lCRDZaSGM3YU9rTGQyWDd2V1d5eUoyQ1ZlTjIwYUtOSlF4YWNSNDBuUHl6VjNIRFUyQ1VOOGlPZEx3YzlSdG01SmVjWWtlZ0hWRF96V3JlVjBmOEUtOTd4N1hR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-14T16:44:32+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-e2d194ea6676ff63d9ca",
@@ -746,18 +782,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-b87eb32bb3d1d1b4e27e",
-      "title": "How AWS is helping companies build physical AI machines that think",
-      "link": "https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines?utm_source=rss",
-      "summary": "Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.",
-      "publishedAt": "2026-10-08T13:00:13+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "tsmc-news-08e150ffd16729f7cf22",
       "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
@@ -1111,18 +1135,6 @@
       "link": "https://press.aboutamazon.com/aws/2026/9/lseg-risk-intelligence-launches-active-intelligence-world-check-data-that-learns-from-every-signal",
       "summary": "Active Intelligence, built on Amazon Bedrock, is the new data engine behind World-Check: brings richer, more current and continuously enhanced dataGreater efficiency with more evidence, not less: analysts see why a match surfaced, and customers retain control of every final risk decisionWorld-Check…",
       "publishedAt": "2026-09-29T14:01:10.439000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-3c8cfe6534eb34ea498a",
-      "title": "OCC Strengthens Security Operations with an Agentic AI Investigation Solution Built on AWS",
-      "link": "https://press.aboutamazon.com/aws/2026/9/occ-strengthens-security-operations-with-an-agentic-ai-investigation-solution-built-on-aws",
-      "summary": "CHICAGO, Sept. 29, 2026— The Options Clearing Corporation (OCC)®, the world's largest equity derivatives clearing organization, today announced the launch of an AI-powered security investigation agent (the \"SOC Agent\") built with Amazon Web Services' Amazon Bedrock. The solution automates the…",
-      "publishedAt": "2026-09-29T13:58:31.512000+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
@@ -2390,10 +2402,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "dlocal-blog-66691f202143b52d970a",
+      "id": "dlocal-blog-96838278262a996b466b",
       "title": "How global merchants can simplify Buy Now, Pay Later (BNPL) integrations in emerging markets",
-      "link": "https://www.dlocal.com/blog/clarice-leaman/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
+      "summary": "Learn how a single Buy Now, Pay Later integration helps global merchants access millions of new buyers and increase sales in emerging markets.",
       "publishedAt": "2025-12-11T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2402,10 +2414,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "dlocal-blog-632f97748c7870dca937",
+      "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
-      "link": "https://www.dlocal.com/blog/clarice-leaman/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
+      "summary": "This year’s numbers confirm what we’re seeing across markets: payment preference is local, flexible, and mobile-first.",
       "publishedAt": "2025-12-04T15:43:33+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2426,10 +2438,10 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "dlocal-blog-e05b68ca573ee5ff26fb",
+      "id": "dlocal-blog-cbe8d54d26ffb21edcb4",
       "title": "Latin America: How real-time and mobile rails are setting a new baseline",
-      "link": "https://www.dlocal.com/blog/clarice-leaman/latin-america-how-real-time-and-mobile-rails-are-setting-a-new-baseline/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/latin-america-how-real-time-and-mobile-rails-are-setting-a-new-baseline/",
+      "summary": "Real-time rails, mobile-first innovation, and hybrid payment ecosystems are transforming Latin America into one of the fastest-growing digital payments regions.",
       "publishedAt": "2025-11-18T13:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
@@ -2719,18 +2731,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c0b9058e955cdd2a814c",
-      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-18T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
