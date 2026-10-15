@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-15T01:32:13.944871+00:00",
+  "generatedAt": "2026-10-15T07:29:37.842312+00:00",
   "articles": [
+    {
+      "id": "tsmc-news-0cbf22968caba1cf9fa5",
+      "title": "TSMC Reports Third Quarter EPS of NT$29.43|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53WTNKZC1rRTNpMk5IYXZOU2J1REhGZXdqNkduVDg2YVJvSHRVdHAxWlJGSldYTmJDVlZEeXhFaU9EU1V0T21fSzJYQ3NsUQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-15T05:30:19+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "nvidia-newsroom-c46dcdda349de0a51015",
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many co",
+      "publishedAt": "2026-10-15T05:00:12+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "block-investor-news-acffffc660cd6c7b854e",
+      "title": "Introducing the New Square Kiosk: Reimagining Self-Service with Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSWtMQ3ZoSjNHeGNfQlJwZE5NOUk4Q3BBTFUyVG5wMzBENHlvU3hxS2RUdTdzNG9DSUdNUVdKRlJISHhrWGFQN2VlcnZDYmRCNW9pVkVvZ2lvSXc2cC1qb3liMGhmYTJDOWppQjVzRzZIZjJpU1FtcmpqODhSZ0E3UXI2bE03U1lCRDZaSGM3YU9rTGQyWDd2V1d5eUoyQ1ZlTjIwYUtOSlF4YWNSNDBuUHl6VjNIRFUyQ1VOOGlPZEx3YzlSdG01SmVjWWtlZ0hWRF96V3JlVjBmOEUtOTd4N1hR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-14T16:44:32+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
     {
       "id": "google-blog-e2d194ea6676ff63d9ca",
       "title": "Research@ 2026: Novel capabilities and intelligence",
@@ -614,6 +650,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-08e150ffd16729f7cf22",
+      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "coinbase-blog-1c50411fc2e22bad3237",
       "title": "Part 3/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMjJCOGhqSV8zUnJQODg5a1NmMTdldmRkNjJ1bFFtcFcwOW1jYUpjY0VmVzFWdFVTTzNiLXJJZXB1YWVTeS1XZHBwWG1GZG1yTU05a1dTSWZ2WGFId0JwUmRsSVc3VXFNejBSN1ZKOHc1SVBTV0E?oc=5",
@@ -630,6 +678,18 @@
       "title": "Marqeta Recognized in Juniper Research's 2026 Embedded Finance Leaderboard Article",
       "link": "https://www.marqeta.com/blog/marqeta-recognized-in-juniper-research-2026-embedded-finance-leaderboard",
       "summary": "See why Juniper Research recognized Marqeta's embedded finance platform: 40+ countries, flexible credentials, AI risk scoring, and stablecoin-backed cards.",
+      "publishedAt": "2026-10-08T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "marqeta-blog-052aa140a61b7b4c00fa",
+      "title": "Everything you won’t want to miss at Money20/20, from Marqeta Article",
+      "link": "https://www.marqeta.com/blog/everything-you-wont-want-to-miss-at-money2020-from-marqeta",
+      "summary": "Join Marqeta at Money20/20 Las Vegas. See CEO Mike Milotich on the MoneyPot Stage, book a meeting at Wakuda, and hear what’s next in payments.",
       "publishedAt": "2026-10-08T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
@@ -702,7 +762,7 @@
       "title": "Coinbase Is Building the Most Complete Trading Platform",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T03:16:09+00:00",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -744,18 +804,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-5ad3a56d10ed822a57be",
-      "title": "Toast Fall Release 2026: New Toast IQ Team & Expanded Grow",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kc0EycHhXUjFtOGJqM1BOdzcyN1owSTVOMTRBZm1DcXJ2RVFtUVYzLXJvWEFMMWF2ZlVIbUctUWN1QWpYY25ZS3VmN2JJeHdmTVA2Z1U3QVhKTHNKaURuWjMxaw?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-06T19:14:33+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-ffaa7d5210e63e20b90a",
@@ -900,18 +948,6 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "nvidia-newsroom-162f06b35f5ef3d05b04",
-      "title": "Fall Into 25 New Games on GeForce NOW This October",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-      "summary": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance and Ultimate members to The Witcher 3: Wild Hunt – Remastered joining the cloud, ",
-      "publishedAt": "2026-10-01T13:00:54+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "amazon-press-archive-e906eb509aba220428fc",
@@ -1250,6 +1286,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-0dfad1614e4e7120b10b",
+      "title": "See our cookie policy for more information on how we process your personal data. To customize your settings,",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDRFaWVKNXhLNXA2NV9LVERMekFOcndKb3Z5TVlxcUVEU1NvOGxiWlNGR29ycFFxcl9tbERzQ3FuSWdHZlUzNjBaUHJNVnNLeHpJUVAxUWtfeXNzZkI1SEdHMEk4Zmp4MVZmZndPSEtlN2tUSkZqdUFRcTFjYm1TczJqbnhBVllxdkpRUmQ4X05MTXhNdV9qbw?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-16T14:51:23+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "paypal-newsroom-998b82ebc692e8d515ed",
       "title": "Venmo Kicks Off 2026-2027 NIL Season with Nine Standout Student-Athletes and Introduces Money Moves",
       "link": "https://newsroom.paypal-corp.com/2026-09-16-Venmo-Kicks-Off-2026-2027-NIL-Season-with-Nine-Standout-Student-Athletes-and-Introduces-Money-Moves",
@@ -1310,28 +1358,16 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
+      "id": "tsmc-news-bba1a011634bc4e556ac",
+      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
@@ -1378,18 +1414,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-b1e825cffa0217d04a6a",
-      "title": "Block Will Open Its Cash App Score to Lenders with Nova Credit’s Cash Flow Intelligence Platform as Partner",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNURkY2d0V2hOZ2ZCcTR2LTQzN1QwUXdyd3hnZ3MyTkZkRzlJRThrbW1WOEhBbDNEM0VDaWFSWUFZbzlDS3ZIZWN3VFFyeWpYWWViRmswc2tLeGNLUlI4bFRTTkI2TFJueC16dE1ld3YxeDY5VDFBR3VXM2JXWHg1WXN2WmV3dmJjUXZNTi1WeXNvX3VpdFhhb3NoWlBpZU5rSFNRYUVTZ2RCbldUeTB6Y1l4cWJaYmI1Y1ZhWndEWHFzZkhDOUplb0dRWG1nY2lIR2poRzFIMnJBNFdfbXNGenZIQ1p1RHJkLTF3dWduTlMyQzlJRGpYT1I2Wk9IRUdsSGVfMmdCeERZN1k?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-01T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1512,42 +1536,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
@@ -1766,18 +1754,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1937,8 +1913,8 @@
       "id": "upstart-press-213080f6ebf47c9687cf",
       "title": "Upstart Publishes April 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-april-2026-umi",
-      "summary": "![Image 1: Upstart Holdings, Inc. corporate site](https://www.upstart.com/)",
-      "publishedAt": "2026-05-28T00:00:00+00:00",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 28, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today updated the Upstart Macro Index (UMI) to include April 2026 data. For historical data and information about how the index is calculated, see upstart.com/umi.",
+      "publishedAt": "2026-05-28T20:08:32+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2880,6 +2856,30 @@
       "company": "Datadog",
       "category": "Big Tech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-4f5f17b464c2bd52c3eb",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q1 2025 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmhPVzl4bGJKcUpaNlU5YjFwT3lKb3Z1NU5HRVc2UnZHWXh0b05yWUEtNUdmLURES3ZBUjhtWHZIRlZ1SGJIbVR2d296aEluaUdSLWY5MnJHQkVvNjhHelp1LXE1ZzVOOUZrbUV2VUw1cGdqbVdBM2VaRVR4bzRUaWZRWFl6eHZCQ3hIRjFKVmtLYXctVjBJcllKaVBRdG1hZXlUOGMxQ3huLV9ySk04dkJWdDZKT2x1V01ITg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-04-04T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
+      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
+      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
+      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
+      "publishedAt": "2025-03-26T12:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
