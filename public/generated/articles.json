@@ -1,17 +1,125 @@
 {
-  "generatedAt": "2026-10-15T07:29:37.842312+00:00",
+  "generatedAt": "2026-10-15T13:29:15.220664+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-efd79f8f5d3d6f6bc420",
+      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+      "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts [",
+      "publishedAt": "2026-10-15T13:00:59+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-b87715c5d104df6266d3",
+      "title": "FXC Intelligence launches an MCP server built on Amazon Web Services, delivering AI-native cross-border payments intelligence to clients",
+      "link": "https://press.aboutamazon.com/aws/2026/10/fxc-intelligence-launches-an-mcp-server-built-on-amazon-web-services-delivering-ai-native-cross-border-payments-intelligence-to-clients",
+      "summary": "Washington, DC – 15th October 2026 – FXC Intelligence, the leading provider of cross-border payments data and intelligence, has selected Amazon Web Services (AWS), the world’s most comprehensive and broadly adopted cloud platform, to deliver its MCP (Model Context Protocol) and modernize its…",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "google-blog-dcaabf5e08f6a89425c2",
+      "title": "An intelligent new shopping cart",
+      "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+      "summary": "Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-7d0ed3cb5cb4581ac2aa",
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-67ffc0a982f5d23d65bf",
+      "title": "Data-backed secrets to smarter holiday shopping",
+      "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+      "summary": "Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-e834aee9b5d6c8f07cd9",
+      "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
+      "link": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse?utm_source=rss",
+      "summary": "Bee expands its ambient AI family with two personal AI devices designed to remember the moments that matter most, plus new integrations with Alexa+ and Amazon.com.",
+      "publishedAt": "2026-10-15T11:55:24+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "tsmc-news-0cbf22968caba1cf9fa5",
       "title": "TSMC Reports Third Quarter EPS of NT$29.43|Taiwan Semiconductor Manufacturing Company Limited",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53WTNKZC1rRTNpMk5IYXZOU2J1REhGZXdqNkduVDg2YVJvSHRVdHAxWlJGSldYTmJDVlZEeXhFaU9EU1V0T21fSzJYQ3NsUQ?oc=5",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-15T05:30:19+00:00",
+      "publishedAt": "2026-10-15T11:50:19+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "nvidia-newsroom-fb231790bb312d5b8f0e",
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "link": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "summary": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or scien",
+      "publishedAt": "2026-10-15T10:00:12+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-ce60894341616d09f0ab",
+      "title": "Amazon anuncia los cinco finalistas del Premio Literario Kindle Storyteller 2026",
+      "link": "https://press.aboutamazon.com/es/news/books-and-authors/2026/10/cinco-finalistas-premio-literario-kindle-storyteller-2026",
+      "summary": "Las cinco obras seleccionadas abarcan géneros tan diversos como el thriller, la novela histórica, la comedia romántica y la intriga, muestra de la riqueza y la variedad de la autopublicación en lengua española.El jurado elegirá en noviembre la obra ganadora entre las novelas seleccionadas, cuyo…",
+      "publishedAt": "2026-10-15T08:01:27.838000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-55ff65b0d272d1fe9111",
+      "title": "Amazon übertrifft Investitionsmeilenstein von 100 Milliarden Euro und schafft mehr als 3.000 zusätzliche Arbeitsplätze in Deutschland",
+      "link": "https://press.aboutamazon.com/de/2026/10/amazon-uebertrifft-investitionsmeilenstein-von-100-milliarden-euro-und-schafft-mehr-als-3-000-zusaetzliche-arbeitsplaetze-in-deutschland",
+      "summary": "Die Summe der Gesamtinvestitionen unterstreicht im Vorfeld des „Invest in Germany Summit“ Amazons langfristiges Engagement in Deutschland als Arbeitgeber, Technologie- und Innovationspartner sowie als Partner kleiner und mittelständischer Unternehmen.Amazon investiert in nachhaltigere Lieferungen…",
+      "publishedAt": "2026-10-15T07:34:16.942000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "nvidia-newsroom-c46dcdda349de0a51015",
@@ -24,18 +132,6 @@
       "company": "NVIDIA",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-acffffc660cd6c7b854e",
-      "title": "Introducing the New Square Kiosk: Reimagining Self-Service with Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSWtMQ3ZoSjNHeGNfQlJwZE5NOUk4Q3BBTFUyVG5wMzBENHlvU3hxS2RUdTdzNG9DSUdNUVdKRlJISHhrWGFQN2VlcnZDYmRCNW9pVkVvZ2lvSXc2cC1qb3liMGhmYTJDOWppQjVzRzZIZjJpU1FtcmpqODhSZ0E3UXI2bE03U1lCRDZaSGM3YU9rTGQyWDd2V1d5eUoyQ1ZlTjIwYUtOSlF4YWNSNDBuUHl6VjNIRFUyQ1VOOGlPZEx3YzlSdG01SmVjWWtlZ0hWRF96V3JlVjBmOEUtOTd4N1hR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-14T16:44:32+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-e2d194ea6676ff63d9ca",
@@ -278,30 +374,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-bc084cc78ed3792c091e",
-      "title": "Gemini 4 Argon comes to the Gemini app.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
-      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
-      "publishedAt": "2026-10-13T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-54e63c7fa18f9c6d2103",
-      "title": "Gemini 4 Argon is now available for developers.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
-      "summary": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
-      "publishedAt": "2026-10-13T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-4a7c0627614787f810cf",
       "title": "Build your data strength with October’s Demand Gen drop.",
       "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
@@ -326,6 +398,30 @@
       "sourceKind": "rss"
     },
     {
+      "id": "google-blog-54e63c7fa18f9c6d2103",
+      "title": "Gemini 4 Argon is now available for developers.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+      "summary": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
+      "publishedAt": "2026-10-13T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-bc084cc78ed3792c091e",
+      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
+      "publishedAt": "2026-10-13T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-74c9e10c02543c499970",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -342,7 +438,7 @@
       "title": "Working Together on Bitcoin’s Post-Quantum Readiness",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUtjY3pOQ1hOS2FNc3pIRjJHOEw2VTJEODNFRmQ3emFuV0I1R0FmMlZLNGlSazRtRVVIWm13anI1Mm9pY0o3N2FiVzNxNW9tSWtVOFhoSWVfMXl3cXNldmdlcGs4RUVjaW1nNXhkenlSOE5UNm0wYnZXck5BXzVGUnhB?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T15:09:24+00:00",
+      "publishedAt": "2026-10-13T15:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -470,18 +566,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-8c74b81f618ade177a20",
-      "title": "Applying technology to understand and treat disease",
-      "link": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
-      "summary": "In collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable — with the goal of improving health…",
-      "publishedAt": "2026-10-12T17:30:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-cb1d8044b50f43a24e9c",
       "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
       "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
@@ -516,30 +600,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "google-blog-005adc0cbed04e408ac0",
-      "title": "We’re partnering with Flo Health to elevate women’s health",
-      "link": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
-      "summary": "Google Health announces new partnership and deeper commitment to women’s health with Flo Health.",
-      "publishedAt": "2026-10-12T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-17ae0263749e16b232c5",
-      "title": "How we’re making Google Health and Fitbit Air smarter than ever",
-      "link": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
-      "summary": "Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.",
-      "publishedAt": "2026-10-12T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "about-amazon-a6f9891ec622700c6e8a",
@@ -631,18 +691,6 @@
       "link": "https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines?utm_source=rss",
       "summary": "Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.",
       "publishedAt": "2026-10-08T13:00:13+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-dac9711c79ada05068c8",
-      "title": "Amazon announces an all-new family of tablets designed just for kids",
-      "link": "https://www.aboutamazon.com/news/devices/new-amazon-kids-tablets?utm_source=rss",
-      "summary": "New Amazon Kids Tablets available in two models for younger and older kids",
-      "publishedAt": "2026-10-08T12:55:18+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -902,30 +950,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "nvidia-newsroom-cecaa627e24bd9730bc2",
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer",
-      "publishedAt": "2026-10-02T13:00:39+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-5395303ce74d411ba3f8",
-      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-      "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation ",
-      "publishedAt": "2026-10-01T23:44:13+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-e52a00e910f4eaa92bbe",
       "title": "Kodiak AI Chooses AWS for AI-Powered Autonomous Trucking Technology Development Ahead of Driverless Highway Launch",
       "link": "https://press.aboutamazon.com/aws/2026/10/kodiak-ai-chooses-aws-for-ai-powered-autonomous-trucking-technology-development-ahead-of-driverless-highway-launch",
@@ -1075,42 +1099,6 @@
       "link": "https://press.aboutamazon.com/aws/2026/9/occ-strengthens-security-operations-with-an-agentic-ai-investigation-solution-built-on-aws",
       "summary": "CHICAGO, Sept. 29, 2026— The Options Clearing Corporation (OCC)®, the world's largest equity derivatives clearing organization, today announced the launch of an AI-powered security investigation agent (the \"SOC Agent\") built with Amazon Web Services' Amazon Bedrock. The solution automates the…",
       "publishedAt": "2026-09-29T13:58:31.512000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-e1eb72239a98ab3cabdd",
-      "title": "TCBS Goes All-In With Kiro, Amazon Web Services’ Agentic Coding Environment",
-      "link": "https://press.aboutamazon.com/aws/2026/9/tcbs-goes-all-in-with-kiro-amazon-web-services-agentic-coding-environment",
-      "summary": "Vietnam’s leading digital securities firm deploys Kiro across 460 users - including its team of engineers - shipping critical financial products 25% faster to market through AI-powered development",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-11093ab38a4cdea11b04",
-      "title": "Vinasoy Cuts Out-of-Stock Rates by 20% in Two Months Using Generative AI-Powered Retail Monitoring",
-      "link": "https://press.aboutamazon.com/aws/2026/9/vinasoy-cuts-out-of-stock-rates-by-20-in-two-months-using-generative-ai-powered-retail-monitoring",
-      "summary": "Vietnam’s leading soy milk producer scales automated display monitoring to over 70% of its stores, reducing scoring time from over 20 days to under two, to ensure products are on shelves when consumers need them",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-e7fb31c6e96e8246300a",
-      "title": "OmiGroup Builds AI That Traces Chronic Disease To Its Molecular Roots",
-      "link": "https://press.aboutamazon.com/aws/2026/9/omigroup-builds-ai-that-traces-chronic-disease-to-its-molecular-roots",
-      "summary": "Vietnam-based healthcare IT company’s OmiKG proof-of-concept, built on AWS, earns independent clinical validation for mechanistic disease analysis with full evidence traceability",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
@@ -1358,18 +1346,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-bba1a011634bc4e556ac",
-      "title": "TSMC August 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aTzR4TnFXdW1kTFFUa2l1ck9vOWlFMUM3ZXBZdnhsODZsVDZ6NHB5TzY1ZWg1QUlOMzJBNS1FaDNhMUJVa2ZfU1ZwOUhOdw?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1570,18 +1546,6 @@
       "sourceId": "robinhood-blog",
       "sourceName": "Robinhood Blog",
       "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-ab513aa3e6853dadf751",
-      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
-      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
-      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -2738,6 +2702,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-c0b9058e955cdd2a814c",
+      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-18T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "datadog-investor-news-af5fc8626d18fe674c35",
       "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
@@ -2880,6 +2856,30 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-74a3e89360e2448fd6f4",
+      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-17T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dave-press-0707b01dfbcef283a547",
+      "title": "Dave Inc. Announces $50 Million Share Repurchase Authorization",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUFSSEVtaDFJUXZHYTRWdExwa0xXN29XNG5UNGNVQmFPUWV4cmlVX2d4SlBwZDlYeEhVRFB0VTRkZVBBMmlBSHg2QmxmZEFBYVlFMHJ2YTlJWmhETlRhWjlrRVU5eUs4MXA5SExYRDJGOFBpaDFtNDBjZnhhRFhGSmVzVjh5c3E0X25FZlBodFd5cmhJNFNFdTRGMndocGlid0VWY0s5dzRYWUFSOTJDZTRxWmhNSnBiY1E?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-10T07:00:00+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
