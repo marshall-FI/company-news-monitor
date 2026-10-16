@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:33:05.996502+00:00",
+  "generatedAt": "2026-10-16T00:27:59.881719+00:00",
   "articles": [
     {
       "id": "about-amazon-ed3380644fc3ec867374",
@@ -866,11 +866,11 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-7130fc62ca777403ee6b",
-      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
+      "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
+      "title": "Coinbase Is Building the Most Complete Trading Platform",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -878,9 +878,9 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
-      "title": "Coinbase Is Building the Most Complete Trading Platform",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmRhcnBxLUItbWd0eERxUzJ2Vlp6S0xaRmpoN2ZFZ3RPLVJ3c1ZaOTBNS0V5QnlQY0UwVWszZmZtQ2NaN0pSMFpBMmhRYWN2N1ZSNXZiclplOUZkemM5cHplUVg0UGU2VjlxUUFKOE1FajYwNG1DNDAyZFlld25ObzhtWDA3ZVdhQW5meXJn?oc=5",
+      "id": "coinbase-blog-7130fc62ca777403ee6b",
+      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-07T04:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -1140,6 +1140,30 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-87fa714f6f4dd40a55cd",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q3 2026 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVRXWkpZWnVqTDBDdHd6b2lQamZ4bXlaUGhhR2huUnhpamhwQk40aXBvVHh3R1FBMllLLUxuZWZfWU5nVDVYRVNHdkQ2dG40UDhONHFLQ1dFS1FBbU0zalRmWVhCTWp6SE54Z29kdmdENTJRRXlyZU55Z2NmM19pd1UtQ29wdEZ3VzZuY041aEtrM2VvY2RsV1pVOXpFZ0pSMk5pb3VoOVkyX3l2MGUya244ZXhibUlGa0szNm1n?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-29T12:05:21+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-300c7fe45a34adc3513a",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1hoNHlwNzBmMUY2bzY4dWhwS3VGNmNxQURZOGZvZDJBclQ0eTJOX0c5MklEc2JJUXQycTdYNmU0enpfeGl5RXhLU3VNMjBpVXh1NVpXSTQ4c3hENDZtYjlZTjNfQk9rZm9qdS1NSTQxUTFpT0RJblpPNUF4eVVVelBXZ0MyWmdjdkhFUnhDQklINHVpcENCY1Buam11UjJPU1hKRzJyVFBIZU1uQW4tbWVTUmU0WEh4WHZMOQ?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-0c6c52eacf4001971d1a",
@@ -1414,6 +1438,18 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-b1e825cffa0217d04a6a",
+      "title": "Block Will Open Its Cash App Score to Lenders with Nova Credit’s Cash Flow Intelligence Platform as Partner",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNURkY2d0V2hOZ2ZCcTR2LTQzN1QwUXdyd3hnZ3MyTkZkRzlJRThrbW1WOEhBbDNEM0VDaWFSWUFZbzlDS3ZIZWN3VFFyeWpYWWViRmswc2tLeGNLUlI4bFRTTkI2TFJueC16dE1ld3YxeDY5VDFBR3VXM2JXWHg1WXN2WmV3dmJjUXZNTi1WeXNvX3VpdFhhb3NoWlBpZU5rSFNRYUVTZ2RCbldUeTB6Y1l4cWJaYmI1Y1ZhWndEWHFzZkhDOUplb0dRWG1nY2lIR2poRzFIMnJBNFdfbXNGenZIQ1p1RHJkLTF3dWduTlMyQzlJRGpYT1I2Wk9IRUdsSGVfMmdCeERZN1k?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-01T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1694,18 +1730,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "sofi-press-2d8846797a19c6d21602",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q2 2026 Earnings Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEh0VDg3ZXNZZWEtdGdSTU9vOWZ3SjlNTUpLMlF3SnA2T3JIZFdMa2UybmlCSFZlS3JtTThYdDlnVUxQRWdqWENUSUN4TGpJRDJDNVBpbXcxY2J1NHpiaDNaWDVnTjRnOHRNYm1xTEM0SnBTeVVfMml1anVsM1NhNnBycFAwd29lMVR6UXZhaU1sVGprNVFuM3pzS0FoMHJoMWloR09vdG1aZ2N3NHNnTVU0aVh6ckpYTkM4RE1B?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-29T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "shopify-pressroom-6d021a71bd96aed54a52",
       "title": "The next era of commerce, built by partners",
       "link": "https://www.shopify.com/news/a-world-with-more-builders",
@@ -1812,18 +1836,6 @@
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "sofi-press-30683873a6dbcadcb4bd",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q2 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFNDVkJzMjlaTW40NVF6OV83Q01IUkx5YWRwVUtXOVNSZ0FlZ25wWVc2bm9iWDF6UW90SUNvb0tCVUVJZ1dpSkk1RmxZV3ZhUnF2cGpxNUR4YUdRaHdJRldENGszd2UwYkd2Z0RsMFVoZ0MwMU9nWUdERHotemhMTFpoYzI0T3JnRXNUTDNaQVdSVDd5NzRMMzh5eFloczQzMFEwaWRpVTk1dFZUVGJKZVZwWlNsY3J5R0Y2Rg?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "toast-product-news-c0c8d04c8bcc00e9bdfd",
@@ -2794,18 +2806,6 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-cb14def83d56d17b84d2",
-      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-13T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
