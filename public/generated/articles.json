@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:40:44.080741+00:00",
+  "generatedAt": "2026-10-17T15:37:22.655473+00:00",
   "articles": [
     {
       "id": "about-amazon-9c11e680d21854314f78",
@@ -1190,6 +1190,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "toast-product-news-c18b888faf47f5e538dd",
+      "title": "Toast Launches Toast Fuel for Convenience Stores",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JQlhVSGo5WmVGb3NtWC0tekRUUlY0MGJSb3V2QlRVdUNOT3dzaGhteF8zR0E2OUdleDZMLTFEVXdESW5Oc1FhTjcyb3B5WFRpdEg2V2tsc0JNcTFjUExod3dR?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "coinbase-blog-0c6c52eacf4001971d1a",
       "title": "Modveon and Coinbase bring instant, low-cost remittances to Sivar, El Salvador’s new trusted community and payments app",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFhoY1R5UFpXWXlBNEtSSkhSWDV1cThGZTdJNlNKS2lDUHN3TkVfMG9Yd0hBdWZMY21nLUloYTAxeW5haXg2ZW10eXJMTVdHNFZVYWwxTkNpeTR0NFptODlFTGlzUl9uNU5ybVpLVWpMRFBMd0lIeDVpQkQxTXJiQnlMbTZXZmE1WURMdjBBTXQzT3pWSFppSzF1Qi1Od0YxeWRYbHNHTDBWRUJzRmlGWFhLRHlYQ1liLU5fUEpiNDYzOU9yaWQyQmxScExfUFNwTlJ2blhqMXdMMUN2ZXJ3?oc=5",
@@ -1382,18 +1394,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "toast-product-news-67fc80765d3e67e4211b",
-      "title": "Toast News and Press Releases",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94QzJFSlRSYWp6cTRURG5NdWJrTDlxNVpaX1NkWmdrWWNYVVZCc0MtMUFPaGVkUXJMQmtWNm5wTEtYY3h4ZFJaeEVEd2dUZw?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-11T11:43:38+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-55ccac68a722ba8e7fc4",
       "title": "Chargebacks cost LATAM merchants almost 20% of eCommerce revenue: What they are & why they matter",
       "link": "https://www.dlocal.com/blog/paymentpedia/chargebacks-cost-latam-merchants-almost-20-of-ecommerce-revenue-what-they-are-why-they-matter/",
@@ -1462,18 +1462,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-b1e825cffa0217d04a6a",
-      "title": "Block Will Open Its Cash App Score to Lenders with Nova Credit’s Cash Flow Intelligence Platform as Partner",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNURkY2d0V2hOZ2ZCcTR2LTQzN1QwUXdyd3hnZ3MyTkZkRzlJRThrbW1WOEhBbDNEM0VDaWFSWUFZbzlDS3ZIZWN3VFFyeWpYWWViRmswc2tLeGNLUlI4bFRTTkI2TFJueC16dE1ld3YxeDY5VDFBR3VXM2JXWHg1WXN2WmV3dmJjUXZNTi1WeXNvX3VpdFhhb3NoWlBpZU5rSFNRYUVTZ2RCbldUeTB6Y1l4cWJaYmI1Y1ZhWndEWHFzZkhDOUplb0dRWG1nY2lIR2poRzFIMnJBNFdfbXNGenZIQ1p1RHJkLTF3dWduTlMyQzlJRGpYT1I2Wk9IRUdsSGVfMmdCeERZN1k?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-01T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2842,6 +2830,18 @@
       "sourceId": "dave-press",
       "sourceName": "Dave Press",
       "company": "Dave",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-cb14def83d56d17b84d2",
+      "title": "Square Powers Restaurant Growth with New Handheld Device and Next Generation Food and Beverage Platform",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY1d1ZGNyN0NhR1BvZUJITzhfQjFhUzJrcnNUX0NMLUtOeU40VktHaXA2VDVDalBVRFRuUXdUU2hGRno3LTVfNWVJYmZTZXI1dGJLbjNTVFJDU0owUjctYXJNdlpMSGszQkxyV1hMS3FfVm1wdzEyTDhMNTdDYjFOYjBBWUpaaFZrTlV0ZjZYZ19XYUIwU0ZrMGJLN2Y4VVVXdGlRNm1LNkx4N1FDRlBDUm5WaEM0bUpRd2xON3k4Qnh3aWpSMzZfYXFndUJjTUdzdC1WVUgtUFc5QzNlXzE4OFBvcUIxOUkyZFplTXlRbUYxRnJRWTRMcmhDRzI4WFVOeVA3VXVsdw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
