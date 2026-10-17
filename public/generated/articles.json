@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-17T18:33:24.834955+00:00",
+  "generatedAt": "2026-10-17T21:31:44.739458+00:00",
   "articles": [
+    {
+      "id": "nvidia-newsroom-3e1bb6f4d90247655c88",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to ",
+      "publishedAt": "2026-10-17T21:00:13+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-9c11e680d21854314f78",
       "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
@@ -727,18 +739,6 @@
       "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
       "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA ",
       "publishedAt": "2026-10-12T15:00:25+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "nvidia-newsroom-a97a4b762d9a9912aa19",
-      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
-      "summary": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
-      "publishedAt": "2026-10-12T15:00:00+00:00",
       "sourceId": "nvidia-newsroom",
       "sourceName": "NVIDIA Newsroom",
       "company": "NVIDIA",
