@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-19T19:59:19.838731+00:00",
+  "generatedAt": "2026-10-19T23:43:46.829708+00:00",
   "articles": [
+    {
+      "id": "google-blog-92f044b92b6a9da899b2",
+      "title": "Partnering to strengthen the grid and support local communities in Arkansas",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
+      "summary": "Since we first announced plans to build in West Memphis, Arkansas, we’ve continued to work with community members.",
+      "publishedAt": "2026-10-19T20:15:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-494a9fa3bb713759384d",
       "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
@@ -36,18 +48,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-572d753ec1f15b1622ef",
-      "title": "Coinbase and Thunes connect stablecoin infrastructure with global fiat payouts",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1Z2ZTJkSGhlTlZfOXVJMnRLQVFQT0RHWHEyek1Id1FySHIxd3IwVDRmV1AxU3BxclJVMllrX3oycWtZNkU5VTRtUkVtcWtuNVpzalczSFJ0T1d2V3lRdnhVOS1ZcS1DdmJucGRxeVBnSERHaFVENEJnV3BJdG5pai1VX3djN2pQakpV?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-19T16:04:57+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-49ec90948533c3b6bb27",
@@ -156,6 +156,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-572d753ec1f15b1622ef",
+      "title": "Coinbase and Thunes connect stablecoin infrastructure with global fiat payouts",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1Z2ZTJkSGhlTlZfOXVJMnRLQVFQT0RHWHEyek1Id1FySHIxd3IwVDRmV1AxU3BxclJVMllrX3oycWtZNkU5VTRtUkVtcWtuNVpzalczSFJ0T1d2V3lRdnhVOS1ZcS1DdmJucGRxeVBnSERHaFVENEJnV3BJdG5pai1VX3djN2pQakpV?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-938bebd57a6d2f55f9cc",
@@ -446,18 +458,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-dcaabf5e08f6a89425c2",
-      "title": "An intelligent new shopping cart",
-      "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-      "summary": "Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.",
-      "publishedAt": "2026-10-15T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-7d0ed3cb5cb4581ac2aa",
       "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
@@ -474,6 +474,18 @@
       "title": "Data-backed secrets to smarter holiday shopping",
       "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
       "summary": "Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-dcaabf5e08f6a89425c2",
+      "title": "An intelligent new shopping cart",
+      "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+      "summary": "Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.",
       "publishedAt": "2026-10-15T13:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -624,18 +636,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "google-blog-4e181c171390031be981",
-      "title": "Check out this year’s buzziest Halloween trends.",
-      "link": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
-      "summary": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
-      "publishedAt": "2026-10-14T12:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "about-amazon-61c40ce5f72ac63e41db",
@@ -1498,18 +1498,6 @@
       "sourceId": "sofi-press",
       "sourceName": "SoFi Press",
       "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-b1e825cffa0217d04a6a",
-      "title": "Block Will Open Its Cash App Score to Lenders with Nova Credit’s Cash Flow Intelligence Platform as Partner",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNURkY2d0V2hOZ2ZCcTR2LTQzN1QwUXdyd3hnZ3MyTkZkRzlJRThrbW1WOEhBbDNEM0VDaWFSWUFZbzlDS3ZIZWN3VFFyeWpYWWViRmswc2tLeGNLUlI4bFRTTkI2TFJueC16dE1ld3YxeDY5VDFBR3VXM2JXWHg1WXN2WmV3dmJjUXZNTi1WeXNvX3VpdFhhb3NoWlBpZU5rSFNRYUVTZ2RCbldUeTB6Y1l4cWJaYmI1Y1ZhWndEWHFzZkhDOUplb0dRWG1nY2lIR2poRzFIMnJBNFdfbXNGenZIQ1p1RHJkLTF3dWduTlMyQzlJRGpYT1I2Wk9IRUdsSGVfMmdCeERZN1k?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-01T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -2774,6 +2762,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-c0b9058e955cdd2a814c",
+      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-18T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "datadog-investor-news-af5fc8626d18fe674c35",
       "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
+      "itemCount": 8,
       "message": "OK via official fallback RSS"
     },
     {
