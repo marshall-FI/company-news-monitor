@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-19T06:19:20.320356+00:00",
+  "generatedAt": "2026-10-19T13:24:23.997815+00:00",
   "articles": [
+    {
+      "id": "about-amazon-61a65ef0d501d77043e7",
+      "title": "Watch the trailer for ‘Drive – The Pretenders,’ coming to Prime Video October 28",
+      "link": "https://www.aboutamazon.com/news/entertainment/drive-the-pretenders-prime-video?utm_source=rss",
+      "summary": "The movie, inspired by the hit novel 'Drive,' follows a mechanic who fakes an engagement to a scandalous racing star—with a passion that could destroy them both.",
+      "publishedAt": "2026-10-19T13:00:24+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-529d483c5e6a91719f95",
+      "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed",
+      "link": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai?utm_source=rss",
+      "summary": "TorchNeuron lets developers run their existing AI code on AWS Trainium chips with virtually no changes, reducing the friction to adopting new hardware.",
+      "publishedAt": "2026-10-19T13:00:10+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-f4122f16c034cfc800fa",
+      "title": "Amazon invests in nuclear energy project targeting nearly 1 gigawatt of carbon-free energy for Indiana",
+      "link": "https://www.aboutamazon.com/news/sustainability/amazon-nuclear-energy-indiana-x-energy-aep?utm_source=rss",
+      "summary": "Amazon, X-energy, and AEP are collaborating to explore building small modular reactors in Indiana that would add carbon-free power to the regional grid.",
+      "publishedAt": "2026-10-19T12:30:08+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-8a5bbea3d5273e7fa87d",
+      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+      "summary": "Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil. See how this project restores land and ranching.",
+      "publishedAt": "2026-10-19T12:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "amazon-press-archive-dad2a7b8f8d0e1ba47ba",
+      "title": "Sezon zakupów na Amazon.pl: polskie marki szykują się miesiącami, bo w szczycie sprzedają kilka razy więcej",
+      "link": "https://press.aboutamazon.com/pl/wiadomosci/sprzedaz-na-amazon/2026/10/sezon-zakupow-na-amazon-pl-polskie-marki-szykuja-sie-miesiacami-bo-w-szczycie-sprzedaja-kilka-razy-wiecej",
+      "summary": "Wielkie Okazje Prime (6–7 października) otworzyły najgorętszy okres w roku dla polskich sprzedawców na Amazon.pl. NEONAIL przygotowuje zapas na kilka miesięcy do przodu. e-wicker24 już od stycznia tego roku planuje produkcję na jego końcówkę. NEO TOOLS zwiększył sprzedaż na Amazon.pl o 153 proc.…",
+      "publishedAt": "2026-10-19T08:06:02.334000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-93ab7099f1af23e07762",
+      "title": "Shop top deals from Amazon’s 2026 Holiday Beauty Event",
+      "link": "https://www.aboutamazon.com/news/retail/amazon-holiday-beauty-event-2026?utm_source=rss",
+      "summary": "The two-week event runs through November 1, with deals up to 30% off across beauty categories.",
+      "publishedAt": "2026-10-19T07:13:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-3e1bb6f4d90247655c88",
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
@@ -170,30 +242,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-fb9b71b9aeee89562a94",
-      "title": "How we're helping the world prepare for natural disasters",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
-      "summary": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
-      "publishedAt": "2026-10-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-c08dc5794b018e368be6",
-      "title": "Android earthquake alerts now available in more than 200 regions",
-      "link": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
-      "summary": "Android earthquake alerts are now available in more than 200 countries and regions.",
-      "publishedAt": "2026-10-15T16:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-9c2c9f923050a8407dfb",
       "title": "400 publications are now partnering with us on our News AI pilot program.",
       "link": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
@@ -210,6 +258,30 @@
       "title": "More ways to connect with the web from Search",
       "link": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
       "summary": "We’re updating AI Mode and AI Overviews to include clearer links, context about sources, and more.",
+      "publishedAt": "2026-10-15T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-fb9b71b9aeee89562a94",
+      "title": "How we're helping the world prepare for natural disasters",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+      "summary": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
+      "publishedAt": "2026-10-15T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-c08dc5794b018e368be6",
+      "title": "Android earthquake alerts now available in more than 200 regions",
+      "link": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+      "summary": "Android earthquake alerts are now available in more than 200 countries and regions.",
       "publishedAt": "2026-10-15T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -446,18 +518,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-93ab7099f1af23e07762",
-      "title": "Amazon’s Holiday Beauty Event is back for its sixth year—score up to 30% off across beauty categories",
-      "link": "https://www.aboutamazon.com/news/retail/amazon-holiday-beauty-event-2026?utm_source=rss",
-      "summary": "Shop thousands of deals across everyday favorites and prestige brands like Armani, Dyson, Tarte, Clinique, and ELEMIS Skincare, along with a wide selection of exclusive gift sets and rotating 48-hour flash deals.",
-      "publishedAt": "2026-10-14T13:00:05+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-4e181c171390031be981",
       "title": "Check out this year’s buzziest Halloween trends.",
       "link": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
@@ -518,18 +578,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-45457a9fbb94c90033c1",
-      "title": "Enabling an AI-first European economy",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/",
-      "summary": "Announcing Google’s European Economic Impact Report",
-      "publishedAt": "2026-10-14T07:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "nvidia-newsroom-eee6cc87fc10c5839674",
       "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
       "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
@@ -583,18 +631,6 @@
       "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
       "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
       "publishedAt": "2026-10-13T17:58:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-5735f340943ef9a3b222",
-      "title": "How Amazon supported communities impacted by the Colombia earthquake",
-      "link": "https://www.aboutamazon.com/news/community/colombia-earthquake-amazon-disaster-relief?utm_source=rss",
-      "summary": "Amazon donated emergency supplies, rallied over 150 volunteers, and partnered with five organizations to support earthquake recovery.",
-      "publishedAt": "2026-10-13T16:28:00+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -758,30 +794,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-a6f9891ec622700c6e8a",
-      "title": "Watch the teaser trailer for ‘Bloodaxe,’ the epic Viking drama coming to Prime Video January 20, 2027",
-      "link": "https://www.aboutamazon.com/news/entertainment/bloodaxe-vikings-prime-video?utm_source=rss",
-      "summary": "The highly anticipated new series, which has been renewed for Season 2, is helmed by Michael Hirst (creator of ‘Vikings’) and Horatio Hirst.",
-      "publishedAt": "2026-10-09T18:15:34+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-496325708f383d3173ce",
-      "title": "'Love Me Love Me 3,' the next sequel in the hit romantic drama series, coming to Prime Video",
-      "link": "https://www.aboutamazon.com/news/entertainment/love-me-love-me-3-prime-video?utm_source=rss",
-      "summary": "The third film will continue the young adult saga based on Stefania S.'s international best-selling novels.",
-      "publishedAt": "2026-10-09T13:56:06+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-e32c5991cdc4d0e98e63",
       "title": "AWS Announces Golden Age of Science Accelerator, Commits Up to $50 Million in Cloud Credits to Support White House Expansion of Genesis Mission",
       "link": "https://press.aboutamazon.com/aws/2026/10/aws-announces-golden-age-of-science-accelerator-commits-up-to-50-million-in-cloud-credits-to-support-white-house-expansion-of-genesis-mission",
@@ -794,21 +806,9 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-2e461f2ac6e5c44a50c2",
-      "title": "2026/10/08 TSMC September 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3343",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-09fbd8a716bb51243c0d",
-      "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
+      "id": "coinbase-blog-1c50411fc2e22bad3237",
+      "title": "Part 3/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMjJCOGhqSV8zUnJQODg5a1NmMTdldmRkNjJ1bFFtcFcwOW1jYUpjY0VmVzFWdFVTTzNiLXJJZXB1YWVTeS1XZHBwWG1GZG1yTU05a1dTSWZ2WGFId0JwUmRsSVc3VXFNejBSN1ZKOHc1SVBTV0E?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-08T07:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -818,11 +818,11 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-1c50411fc2e22bad3237",
-      "title": "Part 3/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMjJCOGhqSV8zUnJQODg5a1NmMTdldmRkNjJ1bFFtcFcwOW1jYUpjY0VmVzFWdFVTTzNiLXJJZXB1YWVTeS1XZHBwWG1GZG1yTU05a1dTSWZ2WGFId0JwUmRsSVc3VXFNejBSN1ZKOHc1SVBTV0E?oc=5",
+      "id": "coinbase-blog-09fbd8a716bb51243c0d",
+      "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "publishedAt": "2026-10-08T07:00:00+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -1142,18 +1142,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-8a5be9073fa768462d2a",
-      "title": "LSEG Risk Intelligence launches Active Intelligence: World-Check data that learns from every signal",
-      "link": "https://press.aboutamazon.com/aws/2026/9/lseg-risk-intelligence-launches-active-intelligence-world-check-data-that-learns-from-every-signal",
-      "summary": "Active Intelligence, built on Amazon Bedrock, is the new data engine behind World-Check: brings richer, more current and continuously enhanced dataGreater efficiency with more evidence, not less: analysts see why a match surfaced, and customers retain control of every final risk decisionWorld-Check…",
-      "publishedAt": "2026-09-29T14:01:10.439000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-300c7fe45a34adc3513a",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1hoNHlwNzBmMUY2bzY4dWhwS3VGNmNxQURZOGZvZDJBclQ0eTJOX0c5MklEc2JJUXQycTdYNmU0enpfeGl5RXhLU3VNMjBpVXh1NVpXSTQ4c3hENDZtYjlZTjNfQk9rZm9qdS1NSTQxUTFpT0RJblpPNUF4eVVVelBXZ0MyWmdjdkhFUnhDQklINHVpcENCY1Buam11UjJPU1hKRzJyVFBIZU1uQW4tbWVTUmU0WEh4WHZMOQ?oc=5",
@@ -1418,6 +1406,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "tsmc-news-4a5d4341e3e395195c28",
       "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
       "link": "https://pr.tsmc.com/english/news/3338",
@@ -1507,18 +1507,6 @@
       "link": "https://www.marqeta.com/blog/your-platform-has-a-revenue-leak-you-havent-noticed-yet",
       "summary": "B2B SaaS platforms can diversify revenue with payments by embedding card issuing and capturing interchange fees on transactions already flowing through",
       "publishedAt": "2026-08-26T00:00:00+00:00",
-      "sourceId": "marqeta-blog",
-      "sourceName": "Marqeta Blog",
-      "company": "Marqeta",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "marqeta-blog-d992f2d9c8d768337eca",
-      "title": "Credit Commercial The cost of keeping business credit simple Article",
-      "link": "https://www.marqeta.com/blog/the-cost-of-keeping-business-credit-simple",
-      "summary": "52% of SMBs pay their credit card in full, monthly. That looks like responsible financial behavior. But it means they are not using credit as a tool.",
-      "publishedAt": "2026-08-21T00:00:00+00:00",
       "sourceId": "marqeta-blog",
       "sourceName": "Marqeta Blog",
       "company": "Marqeta",
@@ -1874,6 +1862,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
@@ -2184,6 +2184,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "block-investor-news-b7aad5c939878451dc5c",
+      "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-28T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "circle-pressroom-b6aa8d3ea5c0ee99150d",
@@ -2678,6 +2690,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-e13e97f1c36dab78d9f1",
+      "title": "Square Financial Services, Inc. Launches 25 Squared Grant Initiative to Drive Community Development in Utah",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUC01cFVvUk5lV2loM1pFd0NGNHVaUU9HQ0RkNzNTQmxKbVFBa2l4RmNYV3hYdFBucEtlRWVCQ3RsLW8xaVZJSERCWU1WQUlvZzVNY21PRXFzRHR0ZVBDWWRVV0JZTWpxMlpCRzJVNDVBdC1xSzIycm5pWlZaVkR0QlAwYnltSFlFal9mcHBSNGVhSlpfUnA4LV9oZlF5NzRzYnRMTkVKZk1LMnlFcDNvRWtKSVdlb09oTE9QaG9XV0x2aGVDeHM0VjZmX0I2NnNCakRPV3pNS0FRVGRiLU1yT3NfaU9fWHlIREgtQWJhb09sUkNwZm55RDRRamw2aUV0alhvcDE2RDdzQkE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-24T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "dlocal-blog-8357fec8a7f961d6724e",
       "title": "Stablecoins: a bridge for global businesses operating in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/stablecoins-a-bridge-for-global-businesses-operating-in-emerging-markets/",
@@ -2786,18 +2810,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-c0b9058e955cdd2a814c",
-      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-18T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-af5fc8626d18fe674c35",
       "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
@@ -2868,18 +2880,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
+      "itemCount": 8,
       "message": "OK via official fallback RSS"
     },
     {
