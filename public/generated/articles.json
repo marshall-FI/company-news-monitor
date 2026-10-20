@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-20T10:07:07.963673+00:00",
+  "generatedAt": "2026-10-20T15:08:48.571238+00:00",
   "articles": [
+    {
+      "id": "google-blog-aaace91e46634af67900",
+      "title": "Expanding our defenses against financial scam ads",
+      "link": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+      "summary": "We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.",
+      "publishedAt": "2026-10-20T15:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "about-amazon-02934c8d40be4fc3367a",
+      "title": "Amazon is creating over 300,000 new US jobs this holiday season with increased pay and expanded benefits",
+      "link": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare?utm_source=rss",
+      "summary": "Amazon offers industry-leading benefits based on role and tenure, and starting January 1, 2027, eligible seasonal employees will have access to healthcare coverage from their first day on the job.",
+      "publishedAt": "2026-10-20T12:30:09+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "amazon-press-archive-fa1aa3548d249161802b",
       "title": "„Invest in Germany Summit“: Amazon kündigt 16 Milliarden Euro Investitionen für 2027 in Deutschland an",
@@ -48,6 +72,18 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-78aa93c81d1c4febaee4",
+      "title": "The Always-On Dollar: Money for an Economy that Doesn’t Close",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYndndzhJREFpMTJySi1SWnFhcnVUaVVRRVA4aC1ublNhNlFQcmxmb25ZZHNZTUpqempIU1NQY0pNRlNqNVBYUXhFUmFIUHVGZGY3ZnJiRHBMZm9oejZtVTB2OEt0VVpPNHB0LW9RbjZDamFneUx3bXFwSUdxc1pQaG1NT05XN3RkbTctWWVmOXNqaVE?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "nvidia-newsroom-64133903258a4e471984",
@@ -149,7 +185,7 @@
       "id": "about-amazon-61a65ef0d501d77043e7",
       "title": "Watch the trailer for ‘Drive – The Pretenders,’ coming to Prime Video October 28",
       "link": "https://www.aboutamazon.com/news/entertainment/drive-the-pretenders-prime-video?utm_source=rss",
-      "summary": "The movie, inspired by the hit novel 'Drive,' follows a mechanic who fakes an engagement to a scandalous racing star—with a passion that could destroy them both.",
+      "summary": "The romantic movie, inspired by the hit novel 'Drive,' follows a mechanic who fakes an engagement to a scandalous racing star—with a passion that could destroy them both.",
       "publishedAt": "2026-10-19T13:00:24+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
@@ -518,6 +554,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "google-blog-dcaabf5e08f6a89425c2",
+      "title": "An intelligent new shopping cart",
+      "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+      "summary": "Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
       "id": "google-blog-7d0ed3cb5cb4581ac2aa",
       "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
@@ -534,18 +582,6 @@
       "title": "Data-backed secrets to smarter holiday shopping",
       "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
       "summary": "Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.",
-      "publishedAt": "2026-10-15T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "google-blog-dcaabf5e08f6a89425c2",
-      "title": "An intelligent new shopping cart",
-      "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-      "summary": "Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.",
       "publishedAt": "2026-10-15T13:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -674,18 +710,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-be6c37dce88bdd992500",
-      "title": "Guide your campaign spending with new priority and allocation features",
-      "link": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-      "summary": "New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated",
-      "publishedAt": "2026-10-14T15:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-85908c5545129a1277af",
       "title": "Whole Foods Market Reveals Its Top Food and Beverage Trend Predictions for 2027",
       "link": "https://press.aboutamazon.com/2026/10/whole-foods-market-reveals-its-top-food-and-beverage-trend-predictions-for-2027",
@@ -696,18 +720,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "about-amazon-61c40ce5f72ac63e41db",
-      "title": "How Amazon’s $100 million Right Now Climate Fund is protecting and restoring nature around the world",
-      "link": "https://www.aboutamazon.com/news/sustainability/right-now-climate-fund?utm_source=rss",
-      "summary": "Get the latest on how the fund is investing in nature-based climate projects across more than 15 countries.",
-      "publishedAt": "2026-10-14T08:04:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-eee6cc87fc10c5839674",
@@ -1459,18 +1471,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnBDdjh6eE8wa1pLNVNKWGhhSmxfam5Qa3djYlludmhibjNfMzVfSEFrcG40OWVTTkFOU3FDM1JyMURiUU82QzJwY29FbUpJY0owTVUwNVFlYlFVWjNZZGJQa3laaENjeUI5R21lOGNKUjB1WUpDR2JnTmNQeldsZzFZOGNMd3pubEIxQ2ZuQXhjS194WmRNR2tZRk00V2JDbHlDYXZnekNHcW0wTmhqR0FnaXZ2UUVKd3M1ejI5cGxrd1ZrS1ZlMGloZWZhNEZNTnhhNWFMUW51anNhZXZOY2lIV285YnFaWFBV?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-10T13:39:38+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-493e33e2519a3f399c08",
-      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
@@ -2426,18 +2426,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-723efe929590bb13d10c",
-      "title": "State of Crypto Q4 2025: Younger investors are rewriting the investing playbook",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNUTlCRHYwem03dy1DTk0wYmxuNjNjdVNLZnBuMElYOFAyQW82SzZaOUJLamhxdjkzNkpUUVgwTVhRUEx2NWszSjBpYm9rR1VRV3NzbTROdGF6YWlXdVhXRWdRMA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-12-16T08:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-96838278262a996b466b",
       "title": "How global merchants can simplify Buy Now, Pay Later (BNPL) integrations in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
@@ -2767,6 +2755,18 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2025-06-25T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-c0b9058e955cdd2a814c",
+      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-18T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
