@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-20T15:08:48.571238+00:00",
+  "generatedAt": "2026-10-20T19:20:07.296435+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-57f4aeeea1dbe1cecf11",
+      "title": "Amazon Creates Over 300,000 New U.S. Jobs This Holiday Season with Increased Pay and Expanded Benefits",
+      "link": "https://press.aboutamazon.com/2026/10/amazon-creates-over-300-000-new-u-s-jobs-this-holiday-season-with-increased-pay-and-expanded-benefits",
+      "summary": "Starting January 1, 2027, eligible seasonal employees will have access to healthcare coverage from their first day on the job",
+      "publishedAt": "2026-10-20T18:31:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "coinbase-blog-25e8ecea02d86c9145c8",
+      "title": "See our cookie policy for more information on how we process your personal data. To customize your settings,",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnpwZ0xLMktRd3gzRGlMb3hjUW1pVVV4VXFUSDcweXdoR3lXUEtkbURiS3F5cWk5dV9lSTBwdnoxdXJQZHFWeXdhNUJlem9PaXNQRk1jUGNVbDFkcm1ldnpxbF9HcGlIVUNvX2VnUVgydHZXU1hkZHk4NURybVJEYVVlNm01cTVZaVVsXzlPRQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-20T16:08:34+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "google-blog-2508ace600ddfdfca14d",
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+      "summary": "AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.",
+      "publishedAt": "2026-10-20T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-bdc0c47bb06abc625d61",
+      "title": "New Gemini tools for small business owners",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "summary": "We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
+      "publishedAt": "2026-10-20T16:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-aaace91e46634af67900",
       "title": "Expanding our defenses against financial scam ads",
@@ -446,10 +494,10 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-fb9b71b9aeee89562a94",
-      "title": "How we're helping the world prepare for natural disasters",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
-      "summary": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
+      "id": "google-blog-c08dc5794b018e368be6",
+      "title": "Android earthquake alerts now available in more than 200 regions",
+      "link": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+      "summary": "Android earthquake alerts are now available in more than 200 countries and regions.",
       "publishedAt": "2026-10-15T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -458,10 +506,10 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-c08dc5794b018e368be6",
-      "title": "Android earthquake alerts now available in more than 200 regions",
-      "link": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
-      "summary": "Android earthquake alerts are now available in more than 200 countries and regions.",
+      "id": "google-blog-fb9b71b9aeee89562a94",
+      "title": "How we're helping the world prepare for natural disasters",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+      "summary": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
       "publishedAt": "2026-10-15T16:00:00+00:00",
       "sourceId": "google-blog",
       "sourceName": "Google Blog",
@@ -566,18 +614,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "google-blog-7d0ed3cb5cb4581ac2aa",
-      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
-      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
-      "publishedAt": "2026-10-15T13:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-67ffc0a982f5d23d65bf",
       "title": "Data-backed secrets to smarter holiday shopping",
       "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
@@ -590,16 +626,16 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-0cbf22968caba1cf9fa5",
-      "title": "TSMC Reports Third Quarter EPS of NT$29.43|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53WTNKZC1rRTNpMk5IYXZOU2J1REhGZXdqNkduVDg2YVJvSHRVdHAxWlJGSldYTmJDVlZEeXhFaU9EU1V0T21fSzJYQ3NsUQ?oc=5",
+      "id": "tsmc-news-1ed9b044db2b667b75ed",
+      "title": "2026/10/15 TSMC Reports Third Quarter EPS of NT$29.43",
+      "link": "https://pr.tsmc.com/english/news/3346",
       "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
       "publishedAt": "2026-10-15T12:00:00+00:00",
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
+      "sourceKind": "html"
     },
     {
       "id": "about-amazon-e834aee9b5d6c8f07cd9",
@@ -672,18 +708,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "google-blog-e2d194ea6676ff63d9ca",
-      "title": "Research@ 2026: Novel capabilities and intelligence",
-      "link": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
-      "summary": "We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.",
-      "publishedAt": "2026-10-14T16:15:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "nvidia-newsroom-e43508c4c22acdd3becf",
@@ -914,18 +938,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-08e150ffd16729f7cf22",
-      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T07:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-0e2417c5544e0ddbf8f8",
       "title": "Marqeta Recognized in Juniper Research's 2026 Embedded Finance Leaderboard Article",
       "link": "https://www.marqeta.com/blog/marqeta-recognized-in-juniper-research-2026-embedded-finance-leaderboard",
@@ -960,18 +972,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "robinhood-blog-f0834c0f4dba06bfc0d3",
-      "title": "A Look Back on HOOD Summit: Engines of Creation",
-      "link": "https://robinhood.com/us/en/newsroom/a-look-backon-hood-summit-engines-of-creation",
-      "summary": "This year’s HOOD Summit was Robinhood's biggest event yet, drawing a record 1,500+ in-person attendees, 46+ million livestreams, and two action-packed days of content with 40+ sessions from 60+ speakers.",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-7130fc62ca777403ee6b",
@@ -1154,18 +1154,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "robinhood-blog-79348e3e5d96b18f32da",
-      "title": "Robinhood Ventures Fund II (RVII) Invests More than $15 Million in Y Combinator Summer 2026 Batch (YC S26)",
-      "link": "https://robinhood.com/us/en/newsroom/rvii-yc-s26",
-      "summary": "Robinhood Ventures Fund II (NYSE: RVII) announced approximately $15.75 million in new investments across 46 companies from Y Combinator's Summer 2026 (YC S26) batch with individual investments ranging from $100,000 to $600,000 per company.",
-      "publishedAt": "2026-10-01T05:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-05f6870c82edd529eb4d",
       "title": "Announcement The foundation the world's leading payment programs are built on Article",
       "link": "https://www.marqeta.com/blog/the-foundation-the-worlds-leading-payment-programs-are-built-on",
@@ -1202,18 +1190,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "amazon-press-archive-083f12333f3b8f8bf273",
-      "title": "Amazon Ads presenta Amazon Ads Agent, su nueva solución publicitaria unificada impulsada por IA agéntica",
-      "link": "https://press.aboutamazon.com/es/news/advertising/2026/9/amazon-ads-presenta-amazon-ads-agent",
-      "summary": "29/09/2026 | Madrid Amazon Ads ha presentado Amazon Ads Agent en su última edición del evento unBoxed 2026. Esta nueva solución integra Amazon DSP y la consola publicitaria en una única experiencia. Además, incorpora un asistente conversacional de IA que permite crear y optimizar campañas a escala, definir audiencias y",
-      "publishedAt": "2026-09-29T15:57:12.808000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-300c7fe45a34adc3513a",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1hoNHlwNzBmMUY2bzY4dWhwS3VGNmNxQURZOGZvZDJBclQ0eTJOX0c5MklEc2JJUXQycTdYNmU0enpfeGl5RXhLU3VNMjBpVXh1NVpXSTQ4c3hENDZtYjlZTjNfQk9rZm9qdS1NSTQxUTFpT0RJblpPNUF4eVVVelBXZ0MyWmdjdkhFUnhDQklINHVpcENCY1Buam11UjJPU1hKRzJyVFBIZU1uQW4tbWVTUmU0WEh4WHZMOQ?oc=5",
@@ -1248,18 +1224,6 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "robinhood-blog-319cbecc684ea72a0ed9",
-      "title": "Robinhood Puts the Power of Hedge Funds in Every Trader's Pocket",
-      "link": "https://robinhood.com/us/en/newsroom/hood-summit-2026",
-      "summary": "Tonight, live from HOOD Summit 2026 at the George R. Brown Convention Center in Houston, we unveiled our most ambitious lineup of active trading products yet.",
-      "publishedAt": "2026-09-29T05:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-344cdaa5e860bea9e9ed",
@@ -1394,18 +1358,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "robinhood-blog-0f91bbb34cc4af0f1796",
-      "title": "Robinhood Ventures Fund I (RVI) Invests $25M in Crusoe",
-      "link": "https://robinhood.com/us/en/newsroom/rvi-crusoe",
-      "summary": "Today, Robinhood Ventures Fund I (NYSE: RVI) announced it purchased approximately $25M of Preferred Stock in Crusoe as part of the company’s $3.9 billion Series F financing round, which values the company at $30.9 billion.",
-      "publishedAt": "2026-09-17T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-c3d97aa56d2a48ddda2a",
       "title": "Risk & fraud Financial Services Disputes and chargebacks explained: What it takes to manage them at scale Article",
       "link": "https://www.marqeta.com/blog/disputes-and-chargebacks-explained-what-it-takes-to-manage-them-at-scale",
@@ -1478,15 +1430,27 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "robinhood-blog-8ebc7ce55cc2a937891a",
-      "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
-      "summary": "Robinhood is teaming up with Crypto.com to begin routing a selection of event contracts to its CFTC-regulated exchange and clearinghouse in time for the start of the Pro Football season.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-4a5d4341e3e395195c28",
+      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "link": "https://pr.tsmc.com/english/news/3338",
+      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1622,18 +1586,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "robinhood-blog-0f6d9cadff9fb2a4ed22",
-      "title": "Robinhood Ventures Fund II (RVII) Announces Pricing of Initial Public Offering",
-      "link": "https://robinhood.com/us/en/newsroom/rvii-final-pricing",
-      "summary": "Today, Robinhood Ventures Fund II (RVII) announced the pricing of its initial public offering of 8,000,000 common shares of beneficial interest at an initial public offering price of $25.00 per share.",
-      "publishedAt": "2026-08-13T04:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "paypal-newsroom-cccfa8c5c952c9483c9d",
       "title": "PayPal World Enables US Travelers to Pay Like a Local at Weixin Pay Merchants Across China",
       "link": "https://newsroom.paypal-corp.com/2026-08-11-PayPal-World-Enables-US-Travelers-to-Pay-Like-a-Local-at-Weixin-Pay-Merchants-Across-China",
@@ -1646,39 +1598,27 @@
       "sourceKind": "rss"
     },
     {
-      "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
-      "title": "Robinhood Presents: HOOD Summit ‘26 - Engines of Creation",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation",
-      "summary": "On Sept 29 and 30, we're heading to Houston for our third annual HOOD Summit, which is shaping up to be our biggest event yet. HOOD Summit: Engines of Creation will be livestreamed over two days, during which we'll announce the latest products",
-      "publishedAt": "2026-08-10T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
+      "id": "tsmc-news-d7f2b331ed28a994cc6b",
+      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "link": "https://pr.tsmc.com/english/news/3333",
+      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
-      "id": "robinhood-blog-f0f534e7989f6eb3e839",
-      "title": "Robinhood Launches Crypto Trading for UK Investors",
-      "link": "https://robinhood.com/us/en/newsroom/introducingukcryptotrading",
-      "summary": "Robinhood Blog published an update for Robinhood relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "robinhood-blog-69481b85904044fc673c",
-      "title": "Robinhood Ventures Fund I (RVI) Invests $30 Million in Whatnot",
-      "link": "https://robinhood.com/us/en/newsroom/RVI-Whatnot",
-      "summary": "Robinhood Ventures Fund I (NYSE: RVI) announced it has purchased approximately $30 million of Preferred Stock in Whatnot as part of the company's $545 million Series G financing round, valuing the company at $20 billion.",
-      "publishedAt": "2026-08-07T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
+      "id": "tsmc-news-b460603e59d7512c7373",
+      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
+      "link": "https://pr.tsmc.com/english/news/3332",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1826,6 +1766,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1862,6 +1814,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "robinhood-blog-b0446ecad3a45c8a947a",
+      "title": "Trump Accounts Officially Launch",
+      "link": "https://robinhood.com/us/en/newsroom/trump-accounts-officially-launch",
+      "summary": "Trump Accounts have officially launched, a historic step towards building long-term financial security for the next generation of Americans.",
+      "publishedAt": "2026-07-06T04:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-75192036b7133c452e69",
       "title": "Pix and UPI : the same real-time payment universe, 14,000 km apart",
       "link": "https://www.dlocal.com/blog/paymentpedia/pix-and-upi-the-same-real-time-payment-universe-14000-km-apart/",
@@ -1870,6 +1834,18 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "robinhood-blog-422052f0adb9172aac1d",
+      "title": "Robinhood Accelerates Global Expansion with Robinhood Chain Mainnet, Stock Tokens, Agentic Trading and New Suite of DeFi Products",
+      "link": "https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading",
+      "summary": "From London, Robinhood unveils new plans to expand global ownership through an extensive suite of decentralized finance and agentic products.",
+      "publishedAt": "2026-07-01T18:45:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1898,6 +1874,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "robinhood-blog-bdfacc8c581c97bf42e3",
+      "title": "Robinhood Ventures Fund I (RVI) Invests $25M in Canva",
+      "link": "https://robinhood.com/us/en/newsroom/rvi-canva",
+      "summary": "Robinhood Ventures Fund I announced it has closed an investment in Canva. On June 24, 2026 RVI purchased approximately $25 million of Class A Common Stock of Canva.",
+      "publishedAt": "2026-06-25T07:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-4c3da7e2f08947e60227",
       "title": "Upstart Announces Agreement with Neuberger Specialty Finance for Investment in up to $600M of Consumer Loans",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-agreement-neuberger-specialty-finance",
@@ -1922,6 +1910,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "robinhood-blog-47f546177b4153ec6af6",
+      "title": "The World Cup is Now Trading on Robinhood and Rothera",
+      "link": "https://robinhood.com/us/en/newsroom/the-world-cup-is-now-trading-on-robinhood-and-rothera",
+      "summary": "We’ve lowered the cost to trade prediction markets on Robinhood, and are now routing event contracts to Rothera, a new affiliate exchange With a record 48 teams playing in more than 100 matches across North America this summer, the 2026 World Cup",
+      "publishedAt": "2026-06-04T07:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-c81acb168b52e388eeb4",
       "title": "Upstart Publishes May 2026 Origination Volume",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-origination-volume",
@@ -1930,6 +1930,30 @@
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "robinhood-blog-736413882dd7fdeced0d",
+      "title": "Robinhood and TradePMR Unveil the Future of Wealth Management at SYNERGY26",
+      "link": "https://robinhood.com/us/en/newsroom/robinhood-tradepmr-synergy26",
+      "summary": "Robinhood and TradePMR unveil the Advisor Network, AI-powered Cortex tools, and Advisor IPO access at the SYNERGY26 conference.",
+      "publishedAt": "2026-06-03T04:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "robinhood-blog-d32107d80331aa1742ab",
+      "title": "Robinhood Presents: The World is Flat",
+      "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-the-world-is-flat",
+      "summary": "Robinhood will transport you back to the days of exploration.",
+      "publishedAt": "2026-06-02T13:30:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
     },
@@ -1958,6 +1982,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "robinhood-blog-31e67b98670b258e5f18",
+      "title": "Introducing the Trump Accounts App: A Stronger Financial Future for Every Child",
+      "link": "https://robinhood.com/us/en/newsroom/introducing-the-trump-accounts-app",
+      "summary": "Elect to open a Trump Account and start investing for your child’s future. Eligible children born in years 2025 through 2028 can receive a $1,000 initial contribution from the U.S. Department of the Treasury.",
+      "publishedAt": "2026-05-28T04:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "upstart-press-672e1f1b5a283f4df5b5",
       "title": "Community Choice Credit Union Selects Upstart for Personal Lending",
       "link": "https://ir.upstart.com/news-releases/news-release-details/community-choice-credit-union-selects-upstart-personal-lending",
@@ -1980,6 +2016,18 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "robinhood-blog-9fbb492714d8a04c494e",
+      "title": "Robinhood is Now Open to Agents",
+      "link": "https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents",
+      "summary": "Today, we're launching Agentic Trading and the Agentic Credit Card, enabling AI agents to trade and make credit card purchases on your behalf.",
+      "publishedAt": "2026-05-27T07:00:00+00:00",
+      "sourceId": "robinhood-blog",
+      "sourceName": "Robinhood Blog",
+      "company": "Robinhood",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "shift4-news-3467846013eb2e4f3850",
@@ -2438,6 +2486,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2820,66 +2880,6 @@
       "company": "Block",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "dave-press-e6d46e6b0aa4c4ed3909",
-      "title": "Dave Reports First Quarter 2025 Financial Results",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2NvcjdONlVpck04cXhXU0MzZ1lqanRyZXFwdjBkVGs0QnJSeGdhdmZaX01JaEowVC1NeHRyVER4RzBXUkdBQ2hWcXBIb3BNSmRhNzRMNXVyWGR0VW5ad2FydDNFQlhVWW9fdGRRVFRWU3RwcmRUTUNmWkZ6NlA2MmJyTllzNmFvY3I4Z21ueldnS2FPM1hPLXdLUG9lTkNIeEJKVG1zaUxlQk0?oc=5",
-      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-15T21:03:21+00:00",
-      "sourceId": "dave-press",
-      "sourceName": "Dave Press",
-      "company": "Dave",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "wise-newsroom-3aed8c2dde6ade06a126",
-      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
-      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
-      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
-      "publishedAt": "2025-05-12T13:00:00+00:00",
-      "sourceId": "wise-newsroom",
-      "sourceName": "Wise Newsroom",
-      "company": "Wise",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-f1edeecf1136f3bc7b45",
-      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-05-01T12:52:42+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "affirm-news-2cfc6b1ebba8ebbd8972",
-      "title": "Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBudURRSlp1SEZWRkdVWHFkMkdIQWdhc1VwTHJyNDJDV3hzWWFuNzFGbjh1UHlTWExTMko1MFJWenp3c2t2WjZ2b21LdEE5QVV6a0lucDViYUc2ckx2MXc?oc=5",
-      "summary": "Affirm News published an update for Affirm relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-04-11T19:35:13+00:00",
-      "sourceId": "affirm-news",
-      "sourceName": "Affirm News",
-      "company": "Affirm",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "datadog-investor-news-55b845c9f597e22ce6b6",
-      "title": "Datadog Adds to Its Google Cloud Observability Capabilities with Expanded BigQuery Monitoring",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQV9URnVRV0lnaU5QMVhWLWNEUGczYkpHRjhHTkhfb0ViTUh4enFLc3ZzSU1LZmZTLVdPQTVGLTJ5anowMlJCNURpMXBFSUxNRk1wak9nMzlMTlhoY3ZrVUx4Z1RSWVE4bGdkQ3dUTi1TejJUNlhqeXVxc1pEZUw1SUxxRWs3SzJ4djdDMThPS2NqZjNXalpGMWp6d2dzUmRJdXlKMHVRTC1yQUhpaE9CenFkbndOcVlfd2Q0MkFTQTM1dw?oc=5",
-      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2025-04-09T07:00:00+00:00",
-      "sourceId": "datadog-investor-news",
-      "sourceName": "Datadog Investor News",
-      "company": "Datadog",
-      "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -2979,7 +2979,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 9,
+      "itemCount": 8,
       "message": "OK"
     },
     {
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ],
   "sourceCount": 28,
