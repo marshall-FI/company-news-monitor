@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-10-20T04:53:00.795390+00:00",
+  "generatedAt": "2026-10-20T10:07:07.963673+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-fa1aa3548d249161802b",
+      "title": "„Invest in Germany Summit“: Amazon kündigt 16 Milliarden Euro Investitionen für 2027 in Deutschland an",
+      "link": "https://press.aboutamazon.com/de/2026/10/invest-in-germany-summit-amazon-kuendigt-16-milliarden-euro-investitionen-fuer-2027-in-deutschland-an",
+      "summary": "Die neuen Investitionen in Deutschland umfassen Rechenzentrums- und KI-Infrastruktur, Satelliteninternet über Amazon Leo, den Ausbau der Logistik, neue Inhalte von Prime Video und weitere Bereiche.Als Deutschlands führender gewerblicher Abnehmer von CO₂-freier Energie baut Amazon sein Engagement…",
+      "publishedAt": "2026-10-20T09:40:46.089000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "amazon-press-archive-2e593024805107a46b6b",
+      "title": "“Invest in Germany Summit”: Amazon Announces 16 Billion Euro Investment in Germany in 2027",
+      "link": "https://press.aboutamazon.com/de/2026/10/invest-in-germany-summit-amazon-announces-16-billion-euro-investment-in-germany-in-2027",
+      "summary": "In-country investments include data center and AI infrastructure, satellite connectivity through Amazon Leo, logistics expansion, new Prime Video content and more.Amazon, Germany's largest corporate purchaser of carbon-free energy, is also deepening its commitment to more sustainable…",
+      "publishedAt": "2026-10-20T09:39:55.551000+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-a57c41d1ed80cf53e909",
+      "title": "Amazon announces plan to invest €16 billion in Germany in 2027",
+      "link": "https://www.aboutamazon.com/company-news/amazon-germany-investment?utm_source=rss",
+      "summary": "Since 2010, Amazon has invested over €100 billion in Germany, underscoring the country as one of the most important to Amazon worldwide.",
+      "publishedAt": "2026-10-20T09:04:23+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "shopify-pressroom-89fa0892aab38a2a71c1",
+      "title": "In the age of convenience, experience is the brand",
+      "link": "https://www.shopify.com/news/experience-is-the-brand",
+      "summary": "Agentic commerce will put your products everywhere. Shopify’s Director of Product for Retail on what it means for the store experience.",
+      "publishedAt": "2026-10-20T08:49:44+00:00",
+      "sourceId": "shopify-pressroom",
+      "sourceName": "Shopify Pressroom",
+      "company": "Shopify",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "nvidia-newsroom-64133903258a4e471984",
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+      "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program f",
+      "publishedAt": "2026-10-20T05:00:00+00:00",
+      "sourceId": "nvidia-newsroom",
+      "sourceName": "NVIDIA Newsroom",
+      "company": "NVIDIA",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "google-blog-92f044b92b6a9da899b2",
       "title": "Partnering to strengthen the grid and support local communities in Arkansas",
@@ -698,18 +758,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "about-amazon-674996c75e34a9de4f2f",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
-      "summary": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "publishedAt": "2026-10-13T17:58:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "coinbase-blog-797a8045689319d5debd",
       "title": "Working Together on Bitcoin’s Post-Quantum Readiness",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUtjY3pOQ1hOS2FNc3pIRjJHOEw2VTJEODNFRmQ3emFuV0I1R0FmMlZLNGlSazRtRVVIWm13anI1Mm9pY0o3N2FiVzNxNW9tSWtVOFhoSWVfMXl3cXNldmdlcGs4RUVjaW1nNXhkenlSOE5UNm0wYnZXck5BXzVGUnhB?oc=5",
@@ -780,18 +828,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "nvidia-newsroom-8bb1da51925f69396745",
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
-      "publishedAt": "2026-10-13T12:00:49+00:00",
-      "sourceId": "nvidia-newsroom",
-      "sourceName": "NVIDIA Newsroom",
-      "company": "NVIDIA",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
     },
     {
       "id": "coinbase-blog-95e3f174b2a6193e2cf7",
@@ -1166,30 +1202,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "amazon-press-archive-78612e47ed640386e535",
-      "title": "Nasdaq Calypso Launches Agentic Capabilities to Scale AI Adoption Across the Trade Lifecycle",
-      "link": "https://press.aboutamazon.com/aws/2026/9/nasdaq-calypso-launches-framework-to-scale-ai-adoption-across-the-trade-lifecycle",
-      "summary": "Marks a major milestone in Nasdaq Calypso’s strategy to serve as the trusted orchestration layer connecting agents across capital market and treasury workflowsIntroduces agentic capabilities, including a natural language assistant to automate analysis of the platform’s system-of-record data",
-      "publishedAt": "2026-09-29T14:10:08.067000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "amazon-press-archive-60d6d32e7534af43bfb6",
-      "title": "Thought Machine partners with AWS on AI-powered solution to accelerate legacy banking migrations",
-      "link": "https://press.aboutamazon.com/aws/2026/9/thought-machine-partners-with-aws-on-ai-powered-solution-to-accelerate-legacy-banking-migrations",
-      "summary": "Thought Machine is the first core banking technology company to partner with AWS Transform’s modernisation agents to shift the industry focus from risky line-by-line code translation to automated business rule extraction.Thought Machine's Vault Forge powered by Amazon Bedrock reduces time and cost…",
-      "publishedAt": "2026-09-29T14:03:47.100000+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "sofi-press-300c7fe45a34adc3513a",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1hoNHlwNzBmMUY2bzY4dWhwS3VGNmNxQURZOGZvZDJBclQ0eTJOX0c5MklEc2JJUXQycTdYNmU0enpfeGl5RXhLU3VNMjBpVXh1NVpXSTQ4c3hENDZtYjlZTjNfQk9rZm9qdS1NSTQxUTFpT0RJblpPNUF4eVVVelBXZ0MyWmdjdkhFUnhDQklINHVpcENCY1Buam11UjJPU1hKRzJyVFBIZU1uQW4tbWVTUmU0WEh4WHZMOQ?oc=5",
@@ -1447,6 +1459,18 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnBDdjh6eE8wa1pLNVNKWGhhSmxfam5Qa3djYlludmhibjNfMzVfSEFrcG40OWVTTkFOU3FDM1JyMURiUU82QzJwY29FbUpJY0owTVUwNVFlYlFVWjNZZGJQa3laaENjeUI5R21lOGNKUjB1WUpDR2JnTmNQeldsZzFZOGNMd3pubEIxQ2ZuQXhjS194WmRNR2tZRk00V2JDbHlDYXZnekNHcW0wTmhqR0FnaXZ2UUVKd3M1ejI5cGxrd1ZrS1ZlMGloZWZhNEZNTnhhNWFMUW51anNhZXZOY2lIV285YnFaWFBV?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-09-10T13:39:38+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-493e33e2519a3f399c08",
+      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
@@ -1812,18 +1836,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "shopify-pressroom-45a99c80b9590ce0281d",
-      "title": "The preparedness paradox: Wait for “ready,” and it might never come",
-      "link": "https://www.shopify.com/news/preparedness-paradox",
-      "summary": "New data reveals the gap between feeling ready and actually starting, and what founders who crossed it want you to know.",
-      "publishedAt": "2026-07-13T13:57:32+00:00",
-      "sourceId": "shopify-pressroom",
-      "sourceName": "Shopify Pressroom",
-      "company": "Shopify",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -2762,18 +2774,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-c0b9058e955cdd2a814c",
-      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-18T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-af5fc8626d18fe674c35",
       "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 8,
+      "itemCount": 9,
       "message": "OK via official fallback RSS"
     },
     {
