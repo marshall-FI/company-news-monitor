@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:41:26.940983+00:00",
+  "generatedAt": "2026-10-21T22:24:28.454220+00:00",
   "articles": [
     {
       "id": "about-amazon-d4a65fd0c640309a4303",
@@ -55,6 +55,18 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWnB3blZ5MnNyWnNudFM0Q0JCVEt2VGhrakhDek04RWM3MmRuZkVJTGM5QWlrSHJJVEJ0OEg1RTEyTEtha2EtNjdYSl9PcHFVVzI0d0tjdWpkVGZIRDdmSFppMm5oNUxBQmptTVpJZVNobWVLXzU0M3NHb0NiS1pjM0IyanRkOEw4aGRicTFYQTN6Y3d0OUV3cXI2dE5ZTUhxM0ZSNUZveURoU2RHWW1fZDh5OGl0eTZxQ2F2S1VCSWNkZXFXa3VRT1V0d3BwbW0xalpBdEg4OFE2YmFFc1EwUkN2ZHBFLVMxR1NJbmliV2hIM2g0ZGE3ejFR?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-21T15:05:05+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-1e54e77f78cc386b93ec",
+      "title": "Klarna launches Consumer FX: shop from Klarna merchants worldwide, regardless of currency",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGpBWV9CT25qX0FIcG44ME5Ud1Zfd2YzLVo4WWlXdGZXWXdnQ004STlXUkJORFllV0t2dFNmNnoyNjRaZm1jbEdjRTQ2ZTNpMEppa196VkxNcGl5S3ZPamJFZEl0aXo3V3BRNE1YWEdrVnRoNk14OVhKclgwbTJFRzZSSm1QUlN2NUllZDhldC1tTnJHZnBUNFZYRGdjX2w2aWNfU29UYnBjSEVsdkkyUGg5V2hPaEdXc2FXd0VGZkFwendIVGNHWU5WUQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-21T14:19:18+00:00",
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
@@ -818,18 +830,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "chime-newsroom-3c07e3e51e22f8b3ac8b",
-      "title": "Chime to Announce Third Quarter 2026 Financial Results on November 4, 2026",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTcxX1U2M2NFaFlFLWdNYlYtV1RCTl9MdHN4bEZNdFdsWlJ1RzRpemdteDJDVW0xV2Nsb3phU05IaGpNWURMY3lEczdRVkNEWDlQMG1RbDdUMFR3NGE0ZTRhQjBsdXBYYkZTWE0xUWhYZnZ1aC1vQ0ZZdWN3TlVmREFMdlJjMU1tVjRTWURZajlQa0NLbktpa0hZS25feXV1QXBjdA?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-15T00:48:53+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "block-investor-news-acffffc660cd6c7b854e",
       "title": "Introducing the New Square Kiosk: Reimagining Self-Service with Intelligence",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSWtMQ3ZoSjNHeGNfQlJwZE5NOUk4Q3BBTFUyVG5wMzBENHlvU3hxS2RUdTdzNG9DSUdNUVdKRlJISHhrWGFQN2VlcnZDYmRCNW9pVkVvZ2lvSXc2cC1qb3liMGhmYTJDOWppQjVzRzZIZjJpU1FtcmpqODhSZ0E3UXI2bE03U1lCRDZaSGM3YU9rTGQyWDd2V1d5eUoyQ1ZlTjIwYUtOSlF4YWNSNDBuUHl6VjNIRFUyQ1VOOGlPZEx3YzlSdG01SmVjWWtlZ0hWRF96V3JlVjBmOEUtOTd4N1hR?oc=5",
@@ -914,18 +914,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "chime-newsroom-32bd07b492cbd9ffc83b",
-      "title": "Chime and Invest America's Compound Combine Comes to Pittsburgh with Steelers Legend Jerome Bettis",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSGVEQ0xYRUh3QUEzSzVlbDk3TDZFLVQ4Nm5wS0FlemhCZVExa25MdEFLdFJSZzlrN29UTmhUQ21PTVVZVDh0YXhpd1hweTl4WU1oVklnNjdTVC15cVhZR1MtZ2lSSUgxWU53aVJJNlVxQTZ4QjFLeEhWcmlaMG04eXQ2ZU04cjBaQ0dSTFE3NjBHMmdjMVljZjVOeDNlN3BYZTk1OVNRdklYX0x1Wk9pMEdIcy1pVHRnN0NKV1pxaGpyM0dRd0E?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T13:35:24+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "shopify-pressroom-220350be21f993af11d8",
       "title": "The Entrepreneur Effect: When more people build, everyone benefits",
       "link": "https://www.shopify.com/news/the-entrepreneur-effect",
@@ -960,18 +948,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "chime-newsroom-f557cf2867e904c231d2",
-      "title": "3 Things We Learned Building Chime Invest - Chime Fee-Free Banking",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMlB5YVg4SWdzb0dmU042aFhERWkwRF90M0VzUmc2dThtYXB6eGJ5VWgtcXVEeGNydjRBYm41ZldEYVdPY1JpOEZxT0JVVVVhOThIdlBkWXhVUlpiOG45ZE5UTzhBZVg4SVpsQlU0ampCTlpnV1V5T01pSlc5QQ?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T07:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "klarna-press-9bfeb3fe062ca35533f8",
@@ -1056,30 +1032,6 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "chime-newsroom-1e4df43ecd06df3a992e",
-      "title": "American Banker: Chris Britt still says banking is broken, but Chime can fix it",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHZHdzh3WFQxcVJad19ZaXprZHdDSEc4R2xPTlpoVVI0cXZSWC1CeG1XOEFhNWYtazNwaUZ4Nlh2M21aLXdQTW9UemVwcEJJTTdlNlhGN0hyaVdHVk5YdnZIZzlfWnI0Q0Vqd3NBLTJwOFhNXzJYRFFWVm43T1hFOVRLenY0cGRYbnRsZ1NsaXZwSmtzWlpZeXV2SnBnMUxUdkpQcW13?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T11:18:44+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-63637a0cebffb24104a2",
-      "title": "Wayfair and Klarna deepen ties with more flexible payment options across U.S. and Canada",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWDJWQ2ZtWEVrRElwTG9lek5hM2dqcUlQMXAzdDVBVkR4cTRNQUlhY1YzMkpaeDBNaE5QZVNURlJ4N3NPV2ZwWlYyYjVXYVRnWVZYc1BvLTF6VHUzdlV3NkFYbTktRF9yNWVSeUFnVDFDUm5qT1h3?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T08:08:09+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-f0834c0f4dba06bfc0d3",
@@ -1190,14 +1142,14 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "chime-newsroom-e2e75eccd45fc316be3d",
-      "title": "Chime® Partners with Son Heung-min to Launch New “It Pays to Switch” Campaign",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpBUE9fT2MyR0FBUE1FZTNrNWJkSGNaNnN5X1U1dEFQV0RyU01CMXFfQlQzaTB2QzF0T0FxNkpnTldscGt0U1hCX3JhdVUwZFU2bU82ZnB5T1VjZzdQdVJWS0tTVjZpLXA3SEFsWGs0RnBIVzExNmp5N2lSdGIxbVBEb3I1dVN2bFJOeW9CNXJhMm5Vd2FGZGEyUm5FazI4cHJzZjl0bXl4QQ?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
+      "id": "klarna-press-63637a0cebffb24104a2",
+      "title": "Wayfair and Klarna deepen ties with more flexible payment options across U.S. and Canada",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWDJWQ2ZtWEVrRElwTG9lek5hM2dqcUlQMXAzdDVBVkR4cTRNQUlhY1YzMkpaeDBNaE5QZVNURlJ4N3NPV2ZwWlYyYjVXYVRnWVZYc1BvLTF6VHUzdlV3NkFYbTktRF9yNWVSeUFnVDFDUm5qT1h3?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-06T07:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1212,6 +1164,18 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "block-investor-news-89ce9e4798f929cd00eb",
+      "title": "Seattle Icon Pike Place Fish Market Modernizes Its High Foot-Traffic Operations with Square",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPelNZY2ZCX3lsYjZGNG5nZjV1VVdMMFV0dlM2cFZ0ck45cUw5WVRELUdFZW5SMmtCR3h3VF9pWlI4c2hwQ0xETFRKVmNKS2RvZW5QV1ljdXBJaGd4SjBwaHJ0X1lmaThwNFFUR2RhdlRqUEpTQmRXdzRnMFowMF9Kd3kxaDUwUlEtUkJOQlhROUdNd2FZV1FJNnZySzNFY1hiM2ZtUl9xRjY3d0Z4aWpOY1o4R191ckwycWtwb0MyOEZZZEZfb0JySk84QlMybVRLUU42S1B3d21vLTRLY0tkUGxKMXhKcW5XMi15bEtKSmZCZzMyamdr?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "shift4-news-b259404b2ca1716270fe",
@@ -1260,6 +1224,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-cbf4f2a03dd62563b0e5",
+      "title": "Ètra and Café Telegrama Run Two Restaurants with One Kitchen on Square",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQREpSOWhvS2l3akdmdXRoTy1qUEgzZWY5aUNmanhESHdWT3IzSlVsdjJZa0V6NmNOX2pSYUtseklfTGJLNmVoVy1xel9tUnMyTEVUaGhOZVZQRzFZNzBWT1VNaFpjcjdMbDBCUFY0cmV5OEktQUp1Q21tSWc5a3FsQW00TEs0WXctNEdENml3M2dKdkE5RzUyaGkwdDZINEY3eTN5clExOEpJYW9OODVQM1RVZmpHd3FmWmN5RnZUWGRmVWxHVFgxUlFKc1R2UmJyX19LUFdmVlI?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-30T17:47:43+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "paypal-newsroom-ed89651a4ec110eb35ea",
@@ -1356,6 +1332,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-9140b4fb1857715233b9",
+      "title": "Square Integrates Apple Business to Help Local Businesses Stand Out on Apple Maps",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTlNjbWlaaU5vbFlhRUxXanVwWW1Ec2NlczdUUVNJVTUwSEZYZ3YwV3lYMjJ0UkVySWh2Ylp3R0h6M0trNGZQN3piNzVLZVluWFlkVWRZenhOazhJMmFhMXhub2NGckt6VUtUc25feW5EakdVZV9JbGZKeVNGMm13czFyTjd2STRQQW5hS0RpdHN5REFiN1dqcm5rNEdncUhZNmVzMENURnNZVi1MSkZQVkx1Z1BOeGpwR1Q5WHFXem04ZjV2ZVJ0ajZESl9kaW9COW16b0pfSXBXNW5taG1mMkVfMGwtNE9seUE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-25T05:44:13+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "block-investor-news-0061d8d1927194d4761b",
@@ -1466,18 +1454,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "chime-newsroom-14713c41648d37489daf",
-      "title": "Chime Opens New Office in New York City",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tdUZZdkg3MnFjUUZjT2p5b1dGMF82eHFVN2xjbDkyMmhVbnk5UUU4UG9tV1dmaGVtNTZ6YVRtRG5ZTkRmQXY1WlBqVkNGTGJab3FTdGdVR2FaZlNDUFFsVDdjc3E4SGFGcWlQMkgycXNWMFRXcThEeW1LOA?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-16T07:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-1822c7c186c5e8a8c40b",
       "title": "Wise launches Chequing Account as Canadians live increasingly global lives",
       "link": "https://newsroom.wise.com/en-NAM/270647-wise-launches-chequing-account-as-canadians-live-increasingly-global-lives/",
@@ -1514,23 +1490,11 @@
       "sourceKind": "html"
     },
     {
-      "id": "chime-newsroom-28fd989ed43a98cb6d09",
-      "title": "From Tabular to Transformers: Event Sequence Models for Financial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVlOUWdyekFhQU1XODZLM3JLYWFPOF9UeGs0WHdWOFFOS1FONE5MZThTZ2tLVzUwQzZiZTZsR2NoZDRDZjN2OTJ2eE9RTnVxREpxeXFSdGJnend2LTF1NGJscnF1Vk1tT1JLQ29mWHBmQllFYWhLVzJlTFFLVzBuQXBRM1dSR2xOYWFHeGpXNXh4ZXU3YXJtSzNYMEh3S3BhbmlNd1Q3d0tYcUMtUEE?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T20:08:51+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-493e33e2519a3f399c08",
-      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
+      "id": "block-investor-news-9379bcfd0ca01db08c91",
+      "title": "Whit’s Frozen Custard Brings its 100 Locations to Square’s Unified Commerce Platform",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnBDdjh6eE8wa1pLNVNKWGhhSmxfam5Qa3djYlludmhibjNfMzVfSEFrcG40OWVTTkFOU3FDM1JyMURiUU82QzJwY29FbUpJY0owTVUwNVFlYlFVWjNZZGJQa3laaENjeUI5R21lOGNKUjB1WUpDR2JnTmNQeldsZzFZOGNMd3pubEIxQ2ZuQXhjS194WmRNR2tZRk00V2JDbHlDYXZnekNHcW0wTmhqR0FnaXZ2UUVKd3M1ejI5cGxrd1ZrS1ZlMGloZWZhNEZNTnhhNWFMUW51anNhZXZOY2lIV285YnFaWFBV?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "publishedAt": "2026-09-10T13:39:38+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
@@ -1778,18 +1742,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-39e4c81cff937d704458",
-      "title": "Block Announces Second Quarter 2026 Results",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmtSTlJHdE5oaU1WWHB2aFpoMTRsdkZsNWltMHQ1NWg1NjZhSU1Nem5TWjUtQ1Fsc2JncWdQWk1pdlZ0blJUR0Z3SXlSTnZZNUQ5WkczUEloRDZGNC1WUjl1SkNVZDhobFFpaGZWNzR0S0h5NVM3X2VpYlFTSktfc0xvYnhhelMtckJlUGlNc1gyUlpZY2czV3VsRUpWZE4xXzZfTVVoRnlOUWVmMktfczRranc1SnM?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-05T23:22:24+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-e80c1c42c96bc9934b8c",
       "title": "Risk & fraud Financial Services Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines Article",
       "link": "https://www.marqeta.com/blog/riskified-and-marqeta-partner-to-sharpen-card-issuer-authorization-decisions-and-help-reduce-false-declines",
@@ -1908,18 +1860,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "chime-newsroom-6ff33d90ef3339865690",
-      "title": "Product & AI - Chime Fee-Free Banking",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMmVINDZxV2dYUnhVWm5TNmJ0MDdVSThUNzZfaXNrU0ZZeVRPWnMxVkpHenlfTlRkb093NGNSNkJ4TjFkTkNwd0FSTWtab1lPVlVCbg?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-08T23:39:59+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -2246,6 +2186,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "block-investor-news-b7aad5c939878451dc5c",
+      "title": "Square Brings Managerbot to More Sellers, Giving Main Street an Intelligent Business Agent",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJTSjV6Q0lWR25Wczl3OXRKOEdJSU1MRUdwc0pzSmNmZFc1RllnbTdsY3Y5SUZhMkw1bWxxeDZhU280eVdOLU5ucG51T3J5MGJGMWFNUTYtVXFiTGQ0R2hEQWdyYVVya0RpYWdGZy1ONGh1cWNpdVpDeW5McTFWZGk2UVRSOXBiQ3VQQTVPaVJXYWlqX2xGell6R0hKSjBiOFpBZ3JHY2ZiLVpEaWZPY3B0dHFiVXRBcVc2Z2V5ZGJWUy1iXzFMaE4zVE11MHJtWTUxbG04WEFmRFJncy05QnlwZk9GbldNamg1TU5panRkOXZ3?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-28T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "circle-pressroom-b6aa8d3ea5c0ee99150d",
       "title": "Kyriba and Circle Bring USDC Capabilities to Enterprise Treasury, Unlocking a Path Toward More Intelligent Treasury Decisioning",
       "link": "https://www.circle.com/pressroom/kyriba-and-circle-bring-usdc-capabilities-to-enterprise-treasury-unlocking-a-path-toward-more-intelligent-treasury-decisioning",
@@ -2282,18 +2234,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "chime-newsroom-35f7d9c7d0007465983d",
-      "title": "2025 Letter to Shareholders - Chime Fee-Free Banking",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yRUh5Z0ZqRDh0Ynk0TDczQk5XOEc4S1c2bU01VnlKREhYUlo1LWhoNUl6OVJuQk1sS1pHQV80dXdtVWsxNGpTVDNqM3AyMVVTQjAxSnB5bjdHTVc4VDE0QkM3STZXWUtDYUdj?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-17T07:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "toast-product-news-e98b0f16ba78bfb2b939",
       "title": "Toast Launches Unified Drive-Thru Solution for Enterprise QSRs",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JOW9TN3JKTmR0TTJoel8wanZidXB5ZnNaVWpyVmhQVlNWU0hJRWVXUW1sVUlxNFRaOG1JSkNzN19aYVNRMXBpVlJwXzR2TGc3SWVUS1o5d195RHRJYXdLSGdFXzV6VFBwR1E?oc=5",
@@ -2328,18 +2268,6 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "chime-newsroom-0a11538799729c862e42",
-      "title": "Chime Named Among America’s Most Trustworthy Companies in 2026 - Chime Fee-Free Banking",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGRmTE9GZTdaYmxlYmdEUzBJRTZadElaUC1MdFl2TUJZelZFLVNOTHR0ei1rb0l5LV9DYV9UaU1tX2ozVl9QUGswTFo3ZWRHaEN2OGEzT09NN0xRYUpFUTFEcFB1TlZDWTM2Z1JTVXVEMUQyb3A1V2p4RjRVS3paVDZGM21hajRHbTlhTFhNbXNWTEJ0SURxTg?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-07T07:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-38b3f2c0eb65e74c17a0",
@@ -2414,18 +2342,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "chime-newsroom-68b802c2e1ea107efff0",
-      "title": "Chime Brings Together Chime Employees and Community Leaders to Advance Financial Progress at Second Annual Agents of Change Event - Chime Fee-Free Banking",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWlBhRGNkNHhmSEMtcjA0UU9wVFJYLTFDTXV5Um5NN2RlNDJhTDJ3aWRkXzVEZXBCUEpZU08wQ3BndmdGTWh1Y3VOWTlNRzZQa004eDkzT2p0T2tTYlFpVzd3WFBpdUttRVF5VWZwbG11cHdUR3dkeEtVWEFBSWdxZUYyRnZRZkl5SV9OUlk5cmtxMDVLNER4OUs2eXJuSW5CRUI1SXQtalExV2lqN1I1aWxYQXhLdGF4bjFCTlNHNnFJMDR5VjVlYlFOdE5RbUJVNUxjMTQ5d3p2TmZvdy1ZT19iX05QU0ZDSGVCSEI2cHE2VDg?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-23T08:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "datadog-investor-news-272d0eba88b59d44ef0e",
       "title": "Datadog Announces DASH 2026: the AI and Observability Event of the Year",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXdKSGFqZHJQMXc5OUU5U2xWeTM2bWJYcGtJbV9qQ2NaZ0plZUtRRnhIMThGRE9hUGhlQzBEeWZpYjBJNmJnRmlKY2t5cUFLaXZQZzFLSHg0X1ptV2c1T2ZoZ0p2UG9yczhUbjkwVGtWUHExSkdUWGNIclJlWW4xU2YyOXRENzhTQ1p1Vm1NTVlkLVNHSDlsd3BoQ2FsOGdiWlQ0akVTSV9fWDBHUVdvTXN6M2kwSlNDUDFKenp4N1ZCVWtic0E?oc=5",
@@ -2435,30 +2351,6 @@
       "sourceName": "Datadog Investor News",
       "company": "Datadog",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "chime-newsroom-40fc29926e736c242f2c",
-      "title": "Making Marketing More Human: How Chime Is Building an AI-Powered Brand With Empathy at the Center - Chime Fee-Free Banking",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHY4NU5zaGIyaXRmZGpHWkppdVdrenZRMTRwcDNxNkJsQzJwR3pGTl9LVFhsalYxS3AwNklzR0MxZzZZYWN6bHFDNjFMSldyMlpoc0kxYWZ3VC0xNzJqOWJqY01lcTQ0cTBiQkVWd2VDeE1CU1VucFpRaG1jZE9xYkFmajdBcTR4U1QxNzdFbEg4TGpvbzFIQi1Ed3M3SWdQUzVZYkUxT2Y4YXlhcTBVcHJabW9RSnozY3lUOHkyenJkbWgwS3hj?oc=5",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-02-11T08:00:00+00:00",
-      "sourceId": "chime-newsroom",
-      "sourceName": "Chime Newsroom",
-      "company": "Chime",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-e3dfa07475b92965cb3e",
-      "title": "Block to Announce Fourth Quarter 2025 Results",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlZGb1VSUjhnZjZUVGZHa2dOWVN1ckFRTWx1N1llVTRjaWloZ1RnOVBLVzI3bWJTUGUxRFpUcjdMOG82VHRJaVlsSWpCUG53RlpGcWJVTW9jeXBObmktcW5ZLURCT1Nxb09sV09qS0J1aDRtcG5oM3RFRXREMUdVX0xlU2xRTkhyQ3ZzMllFdXRwSWUxd1U2d0kyNDY5S1FCV1BTanlLcGRQNVZSLWRqVUNOaXBLT1pDRkE?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-29T08:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -2798,16 +2690,28 @@
       "sourceKind": "html"
     },
     {
-      "id": "dlocal-blog-0ae716a1bd51cdae4a7f",
+      "id": "dlocal-blog-7d63ac24baea9146c737",
       "title": "Bre-B’s launch: A payment team’s guide to Colombia’s new real-time payment rail",
-      "link": "https://www.dlocal.com/blog/colombia/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
-      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
+      "link": "https://www.dlocal.com/blog/markets-and-consumers/bre-bs-launch-a-payment-teams-guide-to-colombias-new-real-time-payment-rail/",
+      "summary": "Colombia’s first government-backed real-time rail brings faster settlement, simpler checkouts, and nationwide adoption powered by Banco de la República.",
       "publishedAt": "2025-09-29T14:00:00+00:00",
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "company": "dLocal",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-e13e97f1c36dab78d9f1",
+      "title": "Square Financial Services, Inc. Launches 25 Squared Grant Initiative to Drive Community Development in Utah",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUC01cFVvUk5lV2loM1pFd0NGNHVaUU9HQ0RkNzNTQmxKbVFBa2l4RmNYV3hYdFBucEtlRWVCQ3RsLW8xaVZJSERCWU1WQUlvZzVNY21PRXFzRHR0ZVBDWWRVV0JZTWpxMlpCRzJVNDVBdC1xSzIycm5pWlZaVkR0QlAwYnltSFlFal9mcHBSNGVhSlpfUnA4LV9oZlF5NzRzYnRMTkVKZk1LMnlFcDNvRWtKSVdlb09oTE9QaG9XV0x2aGVDeHM0VjZmX0I2NnNCakRPV3pNS0FRVGRiLU1yT3NfaU9fWHlIREgtQWJhb09sUkNwZm55RDRRamw2aUV0alhvcDE2RDdzQkE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-09-24T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-8357fec8a7f961d6724e",
@@ -2870,14 +2774,110 @@
       "sourceKind": "html"
     },
     {
-      "id": "block-investor-news-94cfc33209ee8032cda2",
-      "title": "Block, Inc. Announces Upsize and Pricing of $2.2 Billion Offering of Senior Notes",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQakkyX3lYM29HeERJQl9uSFowMVk4SHdjNmw1VWd0VFl4UGdkb3M3eW51ZUlPTGhlcjlPS1RtWTZYdEpUejkwQWhTdWZLMXFDMkloRURCTDgxbkVuUXRlMzFybDdLZV9xMzltLW1uOHVYRmJINVpyV05iTk8tU29NalBGNFhaeVJBS3loYnRwcGs1aGZkNnFEMDVONTlhUWZvQzd2US13WlNEZDliUU9UM0l6MFBKOVNOamhndEF3bDY0bGZMWFB1ZC1MSmR6WWNmNmhtV0Y4MV9Gb2VUMVYyR0hlVVp5RTQ?oc=5",
+      "id": "upstart-press-cdf395b045fca44aa8ea",
+      "title": "Upstart Announces Results for Second Quarter 2025",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-results-second-quarter-2025",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Aug. 5, 2025-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2025. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pres",
+      "publishedAt": "2025-08-05T20:06:16+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-906d798c5b95f5509932",
+      "title": "SoFi Reports Second Quarter 2025, Accelerates Net Revenue Growth to Record $855 Million, Record Member and Product Growth, and Net Income of $97 Million",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnpkdGJCWEFIRzZLSFQtWXdBVlVqT18zSTdLQmdyVDhndUlXdHJJeWJ6QXNfSlM3c3dJR1E5UzRCZksybk42Wi10Q2RwNjllS2FIUnE3dURUOEUtNnJuNTFwRC03TVV1Q3lPQmpGejdRejZscWNwNFBmVWNSb3F3dVEydEJESXk0MUJkUWdFb2g0eTk1WUtpV0RrSTNnWlFZa3pYTFZZQUE2ZWtjaEtrOGpPV1BTREo1WDlucklQRTdzT2dMMlpPcFNOYUtUMkVHUzVsSTFmUlcxWURzUHBlT0FtN1VzYTJtT2hPZ3pTVlVzUVlaTVhGLS1Ja2dlSGNQb2tiMkdIMEFablF1UUJJQkx0RTZqNkxkS0Y4dmw5a3pGa0dmbFd6aUFJQVJyWkJyWHoxZg?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-07-29T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "datadog-investor-news-2cb14a9124b42201dbde",
+      "title": "Datadog Announces Date of Second Quarter Fiscal Year 2025 Earnings Call",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSThudER4dGdIV0tpb19PdTZkNzQwV0lBMk11bS1CSzRISG13Zk9McGxlRzhEcWhvaHIyUDVuc09NRE1nS0hqc0psRTlWTmd6eV9RS1Z4RG45Mk44MmdZUDY5Yk03cTFSREZwTlRLRHhZU3cxMlVDemVLX0Z2TlZKN3dPeUlNaDlwWjVjUFFMNUV4Tmh1cUNUcklCakE2Ny1zTlFzRnhsUE5hWUItVUwxMHNGQllOVmdEeWtJd0l4MmZqd3pLZjhPeEoxRQ?oc=5",
+      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-07-17T07:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-0e5051ae773bb20f22c0",
+      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
       "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-13T07:00:00+00:00",
+      "publishedAt": "2025-06-25T07:00:00+00:00",
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "datadog-investor-news-af5fc8626d18fe674c35",
+      "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
+      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-06-10T07:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-8ce62c7331842ca65c71",
+      "title": "International Rescue Committee and Wise launch global partnership to support communities in crisis",
+      "link": "https://newsroom.wise.com/en-NAM/250197-international-rescue-committee-and-wise-launch-global-partnership-to-support-communities-in-crisis/",
+      "summary": "Wise commits £500,000 to the IRC’s Crisis Response Fund that supports responses to breaking emergencies.",
+      "publishedAt": "2025-05-21T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-2226f61adf7d292adf5a",
+      "title": "Just in Time for Spring, Cash App Afterpay Expands Merchant Network to Empower Smarter Spending",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3NYTy1Qc0JoY3A4V01vb3RBOUNaWFJzOUlKU1lZX1BXTEtuRjlHREx4VU16NjFXdkYtM2t6Tk9FajZsVzIzOFNZUVlsLTFjejBOQ1lfU2lFUVpMejZ1YWM0TDRLbG9GakQ5SHduYVZHRXBKN3BvYVdlQ0E1ZE9GV055NjFUM3B5S1NyRnkwa200TmNSRHRGdDNxTjZmMmJnTC11cTVzeEh0bUUyZnNRdzhqb19XbXpDcEpuaVVYcUZFbmNIUF9PaUMzclRSZHdUMHJ6djRONWVzTkUzbEU5ekg2Z0VKX3FHZDh1eUVsZUFPLTJYWWVmNEdqWQ?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-21T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "block-investor-news-c22901d5296e709477b9",
+      "title": "Block's Modern Approach to Credit: Expanding Access While Managing Risk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0R5M3Z0WS1MN3Jfanl0dlc5OFZDeGFPeDF1ajBPRE03SlFiWUNYbzdfcksxeUFQUDhQZFF2d3J3ZE5DQzNULTR0SWMwVjhuY0paalZZYVJUd2p6VFlHRkhrXzdKY0Jxc3NHaHgxU2dCSkhwcXRPTmxyeHd6MVZNU29RUDJZWC10bVM3QWhLMkpRRnZ6d081ZWNJQXRId29fRV9nMTB5ZHZqUGxwMzl4a0d2OS0zWUdWSVZSNHJDZzlWNy14SS1LWTlGeW12a2pObkVJdzE4TEtEZw?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-20T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dave-press-e6d46e6b0aa4c4ed3909",
+      "title": "Dave Reports First Quarter 2025 Financial Results",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2NvcjdONlVpck04cXhXU0MzZ1lqanRyZXFwdjBkVGs0QnJSeGdhdmZaX01JaEowVC1NeHRyVER4RzBXUkdBQ2hWcXBIb3BNSmRhNzRMNXVyWGR0VW5ad2FydDNFQlhVWW9fdGRRVFRWU3RwcmRUTUNmWkZ6NlA2MmJyTllzNmFvY3I4Z21ueldnS2FPM1hPLXdLUG9lTkNIeEJKVG1zaUxlQk0?oc=5",
+      "summary": "Dave Press published an update for Dave relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-15T21:03:21+00:00",
+      "sourceId": "dave-press",
+      "sourceName": "Dave Press",
+      "company": "Dave",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     }
@@ -3040,10 +3040,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 14,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
