@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-23T07:34:42.661376+00:00",
+  "generatedAt": "2026-10-23T13:29:33.612915+00:00",
   "articles": [
+    {
+      "id": "about-amazon-0d985ce0a2c0ad72b9bc",
+      "title": "‘The Odyssey’ is coming to Prime Video November 17. Here's how to watch.",
+      "link": "https://www.aboutamazon.com/news/entertainment/the-odyssey-christopher-nolan-prime-video?utm_source=rss",
+      "summary": "Director Christopher Nolan's 2026 epic ‘The Odyssey’ will be available to buy starting November 17. Preorder it now.",
+      "publishedAt": "2026-10-23T10:49:58+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "nvidia-newsroom-f07d0bb3b14ff2bf4391",
       "title": "Kazakhstan Expands Compute for Its AI Future",
@@ -734,18 +746,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-9c11e680d21854314f78",
-      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
-      "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
-      "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
-      "publishedAt": "2026-10-16T21:12:00+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-b9fbebb49a086aa401ff",
       "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
       "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
@@ -1008,18 +1008,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-2e461f2ac6e5c44a50c2",
-      "title": "2026/10/08 TSMC September 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3343",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-09fbd8a716bb51243c0d",
@@ -1490,6 +1478,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-6c975e9a5a6b09175379",
+      "title": "2026/09/10 TSMC August 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3340",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "tsmc-news-4a5d4341e3e395195c28",
       "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
       "link": "https://pr.tsmc.com/english/news/3338",
@@ -1682,18 +1682,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "tsmc-news-faff4fb821b9c9495d97",
       "title": "2026/08/10 TSMC July 2026 Revenue Report",
       "link": "https://pr.tsmc.com/english/news/3329",
@@ -1703,18 +1691,6 @@
       "sourceName": "TSMC Latest News",
       "company": "TSMC",
       "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "robinhood-blog-d9a8d6b4d8cfccec8fb4",
-      "title": "Robinhood Presents: HOOD Summit ‘26 - Engines of Creation",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation",
-      "summary": "On Sept 29 and 30, we're heading to Houston for our third annual HOOD Summit, which is shaping up to be our biggest event yet. HOOD Summit: Engines of Creation will be livestreamed over two days, during which we'll announce the latest products",
-      "publishedAt": "2026-08-10T07:00:00+00:00",
-      "sourceId": "robinhood-blog",
-      "sourceName": "Robinhood Blog",
-      "company": "Robinhood",
-      "category": "Fintech Blogs",
       "sourceKind": "html"
     },
     {
@@ -1859,6 +1835,18 @@
       "sourceName": "Wise Newsroom",
       "company": "Wise",
       "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-f56027b5e925b87ad8c5",
+      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
+      "link": "https://pr.tsmc.com/english/news/3326",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-16T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
     {
@@ -2880,6 +2868,18 @@
       "company": "Dave",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-3aed8c2dde6ade06a126",
+      "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
+      "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
+      "summary": "Wise, the global technology company building the best way to move and manage the worldʼs money, has announced the appointment of former Western Union executive Ricardo Amaral as its new Head of Banking for Latin America and Country Manager for Brazil.",
+      "publishedAt": "2025-05-12T13:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
     }
   ],
   "statuses": [
@@ -2979,7 +2979,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 7,
+      "itemCount": 6,
       "message": "OK"
     },
     {
