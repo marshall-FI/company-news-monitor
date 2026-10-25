@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:17:07.530729+00:00",
+  "generatedAt": "2026-10-25T01:13:40.917155+00:00",
   "articles": [
     {
       "id": "about-amazon-f92b4e16dcb6d87cabb5",
@@ -770,18 +770,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "sofi-press-87fa714f6f4dd40a55cd",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q3 2026 Earnings Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVRXWkpZWnVqTDBDdHd6b2lQamZ4bXlaUGhhR2huUnhpamhwQk40aXBvVHh3R1FBMllLLUxuZWZfWU5nVDVYRVNHdkQ2dG40UDhONHFLQ1dFS1FBbU0zalRmWVhCTWp6SE54Z29kdmdENTJRRXlyZU55Z2NmM19pd1UtQ29wdEZ3VzZuY041aEtrM2VvY2RsV1pVOXpFZ0pSMk5pb3VoOVkyX3l2MGUya244ZXhibUlGa0szNm1n?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-16T07:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "amazon-press-archive-0de20af469ca9ab119f6",
       "title": "Amazon.com to Webcast Third Quarter 2026 Financial Results Conference Call",
       "link": "https://press.aboutamazon.com/2026/10/amazon-com-to-webcast-third-quarter-2026-financial-results-conference-call",
@@ -864,6 +852,18 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "tsmc-news-0cbf22968caba1cf9fa5",
+      "title": "TSMC Reports Third Quarter EPS of NT$29.43|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53WTNKZC1rRTNpMk5IYXZOU2J1REhGZXdqNkduVDg2YVJvSHRVdHAxWlJGSldYTmJDVlZEeXhFaU9EU1V0T21fSzJYQ3NsUQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-dd3d587dce23dd6b30e4",
@@ -990,7 +990,7 @@
       "title": "Klarna partners with The White Company to bring flexibility to homeware",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzBYNzNVQ2kwQkxJNlIwQTZWVXhickRnRzlqdDdUdzhvcUUtcTJKTFAzdE14U3JjR0RacHIxeEY2eGxkYmJFUDRRTmpack9hSklIV01UWERNa3l4S2d1MzJkNnRVQldxZkxKZTVwYzVPX29hOHVuak12amlRU05DcDd3MGxzWXA0U3BfZ2hpclpncXV4anJzdEsxeTRILWhuaEJNVngweXZockVqaHFweFZtaHNpZw?oc=5",
       "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-12T07:00:00+00:00",
+      "publishedAt": "2026-10-12T13:38:25+00:00",
       "sourceId": "klarna-press",
       "sourceName": "Klarna International Newsroom",
       "company": "Klarna",
@@ -1019,6 +1019,18 @@
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-08e150ffd16729f7cf22",
+      "title": "TSMC September 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUlZLeWhBQkw4U1FfQ0RZcTBsRVliaTlVeXh2Q2lXekdsekI3X285dUdvMnhUQUpDTThrZXBXS1pHUFhWTjkwMXA1eUY4QQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -1238,6 +1250,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-cbf4f2a03dd62563b0e5",
+      "title": "Ètra and Café Telegrama Run Two Restaurants with One Kitchen on Square",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQREpSOWhvS2l3akdmdXRoTy1qUEgzZWY5aUNmanhESHdWT3IzSlVsdjJZa0V6NmNOX2pSYUtseklfTGJLNmVoVy1xel9tUnMyTEVUaGhOZVZQRzFZNzBWT1VNaFpjcjdMbDBCUFY0cmV5OEktQUp1Q21tSWc5a3FsQW00TEs0WXctNEdENml3M2dKdkE5RzUyaGkwdDZINEY3eTN5clExOEpJYW9OODVQM1RVZmpHd3FmWmN5RnZUWGRmVWxHVFgxUlFKc1R2UmJyX19LUFdmVlI?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-30T17:47:43+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "paypal-newsroom-ed89651a4ec110eb35ea",
       "title": "PayPal Survey Reveals Holiday Spending Isn't Slowing Down, But Shoppers Are Changing How They Spend",
       "link": "https://newsroom.paypal-corp.com/2026-09-30-PayPal-Survey-Reveals-Holiday-Spending-Isnt-Slowing-Down,-But-Shoppers-Are-Changing-How-They-Spend",
@@ -1250,14 +1274,14 @@
       "sourceKind": "rss"
     },
     {
-      "id": "block-investor-news-cbf4f2a03dd62563b0e5",
-      "title": "Ètra and Café Telegrama Run Two Restaurants with One Kitchen on Square",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQREpSOWhvS2l3akdmdXRoTy1qUEgzZWY5aUNmanhESHdWT3IzSlVsdjJZa0V6NmNOX2pSYUtseklfTGJLNmVoVy1xel9tUnMyTEVUaGhOZVZQRzFZNzBWT1VNaFpjcjdMbDBCUFY0cmV5OEktQUp1Q21tSWc5a3FsQW00TEs0WXctNEdENml3M2dKdkE5RzUyaGkwdDZINEY3eTN5clExOEpJYW9OODVQM1RVZmpHd3FmWmN5RnZUWGRmVWxHVFgxUlFKc1R2UmJyX19LUFdmVlI?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
+      "id": "sofi-press-87fa714f6f4dd40a55cd",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q3 2026 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVRXWkpZWnVqTDBDdHd6b2lQamZ4bXlaUGhhR2huUnhpamhwQk40aXBvVHh3R1FBMllLLUxuZWZfWU5nVDVYRVNHdkQ2dG40UDhONHFLQ1dFS1FBbU0zalRmWVhCTWp6SE54Z29kdmdENTJRRXlyZU55Z2NmM19pd1UtQ29wdEZ3VzZuY041aEtrM2VvY2RsV1pVOXpFZ0pSMk5pb3VoOVkyX3l2MGUya244ZXhibUlGa0szNm1n?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-29T12:05:21+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1466,30 +1490,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "tsmc-news-4a5d4341e3e395195c28",
-      "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "link": "https://pr.tsmc.com/english/news/3338",
-      "summary": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-493e33e2519a3f399c08",
-      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
       "title": "Robinhood Teams Up With Crypto.com and OG.com to Expand Access to Prediction Markets Ahead of A Busy Fall",
       "link": "https://robinhood.com/us/en/newsroom/robinhood-cryptocom",
@@ -1658,18 +1658,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-d7f2b331ed28a994cc6b",
-      "title": "2026/08/11 Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "link": "https://pr.tsmc.com/english/news/3333",
-      "summary": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-ab513aa3e6853dadf751",
       "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
       "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
@@ -1824,18 +1812,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -2880,6 +2856,30 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-74a3e89360e2448fd6f4",
+      "title": "Cash App Begins Roll Out of Afterpay’s Pay Over Time Offering at Hundreds of Thousands of Merchants",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNllsLVpJSjFUM0FUUlNjWlBRbWlPalB3bWI5TmhNRmp5TDFKY0dzMGZlVlgyMkxGcVQwZ0Q5UmlvWnJhOUhFdWFFUzJmclhGaWRIRFgwLTF3TGlUYUxEZlFxWFpmX3lrNVNUa0JFc19CX3p6SVFTczlKV1g2bFpDMkpLVk9fNlJIcHZWUFRWcHhrRTByMXVXWW9Sc3JQMVJZMHJCLTNzZENYTVpicGVFVHhWeVNDUnR4ZzRBbjhodXpGR1J1WG85M3lSUWkwZDc4Rm5sNGNETHpyYW5GcDBkT2dOZU1iUHRYeU10aGdmRFNOSHFsZG5LRnYwOGtIWkIz?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-17T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-38fd1ddc6250bb7b6931",
+      "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91bXFLYkdJenNBeWZtN0lWYXBxbm5kTUhDazNOaDJSYURXdUhVNl9mSkVRNl9JQW1NcVdGaDk0aWd4bE1jR0pnWE9sd1Q1QQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-03-04T08:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3130,10 +3130,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
-      "itemCount": 10,
-      "message": "OK"
+      "itemCount": 18,
+      "message": "OK via official fallback RSS"
     }
   ],
   "sourceCount": 28,
