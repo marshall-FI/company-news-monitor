@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-26T06:16:02.556164+00:00",
+  "generatedAt": "2026-10-26T13:03:56.736507+00:00",
   "articles": [
+    {
+      "id": "about-amazon-f824bb65c0cbb1ae2dd8",
+      "title": "Some of Amazon's Q3 2026 announcements, from new devices to AI breakthroughs",
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview?utm_source=rss",
+      "summary": "Amazon will announce financial results for its third quarter on October 29. Here's a look at what the company has been up to.",
+      "publishedAt": "2026-10-26T13:00:18+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
+    {
+      "id": "google-blog-84c8b528621607acc677",
+      "title": "How Google Beam connects military families globally",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/",
+      "summary": "Google and the USO are bringing Google Beam to 20 locations, connecting deployed service members and their families.",
+      "publishedAt": "2026-10-26T13:00:00+00:00",
+      "sourceId": "google-blog",
+      "sourceName": "Google Blog",
+      "company": "Google",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-f92b4e16dcb6d87cabb5",
       "title": "Amazon CEO Andy Jassy's career advice: Most people don't land their dream job at 22—and that's okay",
@@ -710,18 +734,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "about-amazon-529d483c5e6a91719f95",
-      "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed",
-      "link": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai?utm_source=rss",
-      "summary": "TorchNeuron lets developers run their existing AI code on AWS Trainium chips with virtually no changes, reducing the friction to adopting new hardware.",
-      "publishedAt": "2026-10-19T13:00:10+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "google-blog-8a5bbea3d5273e7fa87d",
       "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
       "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
@@ -794,18 +806,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "google-blog-30b77afd86fd20a8f096",
-      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-      "summary": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
-      "publishedAt": "2026-10-15T18:00:00+00:00",
-      "sourceId": "google-blog",
-      "sourceName": "Google Blog",
-      "company": "Google",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "amazon-press-archive-22dd3322337b368602ad",
       "title": "New Whole Foods Market in Scottsdale, Arizona, to Open November 12",
       "link": "https://press.aboutamazon.com/2026/10/new-whole-foods-market-in-scottsdale-arizona-to-open-november-12",
@@ -838,18 +838,6 @@
       "sourceId": "amazon-press-archive",
       "sourceName": "Amazon Press Archive",
       "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-1ed9b044db2b667b75ed",
-      "title": "2026/10/15 TSMC Reports Third Quarter EPS of NT$29.43",
-      "link": "https://pr.tsmc.com/english/news/3346",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-15T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
     },
@@ -914,18 +902,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-b15aa7667b5027f5ee7b",
-      "title": "Ecommpay adds Klarna, giving consumers a more flexible way to pay",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBVWkJWRV9ra1JWOERaR3VHTnFnU0hESkw1QkExeWg1WnBhT213NnhaNS1Hbk8zU1UzSXBVTmZrc2VpOFpCZHBFODlqblFLSWxIaTE4dTFBaTFWTmZEZl8tMGt3WERsSVRjRlVoMHZ2bGpabnVnLXE5NHh5ZHNPTVNxVHZiNHVOVnNobDAtazgtUUJ6YmRDZWVBU185NE9ubmUxSWttU1ZvSklf?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T14:03:45+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "shopify-pressroom-220350be21f993af11d8",
       "title": "The Entrepreneur Effect: When more people build, everyone benefits",
       "link": "https://www.shopify.com/news/the-entrepreneur-effect",
@@ -970,6 +946,30 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-0ee595b76a9817354f40",
+      "title": "Consumer Protection Tuesday: Following the money. Stopping the scammers.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnYzbGhsNE5paVREbk1EajlEZXM4Y21sRFNMbGgxWndxZklNeGNCMFlTc3FIU1M5UHZjZTZLZFllT2FmRzFwUDVIY20yWkF1emNFbHFfOERwUDlCeXotWnRpU2dnaVpzekZUU1Z3Uk5lb19LQmd1ekZZLTVqSXdGVWdtVWs0UFJQbGdWeVdpc2QtV1RSNFlGSS1sZzhqQUVh?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-b15aa7667b5027f5ee7b",
+      "title": "Ecommpay adds Klarna, giving consumers a more flexible way to pay",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBVWkJWRV9ra1JWOERaR3VHTnFnU0hESkw1QkExeWg1WnBhT213NnhaNS1Hbk8zU1UzSXBVTmZrc2VpOFpCZHBFODlqblFLSWxIaTE4dTFBaTFWTmZEZl8tMGt3WERsSVRjRlVoMHZ2bGpabnVnLXE5NHh5ZHNPTVNxVHZiNHVOVnNobDAtazgtUUJ6YmRDZWVBU185NE9ubmUxSWttU1ZvSklf?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1526,6 +1526,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "upstart-press-e98e06720988c1bfbc15",
+      "title": "Upstart Publishes August 2026 Originations and Latest UMI",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-august-2026-originations-and-latest-umi",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Sep. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for August 2026 and its latest Upstart Macro Index (UMI) reading. For historical data and more information, see upstart.",
+      "publishedAt": "2026-09-03T11:45:19+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "sofi-press-ef93b6f9cffd0026ca32",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Payward Partner to Connect Banking and Digital Asset Markets",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdFJDNWlKYlNveEptaVk4ZHE3MWRXVHpYNXJGZzI2MTFLXzU5VkkwcTNHNFdfa09Da0FXQklWQXEwZnJad0U5dW1SU0FWVUtYRDJ1YzF6Z0ZwbjR4d0d1eEN6SlZ4eTJmSml6MmpORHMyVldtZGtZZkdUdnk4ZDZvemxJRFJwcU5QaFZYY1V0REhWcHpQdS1Sb1BCMkhocjBqbDZJdERZRHdLSU9pRFZESC1xQ2xaR1A4TExzeE5wb00tVVBvN194OXg5NjlNYjlQdkdJa1N3Tk5Fd3dTMTI3d0c4dnd6Smpk?oc=5",
@@ -1536,18 +1548,6 @@
       "company": "SoFi",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-e98e06720988c1bfbc15",
-      "title": "Upstart Publishes August 2026 Originations and Latest UMI",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-august-2026-originations-and-latest-umi",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-03T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-36cfe43c94ba45e5b45f",
@@ -1706,6 +1706,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "marqeta-blog-ab513aa3e6853dadf751",
+      "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
+      "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
+      "summary": "We sat down with Axel Neumann, Chief Strategy Officer at Mondu and Richard Drury, GTM leader at Marqeta, to talk about SMB credit behavior",
+      "publishedAt": "2026-08-07T00:00:00+00:00",
+      "sourceId": "marqeta-blog",
+      "sourceName": "Marqeta Blog",
+      "company": "Marqeta",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-d8c93b0d72d0bc5d78c1",
       "title": "Shift4 Announces Second Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/306/shift4-announces-second-quarter-2026-results",
@@ -1716,18 +1728,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "coinbase-blog-3424e4f9d11def8ed727",
-      "title": "Coinbase UK Launches 24/5 US Stock Trading",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NndpRUpYM29PWmwxaHFCWVRQSzhlbVFlaWZPemtMX1llSHh0X0RmQ2RQQW52Z0tnQ25YMWZic2VQdWRZdGljU2hqYUxkV0JmV1VyTTBKRzdwLWRDdW9pNEU3ZDFtcUtWMmlod1BKRzlPd01vb1E?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-06T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7e9ceb995003efb3bad5",
@@ -1757,8 +1757,8 @@
       "id": "upstart-press-2c0ac6dcba05aa98d965",
       "title": "Upstart Announces Second Quarter 2026 Results",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-second-quarter-2026-results",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-04T00:00:00+00:00",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Aug. 4, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2026. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pre",
+      "publishedAt": "2026-08-04T20:06:07+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1769,8 +1769,8 @@
       "id": "upstart-press-b79cb7c3add26b18cd25",
       "title": "Upstart Publishes July 2026 Originations and Latest UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-july-2026-originations-and-latest-umi",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-08-03T00:00:00+00:00",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Aug. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for July 2026 and its latest Upstart Macro Index (UMI) reading. For historical data and more information, see upstart.co",
+      "publishedAt": "2026-08-03T11:55:18+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1793,8 +1793,8 @@
       "id": "upstart-press-0194b791576ca9bad557",
       "title": "Upstart Announces Multi-Year $4 Billion Forward Flow Agreement with Castlelake",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-multi-year-4-billion-forward-flow-agreement",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-29T00:00:00+00:00",
+      "summary": "_Agreement represents one of Upstart's largest institutional funding commitments and further expands its relationship with Castlelake_",
+      "publishedAt": "2026-07-29T12:45:24+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1814,6 +1814,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "upstart-press-9b031b52818f911fd4f8",
+      "title": "Upstart Receives Conditional Approval from the OCC to Establish Upstart Bank",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-receives-conditional-approval-occ-establish-upstart-bank",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Jul. 23, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced that the Office of the Comptroller of the Currency (OCC) has granted conditional approval for the company to establish Upstart Bank, N.A.",
+      "publishedAt": "2026-07-23T23:51:27+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "shift4-news-f38f70e64e369c82414c",
       "title": "Shift4 Announces Date of Second Quarter Earnings Results and Upcoming Investor Conference Participation",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/305/shift4-announces-date-of-second-quarter-earnings-results-and-upcoming-investor-conference-participation",
@@ -1824,18 +1836,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "upstart-press-9b031b52818f911fd4f8",
-      "title": "Upstart Receives Conditional Approval from the OCC to Establish Upstart Bank",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-receives-conditional-approval-occ-establish-upstart-bank",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-31e99bc2ddf22d8d4b3e",
@@ -1874,23 +1874,11 @@
       "sourceKind": "rss"
     },
     {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "upstart-press-13309aa0c83c92b03ef7",
       "title": "Upstart Streamlines UMI Reporting",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting",
       "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-08T00:00:00+00:00",
+      "publishedAt": "2026-07-08T20:05:29+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1901,8 +1889,8 @@
       "id": "upstart-press-6debac466261a59e0c9b",
       "title": "Upstart Publishes June 2026 Origination Volume",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-june-2026-origination-volume",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-07-06T00:00:00+00:00",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Jul. 6, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for June 2026. For historical data see upstart.com/volume.",
+      "publishedAt": "2026-07-06T11:49:29+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1937,8 +1925,8 @@
       "id": "upstart-press-1a6c069fbf432d9b29dc",
       "title": "Upstart Publishes May 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-umi",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-25T00:00:00+00:00",
+      "summary": "BURLINGAME, Calif.--(BUSINESS WIRE)--Jun. 25, 2026--Upstart Holdings, Inc.(NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today updated the Upstart Macro Index (UMI) to include May 2026 data. For historical data and information about how the index is calculated, see upstart.com/umi.",
+      "publishedAt": "2026-06-25T22:03:30+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1949,8 +1937,8 @@
       "id": "upstart-press-4c3da7e2f08947e60227",
       "title": "Upstart Announces Agreement with Neuberger Specialty Finance for Investment in up to $600M of Consumer Loans",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-agreement-neuberger-specialty-finance",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-24T00:00:00+00:00",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Jun. 24, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced its renewal of its forward-flow agreement with Neuberger Specialty Finance, the dedicated asset-based investment team within Neuberger, a global invest",
+      "publishedAt": "2026-06-24T12:45:21+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1973,8 +1961,8 @@
       "id": "upstart-press-c81acb168b52e388eeb4",
       "title": "Upstart Publishes May 2026 Origination Volume",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-may-2026-origination-volume",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-03T00:00:00+00:00",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Jun. 3, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today published its monthly origination volume for May 2026. For historical data see upstart.com/volume.",
+      "publishedAt": "2026-06-03T11:55:15+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -1997,8 +1985,20 @@
       "id": "upstart-press-213080f6ebf47c9687cf",
       "title": "Upstart Publishes April 2026 UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-april-2026-umi",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-28T00:00:00+00:00",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 28, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today updated the Upstart Macro Index (UMI) to include April 2026 data. For historical data and information about how the index is calculated, see upstart.com/umi.",
+      "publishedAt": "2026-05-28T20:08:32+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "upstart-press-672e1f1b5a283f4df5b5",
+      "title": "Community Choice Credit Union Selects Upstart for Personal Lending",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/community-choice-credit-union-selects-upstart-personal-lending",
+      "summary": "FARMINGTON HILLS, Mich.&SAN MATEO, Calif.--(BUSINESS WIRE)--May 27, 2026-- Community Choice Credit Union (CCCU), a member-owned financial institution with more than 114,000 members and over $2 billion in assets, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to ",
+      "publishedAt": "2026-05-27T13:01:03+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2018,18 +2018,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "upstart-press-672e1f1b5a283f4df5b5",
-      "title": "Community Choice Credit Union Selects Upstart for Personal Lending",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/community-choice-credit-union-selects-upstart-personal-lending",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-27T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-3467846013eb2e4f3850",
       "title": "Shift4 Partners With Bar Rescue’s Jon Taffer for $100,000 “Rescue Mission” Contest",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/302/shift4-partners-with-bar-rescues-jon-taffer-for-100000-rescue-mission-contest",
@@ -2042,6 +2030,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "upstart-press-62cb26466aa973695e29",
+      "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 19, 2026-- Upstart (NASDAQ: UPST), the leading AI lending marketplace, today announced that Tim Wennes has been appointed to the company’s Board of Directors, effective May 28, 2026.",
+      "publishedAt": "2026-05-19T13:01:03+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "galileo-blog-5f97fcea41d8b7bbc248",
       "title": "New 2026 Consumer Data: Consumers Are Ready for Integrated Financial Services. 80% of Brands Are Not",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW5CTklPRHFtTVlIajVQNXNPMmZpRW1lSW5RZXUzYml3dm01Q282X0xWZFdRVlNubGpJU2lSZWNBcDV1ZXlkMFAzOV9JVm5pOHVxOHNSeEVzQl9ERXd3ZU42THAtX2wyYTdUd0k4OVQ2dWVraXpadGNzS01uVjEtMnhIX2dNc1RTTzRna3RzcjQzRFY5azZRcUctSzJ5WV9hRklQaQ?oc=5",
@@ -2052,18 +2052,6 @@
       "company": "Galileo",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-62cb26466aa973695e29",
-      "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-19T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "shift4-news-4aa2768249283bac4fd4",
@@ -2081,8 +2069,8 @@
       "id": "upstart-press-b6b859e69800301b7ce9",
       "title": "USF Credit Union Selects Upstart for Personal Lending",
       "link": "https://ir.upstart.com/news-releases/news-release-details/usf-credit-union-selects-upstart-personal-lending",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-13T00:00:00+00:00",
+      "summary": "TAMPA, Fla.&SAN MATEO, Calif.--(BUSINESS WIRE)--May 13, 2026-- USF Credit Union (USF CU), a member-owned financial cooperative with over $1.4 billion in assets serving over 80,000 members, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to offer personal loans to",
+      "publishedAt": "2026-05-13T13:01:17+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2138,6 +2126,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "upstart-press-956df450e7959ffc3af9",
+      "title": "Upstart Announces First Quarter 2026 Results",
+      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--May 5, 2026-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended March 31, 2026. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pres",
+      "publishedAt": "2026-05-05T20:06:02+00:00",
+      "sourceId": "upstart-press",
+      "sourceName": "Upstart Press Releases",
+      "company": "Upstart",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "toast-product-news-c31e36ba8dd2dec5af42",
       "title": "Toast IQ Grow: AI Marketing & Demand Tools for Restaurants and Retailers",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1NuV3VzOW8yZmo5alAzbTNEaWhZZ2tJdkgtb3RwR2Jib1VCSEJROGJVZXNCdDJGdmpiRWlZdTJpNnhFMGxYVmJuQWNmWmhyU2tXcl9ZbnozSVVvbk5JajRKWElTZHFwX0ZQQ0w1Qk1wVHl4NlZKd1NaempWUnZ0ZWx3?oc=5",
@@ -2148,18 +2148,6 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "upstart-press-956df450e7959ffc3af9",
-      "title": "Upstart Announces First Quarter 2026 Results",
-      "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-05-05T00:00:00+00:00",
-      "sourceId": "upstart-press",
-      "sourceName": "Upstart Press Releases",
-      "company": "Upstart",
-      "category": "Fintech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "wise-newsroom-bd95ccd0ad36cf50271a",
@@ -2177,8 +2165,8 @@
       "id": "upstart-press-6a9fd900515f78fd0095",
       "title": "Justice Federal Credit Union Selects Upstart to Expand Personal Lending",
       "link": "https://ir.upstart.com/news-releases/news-release-details/justice-federal-credit-union-selects-upstart-expand-personal",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-04-30T00:00:00+00:00",
+      "summary": "CHANTILLY, Va.&SAN MATEO, Calif.--(BUSINESS WIRE)--Apr. 30, 2026-- Justice Federal Credit Union (Justice Federal), based in Chantilly, Virginia, with assets of $1.2 billion, has partnered with Upstart (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, to broaden its reach and effectively addr",
+      "publishedAt": "2026-04-30T13:01:37+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2765,8 +2753,8 @@
       "id": "upstart-press-cdf395b045fca44aa8ea",
       "title": "Upstart Announces Results for Second Quarter 2025",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-results-second-quarter-2025",
-      "summary": "Upstart Press Releases published an update for Upstart relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-08-06T00:00:00+00:00",
+      "summary": "SAN MATEO, Calif.--(BUSINESS WIRE)--Aug. 5, 2025-- Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today announced financial results for the quarter ended June 30, 2025. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings pres",
+      "publishedAt": "2025-08-05T20:06:16+00:00",
       "sourceId": "upstart-press",
       "sourceName": "Upstart Press Releases",
       "company": "Upstart",
@@ -2880,6 +2868,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "toast-product-news-f1edeecf1136f3bc7b45",
+      "title": "Toast Launches ToastIQ to Superpower the Future of Restaurants",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVFubXZkbXNMSGx6eFpWY011cTFlUW9oWU8xUXpiSUZtamtZZGVZaGFRQ2Izdkp0ck5aZ3NidEZnN2F4ck5jTlNGeGliUlBMbVhlLVp2NEFvMGpsbkFTM2dya2NyNHA5aWpBMnNqRTl2SDB0X1dQTzVKVks0OEhXWERMSDg1M3V3bU1CNEZB?oc=5",
+      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-01T12:52:42+00:00",
+      "sourceId": "toast-product-news",
+      "sourceName": "Toast POS Product News",
+      "company": "Toast",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
