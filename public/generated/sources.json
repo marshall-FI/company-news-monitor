@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:50:34.756172+00:00",
+  "generatedAt": "2026-10-26T00:27:10.837100+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 14,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
