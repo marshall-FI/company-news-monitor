@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-26T19:22:58.149117+00:00",
+  "generatedAt": "2026-10-26T23:59:11.888997+00:00",
   "articles": [
+    {
+      "id": "about-amazon-93ab7099f1af23e07762",
+      "title": "Amazon’s Holiday Beauty Event ends November 1: Shop top deals before it’s over",
+      "link": "https://www.aboutamazon.com/news/retail/amazon-holiday-beauty-event-2026?utm_source=rss",
+      "summary": "Save up to 30% off skin care and makeup, with rotating 48-hour flash deals and curated holiday gift sets.",
+      "publishedAt": "2026-10-26T21:40:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "amazon-press-archive-1e0484ffaa9e17c51cc7",
       "title": "Warner Bros. Pictures Animation and Amazon Ads Invite Audiences to Play Inside the World of The Cat in the Hat Ahead of Film's Premiere",
@@ -36,18 +48,6 @@
       "company": "Google",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "klarna-press-e9011ff0b3b1c8c5621b",
-      "title": "Klarna’s flexible payment options now available at Adorama, giving creators more ways to fuel their next project",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0pVRk1WWTZPNVNGbm5acEJ5MXBFVVpmaU5ZQTAzUTdVNHY2RGkwcEczaVJKWG9ONVdlOHlualQ2eWZidGU2VFV3Y1pDNG9oUXFtODJPUmk0MFhGT3Jkem1HUUh0TzRiRTJ1U2s2dWp1SHRacURxQlI5TWt4WEhoVjJLLWNyNW51dllhN291Q0FSMGFPREdkYURlUERmRHpBYkx0czZJZWNjSnE0d05IcWx1TkFWbG1mWU15X1FZbE5IbkN2ekFRMGtNdlB5QmpoTXFKN0Z2LUdON0FFUlhYTk9NaEtDb1puT3c?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-26T15:14:53+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "about-amazon-3575a8a475511221b1a1",
@@ -158,6 +158,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "sofi-press-87fa714f6f4dd40a55cd",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q3 2026 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVRXWkpZWnVqTDBDdHd6b2lQamZ4bXlaUGhhR2huUnhpamhwQk40aXBvVHh3R1FBMllLLUxuZWZfWU5nVDVYRVNHdkQ2dG40UDhONHFLQ1dFS1FBbU0zalRmWVhCTWp6SE54Z29kdmdENTJRRXlyZU55Z2NmM19pd1UtQ29wdEZ3VzZuY041aEtrM2VvY2RsV1pVOXpFZ0pSMk5pb3VoOVkyX3l2MGUya244ZXhibUlGa0szNm1n?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-f07d0bb3b14ff2bf4391",
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
@@ -255,10 +267,10 @@
     },
     {
       "id": "coinbase-blog-7f04d40eb7ac64b86620",
-      "title": "Resolving Past Safeguarding Issues: Our Settlement with the Central Bank of Ireland",
+      "title": "See our cookie policy for more information on how we process your personal data. To customize your settings,",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXJidGo3alI5WVRscDZPUktNMHVOTVZKZ0h4R0h6TGIyZGlDQ0liR2ZNeFF1eGF1SFJqNkRUSndnYUM1NHRnSnFyZHcyVWpIRTIydUVKSkMzclQtczloLXo0bkx0aU5PTk1nV24zSDFGcE9yVnpJUjByNlRiNkdVSnNPZlAwaVk5b2FwVFBkd3FqVEQzN3JHbnlDX2xBVTlqemNqcmpqYWNWWTZSdm4wRXR3?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-22T10:00:00+00:00",
+      "publishedAt": "2026-10-22T10:14:59+00:00",
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
@@ -396,30 +408,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "klarna-press-720d24aad080bc14955d",
-      "title": "Klarna and FreshBooks partner to bring flexible payments to U.S. and Canadian small businesses and the customers they serve",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWnB3blZ5MnNyWnNudFM0Q0JCVEt2VGhrakhDek04RWM3MmRuZkVJTGM5QWlrSHJJVEJ0OEg1RTEyTEtha2EtNjdYSl9PcHFVVzI0d0tjdWpkVGZIRDdmSFppMm5oNUxBQmptTVpJZVNobWVLXzU0M3NHb0NiS1pjM0IyanRkOEw4aGRicTFYQTN6Y3d0OUV3cXI2dE5ZTUhxM0ZSNUZveURoU2RHWW1fZDh5OGl0eTZxQ2F2S1VCSWNkZXFXa3VRT1V0d3BwbW0xalpBdEg4OFE2YmFFc1EwUkN2ZHBFLVMxR1NJbmliV2hIM2g0ZGE3ejFR?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-21T15:05:05+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-1e54e77f78cc386b93ec",
-      "title": "Klarna launches Consumer FX: shop from Klarna merchants worldwide, regardless of currency",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGpBWV9CT25qX0FIcG44ME5Ud1Zfd2YzLVo4WWlXdGZXWXdnQ004STlXUkJORFllV0t2dFNmNnoyNjRaZm1jbEdjRTQ2ZTNpMEppa196VkxNcGl5S3ZPamJFZEl0aXo3V3BRNE1YWEdrVnRoNk14OVhKclgwbTJFRzZSSm1QUlN2NUllZDhldC1tTnJHZnBUNFZYRGdjX2w2aWNfU29UYnBjSEVsdkkyUGg5V2hPaEdXc2FXd0VGZkFwendIVGNHWU5WUQ?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-21T14:19:18+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "google-blog-bc70ac2dbf779ff88ac6",
@@ -722,18 +710,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "about-amazon-a57c41d1ed80cf53e909",
-      "title": "Amazon announces plan to invest €16 billion in Germany in 2027",
-      "link": "https://www.aboutamazon.com/company-news/amazon-germany-investment?utm_source=rss",
-      "summary": "Since 2010, Amazon has invested over €100 billion in Germany, underscoring the country as one of the most important to Amazon worldwide.",
-      "publishedAt": "2026-10-20T09:04:23+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
       "id": "shopify-pressroom-89fa0892aab38a2a71c1",
       "title": "In the age of convenience, experience is the brand",
       "link": "https://www.shopify.com/news/experience-is-the-brand",
@@ -840,18 +816,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "klarna-press-4da5d4158d61e67af152",
-      "title": "Klarna launches on M&S.com to bring flexible payments to Fashion, Home & Beauty customers",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPall2Q2w3Z3QyM2Z4V0ZhRG40UlNNdHZmNS1JSy1oRk9FOHN4aDBFVFVCUnFRSFZyU0JuTE9LeEZ3OGtCYkI4U3VnLWVUUjdlQlFYZ1I3X0xPQWYyaGpkM01GR2FRREFteFVwcTNHT29XamZJMWkybmlBcUFpanVUUHFpcklEWnBiYlNKdjVvTDlHS1dSNXdjN0VJNFgybU4wVU1zZy04U1h1aFlHTzF0Wkt3MjdGdVJjTHF4SmhPSmNpRUxXUTR3Rw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-15T13:48:13+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-b87715c5d104df6266d3",
@@ -986,69 +950,9 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-0ee595b76a9817354f40",
-      "title": "Consumer Protection Tuesday: Following the money. Stopping the scammers.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnYzbGhsNE5paVREbk1EajlEZXM4Y21sRFNMbGgxWndxZklNeGNCMFlTc3FIU1M5UHZjZTZLZFllT2FmRzFwUDVIY20yWkF1emNFbHFfOERwUDlCeXotWnRpU2dnaVpzekZUU1Z3Uk5lb19LQmd1ekZZLTVqSXdGVWdtVWs0UFJQbGdWeVdpc2QtV1RSNFlGSS1sZzhqQUVh?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-b15aa7667b5027f5ee7b",
-      "title": "Ecommpay adds Klarna, giving consumers a more flexible way to pay",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBVWkJWRV9ra1JWOERaR3VHTnFnU0hESkw1QkExeWg1WnBhT213NnhaNS1Hbk8zU1UzSXBVTmZrc2VpOFpCZHBFODlqblFLSWxIaTE4dTFBaTFWTmZEZl8tMGt3WERsSVRjRlVoMHZ2bGpabnVnLXE5NHh5ZHNPTVNxVHZiNHVOVnNobDAtazgtUUJ6YmRDZWVBU185NE9ubmUxSWttU1ZvSklf?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-82ce411a2ff0ecd9db7b",
-      "title": "TAP and Klarna's partnership takes off: flexible payments now available in the US, Spain, France and Italy",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbXFsS2ZCUUZPT3gtaC0zUjB0UWotQ3Z0dHdRZV9Mbkw1SWZtUU1IbTdHMWJ5X3FRNkhLZEpQdkd6Zk5sNjlGYVB5dWkxOWd0T3VQTWk2LVNYbmVQcDI4NWxLNDZoV0NzMFdlQU13WHhKWUtGazlMaFpSV0E2ZDJRVS1iV0NmYjBlQ1pTSGJFbHBnbHh4RFd1Y243TlBNTm1zSWhpVldaVE9yb3JIUHprVVhxVU0wSHpTTmRhdVJIaFRPYndfbWxaZU5OVkdWLTF5Z3pNRVdoNGhTWjNRUVV3?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-13T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-9bfeb3fe062ca35533f8",
-      "title": "Klarna partners with The White Company to bring flexibility to homeware",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzBYNzNVQ2kwQkxJNlIwQTZWVXhickRnRzlqdDdUdzhvcUUtcTJKTFAzdE14U3JjR0RacHIxeEY2eGxkYmJFUDRRTmpack9hSklIV01UWERNa3l4S2d1MzJkNnRVQldxZkxKZTVwYzVPX29hOHVuak12amlRU05DcDd3MGxzWXA0U3BfZ2hpclpncXV4anJzdEsxeTRILWhuaEJNVngweXZockVqaHFweFZtaHNpZw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-12T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "coinbase-blog-09fbd8a716bb51243c0d",
       "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-1c50411fc2e22bad3237",
-      "title": "Part 3/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMjJCOGhqSV8zUnJQODg5a1NmMTdldmRkNjJ1bFFtcFcwOW1jYUpjY0VmVzFWdFVTTzNiLXJJZXB1YWVTeS1XZHBwWG1GZG1yTU05a1dTSWZ2WGFId0JwUmRsSVc3VXFNejBSN1ZKOHc1SVBTV0E?oc=5",
       "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
       "publishedAt": "2026-10-08T07:00:00+00:00",
       "sourceId": "coinbase-blog",
@@ -1104,18 +1008,6 @@
       "company": "Robinhood",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "coinbase-blog-7130fc62ca777403ee6b",
-      "title": "Part 2/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GYm5nYnF5clRWa3BkT1dsakFhSnVsOVk2bXFWN3RNQlJwcFdhMWt6RHZNSEdXdlEyRjVIYXR3bXdEYkY3eG15bDhMTncyY3kzZV9YWW9ZckNZYS1YWVNaMFVHa0lTdW1FOVJ1SEFjMHJFX1E?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "coinbase-blog-d0b4f28d8b5e6ffd3f9b",
@@ -1186,18 +1078,6 @@
       "sourceId": "coinbase-blog",
       "sourceName": "Coinbase Blog",
       "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "klarna-press-63637a0cebffb24104a2",
-      "title": "Wayfair and Klarna deepen ties with more flexible payment options across U.S. and Canada",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWDJWQ2ZtWEVrRElwTG9lek5hM2dqcUlQMXAzdDVBVkR4cTRNQUlhY1YzMkpaeDBNaE5QZVNURlJ4N3NPV2ZwWlYyYjVXYVRnWVZYc1BvLTF6VHUzdlV3NkFYbTktRF9yNWVSeUFnVDFDUm5qT1h3?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1298,18 +1178,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "sofi-press-87fa714f6f4dd40a55cd",
-      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q3 2026 Earnings Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVRXWkpZWnVqTDBDdHd6b2lQamZ4bXlaUGhhR2huUnhpamhwQk40aXBvVHh3R1FBMllLLUxuZWZfWU5nVDVYRVNHdkQ2dG40UDhONHFLQ1dFS1FBbU0zalRmWVhCTWp6SE54Z29kdmdENTJRRXlyZU55Z2NmM19pd1UtQ29wdEZ3VzZuY041aEtrM2VvY2RsV1pVOXpFZ0pSMk5pb3VoOVkyX3l2MGUya244ZXhibUlGa0szNm1n?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-29T12:05:21+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "sofi-press-300c7fe45a34adc3513a",
       "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q3 2026 Results",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1hoNHlwNzBmMUY2bzY4dWhwS3VGNmNxQURZOGZvZDJBclQ0eTJOX0c5MklEc2JJUXQycTdYNmU0enpfeGl5RXhLU3VNMjBpVXh1NVpXSTQ4c3hENDZtYjlZTjNfQk9rZm9qdS1NSTQxUTFpT0RJblpPNUF4eVVVelBXZ0MyWmdjdkhFUnhDQklINHVpcENCY1Buam11UjJPU1hKRzJyVFBIZU1uQW4tbWVTUmU0WEh4WHZMOQ?oc=5",
@@ -1330,18 +1198,6 @@
       "sourceId": "toast-product-news",
       "sourceName": "Toast POS Product News",
       "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "coinbase-blog-0c6c52eacf4001971d1a",
-      "title": "Modveon and Coinbase bring instant, low-cost remittances to Sivar, El Salvador’s new trusted community and payments app",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFhoY1R5UFpXWXlBNEtSSkhSWDV1cThGZTdJNlNKS2lDUHN3TkVfMG9Yd0hBdWZMY21nLUloYTAxeW5haXg2ZW10eXJMTVdHNFZVYWwxTkNpeTR0NFptODlFTGlzUl9uNU5ybVpLVWpMRFBMd0lIeDVpQkQxTXJiQnlMbTZXZmE1WURMdjBBTXQzT3pWSFppSzF1Qi1Od0YxeWRYbHNHTDBWRUJzRmlGWFhLRHlYQ1liLU5fUEpiNDYzOU9yaWQyQmxScExfUFNwTlJ2blhqMXdMMUN2ZXJ3?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-29T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1502,18 +1358,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "klarna-press-b1b3914bd7ad7b248c1c",
-      "title": "Klarna expands partnership with global resale platform StockX to bring flexible payment options to U.S. and Canada",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWDZsQ2NaTklhN1Y3NU83c1VfTk9DRlMwTnJtNy16ZTRDUXBaaG9QdHllTmdibE5ZU0N6Y1ZQU2ZlUFpKTV9mYkVrY2F2NFNqZnBfWGJRUzZlajBOSzN3cFE0UGZMa3VOTHh0cUlCa05rTHE5YlpUcDJqNXE5cWx6UjEzQW9QTWhkVUhyZFpid3Bja2Q1X2t0akRySktnZURWajhkY3dqWDU0Z3VZX1FjX1hFYWlQWTMxYUV3TVFqbGF2aXZLZXpwUDJqYzFxQWNlYzNpWDNVOUpsWGlZalVPSzdkVEk0V3AyVmhOZy11c2hkdw?oc=5",
-      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-08T07:00:00+00:00",
-      "sourceId": "klarna-press",
-      "sourceName": "Klarna International Newsroom",
-      "company": "Klarna",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "upstart-press-e98e06720988c1bfbc15",
       "title": "Upstart Publishes August 2026 Originations and Latest UMI",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-publishes-august-2026-originations-and-latest-umi",
@@ -1622,6 +1466,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "klarna-press-af7d0d36cc52788e2a85",
+      "title": "Klarna Reports Second Quarter 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQW1oN2h0Szdscm8wVXN3djduNVpoU3pvR0UtUDRNaTBnZVVMcVhxel9EZGhhTlNaT05adkhWRmU5Xzh1ci1LUkZELTFnMlo5X2c4TXhuRi1RLWpuTlNqaUIwNTkyRXlIcmJwSEpSSGxjV3VSbHdYeWlmSXd4UERpNkRIMW5rVGU0cDNpaGlDZw?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-18T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "shopify-pressroom-7b0b1510811570bf575b",
       "title": "Commerce now moves at the speed of culture. And anyone can move with it.",
       "link": "https://www.shopify.com/news/culture-becomes-commerce",
@@ -1658,6 +1514,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "tsmc-news-81907d2949b3bcef6dcd",
+      "title": "TSMC July 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwRnZnTVBnQURwZFQ0UDl5dTg2akstdHhRRlZJSlBjRXVPSWR6eW9DTnhWSEZENlVJUkl0TDh4c2Z1UFVicGZ0Q3Z3a2R3UQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "marqeta-blog-ab513aa3e6853dadf751",
       "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
       "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
@@ -1680,6 +1548,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "coinbase-blog-3424e4f9d11def8ed727",
+      "title": "Coinbase UK Launches 24/5 US Stock Trading",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NndpRUpYM29PWmwxaHFCWVRQSzhlbVFlaWZPemtMX1llSHh0X0RmQ2RQQW52Z0tnQ25YMWZic2VQdWRZdGljU2hqYUxkV0JmV1VyTTBKRzdwLWRDdW9pNEU3ZDFtcUtWMmlod1BKRzlPd01vb1E?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-06T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "marqeta-blog-7e9ceb995003efb3bad5",
@@ -1764,6 +1644,18 @@
       "company": "Shopify",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "klarna-press-ae4d4851388ccd546dbe",
+      "title": "Klarna to power Apple Upgrade, a new hardware leasing program offered by Apple",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlJHSFU0cVAzYXN2ZjVQNzhVNGp2OGNSS0tHMHdSWGMzc1VQWDYtZ2YwUm5lbWJHeTZxQnl2YjRLaEN1SjFIcnNMTFpUclJNQ05VQXNyQ21veGRzY1Zudi1pMjM1ZFJiMk5MZGd3cWZQTnF3NjJWazlKdnhJNDBBeEl1dWZJejZRbFBqYXFJSXZmZEh2SmhIanpRLTVUaUJBalJoZFEtWWRGOC1JRHVZMnZueks0eGxpcnBZd0tB?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-07-28T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-9b031b52818f911fd4f8",
@@ -1886,14 +1778,14 @@
       "sourceKind": "html"
     },
     {
-      "id": "toast-product-news-146f0c8e3e86536f7c51",
-      "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
+      "id": "klarna-press-b91b59eb6d243c834d6b",
+      "title": "Klarna launches in-app inbox to help consumers avoid scams",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmpLOHFZOER5cFB3V2U2SmxNOVFndEx4Vm5XSFI5bzl0eFRYNlJoVkpfaFUtSmJOVm5zaVdhQVItZlZnbWE4SkhkYXhvckdZV3J0czIzaGV3YmhIWThfWXJ2ZVA3MmpMdW5BS0JUcDJBb3hKZ19DZ0Ywc01aNkVwUmRzNXdhMW12bGNqYnNWbEFsUk5pWU16VWlqVFZpeDVKWGJDYQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-06-04T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -1970,6 +1862,18 @@
       "sourceKind": "rss"
     },
     {
+      "id": "klarna-press-b46d417083e00c217dce",
+      "title": "Klarna launches AI-powered Shopping Search app in ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2R3Y04zdmtlcURRREo1ZndiMmF3MzNQNVdac2h5eXA1ZVZyMmhPeVZGOTRlcV9CQ0tlMGF5OFgwREc2bzcwOTd4bUx0TlZ5REVpbi1tay03eGlMekhpYUFRMThLVzJRNEp0bHRSUFJSWGJTOWN1QzFqN29BZS1uNDdsSnhlTl9PUmhuaDJGdzlJQmgyYTdzWThwbG1rVEFGR0hn?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-05-20T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "upstart-press-62cb26466aa973695e29",
       "title": "Upstart Appoints Former Santander US CEO Tim Wennes to Its Board of Directors",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-appoints-former-santander-us-ceo-tim-wennes-its-board",
@@ -2042,6 +1946,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "tsmc-news-0847a2759412a0ace3c6",
+      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-08T07:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "shift4-news-a5454d306bd930dc2141",
       "title": "Shift4 Announces First Quarter 2026 Results",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/300/shift4-announces-first-quarter-2026-results",
@@ -2052,6 +1968,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "datadog-investor-news-f02a65ab2729b75d5646",
+      "title": "Datadog Announces First Quarter 2026 Financial Results",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWRIVHV4clkzUmFoMXlGRUFvRzZNd2xaN0pHaGdlR181RUtsYjBfWEdNN0lZdEt5TnZ2U24wcFIxS3p6YnhoZDN1bE1aTlYyZEVUOG1oek14My1tYkNrLVl5dXBlZnlaQTJFODdudy1TT01sNkNvUS00cFBIVnRfODd4MGcwajVPWnhZTGd1a3BOZGZsXzZBSzd3aV8yRl90eVpNXzBQSV9tLWwxejJNQXRoMUNkaDduZGVEQkZEWQ?oc=5",
+      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-05-07T07:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "datadog-investor-news-54ad697864a61a5260d7",
@@ -2282,6 +2210,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "klarna-press-2e23749375e9b1f7b8ee",
+      "title": "Klarna launches on Google Pay in the UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnpYS2s3MXRQWnZQcjVVaVpqaGx3OE9TaHFJWmpqN29scnJzWUdrS0h6TFBYSUlEMW5RVGxVR2g1WmdoY1dUN0QtM0Z5MGM3MThObnZIM08zODM2c2hsTGRPeS11R3haQWhPWXJKZzFha0lQdlBKVE5lRWt4M0RNX1djdmplSm12MmRV?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-02-16T08:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "datadog-investor-news-e33c4b30c3cd20951910",
       "title": "Datadog Announces Fourth Quarter and Fiscal Year 2025 Financial Results",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1ZtYTA4ekFqTkt3Wkx3NkxDQVY0Y3k3cWJFXzRGZ0tyRS1Tb3JnSzN0d3hqMHdiTWN2ME9aX0pGNkV6Qnp6SEpjT1djU1hUYTRVMUVLS3NaSGJFekhsWW03Y2NpV3FLLU8yVnFmRmdyQWgzZkF5TUw1SDIxMFFkZVNrT2RmNmgzWjRTd1lkQTJIWXlqQ3FJVVBTUWZ5UC1oVndjZ016aWNFS3A2YnRnaVNaWGVnY2V5TzlXSmRHeDZGdElISmhhMlNDZw?oc=5",
@@ -2366,6 +2306,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "klarna-press-f2113950c101241bede8",
+      "title": "Klarna expands digital bank offer with peer-to-peer payments",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2JpNmJ5MUhTOEpEYlQwSE1fSG1GV2dPME5XVnFnUUM5NWZxdnluSVU1U2NwTzBkS2w3VEpkbTV1UUd4SEEtQ19Xb2RmdHZ0bnZJZDBZUXFnNzA1UTB1Wjh5Ukp0R3dvMGtzdFpONV9ILTJjblpjMTVIOXlVU2ZXWTQ5Y05RQnBWY2QzSGRnTXFVWVFCTnBaMmxtZWpwWnZObFp0RF9kaw?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-14T08:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "toast-product-news-9e5e095cb7855f19948c",
       "title": "Toast Delivers Precision Insights, Action, and Efficiency for Retailers",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGZBaENhYjVRTERVTlozN1F3WWZiUFFOdGNvV1FrdEl1YVlUczNxc3FJZU9Tck5Dd25OU0hXNVliRkF2UVE5UXN1Q1lkc2RER0VEOHhUakQtS2ZkSGZXOEFUSUF0UHVpNjVyQ1R2c3Jxd2xLOWhmNVY2d1IzQmEwa2NtVlZ6elBOS1BkWDlObVMycmItbEtzdDFGOTV2cE9h?oc=5",
@@ -2414,18 +2366,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "coinbase-blog-723efe929590bb13d10c",
-      "title": "State of Crypto Q4 2025: Younger investors are rewriting the investing playbook",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNUTlCRHYwem03dy1DTk0wYmxuNjNjdVNLZnBuMElYOFAyQW82SzZaOUJLamhxdjkzNkpUUVgwTVhRUEx2NWszSjBpYm9rR1VRV3NzbTROdGF6YWlXdVhXRWdRMA?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-12-16T08:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "dlocal-blog-96838278262a996b466b",
       "title": "How global merchants can simplify Buy Now, Pay Later (BNPL) integrations in emerging markets",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/how-global-merchants-can-simplify-buy-now-pay-later-bnpl-integrations-in-emerging-markets/",
@@ -2459,6 +2399,18 @@
       "sourceName": "SoFi Press",
       "company": "SoFi",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-23513d543df55793266a",
+      "title": "TSMC 2025 Supply Chain Management Forum Presents Awards to Outstanding Suppliers",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ySUNQVUFhRlVUT25MZ0t2NmlqOWw4UmJ4MmZfd1VLUEt2MVF3RWJZTm5wZ2NIdGhMMDVBSVZRTUJ3dnhfZjRGZ1NxQ3Fsdw?oc=5",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-11-28T08:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -2702,6 +2654,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "klarna-press-3ce720bb7592293b08e1",
+      "title": "Klarna grows Q2 revenue to $823m, reports continued operating profitability and highest number of on-time payments",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazhDUHdzeWpUWEk2azRnRGxtODVxRFI4UUdHTktjRjFUM19uM3NMdURhZmFyWVZRdU5iMWxXZXA1MFMwZ2c0MEtPdTd0TUxTX2xwVDNYczN5X29aTV80MnhBaDl5V0FuX1hucE1iQWFYYUZyM29ZTnp0aG92MkpLNDBZYUprZ2s0WkdXV0JkQ0VobERtUDNtWDdjSnRUaDdLcmxFZHJaN3JmNjZoQ1dONVZKWGxGREh6Ml9Jcg?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-14T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "upstart-press-cdf395b045fca44aa8ea",
       "title": "Upstart Announces Results for Second Quarter 2025",
       "link": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-results-second-quarter-2025",
@@ -2758,6 +2722,42 @@
       "sourceId": "block-investor-news",
       "sourceName": "Block Investor News",
       "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-6169fec2dc7d8d3a18be",
+      "title": "Powering the future of ecommerce: Introducing Coinbase Payments",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVdBVXJTNjVGVi1CUi1GbzYzb0RlaVM1NGtmSVczQkFzVXV0RklncnVTcVBGZ05tQjlOc05VMnB3bnNxRThyNTh6Q1U2UXlVVnZSdEpQYmN6TGVMSU5feFRteFNxeHdkbUY4NkE3N1VnTGZFZkE2Ri1jekI5VVZNdkp1VXZzczQ4d2dMSy1KSmxRWjFNWEF3?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-18T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "klarna-press-af157ce83a54fb0984e8",
+      "title": "Tap to switch: Klarna expands into mobile phone plans with flexible, no-hassle service for 25M Americans",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHFWNmVoZG9QYTZLWUczYjBUTGROMFM0NDR1WUpjOV8wOExmSEQ2RUswa3Rid0p6UG1ycnZlNGc3Zld5WVhnN1oyeG5pMzFCYnJpdTE2YWxtR3I2cEs1Sm40MzZZTkJfN1pkekktR0FLV0lzXzdwNmU4SXpYNEFNSWZNekhTcF9zX1N5ckkxZW9aaWhyUnJVN19yMTdqSHhJQ1h2bFdfbHYtY3VPUWJsVC0yQnB4QVlLUkdOQQ?oc=5",
+      "summary": "Klarna International Newsroom published an update for Klarna relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-18T07:00:00+00:00",
+      "sourceId": "klarna-press",
+      "sourceName": "Klarna International Newsroom",
+      "company": "Klarna",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "coinbase-blog-df6ec82a8fc03979a565",
+      "title": "The State of Crypto: The Future of Money Is Here",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE9qamlYeWpjM1hJbVZaZnFDbzJ3d0xueGdaYzk2VURGZmd6SXNnUmxPN3E4cVpNOHoxbEI5OFFrVUt3OTdzZWJZZElTR08tQkVlR3hqUWJ2bC1nQi1Ta3pxR1U2WXh3RTNGc293YXE0Z1JUNlZ4azlyZ2JBTlVFTkVnUQ?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-06-10T07:00:00+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
@@ -3042,7 +3042,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 14,
+      "itemCount": 15,
       "message": "OK"
     },
     {
