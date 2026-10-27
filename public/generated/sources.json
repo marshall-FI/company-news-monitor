@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T16:41:03.818867+00:00",
+  "generatedAt": "2026-10-27T21:22:44.329414+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -97,7 +97,7 @@
       "category": "Fintech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 6,
+      "itemCount": 5,
       "message": "OK"
     },
     {
@@ -158,10 +158,10 @@
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 15,
+      "message": "OK"
     },
     {
       "sourceId": "circle-pressroom",
@@ -176,10 +176,10 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "category": "Fintech Blogs",
-      "kind": "html",
+      "kind": "google_news",
       "ok": true,
       "itemCount": 18,
-      "message": "OK"
+      "message": "OK via official fallback RSS"
     },
     {
       "sourceId": "nvidia-newsroom",
@@ -248,10 +248,10 @@
       "sourceId": "tsmc-news",
       "sourceName": "TSMC Latest News",
       "category": "Big Tech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
-      "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "itemCount": 10,
+      "message": "OK"
     }
   ]
 }
