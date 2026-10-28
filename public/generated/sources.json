@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:04:30.086201+00:00",
+  "generatedAt": "2026-10-28T21:08:25.602482+00:00",
   "sources": [
     {
       "sourceId": "sofi-press",
@@ -176,10 +176,10 @@
       "sourceId": "dlocal-blog",
       "sourceName": "dLocal Blog",
       "category": "Fintech Blogs",
-      "kind": "google_news",
+      "kind": "html",
       "ok": true,
       "itemCount": 18,
-      "message": "OK via official fallback RSS"
+      "message": "OK"
     },
     {
       "sourceId": "nvidia-newsroom",
@@ -223,7 +223,7 @@
       "category": "Big Tech Blogs",
       "kind": "html",
       "ok": true,
-      "itemCount": 18,
+      "itemCount": 17,
       "message": "OK"
     },
     {
