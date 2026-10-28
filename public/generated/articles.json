@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-27T21:22:44.329414+00:00",
+  "generatedAt": "2026-10-28T01:24:39.182255+00:00",
   "articles": [
+    {
+      "id": "amazon-press-archive-87dd8d78a5410c7d8939",
+      "title": "Classmethod Signs Five-Year Collaboration with AWS to Help Japanese Enterprises Adapt to the AI Era, Built on Its Own Transformation",
+      "link": "https://press.aboutamazon.com/aws/2026/10/classmethod-signs-five-year-collaboration-with-aws-to-help-japanese-enterprises-adapt-to-the-ai-era-built-on-its-own-transformation",
+      "summary": "[MEDIA ALERT]Expanded Strategic Collaboration Agreement scales Classmethod’s “Client Zero“ model, turning the firm’s internal AI transformation into a proven path customers can follow, from modernizing legacy systems and strengthening security to the emerging frontier of Physical AI[MEDIA ALERT]",
+      "publishedAt": "2026-10-28T01:00:00+00:00",
+      "sourceId": "amazon-press-archive",
+      "sourceName": "Amazon Press Archive",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "about-amazon-9c11e680d21854314f78",
+      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+      "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+      "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+      "publishedAt": "2026-10-27T22:42:00+00:00",
+      "sourceId": "about-amazon",
+      "sourceName": "About Amazon",
+      "company": "Amazon",
+      "category": "Big Tech Blogs",
+      "sourceKind": "rss"
+    },
     {
       "id": "about-amazon-6bd645c5a22d35daaaae",
       "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI",
@@ -182,6 +206,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "coinbase-blog-d4e7289a67d6dfb269bb",
+      "title": "Introducing Coinbase's Open Source MPC Cryptography Library",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOYmVYTlRWU1FoREJIaXJKV2tJZ1VTX21lMXN5aGt4V1U0ejZvU0lBcWFuOW5VVU9iZVhmMkxRN2w2cW1QQWVBOWxfd0JyMjFnbUxXTzRMdFZ4SDN1c1FuS1dBckZVRk5FQ2tzd2VZd3hlak5XQlVrVzRtTEtSTHNpTUJ0UHcyY2xJZ2xBSG1iSl9yMXZWMmd4aVRNS3pQeURMM3l0QjZLcXZUbFFhcmhGUjNsWEM3X2JFNWRkWmFMa3ZXTndvXy1BQzkyVXJKakRZS01qZ0JMODFzYVFWTGg3eUN0S2d6YW1ZZlloMk9NOXFUaTU0VGRQSEoyOFZwX1UtWDFSY3dsaFBiRTg2RWJPQnhkdWxlZ20tdmxWYTdITW9YbVRVdVl3TlNTQUxwVmxhUWVzbVQ3WjNleFJGdHJEU1VET1ZPa0szTmhLejV6dC03Ui1jQUdOTjNwbFR3d2xEQmxvTFBpelpaXzVub3VVdW5CRjhuRTN1ZE5aN3ZiOXhDc3Q1MkZOWW1sSFpSU2dmOFE?oc=5",
+      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-10-27T07:02:05+00:00",
+      "sourceId": "coinbase-blog",
+      "sourceName": "Coinbase Blog",
+      "company": "Coinbase",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "nvidia-newsroom-3f89e6cfda638ba7484e",
       "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
       "link": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
@@ -331,18 +367,6 @@
       "link": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-first-job-advice?utm_source=rss",
       "summary": "Jassy reflected on how his career wandered before he found Amazon—and why he tells young people to stop chasing the perfect first job.",
       "publishedAt": "2026-10-23T19:49:26+00:00",
-      "sourceId": "about-amazon",
-      "sourceName": "About Amazon",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "rss"
-    },
-    {
-      "id": "about-amazon-9c11e680d21854314f78",
-      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
-      "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
-      "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
-      "publishedAt": "2026-10-23T19:07:00+00:00",
       "sourceId": "about-amazon",
       "sourceName": "About Amazon",
       "company": "Amazon",
@@ -564,18 +588,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-f00d46d1bf845b9ff714",
-      "title": "Old Spike Opens Seventh London Café and Optimises Square’s Software to Power New Live Transaction-Linked Impact Dashboard",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPYkpoY2FWS0NRQnZmZlVWMWYzeWpWcUtpWUw3N0N3WXgyZC1wZzVZcnFXNm53LW1SdjV3bW1UZ3ZLVW45MkJITFI0SzNkWk92REdlczQyYW1SNExMMnp1ZWFaNTNLWGVROG1oME1WN3VfT1RFelliZXVRUi1rZWxOZ2t2ME1UNlpVWVlzaHNqc0FfNHU4bEZ4TGhzam5tWVJkV2N0c0tyaUpvQTl6Z1hHU3FqTFBHeFNOQTY4SmRvV3BGQkpHai1Ob2RkR1J2aExINlNiNFJCQUtvVGt5MGZIcWVnQWVOaTJvUmsxSWs3Qm9KZjFsLWkzSnVCVjFQeElwb0xiY3NJRzVVbnFxWWkwa3BHbTg1Z3ZwTDFzbQ?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-21T16:38:09+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "amazon-press-archive-90007eeabe4b014b6e42",
@@ -902,18 +914,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-1ed9b044db2b667b75ed",
-      "title": "2026/10/15 TSMC Reports Third Quarter EPS of NT$29.43",
-      "link": "https://pr.tsmc.com/english/news/3346",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-15T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "klarna-press-4da5d4158d61e67af152",
       "title": "Klarna launches on M&S.com to bring flexible payments to Fashion, Home & Beauty customers",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPall2Q2w3Z3QyM2Z4V0ZhRG40UlNNdHZmNS1JSy1oRk9FOHN4aDBFVFVCUnFRSFZyU0JuTE9LeEZ3OGtCYkI4U3VnLWVUUjdlQlFYZ1I3X0xPQWYyaGpkM01GR2FRREFteFVwcTNHT29XamZJMWkybmlBcUFpanVUUHFpcklEWnBiYlNKdjVvTDlHS1dSNXdjN0VJNFgybU4wVU1zZy04U1h1aFlHTzF0Wkt3MjdGdVJjTHF4SmhPSmNpRUxXUTR3Rw?oc=5",
@@ -1008,18 +1008,6 @@
       "company": "Klarna",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "tsmc-news-2e461f2ac6e5c44a50c2",
-      "title": "2026/10/08 TSMC September 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3343",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "coinbase-blog-09fbd8a716bb51243c0d",
@@ -1190,18 +1178,6 @@
       "sourceKind": "rss"
     },
     {
-      "id": "block-investor-news-89ce9e4798f929cd00eb",
-      "title": "Seattle Icon Pike Place Fish Market Modernizes Its High Foot-Traffic Operations with Square",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPelNZY2ZCX3lsYjZGNG5nZjV1VVdMMFV0dlM2cFZ0ck45cUw5WVRELUdFZW5SMmtCR3h3VF9pWlI4c2hwQ0xETFRKVmNKS2RvZW5QV1ljdXBJaGd4SjBwaHJ0X1lmaThwNFFUR2RhdlRqUEpTQmRXdzRnMFowMF9Kd3kxaDUwUlEtUkJOQlhROUdNd2FZV1FJNnZySzNFY1hiM2ZtUl9xRjY3d0Z4aWpOY1o4R191ckwycWtwb0MyOEZZZEZfb0JySk84QlMybVRLUU42S1B3d21vLTRLY0tkUGxKMXhKcW5XMi15bEtKSmZCZzMyamdr?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "shift4-news-b259404b2ca1716270fe",
       "title": "Shift4 Announces Fifth Dividend Date for Mandatory Convertible Preferred Stock",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/308/shift4-announces-fifth-dividend-date-for-mandatory-convertible-preferred-stock",
@@ -1260,18 +1236,6 @@
       "company": "PayPal",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "block-investor-news-cbf4f2a03dd62563b0e5",
-      "title": "Ètra and Café Telegrama Run Two Restaurants with One Kitchen on Square",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQREpSOWhvS2l3akdmdXRoTy1qUEgzZWY5aUNmanhESHdWT3IzSlVsdjJZa0V6NmNOX2pSYUtseklfTGJLNmVoVy1xel9tUnMyTEVUaGhOZVZQRzFZNzBWT1VNaFpjcjdMbDBCUFY0cmV5OEktQUp1Q21tSWc5a3FsQW00TEs0WXctNEdENml3M2dKdkE5RzUyaGkwdDZINEY3eTN5clExOEpJYW9OODVQM1RVZmpHd3FmWmN5RnZUWGRmVWxHVFgxUlFKc1R2UmJyX19LUFdmVlI?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "sofi-press-87fa714f6f4dd40a55cd",
@@ -1346,18 +1310,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "coinbase-blog-7cf2e3849275ed0e32fd",
-      "title": "Coinbase Receives CFTC Approval for Coinbase Clearing LLC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRxS3dnUk9NS1JSNzJEOW9kRDVJdUFWTTlmWEdtYUlTeGdUU3ZrTHU5R0ZXLXZkRDVqbGdLb1lWZUJvb1BqcDRqelNCeElMSnk0eVpWcmM3UXJSZHhRYWxlRE1Gb1E1cFZFOWZBR01tZGFEZUlOSk56MW1iaDVXMkVfNUgzeHZQY29kbXdsSng?oc=5",
-      "summary": "Coinbase Blog published an update for Coinbase relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-28T07:00:00+00:00",
-      "sourceId": "coinbase-blog",
-      "sourceName": "Coinbase Blog",
-      "company": "Coinbase",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "marqeta-blog-2608d99108a84b6379d1",
       "title": "Digital banking All Industries Marqeta unifies card and non-card payments on a single platform Article",
       "link": "https://www.marqeta.com/blog/marqeta-unifies-card-and-non-card-payments-on-a-single-platform",
@@ -1380,18 +1332,6 @@
       "company": "Circle",
       "category": "Fintech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "block-investor-news-0061d8d1927194d4761b",
-      "title": "Cash App Partners with Workday to Bring Direct Deposit to More Modern Earners",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXlvaWlZUGZZNks4d3lNMXQzX3RvZVpVeDNTVGtQU1llcGFuX0NFOEtCbG5ObDhSOWs2MDE3aUhaVFJaMkNhWC1QXzJ5RHhKS1NXUFhiQnlfMnVUcTlKWnJtNm0wMEo3YkMxbzlUR3ZfUXdrOWdFLTF5d3Z6ajlpUkNGamc1bGxXakN2REZjU20zNnd3ZWQzODhWbGZ4Wmt0d2RCa1RGak15M3NUdW05N000cVVJWFcxMG9Oelkwb042RlNiVlIwb3ZYVEFvTlNTLVNQZXNDQTFMWXdKUDFEdlNRT0M?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-09-24T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-37f74eb0ac9020b04884",
@@ -1466,18 +1406,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-6c975e9a5a6b09175379",
-      "title": "2026/09/10 TSMC August 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3340",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "tsmc-news-4a5d4341e3e395195c28",
       "title": "2026/09/08 ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
       "link": "https://pr.tsmc.com/english/news/3338",
@@ -1488,6 +1416,18 @@
       "company": "TSMC",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-493e33e2519a3f399c08",
+      "title": "Block Applies to Establish Builders Bank, a National Trust Bank",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUVGUVhBVlI4Yl82b1pYMXRWVWJDeTZhRGtVaW8zZ0N5QllHVXNTbEtCcGFTb1dYbG5tcEU0Nnd2Umg1MUZqcmtCUXdHS0Q0akpUTWxkakZqNElfb2drWDFacWdlbFNqLXozakVMMm5UbW9qVndhZ0t6V3V0VF83SlJWWWF1c2VIQjFGMC01MkVaTHF0T2pZaDZfTi1aMHd1WkdiYTRueDl4MmIyUE5WR09ZSzlldTF2amY0V1UwdlY5UC1wYm9pZ0dTTi12V0c3?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-08T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "robinhood-blog-8ebc7ce55cc2a937891a",
@@ -1524,6 +1464,18 @@
       "company": "Upstart",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-ef93b6f9cffd0026ca32",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi and Payward Partner to Connect Banking and Digital Asset Markets",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdFJDNWlKYlNveEptaVk4ZHE3MWRXVHpYNXJGZzI2MTFLXzU5VkkwcTNHNFdfa09Da0FXQklWQXEwZnJad0U5dW1SU0FWVUtYRDJ1YzF6Z0ZwbjR4d0d1eEN6SlZ4eTJmSml6MmpORHMyVldtZGtZZkdUdnk4ZDZvemxJRFJwcU5QaFZYY1V0REhWcHpQdS1Sb1BCMkhocjBqbDZJdERZRHdLSU9pRFZESC1xQ2xaR1A4TExzeE5wb00tVVBvN194OXg5NjlNYjlQdkdJa1N3Tk5Fd3dTMTI3d0c4dnd6Smpk?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "wise-newsroom-36cfe43c94ba45e5b45f",
@@ -1622,30 +1574,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b460603e59d7512c7373",
-      "title": "2026/08/11 TSMC Board of Directors Meeting Resolutions",
-      "link": "https://pr.tsmc.com/english/news/3332",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-ab513aa3e6853dadf751",
       "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
       "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
@@ -1692,6 +1620,18 @@
       "company": "Marqeta",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-39e4c81cff937d704458",
+      "title": "Block Announces Second Quarter 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmtSTlJHdE5oaU1WWHB2aFpoMTRsdkZsNWltMHQ1NWg1NjZhSU1Nem5TWjUtQ1Fsc2JncWdQWk1pdlZ0blJUR0Z3SXlSTnZZNUQ5WkczUEloRDZGNC1WUjl1SkNVZDhobFFpaGZWNzR0S0h5NVM3X2VpYlFTSktfc0xvYnhhelMtckJlUGlNc1gyUlpZY2czV3VsRUpWZE4xXzZfTVVoRnlOUWVmMktfczRranc1SnM?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-08-05T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-2c0ac6dcba05aa98d965",
@@ -1790,18 +1730,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1812,18 +1740,6 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
-    },
-    {
-      "id": "tsmc-news-765e336848670860124f",
-      "title": "2026/07/13 TSMC June 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3323",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-13T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -1932,18 +1848,6 @@
       "company": "Amazon",
       "category": "Big Tech Blogs",
       "sourceKind": "html"
-    },
-    {
-      "id": "toast-product-news-146f0c8e3e86536f7c51",
-      "title": "Restaurant Trends: Protecting Margins & Growing with Toast IQ AI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVBmaGtUbC15VUJSRjg0WFBBVUZTc0d6cmVNbmR3WVBpLUVjQWZKWUtWeEJlTm5oaDdWSlJUdkNJTk55NzdMb2xHaHMxZlB0QXNsZmVHc1I5VnpndzZ2elRzaFpCWXB5bVR3ZUQzTHZmN0FGd3BubFVzYzlNam4yNTB3?oc=5",
-      "summary": "Toast POS Product News published an update for Toast relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-06-10T07:00:00+00:00",
-      "sourceId": "toast-product-news",
-      "sourceName": "Toast POS Product News",
-      "company": "Toast",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
     },
     {
       "id": "upstart-press-c81acb168b52e388eeb4",
@@ -2222,6 +2126,18 @@
       "sourceKind": "html"
     },
     {
+      "id": "block-investor-news-a540af66dd0beeab4452",
+      "title": "Uber and Block Expand Global Partnership to Transform Restaurant Operations and Launch Cash App Pay",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWjFneDRNWVNLbTRhaUtNNFQ3dXV5UGJoR0c5R1R4WWZGZXF3UEhzLTFBOW1fYjd5V3ZzQlZUT0hVT3pYM1FXenI1ZkFsQWlfb3RFNlVwVzJRTVVCYVlqUExkMGZIYlZ5MjF2SGdYOTR3clV2SGNSUGFGZzZXdEo5SEwzeGJLbEtPUjVIQ2hyQ2hLcldHQ0RsMy1BVG5fWUVJUWM4d2l2VGJFVzUxWTlfRUd6RHF5eTdlRHpZTEpqb3VBNE5FeUVySWgwSVJTbWdrbEFOMTN0Vk8xZ0hTdW81ZU1NTG9meUFjaWJQbDZlQVpPLTB1dFNiclRKRnZRclF3a0E?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-04-22T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "datadog-investor-news-cba544823fedfe53d9e2",
       "title": "Datadog Announces GPU Monitoring to Help Businesses Optimize Spend and Performance as They Aim to Scale AI Projects",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkkzRHdyZTNYLWItVXFSUVlLLTdMUGtfckpmOEU3dVAxSnpOTVRsUXFJWDhfWV9Uemc3QllLeVVZeDFpVkU1M0V0R0JSdnowY3NibzZOalNiY1ZZWFFrUmkzT095dnBpdU1EcUZWZ1pCRjhsbXkwVTNiOTVsTnEtc2U0RzhMOERENHBBX3c5SzlaR2N2NGNFNjlIOEFiOUNSU3RXbURRcGdMWEhRdUNGVFlZblZMYmFOLVZrT09KT0JQaDlwVnp6TGhHNA?oc=5",
@@ -2256,18 +2172,6 @@
       "company": "Toast",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
-    },
-    {
-      "id": "amazon-press-archive-09c59182a68c79d29a5f",
-      "title": "Från skärmtid till stickning: svenskar hanterar stress med ”granny hobbies”",
-      "link": "https://press.aboutamazon.com/se/2026/10/fran-skarmtid-till-stickning-svenskar-hanterar-stress-med-granny-hobbies",
-      "summary": "”Granny hobbies”, mormorshobbys, har blivit ett brett folkfenomen. En ny undersökning från YouGov visar att stickning, trädgårdsarbete och sömnad, som spås bli årets stora trend av Ungdomsbarometern, ökar i popularitet. Den viktigaste drivkraften bakom intresset är stresshantering och återhämtning…",
-      "publishedAt": "2026-04-13T08:35:00+00:00",
-      "sourceId": "amazon-press-archive",
-      "sourceName": "Amazon Press Archive",
-      "company": "Amazon",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
     },
     {
       "id": "circle-pressroom-274ab78e4021794db0c4",
@@ -2390,6 +2294,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-e3dfa07475b92965cb3e",
+      "title": "Block to Announce Fourth Quarter 2025 Results",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlZGb1VSUjhnZjZUVGZHa2dOWVN1ckFRTWx1N1llVTRjaWloZ1RnOVBLVzI3bWJTUGUxRFpUcjdMOG82VHRJaVlsSWpCUG53RlpGcWJVTW9jeXBObmktcW5ZLURCT1Nxb09sV09qS0J1aDRtcG5oM3RFRXREMUdVX0xlU2xRTkhyQ3ZzMllFdXRwSWUxd1U2d0kyNDY5S1FCV1BTanlLcGRQNVZSLWRqVUNOaXBLT1pDRkE?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2026-01-29T08:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-6eaeacbecb3ba12e3911",
       "title": "Wise renforce ses investissements sur le marché canadien en devenant membre de Paiements Canada",
       "link": "https://newsroom.wise.com/en-NAM/260091-wise-renforce-ses-investissements-sur-le-marche-canadien-en-devenant-membre-de-paiements-canada/",
@@ -2438,18 +2354,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "sofi-press-acfdbe1b8449d923e9af",
-      "title": "SoFi to Match $1,000 Federal Contribution to Investment Accounts for Employees’ Children",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZF9HSWxSeGVRbE90V3luN2thRm9vNkVzVUN2Z3lFdFJBejNfZmJtN2Vhbi1Ma0xYWjFmR0kzT2p5WVFxU0VSczhUY3FpQ0JCWExwcXdhUThrN3FueFlNQUdNNzllUG9MSjlNN25oRkVIV3VqWC1KS1NoQ2VhdVZSc3BzckZsWUU2bVZraERuaTZ2Z1NLbnFocGFrcXYzbExrWXBaTERac0VzdzM1UkhYSzgzWXJONVNyWTdBSHJmZUhZTjBZVUJoZ0RUS0VLQl9ldWhBX3pUOGNHbzRUY1pBODN3?oc=5",
-      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2026-01-14T08:00:00+00:00",
-      "sourceId": "sofi-press",
-      "sourceName": "SoFi Press",
-      "company": "SoFi",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "toast-product-news-9e5e095cb7855f19948c",
       "title": "Toast Delivers Precision Insights, Action, and Efficiency for Retailers",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGZBaENhYjVRTERVTlozN1F3WWZiUFFOdGNvV1FrdEl1YVlUczNxc3FJZU9Tck5Dd25OU0hXNVliRkF2UVE5UXN1Q1lkc2RER0VEOHhUakQtS2ZkSGZXOEFUSUF0UHVpNjVyQ1R2c3Jxd2xLOWhmNVY2d1IzQmEwa2NtVlZ6elBOS1BkWDlObVMycmItbEtzdDFGOTV2cE9h?oc=5",
@@ -2484,6 +2388,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "tsmc-news-b9148e2ba56e3f66a36f",
+      "title": "News Archives",
+      "link": "https://pr.tsmc.com/english/news-archives",
+      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "sofi-press-82cf6b2a0f2b371da9c5",
@@ -2642,18 +2558,6 @@
       "sourceKind": "google_news"
     },
     {
-      "id": "block-investor-news-e13e97f1c36dab78d9f1",
-      "title": "Square Financial Services, Inc. Launches 25 Squared Grant Initiative to Drive Community Development in Utah",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUC01cFVvUk5lV2loM1pFd0NGNHVaUU9HQ0RkNzNTQmxKbVFBa2l4RmNYV3hYdFBucEtlRWVCQ3RsLW8xaVZJSERCWU1WQUlvZzVNY21PRXFzRHR0ZVBDWWRVV0JZTWpxMlpCRzJVNDVBdC1xSzIycm5pWlZaVkR0QlAwYnltSFlFal9mcHBSNGVhSlpfUnA4LV9oZlF5NzRzYnRMTkVKZk1LMnlFcDNvRWtKSVdlb09oTE9QaG9XV0x2aGVDeHM0VjZmX0I2NnNCakRPV3pNS0FRVGRiLU1yT3NfaU9fWHlIREgtQWJhb09sUkNwZm55RDRRamw2aUV0alhvcDE2RDdzQkE?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-09-24T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
       "id": "wise-newsroom-b2b26b97399791c9ad1d",
       "title": "Upwork Partners with Wise Platform to Enhance International Payment Infrastructure for Global Freelancers",
       "link": "https://newsroom.wise.com/en-NAM/254214-upwork-partners-with-wise-platform-to-enhance-international-payment-infrastructure-for-global-freelancers/",
@@ -2688,6 +2592,18 @@
       "company": "Wise",
       "category": "Fintech Blogs",
       "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-94cfc33209ee8032cda2",
+      "title": "Block, Inc. Announces Upsize and Pricing of $2.2 Billion Offering of Senior Notes",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQakkyX3lYM29HeERJQl9uSFowMVk4SHdjNmw1VWd0VFl4UGdkb3M3eW51ZUlPTGhlcjlPS1RtWTZYdEpUejkwQWhTdWZLMXFDMkloRURCTDgxbkVuUXRlMzFybDdLZV9xMzltLW1uOHVYRmJINVpyV05iTk8tU29NalBGNFhaeVJBS3loYnRwcGs1aGZkNnFEMDVONTlhUWZvQzd2US13WlNEZDliUU9UM0l6MFBKOVNOamhndEF3bDY0bGZMWFB1ZC1MSmR6WWNmNmhtV0Y4MV9Gb2VUMVYyR0hlVVp5RTQ?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-08-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
     },
     {
       "id": "dlocal-blog-60937103bed3fbf5123e",
@@ -2747,30 +2663,6 @@
       "sourceName": "Datadog Investor News",
       "company": "Datadog",
       "category": "Big Tech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-0e5051ae773bb20f22c0",
-      "title": "Square Handheld Launches in the UK, Powering Growth for Restaurants",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzBDWHJPaDZvU3FnVXZ2am1NX1dXMzRrZXlScFFPNlpEZTc1amZyZV90a0ZTWXlPMHRKN0pHY0VPUDBuU2ItU2l4VlB5dGFpelRtWVF0NTUwSXlWbFl6ZE43YXRESDFfeVJDZjZJdWVQbmtPTTFMbFJvNUVYaldzR3lyOWVONXZkZ1ZfTUZQWlYtQUJJLTdESHRFMTN3Yk5BUV9ZM0N2LXpWbEdfVFBMUjh2SEdTdnUyc253eXBnMFY5N0dZeWc2MUVMenBCcWFVWW1uWklR?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-25T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
-      "sourceKind": "google_news"
-    },
-    {
-      "id": "block-investor-news-c0b9058e955cdd2a814c",
-      "title": "Cash App Partners with WNBA All-Star Angel Reese to Unveil Community Basketball Court in Chicago, Deepening Commitment to Women’s Sports and Economic Equity",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZnBjN1diS1RsaTNfM1cyN19WT0YxZHpQWU1ZaEFfZ3ZqX0xlZWdwN1d1UTVoZkZQU0UwUVM2cnQ1TEFLS1RqVUZCX3FHTVNwUENUYVEyOE4wZE5SNHhPRzYxcUNJTVROYTkxVk5YY2Y1TU5TVXBuWm4zTm9UZ1RJbEY3QUhsN2lMd21sYmxmMC1NbGhMbGVPQThoMTBHYTB1MUZoZWtJSEMwRENmQlJ6c2tHWEN4d3NXQVo4QklUMkRTbmR3ZTVBeEhtTktFTk1xaUp2Sm53MkVIbGhRY3I5SFFPUkNkYVU4eGNRV0xIdGd3QmJ5NjJ6STRKV1ZEWnhMWkFJR1p2WTNZZGNEWk9XMWZHem9hLVFzd0JGV0ZxNEptUXY2OXU3TG5teEVpY2xmTC16LWhyY2ZVdkk2blZiZWlVVGNUSURvX29N?oc=5",
-      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
-      "publishedAt": "2025-06-18T07:00:00+00:00",
-      "sourceId": "block-investor-news",
-      "sourceName": "Block Investor News",
-      "company": "Block",
-      "category": "Fintech Blogs",
       "sourceKind": "google_news"
     },
     {
@@ -2846,6 +2738,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "block-investor-news-7fcccb34ee966a5fe6c7",
+      "title": "Square Releases is Here: Built for Sellers to Discover What’s New and Shape What’s Next",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUC1zTkJYYk5odWpqZWhPVFdmNlVsSl9vczVWcVpyQ2h1Nzh1RXFSbFlwU2lmbmFRb05FeDE4STZmamdaWXdSVGl5Mk9oeTJ6YjlGbzhzT2xMZENCajdhSUljdERMVlpTQ1ZoLVVkeGk3ZHM3NTNkNnIxb09vUDRUSFQ5ZlpCQ0k0V0RwWUpMZGVTejZaSlcyYmRMVW5hV0ROQ09ZQUVxUmR5Q3FkWVRycVlPNWJuTm1mcUVvSjJmTzNUdllZTzl5V0t6ZHR2bVR2a3BEZUZWZHRQRWxSQjBsMGh3ZFBGSFVsRHZLSXhR?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-05-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
       "id": "wise-newsroom-3aed8c2dde6ade06a126",
       "title": "Wise Appoints New Head of Banking for Latin America and Country Manager for Brazil",
       "link": "https://newsroom.wise.com/en-NAM/249826-wise-appoints-new-head-of-banking-for-latin-america-and-country-manager-for-brazil/",
@@ -2879,6 +2783,102 @@
       "sourceName": "Affirm News",
       "company": "Affirm",
       "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "datadog-investor-news-55b845c9f597e22ce6b6",
+      "title": "Datadog Adds to Its Google Cloud Observability Capabilities with Expanded BigQuery Monitoring",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQV9URnVRV0lnaU5QMVhWLWNEUGczYkpHRjhHTkhfb0ViTUh4enFLc3ZzSU1LZmZTLVdPQTVGLTJ5anowMlJCNURpMXBFSUxNRk1wak9nMzlMTlhoY3ZrVUx4Z1RSWVE4bGdkQ3dUTi1TejJUNlhqeXVxc1pEZUw1SUxxRWs3SzJ4djdDMThPS2NqZjNXalpGMWp6d2dzUmRJdXlKMHVRTC1yQUhpaE9CenFkbndOcVlfd2Q0MkFTQTM1dw?oc=5",
+      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-04-09T07:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-7e7d4083f395ad5b49a0",
+      "title": "Itaú Unibanco reinforces its foreign exchange solutions, enabling instant payment in foreign currency directly throug...",
+      "link": "https://newsroom.wise.com/en-NAM/248324-itau-unibanco-reinforces-its-foreign-exchange-solutions-enabling-instant-payment-in-foreign-currency-directly-through-the-app/",
+      "summary": "The new solution will allow customers to make international payments or send money in the same way and with the same simplicity as Pix, at any time of the day, every day of the week.",
+      "publishedAt": "2025-03-26T12:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "block-investor-news-b9b5110d24b3cc4b18b6",
+      "title": "Square Financial Services, Inc. Receives FDIC Approval to Offer Consumer Loan Product Cash App Borrow",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbjdKU2JySXljY3RUdThvTFJKem52QzliQ1NJZ2pxRVk5YXNmXzZtOVZVd0ZRTzdJejJKem5OeWNOQkNMWHE4WjZQQWhucFR1NWxHUFhIaF9CY3p5X3dMUGJxSXhXZmhaZmJUeTVCT29VTmV4VUg0MDlYc2FGZ1Z2OURrZi1nTms0bXphWW1kelp5VDZPWklTb1RXeWNWYUFyX180T0htcTVhUm5hQXREa1JkQlU4MkFWZlFqcWYybjlwLVdYYnhRNGEyTTdDNzB2Y1pPNS1DS2NjUndfcUlYbmp6SVRoUmtWREFNTnhCUjR1cElwNmZJX25NSENBeXg0U3Jz?oc=5",
+      "summary": "Block Investor News published an update for Block relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-03-13T07:00:00+00:00",
+      "sourceId": "block-investor-news",
+      "sourceName": "Block Investor News",
+      "company": "Block",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "dlocal-blog-12f1be97ff2e4b01edf2",
+      "title": "Pix Automático set to transform automated transactions in Brazil and redefine the future of payments",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObTNmNjBlWEQzQnNyT19JRXpnUFQySnY4UEZjWk9nbVlZY3NfUWU3emlOUUtFbHdfUHh4dmhNRkw2LXR1T1k5VllxTEZZZFM5ZEszNVA0enNsQVJoa3JySzk1N2xuTUVfSzdYNFJXMU93bF9lVjMwQ3YwV2hWUXJrQmkxOVd4OUdrVExhQWdJbU11cTNKd29NT3dvZWN2cXBMcElGTGNVUEhUTWM0LVZRRWxCNTdOTmx6RWloVllnNG84ODJDSmFVeGdHS2JMTWgtUGQtMU1qYlpVQi1YYTdlWVFjZ2NRUQ?oc=5",
+      "summary": "dLocal Blog published an update for dLocal relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-02-26T08:00:00+00:00",
+      "sourceId": "dlocal-blog",
+      "sourceName": "dLocal Blog",
+      "company": "dLocal",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "wise-newsroom-1290adaef7c4f7d6d12e",
+      "title": "Hidden Growth Tax on US Small Businesses is Hindering Development and Expansion",
+      "link": "https://newsroom.wise.com/en-NAM/247279-hidden-growth-tax-on-us-small-businesses-is-hindering-development-and-expansion/",
+      "summary": "A new Wise study reveals that US small businesses lose $153B to hidden fees in financial transactions. These fees act as an unfair 'growth tax' limiting small businesses' ability to plan ahead and remain competitive in today's digital economy.",
+      "publishedAt": "2025-02-25T17:00:00+00:00",
+      "sourceId": "wise-newsroom",
+      "sourceName": "Wise Newsroom",
+      "company": "Wise",
+      "category": "Fintech Blogs",
+      "sourceKind": "html"
+    },
+    {
+      "id": "sofi-press-cfd3d6883b5ea6251839",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Q4 & FY 2024 Earnings Conference Call",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUNrb2s0MUJraHQ5NzlaMm9pWDJ4cUJyQXpWVUFTZGRaNkh3VDRDbEdxdGRjamVTY1ZtWkJpR2NHNVNpd0JWWGlZWWhkTHhZTjVOMW1KZVdCa0NLcTNpOVhiNGFxM0Y4N1lUeUZuSjhZV1BndlpwTG5SOE84SnNzQ3JPT3dsM3ZockpjaUZ1b0F1MWJHX25JSWQ1ck44Q2pRMjVUemdfemtTQzZWNVQ2QzJpejRhM2tDaGE5Wnl5SmpZbmM?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-01-27T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "sofi-press-1b55fe235ac7cb368c39",
+      "title": "SoFi Technologies, Inc. (SOFI) - SoFi Schedules Conference Call to Discuss Q4 2024 & Full Year 2024 Results",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1c0MXZHeFB5Q2RiV1piQktBaDdmMTdON0JQTmRHTEJ5WndORUdoS0JxZ1RBNkdNanBmaGh0UUNQWDZ1b0pHOUdwYzVOSEZaNnRFU3ViNUE5VjVrTGVvNDgtMkNvZ0k1a0hkbXluTGlSZFk3TXUzWmRLaWpXWTBNeGR3empaZWpxQjJFX1ZGUy1vaGtnWjJKOWtKYlJwYm5STEhuMWVTU1JxUHl4V0FISkl5NzI4VV9XLVp6eWFkMEdaZFJiRlVrZncxMkNKZTdpSHc?oc=5",
+      "summary": "SoFi Press published an update for SoFi relevant to fintech news. Open the original item for full details.",
+      "publishedAt": "2025-01-03T08:00:00+00:00",
+      "sourceId": "sofi-press",
+      "sourceName": "SoFi Press",
+      "company": "SoFi",
+      "category": "Fintech Blogs",
+      "sourceKind": "google_news"
+    },
+    {
+      "id": "tesla-blog-acfb4a019ce79f886852",
+      "title": "Standardizing Automotive Connectivity",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5penZjMUVZNkdkUTY1TEgwbGtwajFwa0tjNUhlWEZKR0RoTmlKeC1sZnVvMUlNUnQ5eDRpQmhiNjNSaGdtYThjNnJqRk1OMGNzbVhmY19zYmU0RW9nVDVyZ3BWVkdFU2NHYVAxVU5zeW5MUQ?oc=5",
+      "summary": "Tesla Blog published an update for Tesla relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2024-10-27T07:00:00+00:00",
+      "sourceId": "tesla-blog",
+      "sourceName": "Tesla Blog",
+      "company": "Tesla",
+      "category": "Big Tech Blogs",
       "sourceKind": "google_news"
     }
   ],
