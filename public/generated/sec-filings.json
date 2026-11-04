@@ -1,8 +1,208 @@
 {
-  "generatedAt": "2026-11-03T18:30:27.024660+00:00",
+  "generatedAt": "2026-11-04T00:03:23.402047+00:00",
   "companyCount": 27,
   "filingCount": 280,
   "filings": [
+    {
+      "id": "TOST-0001650164-26-000214",
+      "company": "Toast",
+      "displayName": "Toast",
+      "ticker": "TOST",
+      "cik": "0001650164",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001650164-26-000214",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-10-28",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "tost-20261028.htm",
+      "title": "Toast 8-K for 2026-10-28",
+      "summary": "Toast filed a current report (8-K) on 2026-11-03 for report date 2026-10-28. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000214/0001650164-26-000214-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000214/tost-20261028.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "MQ-0001522540-26-000077",
+      "company": "Marqeta",
+      "displayName": "Marqeta",
+      "ticker": "MQ",
+      "cik": "0001522540",
+      "category": "Fintech Blogs",
+      "form": "10-Q",
+      "accessionNumber": "0001522540-26-000077",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "mq-20260930.htm",
+      "title": "Marqeta 10-Q for 2026-09-30",
+      "summary": "Marqeta filed a quarterly report (10-Q) on 2026-11-03 for report date 2026-09-30. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000077/0001522540-26-000077-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000077/mq-20260930.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "MQ-0001522540-26-000076",
+      "company": "Marqeta",
+      "displayName": "Marqeta",
+      "ticker": "MQ",
+      "cik": "0001522540",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001522540-26-000076",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-11-03",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "mq-20261103.htm",
+      "title": "Marqeta 8-K for 2026-11-03",
+      "summary": "Marqeta filed a current report (8-K) on 2026-11-03 for report date 2026-11-03. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000076/0001522540-26-000076-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000076/mq-20261103.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "XYZ-0001628280-26-069524",
+      "company": "Block",
+      "displayName": "Block",
+      "ticker": "XYZ",
+      "cik": "0001512673",
+      "category": "Fintech Blogs",
+      "form": "10-Q",
+      "accessionNumber": "0001628280-26-069524",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "xyz-20260930.htm",
+      "title": "Block 10-Q for 2026-09-30",
+      "summary": "Block filed a quarterly report (10-Q) on 2026-11-03 for report date 2026-09-30. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/0001628280-26-069524-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/xyz-20260930.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "XYZ-0001628280-26-069513",
+      "company": "Block",
+      "displayName": "Block",
+      "ticker": "XYZ",
+      "cik": "0001512673",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001628280-26-069513",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-11-03",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "xyz-20261103.htm",
+      "title": "Block 8-K for 2026-11-03",
+      "summary": "Block filed a current report (8-K) on 2026-11-03 for report date 2026-11-03. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069513/0001628280-26-069513-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069513/xyz-20261103.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "SHOP-0001594805-26-000068",
+      "company": "Shopify",
+      "displayName": "Shopify",
+      "ticker": "SHOP",
+      "cik": "0001594805",
+      "category": "Fintech Blogs",
+      "form": "10-Q",
+      "accessionNumber": "0001594805-26-000068",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "shop-20260930.htm",
+      "title": "Shopify 10-Q for 2026-09-30",
+      "summary": "Shopify filed a quarterly report (10-Q) on 2026-11-03 for report date 2026-09-30. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/0001594805-26-000068-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "SHOP-0001594805-26-000067",
+      "company": "Shopify",
+      "displayName": "Shopify",
+      "ticker": "SHOP",
+      "cik": "0001594805",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001594805-26-000067",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-11-03",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "shop-20261103.htm",
+      "title": "Shopify 8-K for 2026-11-03",
+      "summary": "Shopify filed a current report (8-K) on 2026-11-03 for report date 2026-11-03. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/0001594805-26-000067-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/shop-20261103.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "UPST-0001647639-26-000084",
+      "company": "Upstart",
+      "displayName": "Upstart Holdings",
+      "ticker": "UPST",
+      "cik": "0001647639",
+      "category": "Fintech Blogs",
+      "form": "10-Q",
+      "accessionNumber": "0001647639-26-000084",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "upst-20260930.htm",
+      "title": "Upstart 10-Q for 2026-09-30",
+      "summary": "Upstart Holdings filed a quarterly report (10-Q) on 2026-11-03 for report date 2026-09-30. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000084/0001647639-26-000084-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000084/upst-20260930.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "UPST-0001647639-26-000083",
+      "company": "Upstart",
+      "displayName": "Upstart Holdings",
+      "ticker": "UPST",
+      "cik": "0001647639",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001647639-26-000083",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-11-03",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "upst-20261103.htm",
+      "title": "Upstart 8-K for 2026-11-03",
+      "summary": "Upstart Holdings filed a current report (8-K) on 2026-11-03 for report date 2026-11-03. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000083/0001647639-26-000083-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000083/upst-20261103.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "WSE-0001654954-26-009431",
+      "company": "Wise",
+      "displayName": "Wise Group",
+      "ticker": "WSE",
+      "cik": "0002099039",
+      "category": "Fintech Blogs",
+      "form": "6-K",
+      "accessionNumber": "0001654954-26-009431",
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-11-03",
+      "acceptanceDateTime": "2026-11-03",
+      "primaryDocument": "a5035b.htm",
+      "title": "Wise 6-K for 2026-11-03",
+      "summary": "Wise Group filed a current report (6-K) on 2026-11-03 for report date 2026-11-03. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009431/0001654954-26-009431-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009431/a5035b.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
+    },
     {
       "id": "XYZ-0001193125-26-443728",
       "company": "Block",
@@ -302,26 +502,6 @@
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009151/a5121a.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "SOFI-NASDAQ-320425558",
-      "company": "Galileo",
-      "displayName": "SoFi Technologies",
-      "ticker": "SOFI",
-      "cik": "0001818874",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "QM-320425558",
-      "filingDate": "2026-10-27",
-      "reportDate": "2026-10-27",
-      "acceptanceDateTime": "2026-10-27",
-      "primaryDocument": "",
-      "title": "Galileo 8-K for 2026-10-27",
-      "summary": "SoFi Technologies filed a current report (8-K) on 2026-10-27 for report date 2026-10-27. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.",
-      "filingUrl": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=320425558&type=HTML&symbol=SOFI&cdn=017bd8e584ee243bf227dd771157717a&companyName=SoFi+Technologies+Inc.&formType=8-K&formDescription=Current+report+pursuant+to+Section+13+or+15%28d%29&dateFiled=2026-10-27",
-      "documentUrl": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=320425558&type=HTML&symbol=SOFI&cdn=017bd8e584ee243bf227dd771157717a&companyName=SoFi+Technologies+Inc.&formType=8-K&formDescription=Current+report+pursuant+to+Section+13+or+15%28d%29&dateFiled=2026-10-27",
-      "note": "Galileo is tracked through parent company SoFi Technologies.",
-      "dataSource": "Nasdaq / Quotemedia"
     },
     {
       "id": "AFRM-0001628280-26-067042",
@@ -1164,26 +1344,6 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "WSE-0001654954-26-008073",
-      "company": "Wise",
-      "displayName": "Wise Group",
-      "ticker": "WSE",
-      "cik": "0002099039",
-      "category": "Fintech Blogs",
-      "form": "6-K",
-      "accessionNumber": "0001654954-26-008073",
-      "filingDate": "2026-09-02",
-      "reportDate": "2026-09-02",
-      "acceptanceDateTime": "2026-09-02",
-      "primaryDocument": "a9893s.htm",
-      "title": "Wise 6-K for 2026-09-02",
-      "summary": "Wise Group filed a current report (6-K) on 2026-09-02 for report date 2026-09-02. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008073/0001654954-26-008073-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008073/a9893s.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
       "id": "TSM-0001046179-26-000552",
       "company": "TSMC",
       "displayName": "Taiwan Semiconductor Manufacturing",
@@ -1742,26 +1902,6 @@
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1794669/000179466926000042/four-20260806.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "SOFI-NASDAQ-320250416",
-      "company": "Galileo",
-      "displayName": "SoFi Technologies",
-      "ticker": "SOFI",
-      "cik": "0001818874",
-      "category": "Fintech Blogs",
-      "form": "10-Q",
-      "accessionNumber": "QM-320250416",
-      "filingDate": "2026-08-06",
-      "reportDate": "",
-      "acceptanceDateTime": "2026-08-06",
-      "primaryDocument": "",
-      "title": "Galileo 10-Q for 2026-08-06",
-      "summary": "SoFi Technologies filed a quarterly report (10-Q) on 2026-08-06. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.",
-      "filingUrl": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=320250416&type=HTML&symbol=SOFI&cdn=04bacbb8a67b276139d52f2da5f2429e&companyName=SoFi+Technologies+Inc.&formType=10-Q&formDescription=General+form+for+quarterly+reports+under+Section+13+or+15%28d%29&dateFiled=2026-08-06",
-      "documentUrl": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=320250416&type=HTML&symbol=SOFI&cdn=04bacbb8a67b276139d52f2da5f2429e&companyName=SoFi+Technologies+Inc.&formType=10-Q&formDescription=General+form+for+quarterly+reports+under+Section+13+or+15%28d%29&dateFiled=2026-08-06",
-      "note": "Galileo is tracked through parent company SoFi Technologies.",
-      "dataSource": "Nasdaq / Quotemedia"
     },
     {
       "id": "CHYM-0001795586-26-000048",
@@ -4704,26 +4844,6 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "MQ-0001522540-26-000030",
-      "company": "Marqeta",
-      "displayName": "Marqeta",
-      "ticker": "MQ",
-      "cik": "0001522540",
-      "category": "Fintech Blogs",
-      "form": "DEF 14A",
-      "accessionNumber": "0001522540-26-000030",
-      "filingDate": "2026-04-21",
-      "reportDate": "2026-04-21",
-      "acceptanceDateTime": "2026-04-21",
-      "primaryDocument": "mq-20260421.htm",
-      "title": "Marqeta DEF 14A for 2026-04-21",
-      "summary": "Marqeta filed a proxy statement (DEF 14A) on 2026-04-21 for report date 2026-04-21. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000030/0001522540-26-000030-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000030/mq-20260421.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
       "id": "DAVE-0001193125-26-164199",
       "company": "Dave",
       "displayName": "Dave",
@@ -5144,26 +5264,6 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "XYZ-0001193125-26-076557",
-      "company": "Block",
-      "displayName": "Block",
-      "ticker": "XYZ",
-      "cik": "0001512673",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001193125-26-076557",
-      "filingDate": "2026-02-26",
-      "reportDate": "2026-02-26",
-      "acceptanceDateTime": "2026-02-26",
-      "primaryDocument": "d108590d8k.htm",
-      "title": "Block 8-K for 2026-02-26",
-      "summary": "Block filed a current report (8-K) on 2026-02-26 for report date 2026-02-26. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/0001193125-26-076557-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/d108590d8k.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
       "id": "FOUR-0001794669-26-000006",
       "company": "Shift4",
       "displayName": "Shift4 Payments",
@@ -5224,26 +5324,6 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "MQ-0001522540-26-000017",
-      "company": "Marqeta",
-      "displayName": "Marqeta",
-      "ticker": "MQ",
-      "cik": "0001522540",
-      "category": "Fintech Blogs",
-      "form": "10-K",
-      "accessionNumber": "0001522540-26-000017",
-      "filingDate": "2026-02-24",
-      "reportDate": "2025-12-31",
-      "acceptanceDateTime": "2026-02-24",
-      "primaryDocument": "mq-20251231.htm",
-      "title": "Marqeta 10-K for 2025-12-31",
-      "summary": "Marqeta filed a annual report (10-K) on 2026-02-24 for report date 2025-12-31. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/0001522540-26-000017-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
       "id": "KLAR-0002003292-26-000004",
       "company": "Klarna",
       "displayName": "Klarna Group",
@@ -5260,26 +5340,6 @@
       "summary": "Klarna Group filed a current report (6-K) on 2026-02-20 for report date 2025-12-31. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000200329226000004/0002003292-26-000004-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/2003292/000200329226000004/form6-kxklarnagroupplcearn.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "UPST-0001647639-26-000033",
-      "company": "Upstart",
-      "displayName": "Upstart Holdings",
-      "ticker": "UPST",
-      "cik": "0001647639",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001647639-26-000033",
-      "filingDate": "2026-02-19",
-      "reportDate": "2026-02-19",
-      "acceptanceDateTime": "2026-02-19",
-      "primaryDocument": "upst-20260219.htm",
-      "title": "Upstart 8-K for 2026-02-19",
-      "summary": "Upstart Holdings filed a current report (8-K) on 2026-02-19 for report date 2026-02-19. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000033/0001647639-26-000033-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000033/upst-20260219.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -5364,26 +5424,6 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "SOFI-NASDAQ-319787516",
-      "company": "Galileo",
-      "displayName": "SoFi Technologies",
-      "ticker": "SOFI",
-      "cik": "0001818874",
-      "category": "Fintech Blogs",
-      "form": "10-K",
-      "accessionNumber": "QM-319787516",
-      "filingDate": "2026-02-17",
-      "reportDate": "",
-      "acceptanceDateTime": "2026-02-17",
-      "primaryDocument": "",
-      "title": "Galileo 10-K for 2026-02-17",
-      "summary": "SoFi Technologies filed a annual report (10-K) on 2026-02-17. Open the SEC filing for source documents. Galileo is tracked through parent company SoFi Technologies.",
-      "filingUrl": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=319787516&type=HTML&symbol=SOFI&cdn=bcf5b03611af288b2f1a44c76daa2169&companyName=SoFi+Technologies+Inc.&formType=10-K&formDescription=Annual+report+pursuant+to+Section+13+or+15%28d%29&dateFiled=2026-02-17",
-      "documentUrl": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=319787516&type=HTML&symbol=SOFI&cdn=bcf5b03611af288b2f1a44c76daa2169&companyName=SoFi+Technologies+Inc.&formType=10-K&formDescription=Annual+report+pursuant+to+Section+13+or+15%28d%29&dateFiled=2026-02-17",
-      "note": "Galileo is tracked through parent company SoFi Technologies.",
-      "dataSource": "Nasdaq / Quotemedia"
-    },
-    {
       "id": "TOST-0001650164-26-000050",
       "company": "Toast",
       "displayName": "Toast",
@@ -5424,26 +5464,6 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "SHOP-0001594805-26-000006",
-      "company": "Shopify",
-      "displayName": "Shopify",
-      "ticker": "SHOP",
-      "cik": "0001594805",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001594805-26-000006",
-      "filingDate": "2026-02-11",
-      "reportDate": "2026-02-11",
-      "acceptanceDateTime": "2026-02-11",
-      "primaryDocument": "shop-20260211.htm",
-      "title": "Shopify 8-K for 2026-02-11",
-      "summary": "Shopify filed a current report (8-K) on 2026-02-11 for report date 2026-02-11. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000006/0001594805-26-000006-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000006/shop-20260211.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
       "id": "FOUR-0001193125-26-043740",
       "company": "Shift4",
       "displayName": "Shift4 Payments",
@@ -5460,26 +5480,6 @@
       "summary": "Shift4 Payments filed a current report (8-K) on 2026-02-10 for report date 2026-02-07. Open the SEC filing for source documents.",
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1794669/000119312526043740/0001193125-26-043740-index.html",
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1794669/000119312526043740/d39143d8k.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
-      "id": "UPST-0001647639-26-000027",
-      "company": "Upstart",
-      "displayName": "Upstart Holdings",
-      "ticker": "UPST",
-      "cik": "0001647639",
-      "category": "Fintech Blogs",
-      "form": "10-K",
-      "accessionNumber": "0001647639-26-000027",
-      "filingDate": "2026-02-10",
-      "reportDate": "2025-12-31",
-      "acceptanceDateTime": "2026-02-10",
-      "primaryDocument": "upst-20251231.htm",
-      "title": "Upstart 10-K for 2025-12-31",
-      "summary": "Upstart Holdings filed a annual report (10-K) on 2026-02-10 for report date 2025-12-31. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000027/0001647639-26-000027-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000027/upst-20251231.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
     },
@@ -5564,26 +5564,6 @@
       "dataSource": "SEC EDGAR via read-through"
     },
     {
-      "id": "XYZ-0001193125-26-021035",
-      "company": "Block",
-      "displayName": "Block",
-      "ticker": "XYZ",
-      "cik": "0001512673",
-      "category": "Fintech Blogs",
-      "form": "8-K",
-      "accessionNumber": "0001193125-26-021035",
-      "filingDate": "2026-01-23",
-      "reportDate": "2026-01-21",
-      "acceptanceDateTime": "2026-01-23",
-      "primaryDocument": "d78925d8k.htm",
-      "title": "Block 8-K for 2026-01-21",
-      "summary": "Block filed a current report (8-K) on 2026-01-23 for report date 2026-01-21. Open the SEC filing for source documents.",
-      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000119312526021035/0001193125-26-021035-index.html",
-      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1512673/000119312526021035/d78925d8k.htm",
-      "note": "",
-      "dataSource": "SEC EDGAR via read-through"
-    },
-    {
       "id": "AFRM-0001628280-26-002442",
       "company": "Affirm",
       "displayName": "Affirm Holdings",
@@ -5602,6 +5582,26 @@
       "documentUrl": "https://www.sec.gov/Archives/edgar/data/1820953/000162828026002442/afrm-20260113.htm",
       "note": "",
       "dataSource": "SEC EDGAR via read-through"
+    },
+    {
+      "id": "TOST-0001650164-26-000024",
+      "company": "Toast",
+      "displayName": "Toast",
+      "ticker": "TOST",
+      "cik": "0001650164",
+      "category": "Fintech Blogs",
+      "form": "8-K",
+      "accessionNumber": "0001650164-26-000024",
+      "filingDate": "2026-01-15",
+      "reportDate": "2026-01-15",
+      "acceptanceDateTime": "2026-01-15",
+      "primaryDocument": "tost-20260115.htm",
+      "title": "Toast 8-K for 2026-01-15",
+      "summary": "Toast filed a current report (8-K) on 2026-01-15 for report date 2026-01-15. Open the SEC filing for source documents.",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000024/0001650164-26-000024-index.html",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000024/tost-20260115.htm",
+      "note": "",
+      "dataSource": "SEC EDGAR via read-through"
     }
   ],
   "statuses": [
@@ -5610,16 +5610,16 @@
       "ticker": "SOFI",
       "cik": "0001818874",
       "ok": true,
-      "filingCount": 11,
-      "message": "STALE: retained 11 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Toast",
       "ticker": "TOST",
       "cik": "0001650164",
       "ok": true,
-      "filingCount": 10,
-      "message": "STALE: retained 10 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Marqeta",
@@ -5627,7 +5627,7 @@
       "cik": "0001522540",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Block",
@@ -5635,23 +5635,23 @@
       "cik": "0001512673",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Affirm",
       "ticker": "AFRM",
       "cik": "0001820953",
       "ok": true,
-      "filingCount": 9,
-      "message": "STALE: retained 9 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Shift4",
       "ticker": "FOUR",
       "cik": "0001794669",
       "ok": true,
-      "filingCount": 11,
-      "message": "STALE: retained 11 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Adyen",
@@ -5659,15 +5659,15 @@
       "cik": "0001788707",
       "ok": true,
       "filingCount": 1,
-      "message": "STALE: retained 1 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "1 filings via SEC EDGAR read-through"
     },
     {
       "company": "Shopify",
       "ticker": "SHOP",
       "cik": "0001594805",
       "ok": true,
-      "filingCount": 11,
-      "message": "STALE: retained 11 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Nubank",
@@ -5675,7 +5675,7 @@
       "cik": "0001691493",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "PayPal",
@@ -5683,7 +5683,7 @@
       "cik": "0001633917",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Robinhood",
@@ -5691,7 +5691,7 @@
       "cik": "0001783879",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Coinbase",
@@ -5699,7 +5699,7 @@
       "cik": "0001679788",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Upstart",
@@ -5707,7 +5707,7 @@
       "cik": "0001647639",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Wise",
@@ -5715,15 +5715,15 @@
       "cik": "0002099039",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Klarna",
       "ticker": "KLAR",
       "cik": "0002003292",
       "ok": true,
-      "filingCount": 10,
-      "message": "STALE: retained 10 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Dave",
@@ -5731,23 +5731,23 @@
       "cik": "0001841408",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Galileo",
       "ticker": "SOFI",
       "cik": "0001818874",
       "ok": true,
-      "filingCount": 3,
-      "message": "3 filings via Nasdaq fallback"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Chime",
       "ticker": "CHYM",
       "cik": "0001795586",
       "ok": true,
-      "filingCount": 9,
-      "message": "STALE: retained 9 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Circle",
@@ -5755,15 +5755,15 @@
       "cik": "0001876042",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "dLocal",
       "ticker": "DLO",
       "cik": "0001846832",
       "ok": true,
-      "filingCount": 5,
-      "message": "STALE: retained 5 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 9,
+      "message": "9 filings via SEC EDGAR read-through"
     },
     {
       "company": "NVIDIA",
@@ -5771,15 +5771,15 @@
       "cik": "0001045810",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Datadog",
       "ticker": "DDOG",
       "cik": "0001561550",
       "ok": true,
-      "filingCount": 11,
-      "message": "STALE: retained 11 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "filingCount": 12,
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Tesla",
@@ -5787,7 +5787,7 @@
       "cik": "0001318605",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "The Trade Desk",
@@ -5795,7 +5795,7 @@
       "cik": "0001671933",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Amazon",
@@ -5803,7 +5803,7 @@
       "cik": "0001018724",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "Google",
@@ -5811,7 +5811,7 @@
       "cik": "0001652044",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     },
     {
       "company": "TSMC",
@@ -5819,7 +5819,7 @@
       "cik": "0001046179",
       "ok": true,
       "filingCount": 12,
-      "message": "STALE: retained 12 last-known-good filings; SoFi-Adyen: snapshot unavailable; using last-known-good filings; Shopify-Wise: snapshot unavailable; using last-known-good filings; Klarna-NVIDIA: urllib: HTTP Error 401: Unauthorized; curl: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401; Datadog-TSMC: snapshot unavailable; using last-known-good filings"
+      "message": "12 filings via SEC EDGAR read-through"
     }
   ]
 }
