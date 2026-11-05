@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T21:26:32.278834+00:00",
+  "generatedAt": "2026-11-05T02:31:26.473235+00:00",
   "articles": [
     {
       "id": "about-amazon-9b2ab6926b502d1b0a1e",
@@ -137,7 +137,7 @@
       "id": "chime-newsroom-642c9f2066c583c699dd",
       "title": "Chime to Participate in KBW Fintech Ecosystem Conference",
       "link": "https://www.chime.com/newsroom/chime-to-participate-in-kbw-fintech-ecosystem-conference/",
-      "summary": "Chime Newsroom published an update for Chime relevant to fintech news. Open the original item for full details.",
+      "summary": "Chime® (Nasdaq: CHYM) announced today that CEO and Co-founder Chris Britt will participate in a fireside chat at the KBW Fintech Ecosystem Conference in New York City on Wednesday, November 11, 2026 at 10:55 a.m. Eastern Standard Time.",
       "publishedAt": "2026-11-04T00:00:00+00:00",
       "sourceId": "chime-newsroom",
       "sourceName": "Chime Newsroom",
@@ -1154,6 +1154,18 @@
       "sourceKind": "google_news"
     },
     {
+      "id": "tsmc-news-2e461f2ac6e5c44a50c2",
+      "title": "2026/10/08 TSMC September 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3343",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
+    },
+    {
       "id": "coinbase-blog-09fbd8a716bb51243c0d",
       "title": "Coinbase and Samsung Bring USDC to Samsung Wallet",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2oxUE40cFltdU5vZXdKclBlSU9RVnUxRTYxWTJWRHRoYzNFT3NoMGNtd3ctQmZocENPSzdfWTZ4SlpZM1RMTnluOTMtSG5IY3FKZndoR0E1NzJ2aGxSMU5ac3oteENuNWV1QXdhc3loVUpfV1A0MHk2Ui1LTXRMdE1jdzRuQQ?oc=5",
@@ -1694,18 +1706,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-faff4fb821b9c9495d97",
-      "title": "2026/08/10 TSMC July 2026 Revenue Report",
-      "link": "https://pr.tsmc.com/english/news/3329",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "marqeta-blog-ab513aa3e6853dadf751",
       "title": "Credit Commercial Why European SMBs are demanding more from business credit Article",
       "link": "https://www.marqeta.com/blog/why-european-smbs-are-demanding-more-from-business-credit",
@@ -1862,18 +1862,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-f56027b5e925b87ad8c5",
-      "title": "2026/07/16 TSMC Reports Second Quarter EPS of NT$27.25",
-      "link": "https://pr.tsmc.com/english/news/3326",
-      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
-      "publishedAt": "2026-07-16T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "shift4-news-6ba43776302a259c81f8",
       "title": "Shift4 and Global Blue Launch Shift4 One, an All-in-One Payment & Tax Free Shopping Solution",
       "link": "https://investors.shift4.com/news-events/press-releases/detail/304/shift4-and-global-blue-launch-shift4-one-an-all-in-one-payment-tax-free-shopping-solution",
@@ -1884,6 +1872,18 @@
       "company": "Shift4",
       "category": "Fintech Blogs",
       "sourceKind": "rss"
+    },
+    {
+      "id": "tsmc-news-765e336848670860124f",
+      "title": "2026/07/13 TSMC June 2026 Revenue Report",
+      "link": "https://pr.tsmc.com/english/news/3323",
+      "summary": "TSMC Latest News published an update for TSMC relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "sourceId": "tsmc-news",
+      "sourceName": "TSMC Latest News",
+      "company": "TSMC",
+      "category": "Big Tech Blogs",
+      "sourceKind": "html"
     },
     {
       "id": "upstart-press-13309aa0c83c92b03ef7",
@@ -2534,18 +2534,6 @@
       "sourceKind": "html"
     },
     {
-      "id": "tsmc-news-b9148e2ba56e3f66a36f",
-      "title": "News Archives",
-      "link": "https://pr.tsmc.com/english/news-archives",
-      "summary": "Copyright © Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "sourceId": "tsmc-news",
-      "sourceName": "TSMC Latest News",
-      "company": "TSMC",
-      "category": "Big Tech Blogs",
-      "sourceKind": "html"
-    },
-    {
       "id": "dlocal-blog-b9d6011303e510bd6453",
       "title": "Black Friday Cyber Monday 2025: Signals, shifts, and what merchants should prepare for next",
       "link": "https://www.dlocal.com/blog/markets-and-consumers/black-friday-cyber-monday-2025-signals-shifts-and-what-merchants-should-prepare-for-next/",
@@ -2880,6 +2868,18 @@
       "company": "Coinbase",
       "category": "Fintech Blogs",
       "sourceKind": "google_news"
+    },
+    {
+      "id": "datadog-investor-news-af5fc8626d18fe674c35",
+      "title": "Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development and Improve Model Performance",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjRsNHZtOW5nNXlhWlFVRWFVcGd4VEN4LTNOUEdiamNDUXFXd2c5T09WclpldmN3Y05NbGRJeThLUkFhbTVoMU8tcWxQXzdNQVdnRFRvRXlaM01PTjB1cmZTTWd0Q1lQcklOTUU5dzJHNzRGc1hXVVRKYkNwUEFOQldiLW0wcXN0SnVCVWVzRk02bXQ2NnRtZElzVENyRVFrX1JJVWtldVJyY2ZZWlRpTEMtaFVkVkpWbmJZWTJBenRwbW52?oc=5",
+      "summary": "Datadog Investor News published an update for Datadog relevant to big tech news. Open the original item for full details.",
+      "publishedAt": "2025-06-10T07:00:00+00:00",
+      "sourceId": "datadog-investor-news",
+      "sourceName": "Datadog Investor News",
+      "company": "Datadog",
+      "category": "Big Tech Blogs",
+      "sourceKind": "google_news"
     }
   ],
   "statuses": [
@@ -3024,7 +3024,7 @@
       "category": "Fintech Blogs",
       "kind": "google_news",
       "ok": true,
-      "itemCount": 9,
+      "itemCount": 10,
       "message": "OK via official fallback RSS"
     },
     {
